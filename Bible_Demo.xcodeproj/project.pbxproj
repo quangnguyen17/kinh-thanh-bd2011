@@ -1,0 +1,772 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6BEBF1AD3B20DF682E832EFC /* Pods_Bible_Demo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1B3DBB60CCC012AC6402ADB /* Pods_Bible_Demo.framework */; };
+		E3193E4921DAA8A10065E643 /* HighlightsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3193E4821DAA8A10065E643 /* HighlightsController.swift */; };
+		E34DAC0522DB1A23006D59F6 /* NhaCa.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABC322DB1A1D006D59F6 /* NhaCa.swift */; };
+		E34DAC0622DB1A23006D59F6 /* Philemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABC422DB1A1D006D59F6 /* Philemon.swift */; };
+		E34DAC0722DB1A23006D59F6 /* SangThe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABC522DB1A1D006D59F6 /* SangThe.swift */; };
+		E34DAC0822DB1A23006D59F6 /* Mathio.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABC622DB1A1D006D59F6 /* Mathio.swift */; };
+		E34DAC0922DB1A23006D59F6 /* Giop.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABC722DB1A1D006D59F6 /* Giop.swift */; };
+		E34DAC0A22DB1A23006D59F6 /* GiangSu.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABC822DB1A1D006D59F6 /* GiangSu.swift */; };
+		E34DAC0B22DB1A23006D59F6 /* MaLaChi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABC922DB1A1D006D59F6 /* MaLaChi.swift */; };
+		E34DAC0C22DB1A23006D59F6 /* IICacVua.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABCA22DB1A1D006D59F6 /* IICacVua.swift */; };
+		E34DAC0D22DB1A23006D59F6 /* ITimothe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABCB22DB1A1D006D59F6 /* ITimothe.swift */; };
+		E34DAC0E22DB1A23006D59F6 /* ChamNgon.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABCC22DB1A1D006D59F6 /* ChamNgon.swift */; };
+		E34DAC0F22DB1A23006D59F6 /* Epheso.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABCD22DB1A1D006D59F6 /* Epheso.swift */; };
+		E34DAC1022DB1A23006D59F6 /* Levi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABCE22DB1A1E006D59F6 /* Levi.swift */; };
+		E34DAC1122DB1A23006D59F6 /* AiCa.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABCF22DB1A1E006D59F6 /* AiCa.swift */; };
+		E34DAC1222DB1A23006D59F6 /* PhucTruyenLuatLe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD022DB1A1E006D59F6 /* PhucTruyenLuatLe.swift */; };
+		E34DAC1322DB1A23006D59F6 /* Giang.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD122DB1A1E006D59F6 /* Giang.swift */; };
+		E34DAC1422DB1A23006D59F6 /* IISuky.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD222DB1A1E006D59F6 /* IISuky.swift */; };
+		E34DAC1522DB1A23006D59F6 /* Tit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD322DB1A1E006D59F6 /* Tit.swift */; };
+		E34DAC1622DB1A23006D59F6 /* IIThesalonica.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD422DB1A1E006D59F6 /* IIThesalonica.swift */; };
+		E34DAC1722DB1A23006D59F6 /* GioSue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD522DB1A1E006D59F6 /* GioSue.swift */; };
+		E34DAC1822DB1A23006D59F6 /* XuatHanh.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD622DB1A1E006D59F6 /* XuatHanh.swift */; };
+		E34DAC1922DB1A23006D59F6 /* Danso.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD722DB1A1E006D59F6 /* Danso.swift */; };
+		E34DAC1A22DB1A23006D59F6 /* Heboro.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD822DB1A1E006D59F6 /* Heboro.swift */; };
+		E34DAC1B22DB1A23006D59F6 /* ISuKy.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABD922DB1A1F006D59F6 /* ISuKy.swift */; };
+		E34DAC1C22DB1A23006D59F6 /* Esai.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABDA22DB1A1F006D59F6 /* Esai.swift */; };
+		E34DAC1D22DB1A23006D59F6 /* SoPhoNi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABDB22DB1A1F006D59F6 /* SoPhoNi.swift */; };
+		E34DAC1E22DB1A23006D59F6 /* HaGai.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABDC22DB1A1F006D59F6 /* HaGai.swift */; };
+		E34DAC1F22DB1A23006D59F6 /* Roma.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABDD22DB1A1F006D59F6 /* Roma.swift */; };
+		E34DAC2022DB1A23006D59F6 /* IITimothe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABDE22DB1A1F006D59F6 /* IITimothe.swift */; };
+		E34DAC2122DB1A23006D59F6 /* Gioen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABDF22DB1A1F006D59F6 /* Gioen.swift */; };
+		E34DAC2222DB1A23006D59F6 /* CacThuLanh.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE022DB1A1F006D59F6 /* CacThuLanh.swift */; };
+		E34DAC2322DB1A23006D59F6 /* IICoRinhTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE122DB1A20006D59F6 /* IICoRinhTo.swift */; };
+		E34DAC2422DB1A23006D59F6 /* HaBaCuc.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE222DB1A20006D59F6 /* HaBaCuc.swift */; };
+		E34DAC2522DB1A23006D59F6 /* IIIGiang.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE322DB1A20006D59F6 /* IIIGiang.swift */; };
+		E34DAC2622DB1A23006D59F6 /* Giude.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE422DB1A20006D59F6 /* Giude.swift */; };
+		E34DAC2722DB1A23006D59F6 /* MiChe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE522DB1A20006D59F6 /* MiChe.swift */; };
+		E34DAC2822DB1A23006D59F6 /* Ose.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE622DB1A21006D59F6 /* Ose.swift */; };
+		E34DAC2922DB1A23006D59F6 /* Exote.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE722DB1A21006D59F6 /* Exote.swift */; };
+		E34DAC2A22DB1A23006D59F6 /* IIGiang.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE822DB1A21006D59F6 /* IIGiang.swift */; };
+		E34DAC2B22DB1A23006D59F6 /* ApDia.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABE922DB1A21006D59F6 /* ApDia.swift */; };
+		E34DAC2C22DB1A23006D59F6 /* IThesalonica.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABEA22DB1A21006D59F6 /* IThesalonica.swift */; };
+		E34DAC2D22DB1A23006D59F6 /* Mac.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABEB22DB1A21006D59F6 /* Mac.swift */; };
+		E34DAC2E22DB1A23006D59F6 /* Ruto.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABEC22DB1A21006D59F6 /* Ruto.swift */; };
+		E34DAC2F22DB1A23006D59F6 /* IPhiro.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABED22DB1A21006D59F6 /* IPhiro.swift */; };
+		E34DAC3022DB1A23006D59F6 /* IIPhiro.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABEE22DB1A21006D59F6 /* IIPhiro.swift */; };
+		E34DAC3122DB1A23006D59F6 /* IGiang.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABEF22DB1A21006D59F6 /* IGiang.swift */; };
+		E34DAC3222DB1A23006D59F6 /* Exora.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF022DB1A21006D59F6 /* Exora.swift */; };
+		E34DAC3322DB1A23006D59F6 /* XaChaRi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF122DB1A21006D59F6 /* XaChaRi.swift */; };
+		E34DAC3422DB1A23006D59F6 /* CongVu.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF222DB1A21006D59F6 /* CongVu.swift */; };
+		E34DAC3522DB1A23006D59F6 /* Colose.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF322DB1A22006D59F6 /* Colose.swift */; };
+		E34DAC3622DB1A23006D59F6 /* ISamuen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF422DB1A22006D59F6 /* ISamuen.swift */; };
+		E34DAC3722DB1A23006D59F6 /* ThanhThi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF522DB1A22006D59F6 /* ThanhThi.swift */; };
+		E34DAC3822DB1A23006D59F6 /* NaHum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF622DB1A22006D59F6 /* NaHum.swift */; };
+		E34DAC3922DB1A23006D59F6 /* Luca.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF722DB1A22006D59F6 /* Luca.swift */; };
+		E34DAC3A22DB1A23006D59F6 /* Philip.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF822DB1A22006D59F6 /* Philip.swift */; };
+		E34DAC3B22DB1A23006D59F6 /* Galati.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABF922DB1A22006D59F6 /* Galati.swift */; };
+		E34DAC3C22DB1A23006D59F6 /* IISamuen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABFA22DB1A22006D59F6 /* IISamuen.swift */; };
+		E34DAC3D22DB1A23006D59F6 /* Danien.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABFB22DB1A22006D59F6 /* Danien.swift */; };
+		E34DAC3E22DB1A23006D59F6 /* KhaiHuyen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABFC22DB1A22006D59F6 /* KhaiHuyen.swift */; };
+		E34DAC3F22DB1A23006D59F6 /* Amot.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABFD22DB1A22006D59F6 /* Amot.swift */; };
+		E34DAC4022DB1A23006D59F6 /* Nehemi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABFE22DB1A22006D59F6 /* Nehemi.swift */; };
+		E34DAC4122DB1A23006D59F6 /* Exechien.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DABFF22DB1A22006D59F6 /* Exechien.swift */; };
+		E34DAC4222DB1A23006D59F6 /* ICoRinhTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0022DB1A23006D59F6 /* ICoRinhTo.swift */; };
+		E34DAC4322DB1A23006D59F6 /* Gieremi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0122DB1A23006D59F6 /* Gieremi.swift */; };
+		E34DAC4422DB1A23006D59F6 /* GioNa.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0222DB1A23006D59F6 /* GioNa.swift */; };
+		E34DAC4522DB1A23006D59F6 /* GiaCo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0322DB1A23006D59F6 /* GiaCo.swift */; };
+		E34DAC4622DB1A23006D59F6 /* ICacVua.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0422DB1A23006D59F6 /* ICacVua.swift */; };
+		E3782C1420D7013500BAD723 /* Models.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E3782C1220D7013500BAD723 /* Models.xcdatamodeld */; };
+		E3782C3720D701AD00BAD723 /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3782C3620D701AD00BAD723 /* DataSource.swift */; };
+		E3782C3920D701D000BAD723 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3782C3820D701D000BAD723 /* CoreDataManager.swift */; };
+		E38E6139232EC884001D71EE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E38E6138232EC884001D71EE /* GoogleService-Info.plist */; };
+		E3D054B120CE4CCB00D86851 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D054B020CE4CCB00D86851 /* AppDelegate.swift */; };
+		E3D054B820CE4CCC00D86851 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3D054B720CE4CCC00D86851 /* Assets.xcassets */; };
+		E3D054C320CE4D4C00D86851 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D054C220CE4D4C00D86851 /* Model.swift */; };
+		E3D47E9D20D9E9A60072C7A9 /* Splash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3D47E9C20D9E9A60072C7A9 /* Splash.storyboard */; };
+		E3D6926021D1461900425240 /* ChapterController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925821D1461900425240 /* ChapterController.swift */; };
+		E3D6926121D1461900425240 /* BibleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925921D1461900425240 /* BibleController.swift */; };
+		E3D6926221D1461900425240 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925A21D1461900425240 /* MainTabBarController.swift */; };
+		E3D6926321D1461900425240 /* MoreController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925B21D1461900425240 /* MoreController.swift */; };
+		E3D6926421D1461900425240 /* SearchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925C21D1461900425240 /* SearchController.swift */; };
+		E3D6926521D1461900425240 /* SearchController+Exts.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925D21D1461900425240 /* SearchController+Exts.swift */; };
+		E3D6926621D1461900425240 /* BookmarksController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925E21D1461900425240 /* BookmarksController.swift */; };
+		E3D6926A21D1468000425240 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926821D1468000425240 /* Extensions.swift */; };
+		E3D6926B21D1468000425240 /* Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926921D1468000425240 /* Classes.swift */; };
+		E3D6926E21D1470900425240 /* TextCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926D21D1470900425240 /* TextCell.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3ECD9441DA0CE5418D645E06 /* Pods-Bible_Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bible_Demo.debug.xcconfig"; path = "Target Support Files/Pods-Bible_Demo/Pods-Bible_Demo.debug.xcconfig"; sourceTree = "<group>"; };
+		87C66A673F4B2683E0EF57BC /* Pods-Bible_Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bible_Demo.release.xcconfig"; path = "Target Support Files/Pods-Bible_Demo/Pods-Bible_Demo.release.xcconfig"; sourceTree = "<group>"; };
+		E1B3DBB60CCC012AC6402ADB /* Pods_Bible_Demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bible_Demo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3193E4821DAA8A10065E643 /* HighlightsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighlightsController.swift; sourceTree = "<group>"; };
+		E34DABC322DB1A1D006D59F6 /* NhaCa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NhaCa.swift; sourceTree = "<group>"; };
+		E34DABC422DB1A1D006D59F6 /* Philemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Philemon.swift; sourceTree = "<group>"; };
+		E34DABC522DB1A1D006D59F6 /* SangThe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SangThe.swift; sourceTree = "<group>"; };
+		E34DABC622DB1A1D006D59F6 /* Mathio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mathio.swift; sourceTree = "<group>"; };
+		E34DABC722DB1A1D006D59F6 /* Giop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Giop.swift; sourceTree = "<group>"; };
+		E34DABC822DB1A1D006D59F6 /* GiangSu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiangSu.swift; sourceTree = "<group>"; };
+		E34DABC922DB1A1D006D59F6 /* MaLaChi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaLaChi.swift; sourceTree = "<group>"; };
+		E34DABCA22DB1A1D006D59F6 /* IICacVua.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IICacVua.swift; sourceTree = "<group>"; };
+		E34DABCB22DB1A1D006D59F6 /* ITimothe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ITimothe.swift; sourceTree = "<group>"; };
+		E34DABCC22DB1A1D006D59F6 /* ChamNgon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChamNgon.swift; sourceTree = "<group>"; };
+		E34DABCD22DB1A1D006D59F6 /* Epheso.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Epheso.swift; sourceTree = "<group>"; };
+		E34DABCE22DB1A1E006D59F6 /* Levi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Levi.swift; sourceTree = "<group>"; };
+		E34DABCF22DB1A1E006D59F6 /* AiCa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AiCa.swift; sourceTree = "<group>"; };
+		E34DABD022DB1A1E006D59F6 /* PhucTruyenLuatLe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhucTruyenLuatLe.swift; sourceTree = "<group>"; };
+		E34DABD122DB1A1E006D59F6 /* Giang.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Giang.swift; sourceTree = "<group>"; };
+		E34DABD222DB1A1E006D59F6 /* IISuky.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IISuky.swift; sourceTree = "<group>"; };
+		E34DABD322DB1A1E006D59F6 /* Tit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tit.swift; sourceTree = "<group>"; };
+		E34DABD422DB1A1E006D59F6 /* IIThesalonica.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IIThesalonica.swift; sourceTree = "<group>"; };
+		E34DABD522DB1A1E006D59F6 /* GioSue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GioSue.swift; sourceTree = "<group>"; };
+		E34DABD622DB1A1E006D59F6 /* XuatHanh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XuatHanh.swift; sourceTree = "<group>"; };
+		E34DABD722DB1A1E006D59F6 /* Danso.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Danso.swift; sourceTree = "<group>"; };
+		E34DABD822DB1A1E006D59F6 /* Heboro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Heboro.swift; sourceTree = "<group>"; };
+		E34DABD922DB1A1F006D59F6 /* ISuKy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ISuKy.swift; sourceTree = "<group>"; };
+		E34DABDA22DB1A1F006D59F6 /* Esai.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Esai.swift; sourceTree = "<group>"; };
+		E34DABDB22DB1A1F006D59F6 /* SoPhoNi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoPhoNi.swift; sourceTree = "<group>"; };
+		E34DABDC22DB1A1F006D59F6 /* HaGai.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HaGai.swift; sourceTree = "<group>"; };
+		E34DABDD22DB1A1F006D59F6 /* Roma.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Roma.swift; sourceTree = "<group>"; };
+		E34DABDE22DB1A1F006D59F6 /* IITimothe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IITimothe.swift; sourceTree = "<group>"; };
+		E34DABDF22DB1A1F006D59F6 /* Gioen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gioen.swift; sourceTree = "<group>"; };
+		E34DABE022DB1A1F006D59F6 /* CacThuLanh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CacThuLanh.swift; sourceTree = "<group>"; };
+		E34DABE122DB1A20006D59F6 /* IICoRinhTo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IICoRinhTo.swift; sourceTree = "<group>"; };
+		E34DABE222DB1A20006D59F6 /* HaBaCuc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HaBaCuc.swift; sourceTree = "<group>"; };
+		E34DABE322DB1A20006D59F6 /* IIIGiang.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IIIGiang.swift; sourceTree = "<group>"; };
+		E34DABE422DB1A20006D59F6 /* Giude.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Giude.swift; sourceTree = "<group>"; };
+		E34DABE522DB1A20006D59F6 /* MiChe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiChe.swift; sourceTree = "<group>"; };
+		E34DABE622DB1A21006D59F6 /* Ose.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ose.swift; sourceTree = "<group>"; };
+		E34DABE722DB1A21006D59F6 /* Exote.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exote.swift; sourceTree = "<group>"; };
+		E34DABE822DB1A21006D59F6 /* IIGiang.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IIGiang.swift; sourceTree = "<group>"; };
+		E34DABE922DB1A21006D59F6 /* ApDia.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApDia.swift; sourceTree = "<group>"; };
+		E34DABEA22DB1A21006D59F6 /* IThesalonica.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IThesalonica.swift; sourceTree = "<group>"; };
+		E34DABEB22DB1A21006D59F6 /* Mac.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mac.swift; sourceTree = "<group>"; };
+		E34DABEC22DB1A21006D59F6 /* Ruto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ruto.swift; sourceTree = "<group>"; };
+		E34DABED22DB1A21006D59F6 /* IPhiro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IPhiro.swift; sourceTree = "<group>"; };
+		E34DABEE22DB1A21006D59F6 /* IIPhiro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IIPhiro.swift; sourceTree = "<group>"; };
+		E34DABEF22DB1A21006D59F6 /* IGiang.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IGiang.swift; sourceTree = "<group>"; };
+		E34DABF022DB1A21006D59F6 /* Exora.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exora.swift; sourceTree = "<group>"; };
+		E34DABF122DB1A21006D59F6 /* XaChaRi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XaChaRi.swift; sourceTree = "<group>"; };
+		E34DABF222DB1A21006D59F6 /* CongVu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CongVu.swift; sourceTree = "<group>"; };
+		E34DABF322DB1A22006D59F6 /* Colose.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colose.swift; sourceTree = "<group>"; };
+		E34DABF422DB1A22006D59F6 /* ISamuen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ISamuen.swift; sourceTree = "<group>"; };
+		E34DABF522DB1A22006D59F6 /* ThanhThi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThanhThi.swift; sourceTree = "<group>"; };
+		E34DABF622DB1A22006D59F6 /* NaHum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NaHum.swift; sourceTree = "<group>"; };
+		E34DABF722DB1A22006D59F6 /* Luca.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Luca.swift; sourceTree = "<group>"; };
+		E34DABF822DB1A22006D59F6 /* Philip.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Philip.swift; sourceTree = "<group>"; };
+		E34DABF922DB1A22006D59F6 /* Galati.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Galati.swift; sourceTree = "<group>"; };
+		E34DABFA22DB1A22006D59F6 /* IISamuen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IISamuen.swift; sourceTree = "<group>"; };
+		E34DABFB22DB1A22006D59F6 /* Danien.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Danien.swift; sourceTree = "<group>"; };
+		E34DABFC22DB1A22006D59F6 /* KhaiHuyen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KhaiHuyen.swift; sourceTree = "<group>"; };
+		E34DABFD22DB1A22006D59F6 /* Amot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Amot.swift; sourceTree = "<group>"; };
+		E34DABFE22DB1A22006D59F6 /* Nehemi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Nehemi.swift; sourceTree = "<group>"; };
+		E34DABFF22DB1A22006D59F6 /* Exechien.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exechien.swift; sourceTree = "<group>"; };
+		E34DAC0022DB1A23006D59F6 /* ICoRinhTo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ICoRinhTo.swift; sourceTree = "<group>"; };
+		E34DAC0122DB1A23006D59F6 /* Gieremi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gieremi.swift; sourceTree = "<group>"; };
+		E34DAC0222DB1A23006D59F6 /* GioNa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GioNa.swift; sourceTree = "<group>"; };
+		E34DAC0322DB1A23006D59F6 /* GiaCo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiaCo.swift; sourceTree = "<group>"; };
+		E34DAC0422DB1A23006D59F6 /* ICacVua.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ICacVua.swift; sourceTree = "<group>"; };
+		E3782C1320D7013500BAD723 /* Bookmark.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bookmark.xcdatamodel; sourceTree = "<group>"; };
+		E3782C3620D701AD00BAD723 /* DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
+		E3782C3820D701D000BAD723 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
+		E38E6138232EC884001D71EE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E3D054AD20CE4CCB00D86851 /* Bible_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bible_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3D054B020CE4CCB00D86851 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E3D054B720CE4CCC00D86851 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E3D054BC20CE4CCC00D86851 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3D054C220CE4D4C00D86851 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		E3D47E9C20D9E9A60072C7A9 /* Splash.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Splash.storyboard; sourceTree = "<group>"; };
+		E3D6925821D1461900425240 /* ChapterController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChapterController.swift; sourceTree = "<group>"; };
+		E3D6925921D1461900425240 /* BibleController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BibleController.swift; sourceTree = "<group>"; };
+		E3D6925A21D1461900425240 /* MainTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+		E3D6925B21D1461900425240 /* MoreController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreController.swift; sourceTree = "<group>"; };
+		E3D6925C21D1461900425240 /* SearchController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchController.swift; sourceTree = "<group>"; };
+		E3D6925D21D1461900425240 /* SearchController+Exts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SearchController+Exts.swift"; sourceTree = "<group>"; };
+		E3D6925E21D1461900425240 /* BookmarksController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarksController.swift; sourceTree = "<group>"; };
+		E3D6926821D1468000425240 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		E3D6926921D1468000425240 /* Classes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Classes.swift; sourceTree = "<group>"; };
+		E3D6926D21D1470900425240 /* TextCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextCell.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E3D054AA20CE4CCB00D86851 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BEBF1AD3B20DF682E832EFC /* Pods_Bible_Demo.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		81894FB8E6A215EBE263D1F3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E1B3DBB60CCC012AC6402ADB /* Pods_Bible_Demo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9B6399CECDE2EA2B0F88BE40 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3ECD9441DA0CE5418D645E06 /* Pods-Bible_Demo.debug.xcconfig */,
+				87C66A673F4B2683E0EF57BC /* Pods-Bible_Demo.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		E31DB10B20D092AF00C22AC6 /* Bible */ = {
+			isa = PBXGroup;
+			children = (
+				E34DABCF22DB1A1E006D59F6 /* AiCa.swift */,
+				E34DABFD22DB1A22006D59F6 /* Amot.swift */,
+				E34DABE922DB1A21006D59F6 /* ApDia.swift */,
+				E34DABE022DB1A1F006D59F6 /* CacThuLanh.swift */,
+				E34DABCC22DB1A1D006D59F6 /* ChamNgon.swift */,
+				E34DABF322DB1A22006D59F6 /* Colose.swift */,
+				E34DABF222DB1A21006D59F6 /* CongVu.swift */,
+				E34DABFB22DB1A22006D59F6 /* Danien.swift */,
+				E34DABD722DB1A1E006D59F6 /* Danso.swift */,
+				E34DABCD22DB1A1D006D59F6 /* Epheso.swift */,
+				E34DABDA22DB1A1F006D59F6 /* Esai.swift */,
+				E34DABFF22DB1A22006D59F6 /* Exechien.swift */,
+				E34DABF022DB1A21006D59F6 /* Exora.swift */,
+				E34DABE722DB1A21006D59F6 /* Exote.swift */,
+				E34DABF922DB1A22006D59F6 /* Galati.swift */,
+				E34DAC0322DB1A23006D59F6 /* GiaCo.swift */,
+				E34DABD122DB1A1E006D59F6 /* Giang.swift */,
+				E34DABC822DB1A1D006D59F6 /* GiangSu.swift */,
+				E34DAC0122DB1A23006D59F6 /* Gieremi.swift */,
+				E34DABDF22DB1A1F006D59F6 /* Gioen.swift */,
+				E34DAC0222DB1A23006D59F6 /* GioNa.swift */,
+				E34DABC722DB1A1D006D59F6 /* Giop.swift */,
+				E34DABD522DB1A1E006D59F6 /* GioSue.swift */,
+				E34DABE422DB1A20006D59F6 /* Giude.swift */,
+				E34DABE222DB1A20006D59F6 /* HaBaCuc.swift */,
+				E34DABDC22DB1A1F006D59F6 /* HaGai.swift */,
+				E34DABD822DB1A1E006D59F6 /* Heboro.swift */,
+				E34DAC0422DB1A23006D59F6 /* ICacVua.swift */,
+				E34DAC0022DB1A23006D59F6 /* ICoRinhTo.swift */,
+				E34DABEF22DB1A21006D59F6 /* IGiang.swift */,
+				E34DABCA22DB1A1D006D59F6 /* IICacVua.swift */,
+				E34DABE122DB1A20006D59F6 /* IICoRinhTo.swift */,
+				E34DABE822DB1A21006D59F6 /* IIGiang.swift */,
+				E34DABE322DB1A20006D59F6 /* IIIGiang.swift */,
+				E34DABEE22DB1A21006D59F6 /* IIPhiro.swift */,
+				E34DABFA22DB1A22006D59F6 /* IISamuen.swift */,
+				E34DABD222DB1A1E006D59F6 /* IISuky.swift */,
+				E34DABD422DB1A1E006D59F6 /* IIThesalonica.swift */,
+				E34DABDE22DB1A1F006D59F6 /* IITimothe.swift */,
+				E34DABED22DB1A21006D59F6 /* IPhiro.swift */,
+				E34DABF422DB1A22006D59F6 /* ISamuen.swift */,
+				E34DABD922DB1A1F006D59F6 /* ISuKy.swift */,
+				E34DABEA22DB1A21006D59F6 /* IThesalonica.swift */,
+				E34DABCB22DB1A1D006D59F6 /* ITimothe.swift */,
+				E34DABFC22DB1A22006D59F6 /* KhaiHuyen.swift */,
+				E34DABCE22DB1A1E006D59F6 /* Levi.swift */,
+				E34DABF722DB1A22006D59F6 /* Luca.swift */,
+				E34DABEB22DB1A21006D59F6 /* Mac.swift */,
+				E34DABC922DB1A1D006D59F6 /* MaLaChi.swift */,
+				E34DABC622DB1A1D006D59F6 /* Mathio.swift */,
+				E34DABE522DB1A20006D59F6 /* MiChe.swift */,
+				E34DABF622DB1A22006D59F6 /* NaHum.swift */,
+				E34DABFE22DB1A22006D59F6 /* Nehemi.swift */,
+				E34DABC322DB1A1D006D59F6 /* NhaCa.swift */,
+				E34DABE622DB1A21006D59F6 /* Ose.swift */,
+				E34DABC422DB1A1D006D59F6 /* Philemon.swift */,
+				E34DABF822DB1A22006D59F6 /* Philip.swift */,
+				E34DABD022DB1A1E006D59F6 /* PhucTruyenLuatLe.swift */,
+				E34DABDD22DB1A1F006D59F6 /* Roma.swift */,
+				E34DABEC22DB1A21006D59F6 /* Ruto.swift */,
+				E34DABC522DB1A1D006D59F6 /* SangThe.swift */,
+				E34DABDB22DB1A1F006D59F6 /* SoPhoNi.swift */,
+				E34DABF522DB1A22006D59F6 /* ThanhThi.swift */,
+				E34DABD322DB1A1E006D59F6 /* Tit.swift */,
+				E34DABF122DB1A21006D59F6 /* XaChaRi.swift */,
+				E34DABD622DB1A1E006D59F6 /* XuatHanh.swift */,
+			);
+			name = Bible;
+			sourceTree = "<group>";
+		};
+		E3D054A420CE4CCB00D86851 = {
+			isa = PBXGroup;
+			children = (
+				E3D054AF20CE4CCB00D86851 /* Bible_Demo */,
+				E3D054AE20CE4CCB00D86851 /* Products */,
+				9B6399CECDE2EA2B0F88BE40 /* Pods */,
+				81894FB8E6A215EBE263D1F3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		E3D054AE20CE4CCB00D86851 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E3D054AD20CE4CCB00D86851 /* Bible_Demo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E3D054AF20CE4CCB00D86851 /* Bible_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				E3D054B020CE4CCB00D86851 /* AppDelegate.swift */,
+				E3D6925621D1461900425240 /* Controllers */,
+				E3D054C420CE501B00D86851 /* Data */,
+				E3D054B720CE4CCC00D86851 /* Assets.xcassets */,
+				E3D47E9C20D9E9A60072C7A9 /* Splash.storyboard */,
+				E3782C1220D7013500BAD723 /* Models.xcdatamodeld */,
+				E3D054BC20CE4CCC00D86851 /* Info.plist */,
+				E38E6138232EC884001D71EE /* GoogleService-Info.plist */,
+				E3D6926C21D1470900425240 /* Views */,
+				E3D6926721D1468000425240 /* Utils */,
+				E31DB10B20D092AF00C22AC6 /* Bible */,
+			);
+			path = Bible_Demo;
+			sourceTree = "<group>";
+		};
+		E3D054C420CE501B00D86851 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				E3D054C220CE4D4C00D86851 /* Model.swift */,
+				E3782C3620D701AD00BAD723 /* DataSource.swift */,
+				E3782C3820D701D000BAD723 /* CoreDataManager.swift */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+		E3D6925621D1461900425240 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E3D6925A21D1461900425240 /* MainTabBarController.swift */,
+				E3D6925921D1461900425240 /* BibleController.swift */,
+				E3D6925821D1461900425240 /* ChapterController.swift */,
+				E3D6925E21D1461900425240 /* BookmarksController.swift */,
+				E3193E4821DAA8A10065E643 /* HighlightsController.swift */,
+				E3D6925C21D1461900425240 /* SearchController.swift */,
+				E3D6925D21D1461900425240 /* SearchController+Exts.swift */,
+				E3D6925B21D1461900425240 /* MoreController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E3D6926721D1468000425240 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				E3D6926821D1468000425240 /* Extensions.swift */,
+				E3D6926921D1468000425240 /* Classes.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		E3D6926C21D1470900425240 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E3D6926D21D1470900425240 /* TextCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E3D054AC20CE4CCB00D86851 /* Bible_Demo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E3D054BF20CE4CCC00D86851 /* Build configuration list for PBXNativeTarget "Bible_Demo" */;
+			buildPhases = (
+				6EECF5FE953CD1B6D43F1F59 /* [CP] Check Pods Manifest.lock */,
+				E3D054A920CE4CCB00D86851 /* Sources */,
+				E3D054AA20CE4CCB00D86851 /* Frameworks */,
+				E3D054AB20CE4CCB00D86851 /* Resources */,
+				3318BBDAE4B49FD1CAB98399 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Bible_Demo;
+			productName = Bible_Demo;
+			productReference = E3D054AD20CE4CCB00D86851 /* Bible_Demo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E3D054A520CE4CCB00D86851 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0940;
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = WanTech;
+				TargetAttributes = {
+					E3D054AC20CE4CCB00D86851 = {
+						CreatedOnToolsVersion = 9.4;
+						LastSwiftMigration = 1020;
+					};
+				};
+			};
+			buildConfigurationList = E3D054A820CE4CCB00D86851 /* Build configuration list for PBXProject "Bible_Demo" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E3D054A420CE4CCB00D86851;
+			productRefGroup = E3D054AE20CE4CCB00D86851 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E3D054AC20CE4CCB00D86851 /* Bible_Demo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E3D054AB20CE4CCB00D86851 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E3D054B820CE4CCC00D86851 /* Assets.xcassets in Resources */,
+				E3D47E9D20D9E9A60072C7A9 /* Splash.storyboard in Resources */,
+				E38E6139232EC884001D71EE /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3318BBDAE4B49FD1CAB98399 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Bible_Demo/Pods-Bible_Demo-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Bible_Demo/Pods-Bible_Demo-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Bible_Demo/Pods-Bible_Demo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6EECF5FE953CD1B6D43F1F59 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Bible_Demo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E3D054A920CE4CCB00D86851 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E3782C1420D7013500BAD723 /* Models.xcdatamodeld in Sources */,
+				E34DAC3F22DB1A23006D59F6 /* Amot.swift in Sources */,
+				E34DAC0822DB1A23006D59F6 /* Mathio.swift in Sources */,
+				E34DAC2022DB1A23006D59F6 /* IITimothe.swift in Sources */,
+				E34DAC3822DB1A23006D59F6 /* NaHum.swift in Sources */,
+				E34DAC0E22DB1A23006D59F6 /* ChamNgon.swift in Sources */,
+				E34DAC0F22DB1A23006D59F6 /* Epheso.swift in Sources */,
+				E34DAC2E22DB1A23006D59F6 /* Ruto.swift in Sources */,
+				E34DAC0D22DB1A23006D59F6 /* ITimothe.swift in Sources */,
+				E34DAC2922DB1A23006D59F6 /* Exote.swift in Sources */,
+				E34DAC2622DB1A23006D59F6 /* Giude.swift in Sources */,
+				E34DAC1622DB1A23006D59F6 /* IIThesalonica.swift in Sources */,
+				E34DAC4622DB1A23006D59F6 /* ICacVua.swift in Sources */,
+				E34DAC2C22DB1A23006D59F6 /* IThesalonica.swift in Sources */,
+				E34DAC1422DB1A23006D59F6 /* IISuky.swift in Sources */,
+				E3782C3720D701AD00BAD723 /* DataSource.swift in Sources */,
+				E34DAC1D22DB1A23006D59F6 /* SoPhoNi.swift in Sources */,
+				E3D054C320CE4D4C00D86851 /* Model.swift in Sources */,
+				E3D6926421D1461900425240 /* SearchController.swift in Sources */,
+				E34DAC0522DB1A23006D59F6 /* NhaCa.swift in Sources */,
+				E34DAC4222DB1A23006D59F6 /* ICoRinhTo.swift in Sources */,
+				E34DAC2722DB1A23006D59F6 /* MiChe.swift in Sources */,
+				E34DAC3A22DB1A23006D59F6 /* Philip.swift in Sources */,
+				E34DAC4122DB1A23006D59F6 /* Exechien.swift in Sources */,
+				E34DAC3C22DB1A23006D59F6 /* IISamuen.swift in Sources */,
+				E34DAC1022DB1A23006D59F6 /* Levi.swift in Sources */,
+				E34DAC0C22DB1A23006D59F6 /* IICacVua.swift in Sources */,
+				E34DAC1222DB1A23006D59F6 /* PhucTruyenLuatLe.swift in Sources */,
+				E34DAC1922DB1A23006D59F6 /* Danso.swift in Sources */,
+				E34DAC1B22DB1A23006D59F6 /* ISuKy.swift in Sources */,
+				E34DAC0622DB1A23006D59F6 /* Philemon.swift in Sources */,
+				E34DAC1A22DB1A23006D59F6 /* Heboro.swift in Sources */,
+				E34DAC0B22DB1A23006D59F6 /* MaLaChi.swift in Sources */,
+				E34DAC3622DB1A23006D59F6 /* ISamuen.swift in Sources */,
+				E34DAC2122DB1A23006D59F6 /* Gioen.swift in Sources */,
+				E34DAC2B22DB1A23006D59F6 /* ApDia.swift in Sources */,
+				E34DAC4322DB1A23006D59F6 /* Gieremi.swift in Sources */,
+				E34DAC1E22DB1A23006D59F6 /* HaGai.swift in Sources */,
+				E34DAC2D22DB1A23006D59F6 /* Mac.swift in Sources */,
+				E34DAC3922DB1A23006D59F6 /* Luca.swift in Sources */,
+				E34DAC3722DB1A23006D59F6 /* ThanhThi.swift in Sources */,
+				E34DAC3122DB1A23006D59F6 /* IGiang.swift in Sources */,
+				E34DAC1522DB1A23006D59F6 /* Tit.swift in Sources */,
+				E34DAC2F22DB1A23006D59F6 /* IPhiro.swift in Sources */,
+				E3193E4921DAA8A10065E643 /* HighlightsController.swift in Sources */,
+				E34DAC1822DB1A23006D59F6 /* XuatHanh.swift in Sources */,
+				E34DAC0922DB1A23006D59F6 /* Giop.swift in Sources */,
+				E34DAC1C22DB1A23006D59F6 /* Esai.swift in Sources */,
+				E3D6926221D1461900425240 /* MainTabBarController.swift in Sources */,
+				E34DAC4522DB1A23006D59F6 /* GiaCo.swift in Sources */,
+				E34DAC2A22DB1A23006D59F6 /* IIGiang.swift in Sources */,
+				E34DAC3D22DB1A23006D59F6 /* Danien.swift in Sources */,
+				E34DAC3E22DB1A23006D59F6 /* KhaiHuyen.swift in Sources */,
+				E34DAC3322DB1A23006D59F6 /* XaChaRi.swift in Sources */,
+				E34DAC4422DB1A23006D59F6 /* GioNa.swift in Sources */,
+				E34DAC4022DB1A23006D59F6 /* Nehemi.swift in Sources */,
+				E34DAC0A22DB1A23006D59F6 /* GiangSu.swift in Sources */,
+				E3D6926021D1461900425240 /* ChapterController.swift in Sources */,
+				E34DAC1F22DB1A23006D59F6 /* Roma.swift in Sources */,
+				E3D6926A21D1468000425240 /* Extensions.swift in Sources */,
+				E3D6926E21D1470900425240 /* TextCell.swift in Sources */,
+				E34DAC1122DB1A23006D59F6 /* AiCa.swift in Sources */,
+				E3782C3920D701D000BAD723 /* CoreDataManager.swift in Sources */,
+				E34DAC2222DB1A23006D59F6 /* CacThuLanh.swift in Sources */,
+				E3D6926321D1461900425240 /* MoreController.swift in Sources */,
+				E34DAC3B22DB1A23006D59F6 /* Galati.swift in Sources */,
+				E34DAC1322DB1A23006D59F6 /* Giang.swift in Sources */,
+				E3D6926521D1461900425240 /* SearchController+Exts.swift in Sources */,
+				E3D054B120CE4CCB00D86851 /* AppDelegate.swift in Sources */,
+				E34DAC2322DB1A23006D59F6 /* IICoRinhTo.swift in Sources */,
+				E3D6926621D1461900425240 /* BookmarksController.swift in Sources */,
+				E3D6926121D1461900425240 /* BibleController.swift in Sources */,
+				E34DAC2522DB1A23006D59F6 /* IIIGiang.swift in Sources */,
+				E34DAC2822DB1A23006D59F6 /* Ose.swift in Sources */,
+				E34DAC3422DB1A23006D59F6 /* CongVu.swift in Sources */,
+				E34DAC0722DB1A23006D59F6 /* SangThe.swift in Sources */,
+				E34DAC3022DB1A23006D59F6 /* IIPhiro.swift in Sources */,
+				E34DAC3522DB1A23006D59F6 /* Colose.swift in Sources */,
+				E3D6926B21D1468000425240 /* Classes.swift in Sources */,
+				E34DAC1722DB1A23006D59F6 /* GioSue.swift in Sources */,
+				E34DAC2422DB1A23006D59F6 /* HaBaCuc.swift in Sources */,
+				E34DAC3222DB1A23006D59F6 /* Exora.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		E3D054BD20CE4CCC00D86851 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E3D054BE20CE4CCC00D86851 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E3D054C020CE4CCC00D86851 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3ECD9441DA0CE5418D645E06 /* Pods-Bible_Demo.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Z5RQNKY45Y;
+				INFOPLIST_FILE = Bible_Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.DuongQuangNguyen.BD2011;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				RESOURCES_TARGETED_DEVICE_FAMILY = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E3D054C120CE4CCC00D86851 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 87C66A673F4B2683E0EF57BC /* Pods-Bible_Demo.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Z5RQNKY45Y;
+				INFOPLIST_FILE = Bible_Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.DuongQuangNguyen.BD2011;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				RESOURCES_TARGETED_DEVICE_FAMILY = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E3D054A820CE4CCB00D86851 /* Build configuration list for PBXProject "Bible_Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E3D054BD20CE4CCC00D86851 /* Debug */,
+				E3D054BE20CE4CCC00D86851 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E3D054BF20CE4CCC00D86851 /* Build configuration list for PBXNativeTarget "Bible_Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E3D054C020CE4CCC00D86851 /* Debug */,
+				E3D054C120CE4CCC00D86851 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		E3782C1220D7013500BAD723 /* Models.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				E3782C1320D7013500BAD723 /* Bookmark.xcdatamodel */,
+			);
+			currentVersion = E3782C1320D7013500BAD723 /* Bookmark.xcdatamodel */;
+			path = Models.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = E3D054A520CE4CCB00D86851 /* Project object */;
+}
