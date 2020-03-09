@@ -7,5 +7,4 @@
 # About App
 
 - A bible app, written in `Swift`.
-- Frameworks: UIKit, Grand Central Dispatch (CGD).
-- Databases: Core Data, Firebase.
+- Technologies: Auto Layout, UIKit, Grand Central Dispatch (CGD), Core Data, Firebase.
