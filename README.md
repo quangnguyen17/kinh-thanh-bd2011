@@ -6,5 +6,6 @@
 
 # About App
 
-- A bible app, written in `Swift`.
+- A bible app for iOS.
+- Written in Swift.
 - Technologies: Auto Layout, UIKit, Grand Central Dispatch (CGD), Core Data, Firebase.
