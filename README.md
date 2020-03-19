@@ -1,7 +1,7 @@
 # Kinh Thánh BD2011
 
 - A bible app for iOS/iPadOS.
-- repoName: kinh-thanh-bd2011
+- repoName: `kink-thanh-bd2011`
 
 ## Links:
 
