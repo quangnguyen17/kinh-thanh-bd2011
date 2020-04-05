@@ -75,10 +75,10 @@
 		E34DAC4422DB1A23006D59F6 /* GioNa.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0222DB1A23006D59F6 /* GioNa.swift */; };
 		E34DAC4522DB1A23006D59F6 /* GiaCo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0322DB1A23006D59F6 /* GiaCo.swift */; };
 		E34DAC4622DB1A23006D59F6 /* ICacVua.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0422DB1A23006D59F6 /* ICacVua.swift */; };
+		E36939222439B78A0064FD7F /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36939212439B78A0064FD7F /* Network.swift */; };
 		E3782C1420D7013500BAD723 /* Models.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E3782C1220D7013500BAD723 /* Models.xcdatamodeld */; };
 		E3782C3720D701AD00BAD723 /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3782C3620D701AD00BAD723 /* DataSource.swift */; };
 		E3782C3920D701D000BAD723 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3782C3820D701D000BAD723 /* CoreDataManager.swift */; };
-		E38E6139232EC884001D71EE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E38E6138232EC884001D71EE /* GoogleService-Info.plist */; };
 		E3D054B120CE4CCB00D86851 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D054B020CE4CCB00D86851 /* AppDelegate.swift */; };
 		E3D054B820CE4CCC00D86851 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3D054B720CE4CCC00D86851 /* Assets.xcassets */; };
 		E3D054C320CE4D4C00D86851 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D054C220CE4D4C00D86851 /* Model.swift */; };
@@ -92,7 +92,7 @@
 		E3D6926621D1461900425240 /* BookmarksController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925E21D1461900425240 /* BookmarksController.swift */; };
 		E3D6926A21D1468000425240 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926821D1468000425240 /* Extensions.swift */; };
 		E3D6926B21D1468000425240 /* Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926921D1468000425240 /* Classes.swift */; };
-		E3D6926E21D1470900425240 /* TextCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926D21D1470900425240 /* TextCell.swift */; };
+		E3D6B9162439CE9A006A6D61 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E3D6B9152439CE9A006A6D61 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -166,10 +166,10 @@
 		E34DAC0222DB1A23006D59F6 /* GioNa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GioNa.swift; sourceTree = "<group>"; };
 		E34DAC0322DB1A23006D59F6 /* GiaCo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiaCo.swift; sourceTree = "<group>"; };
 		E34DAC0422DB1A23006D59F6 /* ICacVua.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ICacVua.swift; sourceTree = "<group>"; };
+		E36939212439B78A0064FD7F /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		E3782C1320D7013500BAD723 /* Bookmark.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bookmark.xcdatamodel; sourceTree = "<group>"; };
 		E3782C3620D701AD00BAD723 /* DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
 		E3782C3820D701D000BAD723 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
-		E38E6138232EC884001D71EE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E3D054AD20CE4CCB00D86851 /* Bible_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bible_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3D054B020CE4CCB00D86851 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3D054B720CE4CCC00D86851 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -185,7 +185,7 @@
 		E3D6925E21D1461900425240 /* BookmarksController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarksController.swift; sourceTree = "<group>"; };
 		E3D6926821D1468000425240 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		E3D6926921D1468000425240 /* Classes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Classes.swift; sourceTree = "<group>"; };
-		E3D6926D21D1470900425240 /* TextCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextCell.swift; sourceTree = "<group>"; };
+		E3D6B9152439CE9A006A6D61 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -318,8 +318,7 @@
 				E3D47E9C20D9E9A60072C7A9 /* Splash.storyboard */,
 				E3782C1220D7013500BAD723 /* Models.xcdatamodeld */,
 				E3D054BC20CE4CCC00D86851 /* Info.plist */,
-				E38E6138232EC884001D71EE /* GoogleService-Info.plist */,
-				E3D6926C21D1470900425240 /* Views */,
+				E3D6B9152439CE9A006A6D61 /* GoogleService-Info.plist */,
 				E3D6926721D1468000425240 /* Utils */,
 				E31DB10B20D092AF00C22AC6 /* Bible */,
 			);
@@ -355,17 +354,10 @@
 			isa = PBXGroup;
 			children = (
 				E3D6926821D1468000425240 /* Extensions.swift */,
+				E36939212439B78A0064FD7F /* Network.swift */,
 				E3D6926921D1468000425240 /* Classes.swift */,
 			);
 			path = Utils;
-			sourceTree = "<group>";
-		};
-		E3D6926C21D1470900425240 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				E3D6926D21D1470900425240 /* TextCell.swift */,
-			);
-			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -431,7 +423,7 @@
 			files = (
 				E3D054B820CE4CCC00D86851 /* Assets.xcassets in Resources */,
 				E3D47E9D20D9E9A60072C7A9 /* Splash.storyboard in Resources */,
-				E38E6139232EC884001D71EE /* GoogleService-Info.plist in Resources */,
+				E3D6B9162439CE9A006A6D61 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -532,6 +524,7 @@
 				E34DAC1822DB1A23006D59F6 /* XuatHanh.swift in Sources */,
 				E34DAC0922DB1A23006D59F6 /* Giop.swift in Sources */,
 				E34DAC1C22DB1A23006D59F6 /* Esai.swift in Sources */,
+				E36939222439B78A0064FD7F /* Network.swift in Sources */,
 				E3D6926221D1461900425240 /* MainTabBarController.swift in Sources */,
 				E34DAC4522DB1A23006D59F6 /* GiaCo.swift in Sources */,
 				E34DAC2A22DB1A23006D59F6 /* IIGiang.swift in Sources */,
@@ -544,7 +537,6 @@
 				E3D6926021D1461900425240 /* ChapterController.swift in Sources */,
 				E34DAC1F22DB1A23006D59F6 /* Roma.swift in Sources */,
 				E3D6926A21D1468000425240 /* Extensions.swift in Sources */,
-				E3D6926E21D1470900425240 /* TextCell.swift in Sources */,
 				E34DAC1122DB1A23006D59F6 /* AiCa.swift in Sources */,
 				E3782C3920D701D000BAD723 /* CoreDataManager.swift in Sources */,
 				E34DAC2222DB1A23006D59F6 /* CacThuLanh.swift in Sources */,
@@ -693,14 +685,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z5RQNKY45Y;
 				INFOPLIST_FILE = Bible_Demo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.DuongQuangNguyen.BD2011;
+				MARKETING_VERSION = 4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.BauDang.BD2011;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				RESOURCES_TARGETED_DEVICE_FAMILY = "";
@@ -716,14 +710,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z5RQNKY45Y;
 				INFOPLIST_FILE = Bible_Demo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.DuongQuangNguyen.BD2011;
+				MARKETING_VERSION = 4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.BauDang.BD2011;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				RESOURCES_TARGETED_DEVICE_FAMILY = "";

@@ -8,51 +8,19 @@ struct DataSource {
     
     static let shared = DataSource()
     
-//    var bible: [[Book]] = []
+    let mainTabBarController = UIApplication.shared.windows.first?.rootViewController as? MainTabBarController
     
-    let mainTabBarController = UIApplication.shared.keyWindow?.rootViewController as? MainTabBarController
-    
-    func fetchBible(completion: @escaping ([Book]) -> ()) {
-        var books = [Book]()
-        
-        Database.database().reference().child("books").observe(.childAdded, with: { (snapshot) in
-            guard let dictionary = snapshot.value as? [String: Any], let downloadUrl = dictionary["downloadURL"] as? String else { return }
-            let book = Book()
-            book.title = snapshot.key
-            
-            
-            self.fetchChapters(downloadUrl: URL(string: downloadUrl)!, completion: { (chapters) in
-                book.chapters = chapters
-            })
-            
-            books.append(book)
-            
-            if books.count == 66 {
-                books.sort { (b1, b2) -> Bool in
-                    let first = Int(b1.title.components(separatedBy: CharacterSet(charactersIn: "~")).first!)
-                    let second = Int(b2.title.components(separatedBy: CharacterSet(charactersIn: "~")).first!)
-                    return first! < second!
-                }
-                
-                completion(books)
-            }
-        }) { (error) in
-            fatalError(error.localizedDescription)
-        }
-    }
-    
-    func fetchChapters(downloadUrl: URL, completion: @escaping ([Chapter]) -> ()) {
-        var chapters = [Chapter]()
-        
-        URLSession.shared.dataTask(with: downloadUrl) { (data, urlRes, err) in
+    func fetchChapters(_ downloadURL: URL, completion: @escaping ([Chapter]) -> ()) {
+        URLSession.shared.dataTask(with: downloadURL) { (data, res, err) in
             if let error = err {
                 fatalError(error.localizedDescription)
             }
             
             do {
-                let json = try JSON(data: data!).rawValue as? [String: [[String: [[String: String]]]]]
+                guard let JSONDict = try JSON(data: data!).rawValue as? [String: [[String: [[String: String]]]]] else { return }
+                var chapters = [Chapter]()
                 
-                json?.values.first?.forEach({ (dict) in
+                JSONDict.values.first?.forEach({ (dict) in
                     dict.forEach({ (key, passages) in
                         let chapterNumber = Int(key)!
                         let chapter = Chapter(chapterNumber, passages: passages)
@@ -64,71 +32,70 @@ struct DataSource {
             } catch {
                 fatalError(error.localizedDescription)
             }
-            
-            }.resume()
+        }.resume()
     }
     
     //MARK: - Old Testament
     // Law
-    fileprivate let sangThe = SangThe() // 1
-    fileprivate let xuatHanh = XuatHanh() // 2
-    fileprivate let levi = Levi() // 3
-    fileprivate let danso = Danso() // 4
-    fileprivate let phucTruyenLuatLe = PhucTruyenLuatLe() // 5
+    fileprivate let sangThe = SangThe()
+    fileprivate let xuatHanh = XuatHanh()
+    fileprivate let levi = Levi()
+    fileprivate let danso = Danso()
+    fileprivate let phucTruyenLuatLe = PhucTruyenLuatLe()
     // History
-    fileprivate let gioSue = GioSue() // 6
-    fileprivate let cacThuLanh = CacThuLanh() // 7
-    fileprivate let ruto = Ruto() // 8
-    fileprivate let iSamuen = ISamuen() // 9
-    fileprivate let iiSamuen = IISamuen() // 10
-    fileprivate let iCacVua = ICacVua() // 11
-    fileprivate let iiCacVua = IICacVua() //
-    fileprivate let iSuky = ISuKy() // 13
-    fileprivate let iiSuky = IISuky() //
-    fileprivate let exora = Exora() // 15
-    fileprivate let nehemi = Nehemi() // 16
-    fileprivate let exote = Exote() // 17
+    fileprivate let gioSue = GioSue()
+    fileprivate let cacThuLanh = CacThuLanh()
+    fileprivate let ruto = Ruto()
+    fileprivate let iSamuen = ISamuen()
+    fileprivate let iiSamuen = IISamuen()
+    fileprivate let iCacVua = ICacVua()
+    fileprivate let iiCacVua = IICacVua()
+    fileprivate let iSuky = ISuKy()
+    fileprivate let iiSuky = IISuky()
+    fileprivate let exora = Exora()
+    fileprivate let nehemi = Nehemi()
+    fileprivate let exote = Exote()
     // Poetry & Wisdom
-    fileprivate let giop = Giop() // 18
-    fileprivate let thanhThi = ThanhThi() // 19
-    fileprivate let chamNgon = ChamNgon() // 20
-    fileprivate let giangSu = GiangSu() // 21
-    fileprivate let nhaCa = NhaCa() // 22
+    fileprivate let giop = Giop()
+    fileprivate let thanhThi = ThanhThi()
+    fileprivate let chamNgon = ChamNgon()
+    fileprivate let giangSu = GiangSu()
+    fileprivate let nhaCa = NhaCa()
     // Major Prophets
-    fileprivate let esai = Esai() // 23
-    fileprivate let gieremi = Gieremi() // 24
-    fileprivate let aiCa = AiCa() // 25
-    fileprivate let exechien = Exechien() // 26
-    fileprivate let danien = Danien() // 27
+    fileprivate let esai = Esai()
+    fileprivate let gieremi = Gieremi()
+    fileprivate let aiCa = AiCa()
+    fileprivate let exechien = Exechien()
+    fileprivate let danien = Danien()
     // Minor Prophets
-    fileprivate let ose = Ose() // 28
-    fileprivate let gioen = Gioen() // 29
-    fileprivate let amot = Amot() // 30
-    fileprivate let apDia = ApDia() // 31
-    fileprivate let gioNa = GioNa() // 32
-    fileprivate let miChe = MiChe() // 33
-    fileprivate let naHum = NaHum() // 34
-    fileprivate let haBaCuc = HaBaCuc() // 35
-    fileprivate let soPhoNi = SoPhoNi() // 36
-    fileprivate let haGai = HaGai() // 37
-    fileprivate let xaChaRi = XaChaRi() // 38
-    fileprivate let maLaChi = MaLaChi() // 39
-
+    fileprivate let ose = Ose()
+    fileprivate let gioen = Gioen()
+    fileprivate let amot = Amot()
+    fileprivate let apDia = ApDia()
+    fileprivate let gioNa = GioNa()
+    fileprivate let miChe = MiChe()
+    fileprivate let naHum = NaHum()
+    fileprivate let haBaCuc = HaBaCuc()
+    fileprivate let soPhoNi = SoPhoNi()
+    fileprivate let haGai = HaGai()
+    fileprivate let xaChaRi = XaChaRi()
+    fileprivate let maLaChi = MaLaChi()
+    
     //MARK: - New Testament
     // Gospels
-    fileprivate let mathio = Mathio() // 40
-    fileprivate let mac = Mac() // 41
-    fileprivate let luca = Luca() // 42
-    fileprivate let giang = Giang() // 43
+    fileprivate let mathio = Mathio()
+    fileprivate let mac = Mac()
+    fileprivate let luca = Luca()
+    fileprivate let giang = Giang()
     // Acts
-    fileprivate let congVu = CongVu() // 44
+    fileprivate let congVu = CongVu()
     // Letters of Paul
-    fileprivate let roma = Roma() // 45
-    fileprivate let iCoRinhTo = ICoRinhTo() // 46
-    fileprivate let iiCoRinhTo = IICoRinhTo() // 47
-    fileprivate let galati = Galati() // 48
-    fileprivate let epheso = Epheso() // 49
-    fileprivate let philip = Philip() // 50
+    fileprivate let roma = Roma()
+    fileprivate let iCoRinhTo = ICoRinhTo()
+    fileprivate let iiCoRinhTo = IICoRinhTo()
+    fileprivate let galati = Galati()
+    fileprivate let epheso = Epheso()
+    fileprivate let philip = Philip()
     fileprivate let colose = Colose()
     fileprivate let iThesalonica = IThesalonica()
     fileprivate let iiThesalonica = IIThesalonica()
@@ -149,7 +116,6 @@ struct DataSource {
     fileprivate let khaiHuyen = KhaiHuyen()
     
     //MARK: - Initializing Bible
-    // [Old Testament, New Testament]
     var bible: [[Book]] {
         let oldTestament = [sangThe, xuatHanh, levi, danso, phucTruyenLuatLe, gioSue, cacThuLanh, ruto, iSamuen, iiSamuen, iCacVua, iiCacVua, iSuky, iiSuky, exora, nehemi, exote, giop, thanhThi, chamNgon, giangSu, nhaCa, esai, gieremi, aiCa, exechien, danien, ose, gioen, amot, apDia, gioNa, miChe, naHum, haBaCuc, soPhoNi, haGai, xaChaRi, maLaChi]
         let newTestament = [mathio, mac, luca, giang, congVu, roma, iCoRinhTo, iiCoRinhTo, galati, epheso, philip, colose, iThesalonica, iiThesalonica, iTimothe, iiTimothe, tit, philemon, heboro, giaco, iPhiro, iiPhiro, iGiang, iiGiang, iiiGiang, giude, khaiHuyen]

@@ -14,9 +14,9 @@ class SearchController: UITableViewController {
             tableView.reloadData()
         }
     }
-   
+    
     var filteredBibleVerses: [[NSMutableAttributedString]] = [[], []]
-
+    
     var isSearching = false {
         didSet {
             tableView.reloadData()
@@ -24,15 +24,14 @@ class SearchController: UITableViewController {
     }
     
     let indicatorView: UIActivityIndicatorView = {
-        let iv = UIActivityIndicatorView(style: .whiteLarge)
-        iv.color = .black
-        iv.tintColor = .black
+        let iv = UIActivityIndicatorView()
+        iv.color = .label
+        iv.tintColor = .label
         return iv
     }()
     
     fileprivate func setupViews() {
         tableView.keyboardDismissMode = .onDrag
-
         guard let navControllerView = navigationController?.view else { return }
         navControllerView.addSubview(indicatorView)
         indicatorView.center = navControllerView.center
@@ -47,19 +46,17 @@ class SearchController: UITableViewController {
         sb.delegate = self
         let textField = (sb.value(forKey: "searchField") as? UITextField)
         textField?.font = UIFont.preferredFont(forTextStyle: .body)
-        textField?.tintColor = .white
-        textField?.textColor = .white
+        textField?.tintColor = .label
+        textField?.textColor = .label
         return sb
     }()
     
     @objc func reverseBackAllData() {
         DispatchQueue.global(qos: .background).async {
             self.bibleVerses.forEach {
-                $0.forEach {
-                    $0.removeAttribute(NSAttributedString.Key.backgroundColor, range: NSMakeRange(0, $0.string.count))
-                }
+                $0.forEach { $0.removeAttribute(NSAttributedString.Key.backgroundColor, range: NSMakeRange(0, $0.string.count)) }
             }
-
+            
             self.filteredBibleVerses = self.bibleVerses
             DispatchQueue.main.async {
                 self.tableView.reloadData()
@@ -101,15 +98,15 @@ class SearchController: UITableViewController {
     }
     
     @objc private func searchTapped() {
-                guard let searchText = searchBar.text, searchText.count > 0 else {
-            showAutoDismissAlert(title: "Xin nhập để tìm kiếm!")
+        guard let searchText = searchBar.text, searchText.count > 0 else {
+            showAutoDismissAlert(title: "Xin nhập để tìm kiếm.")
             return
         }
         
         isSearching = true
         
         guard bibleVerses[0].count > 0 && bibleVerses[1].count > 0 else {
-            showAutoDismissAlert(title: "Đang tải dữ liệu...", message: "Xin vui lòng chờ!")
+            showAutoDismissAlert(title: "Đang Tải...", message: nil)
             return
         }
         
@@ -124,7 +121,7 @@ class SearchController: UITableViewController {
             }
         }
     }
-
+    
     fileprivate func setupNavBar() {
         navigationItem.rightBarButtonItem = UIBarButtonItem(image: #imageLiteral(resourceName: "search"), style: .plain, target: self, action: #selector(searchTapped))
         navigationItem.titleView = searchBar

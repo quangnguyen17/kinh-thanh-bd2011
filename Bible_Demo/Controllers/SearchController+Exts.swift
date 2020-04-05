@@ -4,7 +4,9 @@ import UIKit
 extension SearchController: UISearchBarDelegate {
     
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
-        if searchText.isEmpty { reverseBackAllData() }
+        if searchText.isEmpty {
+            reverseBackAllData()
+        }
     }
     
     override func numberOfSections(in tableView: UITableView) -> Int {
@@ -13,15 +15,13 @@ extension SearchController: UISearchBarDelegate {
     
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let label = PaddedLabel()
-        label.backgroundColor = UIColor(white: 0.95, alpha: 1)
-        label.textColor = .black
-        
+        label.backgroundColor = .secondarySystemBackground
+        label.textColor = .label
         let attributedText = NSMutableAttributedString(string: section == 0 ? "CỰU ƯỚC " : "TÂN ƯỚC ", attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .headline)])
         let count = tableView.numberOfRows(inSection: section)
         let countStatusString = count > 0 ? "\(count) kết quả." : "Không có kết quả tìm kiếm."
         attributedText.append(NSAttributedString(string: "(\(countStatusString))", attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .subheadline)]))
         label.attributedText = attributedText
-        
         return label
     }
     
@@ -55,9 +55,9 @@ extension SearchController: UISearchBarDelegate {
     
     override func tableView(_ tableView: UITableView, viewForFooterInSection section: Int) -> UIView? {
         let label = UILabel()
-        label.backgroundColor = .white
+        label.backgroundColor = .secondarySystemBackground
+        label.textColor = .secondaryLabel
         label.textAlignment = .center
-        label.textColor = .darkGray
         label.numberOfLines = 0
         label.font = .preferredFont(forTextStyle: .callout)
         label.text = "Không Có Kết Quả Tìm Kiếm!\nLưu Ý: Nhớ thêm (-) nếu có."

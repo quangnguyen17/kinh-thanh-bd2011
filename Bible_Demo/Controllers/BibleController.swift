@@ -25,12 +25,11 @@ class BibleController: UITableViewController, BookCellDelegate {
     }()
     
     @objc private func handleUpdates() {
-        oldTestament = []
-        newTestament = []
+        oldTestament = []; newTestament = []
         tableView.reloadData()
         
         let mainTabBarController = tabBarController as? MainTabBarController
-        mainTabBarController?.handleUpdates()
+        mainTabBarController?.update()
     }
     
     @objc private func segmentedControlValueChanged() {
@@ -42,12 +41,11 @@ class BibleController: UITableViewController, BookCellDelegate {
     }
     
     fileprivate func setupTableView() {
-        tableView.backgroundColor = .white
-        tableView.separatorStyle = .none
-        tableView.sectionFooterHeight = 0.0
+        tableView.backgroundColor = .systemBackground
         tableView.tableFooterView = UIView()
+        tableView.sectionFooterHeight = 0
         tableView.sectionHeaderHeight = 75
-        tableView.rowHeight = 56.25
+        tableView.rowHeight = 62.5
         tableView.contentInset = UIEdgeInsets(top: 0, left: 0, bottom: 16, right: 0)
         tableView.register(BookCell.self, forCellReuseIdentifier: "cell")
     }
@@ -78,14 +76,12 @@ class BibleController: UITableViewController, BookCellDelegate {
     
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let headerLabel = PaddedLabel()
-        
         let book = getTestament()[section]
-        let attributedText = NSMutableAttributedString(string: book.title, attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .headline)])
-        attributedText.append(NSAttributedString(string: "\n\(book.chapters.count) Chương", attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .footnote), NSAttributedString.Key.foregroundColor: UIColor.darkGray]))
+        let attributedText = NSMutableAttributedString(string: book.title.cleaned(), attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .headline)])
+        attributedText.append(NSAttributedString(string: "\n\(book.chapters.count) Chương", attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .footnote), NSAttributedString.Key.foregroundColor: UIColor.secondaryLabel]))
+        headerLabel.backgroundColor = .systemBackground
         headerLabel.attributedText = attributedText
-        
         headerLabel.numberOfLines = 0
-        headerLabel.backgroundColor = UIColor(white: 1, alpha: 0.975)
         return headerLabel
     }
     
@@ -95,7 +91,8 @@ class BibleController: UITableViewController, BookCellDelegate {
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! BookCell
-        cell.book = getTestament()[indexPath.section]
+        let book = getTestament()[indexPath.section]
+        cell.book = book
         cell.delegate = self
         return cell
     }
@@ -156,7 +153,7 @@ class BookCell: UITableViewCell, UICollectionViewDelegate, UICollectionViewDataS
         let layout = UICollectionViewFlowLayout()
         layout.scrollDirection = .horizontal
         let cv = UICollectionView(frame: .zero, collectionViewLayout: layout)
-        cv.backgroundColor = .white
+        cv.backgroundColor = .systemBackground
         cv.delegate = self
         cv.dataSource = self
         cv.clipsToBounds = true
@@ -183,14 +180,19 @@ class BookCell: UITableViewCell, UICollectionViewDelegate, UICollectionViewDataS
 
 class NumberCell: BaseCollectionViewCell {
     
-    let numberLabel = UILabel()
+    let numberLabel: UILabel = {
+        let label = UILabel()
+        label.backgroundColor = .secondarySystemBackground
+        label.font = .preferredFont(forTextStyle: .title3)
+        label.textAlignment = .center
+        return label
+    }()
     
     override func setupViews() {
         super.setupViews()
         backgroundView = numberLabel
-        numberLabel.backgroundColor = UIColor(white: 0.95, alpha: 1)
-        numberLabel.textAlignment = .center
-        numberLabel.font = UIFont.preferredFont(forTextStyle: .title3)
+        layer.cornerRadius = 31.25
+        clipsToBounds = true
     }
     
 }

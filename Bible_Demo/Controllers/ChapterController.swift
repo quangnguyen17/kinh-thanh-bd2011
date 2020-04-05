@@ -7,14 +7,12 @@ class ChapterController: UIViewController, UITextViewDelegate {
     // initiate new chapter
     var chapter: Chapter? {
         didSet {
-            // fetch data
-            fetchBookmarks()
-            fetchFilteredHighlights()
-            
-            // update views
-            guard let unwrappedChapter = chapter else { return }
-            chapters = unwrappedChapter.book.chapters
-            versesTextView.attributedText = unwrappedChapter.attributedPassages(fontSize: 20.0, highlights: filteredHighlights)
+            if let unwrappedChapter = chapter {
+                fetchBookmarks()
+                fetchFilteredHighlights()
+                chapters = unwrappedChapter.book.chapters
+                versesTextView.attributedText = unwrappedChapter.attributedPassages(fontSize: 20.0, highlights: filteredHighlights)
+            }
         }
     }
     
@@ -108,14 +106,13 @@ class ChapterController: UIViewController, UITextViewDelegate {
     
     private let versesTextView: UITextView = {
         let tv = UITextView()
-        tv.translatesAutoresizingMaskIntoConstraints = false
         tv.isEditable = false
         tv.scrollsToTop = true
         tv.showsVerticalScrollIndicator = false
         tv.textContainerInset = UIEdgeInsets(top: 18, left: 16, bottom: 18, right: 16)
         return tv
     }()
-
+    
     fileprivate func highlightWith(color: UIColor) {
         let range = versesTextView.selectedRange
         let selectedText = NSString(string: versesTextView.text).substring(with: range)
@@ -133,20 +130,12 @@ class ChapterController: UIViewController, UITextViewDelegate {
     }
     
     fileprivate func renderViews() {
-        view.backgroundColor = .white
-
-        view.addSubview(versesTextView)
-        if #available(iOS 11, *) {
-            [versesTextView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
-             versesTextView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor),
-             versesTextView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor),
-             versesTextView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor)].forEach{ $0.isActive = true }
-        } else {
-            [versesTextView.topAnchor.constraint(equalTo: view.topAnchor),
-             versesTextView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
-             versesTextView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
-             versesTextView.bottomAnchor.constraint(equalTo: view.bottomAnchor)].forEach{ $0.isActive = true }
-        }
+        view.backgroundColor = .systemBackground
+        view.addSubviews(versesTextView)
+        [versesTextView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
+         versesTextView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor),
+         versesTextView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor),
+         versesTextView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor)].forEach{ $0.isActive = true }
     }
     
     fileprivate func fetchFilteredHighlights() {
@@ -168,13 +157,10 @@ class ChapterController: UIViewController, UITextViewDelegate {
         bookmarkButton.tintColor = .lightGray
         
         let spacer = UIBarButtonItem(barButtonSystemItem: .flexibleSpace, target: self, action: nil)
-
         let greenmarkerButton = UIBarButtonItem(image: #imageLiteral(resourceName: "square"), style: .plain, target: self, action: #selector(greenmarkerTapped))
         greenmarkerButton.tintColor = .green
-        
         let yellowmarkerButton = UIBarButtonItem(image: #imageLiteral(resourceName: "square"), style: .plain, target: self, action: #selector(pinkmarkerTapped))
         yellowmarkerButton.tintColor = .yellow
-        
         let nextButton = UIBarButtonItem(image: #imageLiteral(resourceName: "right-pointing-arrow"), style: .plain, target: self, action: #selector(nextChapter))
         let previousButton = UIBarButtonItem(image: #imageLiteral(resourceName: "left-pointing-arrow"), style: .plain, target: self, action: #selector(previousChapter))
         let increaseFontButton = UIBarButtonItem(image: #imageLiteral(resourceName: "increase-font-size"), style: .plain, target: self, action: #selector(increaseFontSize))
@@ -195,5 +181,5 @@ class ChapterController: UIViewController, UITextViewDelegate {
         super.viewDidLayoutSubviews()
         versesTextView.setContentOffset(.zero, animated: false)
     }
-
+    
 }

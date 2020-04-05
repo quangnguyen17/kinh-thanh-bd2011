@@ -75,7 +75,7 @@ extension Character {
 extension UIViewController {
     
     func showChapterController(with chapter: Chapter?, navigationItemTitle: String?) {
-        let chapterController = Component.initChapterController(with: chapter, and: navigationItemTitle)
+        let chapterController = Component.chapterController(with: chapter, and: navigationItemTitle)
         navigationController?.pushViewController(chapterController, animated: true)
     }
     
@@ -104,7 +104,9 @@ extension String {
     }
     
     func cleaned() -> String {
-        return self.components(separatedBy: CharacterSet(charactersIn: "~")).last ?? ""
+        let jsonRemoved = replacingOccurrences(of: ".JSON", with: "", options: .regularExpression)
+        let numsRemoved = jsonRemoved.components(separatedBy: CharacterSet.decimalDigits).joined()
+        return String(numsRemoved.dropFirst(2))
     }
     
     func getIndexNumber() -> Int {

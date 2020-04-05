@@ -46,8 +46,8 @@ class HighlightsController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let label = PaddedLabel()
-        label.backgroundColor = UIColor(white: 0.95, alpha: 1)
-        label.textColor = .black
+        label.backgroundColor = .secondarySystemBackground
+        label.textColor = .label
         label.text = "Đánh Dấu Gần Đây"
         label.font = UIFont.preferredFont(forTextStyle: .headline)
         return label
@@ -73,9 +73,7 @@ class HighlightsController: UITableViewController {
         }
         
         let highlightedText = NSString(string: unknownChapter?.plainText() ?? "").substring(with: NSRange(location: Int(highlight.location), length: Int(highlight.length)))
-    
-        let cell = Component.initTableViewCell(reuseIdentifier: "cell", title: highlight.directory ?? "", subtitle: highlightedText, image: #imageLiteral(resourceName: "square"))
-        
+        let cell = Component.tableViewCell(reuseIdentifier: "cell", title: highlight.directory ?? "", subtitle: highlightedText, image: #imageLiteral(resourceName: "square"))
         cell.detailTextLabel?.numberOfLines = 0
         cell.accessoryType = .disclosureIndicator
         cell.imageView?.tintColor = highlight.color == 0 ? .green : .yellow
@@ -99,7 +97,7 @@ class HighlightsController: UITableViewController {
     override func tableView(_ tableView: UITableView, viewForFooterInSection section: Int) -> UIView? {
         let label = UILabel()
         label.text = "Không Có Đánh Dấu"
-        label.textColor = .darkGray
+        label.textColor = .secondaryLabel
         label.textAlignment = .center
         label.font = UIFont.preferredFont(forTextStyle: .subheadline)
         return label

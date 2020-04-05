@@ -13,33 +13,26 @@ class Book {
     }
     
     func toJSON() -> String {
-        var bookDictionary: [String: [[String: [[String: String]]]]] = ["\(title)": []]
+        var dict: [String: [[String: [[String: String]]]]] = ["\(title)": []]
         
         chapters.forEach { (c) in
             var chapter: [String: [[String: String]]] = ["\(c.number)": []]
             c.passages.forEach({ (dict) in
                 chapter["\(c.number)"]?.append(dict)
             })
-            bookDictionary["\(title)"]?.append(chapter)
+            dict["\(title)"]?.append(chapter)
         }
-        
-        let jsonEncoder = JSONEncoder()
-        jsonEncoder.outputFormatting = .prettyPrinted
-        
+                
         do {
-            let JSON = try jsonEncoder.encode(bookDictionary)
-            if let str = String(data: JSON, encoding: .utf8) {
-                return str
-            }
+            let JSON = try JSONEncoder().encode(dict)
+            return String(data: JSON, encoding: .utf8) ?? ""
         } catch {
             fatalError(error.localizedDescription)
         }
-        
-        return ""
     }
 
-    init(title: String) {
-        self.title = title
+    init(_ title: String? = nil) {
+        self.title = title ?? ""
     }
     
     init() {
@@ -52,31 +45,26 @@ class Chapter {
     
     var book = Book()
     let number: Int
-    var passages: [[String: String]]
-    
-    var fixedPassages: [[String: String]] {
-        var allFixed = [[String: String]]()
-        
-        passages.forEach { (dict) in
-            for passage in dict {
-                let nsString = NSString.init(string: passage.value).replacingOccurrences(of: "Chúa Ðức Chúa Trời", with: "CHÚA Ðức Chúa Trời")
-                let nsStringReplaced = NSString.init(string: nsString).replacingOccurrences(of: "Chúa, Ðức Chúa Trời", with: "CHÚA, Ðức Chúa Trời")
-                let newPassage = [passage.key: nsStringReplaced]
-                allFixed.append(newPassage)
+    var passages: [[String: String]] {
+        didSet {
+            passages = passages.map { (dict) -> [String : String] in
+                return dict.reduce([:]) { (res, obj) -> [String: String] in
+                    let first = NSString.init(string: obj.value).replacingOccurrences(of: "Chúa Ðức Chúa Trời", with: "CHÚA Ðức Chúa Trời")
+                    let second = NSString.init(string: first).replacingOccurrences(of: "Chúa, Ðức Chúa Trời", with: "CHÚA, Ðức Chúa Trời")
+                    return res.merging([obj.key: second], uniquingKeysWith: { (first, _) in first })
+                }
             }
         }
-        
-        return allFixed
     }
     
     var directory: String {
-        return "\(book.title) \(number)"
+        return "\(book.title.cleaned()) \(number)"
     }
     
     func verses() -> [String] {
         var results = [String]()
         
-        fixedPassages.forEach { (dict) in
+        passages.forEach { (dict) in
             dict.values.forEach({ (value) in
                 let valueArray = value.components(separatedBy: CharacterSet.init(charactersIn: " \n"))
                 var verses = [String]()
@@ -109,21 +97,22 @@ class Chapter {
     
     func attributedPassages(fontSize: CGFloat, highlights: [Highlight] = []) -> NSMutableAttributedString {
         let attributedText = NSMutableAttributedString()
+        let txtColor = UIColor.label
         
-        let indexAttrs: [NSAttributedString.Key : Any] = [
+        let numAttrs = [
             NSAttributedString.Key.font: UIFont.italicSystemFont(ofSize: fontSize),
             NSAttributedString.Key.foregroundColor: UIColor.darkRed
         ]
         
         let verseAttrs = [
             NSAttributedString.Key.font: UIFont.systemFont(ofSize: fontSize),
-            NSAttributedString.Key.foregroundColor: UIColor.black
+            NSAttributedString.Key.foregroundColor: txtColor
         ]
         
-        fixedPassages.forEach { (dict) in
+        passages.forEach { (dict) in
             dict.forEach({ (key, value) in
                 key.forEach({ (character) in
-                    attributedText.append(NSAttributedString(string: character.toString(), attributes: [NSAttributedString.Key.font: UIFont.systemFont(ofSize: fontSize, weight: .bold)]))
+                    attributedText.append(NSAttributedString(string: character.toString(), attributes: [NSAttributedString.Key.font: UIFont.systemFont(ofSize: fontSize, weight: .bold), NSAttributedString.Key.foregroundColor: txtColor]))
                 })
                 
                 if value.first?.toString().isInt ?? false {
@@ -135,7 +124,7 @@ class Chapter {
                 }
                 
                 value.forEach({ (character) in
-                    attributedText.append(NSAttributedString(string: character.toString(), attributes: character.toString().isInt ? indexAttrs : verseAttrs))
+                    attributedText.append(NSAttributedString(string: character.toString(), attributes: character.toString().isInt ? numAttrs : verseAttrs))
                 })
                 
                 attributedText.append(NSAttributedString(string: passages.last != dict ? "\n\n" : "\n"))
@@ -163,7 +152,7 @@ class Chapter {
     func plainText() -> String {
         var text = String()
         
-        fixedPassages.forEach { (dict) in
+        passages.forEach { (dict) in
             dict.forEach({ (key, value) in
                 let passage = "\(key) \n\(value)\n"
                 text.append(passage)
