@@ -30,15 +30,6 @@ extension UIColor {
     static let defaultBarTintColor = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1.0)
 }
 
-
-extension UINavigationController {
-    
-    open override var preferredStatusBarStyle: UIStatusBarStyle {
-        return .lightContent
-    }
-    
-}
-
 extension UIButton {
     
     func styleButton(backgroundColor: UIColor, tintColor: UIColor) {

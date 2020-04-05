@@ -62,7 +62,7 @@ class MainTabBarController: UITabBarController {
         }
     }
     
-    func fetchBibleData() {
+    func fetch() {
         var bible = [[Book](), [Book]()]
         
         ["old-testament", "new-testament"].enumerated().forEach { (offset, child) in
@@ -100,7 +100,7 @@ class MainTabBarController: UITabBarController {
             self.present(self.alertController, animated: true, completion: nil)
         }
         
-        fetchBibleData()
+        fetch()
     }
     
     private func setupApp() {

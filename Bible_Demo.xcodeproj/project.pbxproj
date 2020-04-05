@@ -75,6 +75,7 @@
 		E34DAC4422DB1A23006D59F6 /* GioNa.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0222DB1A23006D59F6 /* GioNa.swift */; };
 		E34DAC4522DB1A23006D59F6 /* GiaCo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0322DB1A23006D59F6 /* GiaCo.swift */; };
 		E34DAC4622DB1A23006D59F6 /* ICacVua.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DAC0422DB1A23006D59F6 /* ICacVua.swift */; };
+		E359E2EA2439D1C400622D56 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E359E2E92439D1C400622D56 /* GoogleService-Info.plist */; };
 		E36939222439B78A0064FD7F /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36939212439B78A0064FD7F /* Network.swift */; };
 		E3782C1420D7013500BAD723 /* Models.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E3782C1220D7013500BAD723 /* Models.xcdatamodeld */; };
 		E3782C3720D701AD00BAD723 /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3782C3620D701AD00BAD723 /* DataSource.swift */; };
@@ -92,7 +93,6 @@
 		E3D6926621D1461900425240 /* BookmarksController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6925E21D1461900425240 /* BookmarksController.swift */; };
 		E3D6926A21D1468000425240 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926821D1468000425240 /* Extensions.swift */; };
 		E3D6926B21D1468000425240 /* Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6926921D1468000425240 /* Classes.swift */; };
-		E3D6B9162439CE9A006A6D61 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E3D6B9152439CE9A006A6D61 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -166,6 +166,7 @@
 		E34DAC0222DB1A23006D59F6 /* GioNa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GioNa.swift; sourceTree = "<group>"; };
 		E34DAC0322DB1A23006D59F6 /* GiaCo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiaCo.swift; sourceTree = "<group>"; };
 		E34DAC0422DB1A23006D59F6 /* ICacVua.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ICacVua.swift; sourceTree = "<group>"; };
+		E359E2E92439D1C400622D56 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E36939212439B78A0064FD7F /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		E3782C1320D7013500BAD723 /* Bookmark.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bookmark.xcdatamodel; sourceTree = "<group>"; };
 		E3782C3620D701AD00BAD723 /* DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
@@ -185,7 +186,6 @@
 		E3D6925E21D1461900425240 /* BookmarksController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarksController.swift; sourceTree = "<group>"; };
 		E3D6926821D1468000425240 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		E3D6926921D1468000425240 /* Classes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Classes.swift; sourceTree = "<group>"; };
-		E3D6B9152439CE9A006A6D61 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -317,8 +317,8 @@
 				E3D054B720CE4CCC00D86851 /* Assets.xcassets */,
 				E3D47E9C20D9E9A60072C7A9 /* Splash.storyboard */,
 				E3782C1220D7013500BAD723 /* Models.xcdatamodeld */,
+				E359E2E92439D1C400622D56 /* GoogleService-Info.plist */,
 				E3D054BC20CE4CCC00D86851 /* Info.plist */,
-				E3D6B9152439CE9A006A6D61 /* GoogleService-Info.plist */,
 				E3D6926721D1468000425240 /* Utils */,
 				E31DB10B20D092AF00C22AC6 /* Bible */,
 			);
@@ -423,7 +423,7 @@
 			files = (
 				E3D054B820CE4CCC00D86851 /* Assets.xcassets in Resources */,
 				E3D47E9D20D9E9A60072C7A9 /* Splash.storyboard in Resources */,
-				E3D6B9162439CE9A006A6D61 /* GoogleService-Info.plist in Resources */,
+				E359E2EA2439D1C400622D56 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -685,7 +685,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 1.0;
 				DEVELOPMENT_TEAM = Z5RQNKY45Y;
 				INFOPLIST_FILE = Bible_Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -693,7 +693,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 4;
+				MARKETING_VERSION = 4.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.BauDang.BD2011;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -710,7 +710,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 1.0;
 				DEVELOPMENT_TEAM = Z5RQNKY45Y;
 				INFOPLIST_FILE = Bible_Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -718,7 +718,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 4;
+				MARKETING_VERSION = 4.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.BauDang.BD2011;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
