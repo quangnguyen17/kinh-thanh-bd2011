@@ -25,24 +25,10 @@ class HighlightsController: UITableViewController {
     lazy var highlightsFetchedResutlsController: NSFetchedResultsController<Highlight> = {
         let request: NSFetchRequest<Highlight> = Highlight.fetchRequest()
         request.sortDescriptors = [NSSortDescriptor(key: "creationDate", ascending: false)]
-        
-        let context = CoreDataManager.shared.persistentContainer.viewContext
-        let controller = NSFetchedResultsController(fetchRequest: request, managedObjectContext: context, sectionNameKeyPath: nil, cacheName: nil)
-        
+        let controller = NSFetchedResultsController(fetchRequest: request, managedObjectContext: CoreDataManager.shared.getContext(), sectionNameKeyPath: nil, cacheName: nil)
         controller.delegate = self
         return controller
     }()
-    
-    fileprivate func setupTableView() {
-        var safeAreaInsets: UIEdgeInsets?
-        if #available(iOS 11.0, *) { safeAreaInsets = view.safeAreaInsets }
-        tableView.contentInset = safeAreaInsets ?? .zero
-    }
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        setupTableView()
-    }
     
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let label = PaddedLabel()
@@ -86,8 +72,11 @@ class HighlightsController: UITableViewController {
         
         fetchedBible.forEach { (testament) in
             testament.forEach({ (book) in
-                let chapters = book.chapters.filter{ $0.directory == directory }
-                chapters.forEach{ unknownChapter = $0 }
+                book.chapters.forEach { (ch) in
+                    if ch.directory == directory {
+                        unknownChapter = ch
+                    }
+                }
             })
         }
         

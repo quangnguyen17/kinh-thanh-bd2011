@@ -67,7 +67,8 @@ extension UIViewController {
     
     func showChapterController(with chapter: Chapter?, navigationItemTitle: String?) {
         let chapterController = Component.chapterController(with: chapter, and: navigationItemTitle)
-        navigationController?.pushViewController(chapterController, animated: true)
+        present(UINavigationController(rootViewController: chapterController), animated: true, completion: nil)
+//        navigationController?.pushViewController(chapterController, animated: true)
     }
     
     func showAutoDismissAlert(title: String, message: String? = nil) {
@@ -94,14 +95,23 @@ extension String {
         return self.range(of: find, options: .caseInsensitive) != nil
     }
     
-    func cleaned() -> String {
-        let jsonRemoved = replacingOccurrences(of: ".JSON", with: "", options: .regularExpression)
-        let numsRemoved = jsonRemoved.components(separatedBy: CharacterSet.decimalDigits).joined()
-        return String(numsRemoved.dropFirst(2))
+    func removedNumsAndJSON() -> String {
+        let removedJSON = replacingOccurrences(of: ".JSON", with: "", options: .regularExpression)
+        return String(removedJSON.components(separatedBy: CharacterSet.decimalDigits).joined().dropFirst(2))
     }
     
-    func getIndexNumber() -> Int {
-        return Int(components(separatedBy: CharacterSet(charactersIn: ". ")).first!)!
+//        func cleaned() -> String {
+//            let numsRemoved = jsonRemoved.components(separatedBy: CharacterSet.decimalDigits).joined()
+//            return String(numsRemoved.dropFirst(2))
+//            return jsonRemoved
+//        }
+    
+    func cleaned() -> String {
+        return String(components(separatedBy: CharacterSet.decimalDigits).joined().dropFirst(2))
+    }
+    
+    func getBookNumber() -> Int {
+        return Int(components(separatedBy: CharacterSet(charactersIn: ". ")).first ?? "") ?? 0
     }
     
 }

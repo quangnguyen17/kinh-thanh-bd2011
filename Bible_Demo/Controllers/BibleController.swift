@@ -27,9 +27,8 @@ class BibleController: UITableViewController, BookCellDelegate {
     @objc private func handleUpdates() {
         oldTestament = []; newTestament = []
         tableView.reloadData()
-        
-        let mainTabBarController = tabBarController as? MainTabBarController
-        mainTabBarController?.update()
+        guard let mainTabBarController = tabBarController as? MainTabBarController else { return }
+        mainTabBarController.update()
     }
     
     @objc private func segmentedControlValueChanged() {
@@ -66,10 +65,6 @@ class BibleController: UITableViewController, BookCellDelegate {
         navigationController?.setToolbarHidden(true, animated: true)
     }
     
-    override func viewWillDisappear(_ animated: Bool) {
-        super.viewWillDisappear(animated)
-    }
-    
     override func numberOfSections(in tableView: UITableView) -> Int {
         return getTestament().count
     }
@@ -77,7 +72,7 @@ class BibleController: UITableViewController, BookCellDelegate {
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let headerLabel = PaddedLabel()
         let book = getTestament()[section]
-        let attributedText = NSMutableAttributedString(string: book.title.cleaned(), attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .headline)])
+        let attributedText = NSMutableAttributedString(string: book.title, attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .headline)])
         attributedText.append(NSAttributedString(string: "\n\(book.chapters.count) Chương", attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .footnote), NSAttributedString.Key.foregroundColor: UIColor.secondaryLabel]))
         headerLabel.backgroundColor = .systemBackground
         headerLabel.attributedText = attributedText

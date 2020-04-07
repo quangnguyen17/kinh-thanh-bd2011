@@ -1,5 +1,6 @@
 
 import UIKit
+import SwiftUI
 import CoreData
 import Firebase
 
@@ -12,10 +13,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         FirebaseApp.configure()
-        UINavigationBar.appearance().tintColor = .darkRed
-        UINavigationBar.appearance().barTintColor = .systemBackground
-        [UIButton.State.normal, .selected, .highlighted, .disabled].forEach{ UIBarButtonItem.appearance().setTitleTextAttributes([NSAttributedString.Key.foregroundColor: UIColor.clear], for: $0) }
         UITableView.appearance().separatorStyle = .none
+        UINavigationBar.appearance().tintColor = .darkRed
+        [UIButton.State.normal, .selected, .highlighted, .disabled].forEach{ UIBarButtonItem.appearance().setTitleTextAttributes([NSAttributedString.Key.foregroundColor: UIColor.clear], for: $0) }
+        
         window = UIWindow()
         window?.makeKeyAndVisible()
         window?.rootViewController = MainTabBarController()

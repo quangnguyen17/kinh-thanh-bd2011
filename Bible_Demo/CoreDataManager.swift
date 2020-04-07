@@ -15,8 +15,7 @@ struct CoreDataManager {
         return container
     }()
     
-    
-    private func getContext() -> NSManagedObjectContext {
+    func getContext() -> NSManagedObjectContext {
         return persistentContainer.viewContext
     }
     

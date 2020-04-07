@@ -6,13 +6,15 @@ class Book {
     
     var title = String()
     var testament = String()
+    var number = Int()
+    
     var chapters = [Chapter]() {
         didSet {
             chapters.forEach{ $0.book = self }
         }
     }
     
-    func toJSON() -> String {
+    func toData() -> Data? {
         var dict: [String: [[String: [[String: String]]]]] = ["\(title)": []]
         
         chapters.forEach { (c) in
@@ -22,17 +24,20 @@ class Book {
             })
             dict["\(title)"]?.append(chapter)
         }
-                
+        
         do {
-            let JSON = try JSONEncoder().encode(dict)
-            return String(data: JSON, encoding: .utf8) ?? ""
+            let originalData = try JSONEncoder().encode(dict)
+            guard let dataAsStr = String(data: originalData, encoding: .utf8) else { return nil }
+            return dataAsStr.data(using: .utf8)
         } catch {
             fatalError(error.localizedDescription)
         }
     }
-
-    init(_ title: String? = nil) {
+    
+    init(_ title: String? = nil, testament: String? = nil, number: Int? = nil) {
         self.title = title ?? ""
+        self.testament = testament ?? ""
+        self.number = number ?? Int()
     }
     
     init() {
@@ -58,7 +63,7 @@ class Chapter {
     }
     
     var directory: String {
-        return "\(book.title.cleaned()) \(number)"
+        return "\(book.title) \(number)"
     }
     
     func verses() -> [String] {
@@ -70,7 +75,7 @@ class Chapter {
                 var verses = [String]()
                 var verse = ""
                 var verseNumber = "1"
-
+                
                 valueArray.forEach({ (str) in
                     if str.isInt {
                         if verseNumber != str {
@@ -87,7 +92,7 @@ class Chapter {
                         }
                     }
                 })
-               
+                
                 verses.forEach{ results.append($0) }
             })
         }
