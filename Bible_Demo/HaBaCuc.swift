@@ -15,7 +15,7 @@ class HaBaCuc: Book {
                 
                 2 CHÚA ôi, con kêu van xin cứu giúp, nhưng Ngài chẳng đoái hoài gì tới con cho đến bao lâu nữa?
                 Con kêu cứu với Ngài rằng, “Bạo ngược!” nhưng sao Ngài chẳng giải cứu gì cả?
-                3 Tại sao Ngài bắt con phải nghe thấy những cảnh trái tai gai mắt thế nầy?
+                3 Tại sao Ngài bắt con phải nghe thấy những cảnh trái tai gai mắt thế này?
                 Hủy diệt và bạo ngược cứ diễn ra trước mắt con;
                 Tranh chấp và cãi vã cứ nổi lên liên tục.
                 4 Vì thế luật pháp trở nên lỏng lẻo, và công lý không bao giờ thắng thế.
@@ -83,7 +83,7 @@ class HaBaCuc: Book {
                 Tôi sẽ cứ thức canh, để xem Ngài sẽ nói với tôi điều gì,
                 Và sẽ nghe Ngài giải đáp thắc mắc của tôi ra sao.
                 2 Bấy giờ CHÚA đáp lời tôi,
-                Ngài phán, “Hãy ghi lại khải tượng nầy;
+                Ngài phán, “Hãy ghi lại khải tượng này;
                 Hãy chép rõ trên các bảng, để người chạy ngang qua có thể đọc được.
                 3 Khá biết rằng những gì khải tượng ấy bày tỏ sẽ không xảy ra cho đến kỳ đã định.
                 Ðến cuối cùng, nó sẽ lộ ra, và đây không phải là lời nói dối.

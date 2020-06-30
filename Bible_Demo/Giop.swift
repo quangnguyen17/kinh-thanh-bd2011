@@ -1,4 +1,4 @@
-﻿
+
 class Giop: Book {
     
     override init() {
@@ -42,7 +42,7 @@ class Giop: Book {
                 4 Bấy giờ Sa-tan trả lời với CHÚA, “Da đền da! Tất cả những gì người ta có họ có thể bỏ hết, miễn sao giữ được mạng mình.  5 Nhưng bây giờ nếu Ngài đưa tay ra đụng vào xương vào thịt ông ấy, gây hại đến sức khỏe ông ấy, ông ấy sẽ nguyền rủa vào mặt Ngài ngay.”
                 6 CHÚA phán với Sa-tan, “Thôi được, Ta cho ngươi được quyền đụng đến thân thể nó, nhưng ngươi không được làm hại đến tính mạng nó.”
                 7 Vậy Sa-tan đi ra khỏi thánh nhan CHÚA và hành hạ Gióp, khiến ông bị ung độc lở loét từ bàn chân đến đỉnh đầu.  8 Ông phải ngồi giữa đám tro, lấy mảnh sành, và gãi.
-                9 Bấy giờ vợ ông nói với ông, “Ðến giờ nầy mà anh vẫn còn giữ lòng liêm chính của anh sao?  Anh hãy nguyền rủa Ðức Chúa Trời và chết quách cho rồi!”
+                9 Bấy giờ vợ ông nói với ông, “Ðến giờ này mà anh vẫn còn giữ lòng liêm chính của anh sao?  Anh hãy nguyền rủa Ðức Chúa Trời và chết quách cho rồi!”
                 10 Nhưng ông trả lời bà, “Sao em nói như một bà điên vậy?  Khi Ðức Chúa Trời đưa tay ban phước, chúng ta đã biết đón nhận; bây giờ Ngài giáng họa, chúng ta lại không biết nhận lãnh sao?”  Trong mọi sự đó Gióp không để cho lời nói ra từ miệng ông làm cho ông mang tội.
 
                 """],
@@ -72,7 +72,7 @@ class Giop: Book {
                 Nguyện nó mong đợi ánh bình minh nhưng chẳng có gì;
                 Nguyện mắt nó sẽ không thấy tia hừng đông nào xuất hiện;
                 10 Bởi vì nó đã không đóng cửa lòng của mẹ tôi lại,
-                Hầu mắt tôi khỏi phải nhìn thấy cảnh đau đớn như thế nầy.
+                Hầu mắt tôi khỏi phải nhìn thấy cảnh đau đớn như thế này.
                 11 Sao tôi đã không chết đi khi vừa mới chào đời?
                 Sao lúc tôi ra khỏi lòng mẹ không là lúc tôi vừa tắt thở?
                 12 Tại sao đã có những đầu gối để nâng niu tôi,
@@ -275,7 +275,7 @@ class Giop: Book {
                 Và ngay cả bạn bè, các anh bán đứng chẳng chạnh lòng.
                 28 Vậy bây giờ xin các anh hãy nhìn thẳng vào mặt tôi đi;
                 Các anh thừa biết rằng tôi không bao giờ nói dối với các anh.
-                29 Tôi xin các anh hãy đổi ý, đừng để việc bất công nầy xảy ra nữa;
+                29 Tôi xin các anh hãy đổi ý, đừng để việc bất công này xảy ra nữa;
                 Phải, xin hãy đổi ý, vì lẽ công bình của tôi tùy thuộc vào đó.
                 30 Lưỡi tôi có nói điều gì sai trái chăng?
                 Miệng tôi không thể nếm biết điều nào là đúng hay sai sao?
@@ -314,7 +314,7 @@ class Giop: Book {
                 14  Thì Ngài lại làm cho con sợ hãi vì những cơn ác mộng,
                 Ngài làm cho con kinh hoàng vì những khải tượng hãi hùng.
                 15 Vì vậy con thà bị treo cổ và chết phứt cho rồi,
-                Hơn là cứ sống trong xương thịt mà đau đớn thế nầy.
+                Hơn là cứ sống trong xương thịt mà đau đớn thế này.
                 16 Con chán ghét đời sống của con rồi;
                 Con không muốn sống cao niên trường thọ nữa.
                 Xin buông con ra, để mặc cho con sống hay chết,
@@ -655,7 +655,7 @@ class Giop: Book {
 
                 """],
             ["Lời Cầu Nguyện của Gióp Khi Ông Ngã Lòng": """
-                20 Xin ban cho con hai điều nầy,
+                20 Xin ban cho con hai điều này,
                 Ðể con khỏi phải lẩn trốn thánh nhan Ngài nữa:
                 21 Xin rút tay Ngài đang đè nặng trên con,
                 Và xin cất đi nỗi kinh sợ về Ngài để con không sợ hãi nữa.
@@ -852,7 +852,7 @@ class Giop: Book {
                 20 Các bạn tôi khinh khi nhạo báng tôi;
                 Còn tôi cứ hướng về Ðức Chúa Trời mà tuôn tràn giọt lệ.
                 21 Ước chi có ai phân xử giữa con người và Ðức Chúa Trời,
-                Như người ta phân xử giữa người nầy và người khác.
+                Như người ta phân xử giữa người này và người khác.
                 22 Vì chỉ còn vài năm ngắn ngủi nữa thôi,
                 Tôi sẽ đi vào con đường không thể trở lại được.
 
@@ -954,7 +954,7 @@ class Giop: Book {
                 Chính mình tôi sẽ mang lấy hậu quả mà thôi.
                 5 Nếu thật sự các anh muốn dạy đời tôi,
                 Và muốn đem hoàn cảnh bẽ bàng của tôi ra nói,
-                6 Thì xin các anh hãy biết rằng chính Ðức Chúa Trời đã làm cho tôi ra nông nỗi nầy,
+                6 Thì xin các anh hãy biết rằng chính Ðức Chúa Trời đã làm cho tôi ra nông nỗi này,
                 Và Ngài đã dùng lưới của Ngài bủa vây tôi tứ phía.
                 7 Nếu tôi kêu lên, “Ôi tàn bạo quá!” thì sẽ chẳng ai đáp lời;
                 Dù tôi kêu xin cứu giúp thì công lý cũng không có cho tôi.
@@ -995,8 +995,8 @@ class Giop: Book {
                 Hoặc có ai khắc chúng vào bảng đá để lưu lại muôn đời.
                 25 Còn tôi, tôi biết Ðấng Cứu Chuộc tôi vẫn sống;
                 Cuối cùng Ngài vẫn đứng, cầm quyền trị vì trên đất.
-                26 Ðến khi da tôi, tức thân xác nầy, bị tiêu hủy;
-                Thế nhưng trong thân xác nầy tôi sẽ thấy Ðức Chúa Trời,
+                26 Ðến khi da tôi, tức thân xác này, bị tiêu hủy;
+                Thế nhưng trong thân xác này tôi sẽ thấy Ðức Chúa Trời,
                 27 Ðấng mà chính tôi sẽ trông thấy, và mắt tôi sẽ ngắm nhìn Ngài, chứ không ai khác;
                 Lòng tôi mòn mỏi mong chờ ngày đó biết bao.
                 28 Nếu các anh nói, “Làm sao chúng ta có thể thuyết phục ông ấy,
@@ -1110,7 +1110,7 @@ class Giop: Book {
                 Có mấy khi chúng bị cơn thịnh nộ của Ngài giáng xuống?
                 18 Có khi nào chúng như rơm rạ bị gió lốc tốc đi?
                 Hay như rác rến bị cuồng phong cuốn mất?
-                19 Các anh có thể nói, “Biết đâu Ðức Chúa Trời chất chứa tội của nó để sau nầy sẽ giáng hình phạt trên con cháu nó thì sao?”
+                19 Các anh có thể nói, “Biết đâu Ðức Chúa Trời chất chứa tội của nó để sau này sẽ giáng hình phạt trên con cháu nó thì sao?”
                 Nhưng tôi thiết nghĩ, “Chính nó phải bị báo trả trực tiếp để nó biết hậu quả của tội ác nó đã gây ra.”
                 20 Ước gì chính mắt nó chứng kiến cảnh nó bị tiêu diệt,
                 Và chính nó phải uống cơn thịnh nộ của Ðấng Toàn Năng.
@@ -1715,7 +1715,7 @@ class Giop: Book {
                 12 Tôi chăm chú nghe khi quý vị trao đổi ý kiến với nhau;
                 Tôi thấy không lập luận nào của quý vị thắng hơn ông Gióp;
                 Không ai trong quý vị bác bẻ được ông ấy điểm nào.
-                13 Hy vọng quý vị sẽ không nói, “Chúng tôi đã tìm ra lẽ khôn ngoan nầy:
+                13 Hy vọng quý vị sẽ không nói, “Chúng tôi đã tìm ra lẽ khôn ngoan này:
                 Chỉ Ðức Chúa Trời mới bắt phục được ông ấy, chứ người ta có lẽ phải chịu thua.”
                 14 Nhưng nếu như ông ấy tranh luận với tôi,
                 Tôi sẽ không dùng các luận cứ như quý vị đã dùng để đáp lại ông ấy.
@@ -1763,7 +1763,7 @@ class Giop: Book {
                 Ngài xem tôi như kẻ thù của Ngài.
                 11 Ngài tra chân tôi vào xiềng;
                 Và Ngài theo dõi mọi bước đường của tôi.”
-                12 Thưa, trong điểm nầy, tôi xin trả lời rằng ông không đúng;
+                12 Thưa, trong điểm này, tôi xin trả lời rằng ông không đúng;
                 Ðức Chúa Trời vĩ đại hơn mọi phàm nhân.
                 13 Tại sao ông cứ tranh luận với Ngài?
                 Ngài không cần trả lời những thắc mắc của ông.
@@ -1900,8 +1900,8 @@ class Giop: Book {
         Chapter(35, passages: [
             ["Ê-li-hu Lên Án Thái Ðộ Tự Cho Mình Là Công Chính của Gióp": """
                 1 Ê-li-hu lại tiếp tục nói:
-                2 Ông nói, “Các người nghĩ tôi bị như thế nầy là đúng hay sao?
-                Trong việc nầy chẳng phải tôi đúng hơn Ðức Chúa Trời sao?”
+                2 Ông nói, “Các người nghĩ tôi bị như thế này là đúng hay sao?
+                Trong việc này chẳng phải tôi đúng hơn Ðức Chúa Trời sao?”
                 3 Ông đặt vấn đề rằng, “Ðối với Ngài, con sống ngay lành nào có lợi gì chăng?
                 Nếu con cứ giữ mình không phạm tội thì có ích gì chăng?”
                 4 Tôi xin trả lời ông,
@@ -2041,7 +2041,7 @@ class Giop: Book {
                 Chúng sẽ làm bất cứ điều gì Ngài truyền trên khắp mặt đất.
                 13 Ngài sai mây đi, khi thì để sửa phạt,
                 Khi thì để tưới nhuần mặt đất, khi thì để bày tỏ tình thương.
-                14 Thưa ông Gióp, xin ông lắng nghe điều nầy:
+                14 Thưa ông Gióp, xin ông lắng nghe điều này:
                 Xin ông đứng lại và ngẫm nghĩ về các công việc diệu kỳ của Ðức Chúa Trời một lát.
                 15 Ông có biết cách nào Ðức Chúa Trời phân bố các mệnh lệnh cho chúng không?
                 Ông có biết cách nào Ngài khiến chớp nhoáng lóe lên trong các đám mây của Ngài chăng?
@@ -2072,7 +2072,7 @@ class Giop: Book {
             ["CHÚA Trả Lời Gióp": """
                 1 Bấy giờ từ trong trận cuồng phong CHÚA đáp lời Gióp;
                 Ngài phán:
-                2 Kẻ nầy là ai mà dám dùng những lời thiếu hiểu biết
+                2 Kẻ này là ai mà dám dùng những lời thiếu hiểu biết
                 Làm lu mờ ý định của Ta?
                 3 Hãy thắt lưng ngươi cho chặt như một dũng sĩ;
                 Vì Ta sẽ hỏi ngươi, và ngươi hãy trả lời Ta.
@@ -2309,7 +2309,7 @@ class Giop: Book {
                 Hai hàm răng nó thật là kinh khủng.
                 15 Lớp vảy của nó là cái khiên che lưng nó;
                 Chúng gắn chặt với nhau như được niêm lại kỹ càng.
-                16 Chiếc vảy nầy gồi đầu trên chiếc vảy khác;
+                16 Chiếc vảy này gồi đầu trên chiếc vảy khác;
                 Chúng khít khao đến nỗi gió không thể lọt vào.
                 17 Chúng kết lại với nhau,
                 Chúng gắn chặt với nhau và không thể bị tách rời.
@@ -2355,7 +2355,7 @@ class Giop: Book {
                 1 Bấy giờ Gióp đáp lời và thưa với CHÚA:
                 2 Con biết Ngài có thể làm mọi sự;
                 Không điều chi có thể cản trở ý định Ngài.
-                3 Ngài hỏi, “Kẻ không hiểu biết nầy là ai mà dám làm che khuất ý định của Ta?”
+                3 Ngài hỏi, “Kẻ không hiểu biết này là ai mà dám làm che khuất ý định của Ta?”
                 Thật vậy con đã thốt ra những lời khi con chưa hiểu thấu;
                 Có nhiều việc diệu kỳ quá đối với con mà con chẳng biết gì.
                 4 Ngài phán, “Hãy nghe cho rõ, vì Ta sẽ nói;

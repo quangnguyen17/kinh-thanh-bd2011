@@ -1,4 +1,4 @@
-﻿
+
 class Heboro: Book {
     
     override init() {
@@ -79,7 +79,7 @@ class Heboro: Book {
                 1 Vì vậy thưa anh chị em thánh, những người cùng dự phần ơn kêu gọi từ trời, xin hãy suy nghĩ kỹ đến Ðức Chúa Jesus, Vị Sứ Ðồ và Vị Thượng Tế mà chúng ta xưng nhận.  2 Ngài đã trung tín với Ðấng bổ nhiệm Ngài, như Môi-se đã trung tín với cả nhà Ðức Chúa Trời.  3 Ngài đã được xem là vinh hiển hơn Môi-se, giống như người xây nhà được tôn trọng hơn cái nhà 4 –Nhà nào cũng do người nào đó xây dựng, còn Ðức Chúa Trời là Ðấng đã dựng nên muôn vật–  5 Môi-se đã trung tín như một đầy tớ trong cả nhà Ðức Chúa Trời, để làm chứng về những điều sẽ được công bố, 6 còn Ðấng Christ trung tín với tư cách là Con, quản trị cả nhà Ðức Chúa Trời, mà chúng ta là nhà Ngài, nếu chúng ta giữ vững đức tin và hãnh diện về hy vọng của mình cho đến cuối cùng.
 
                 """],
-            ["Sự An Nghỉ của Con Dân Chúa": """
+            ["Sự Nghỉ Ngơi của Con Dân Chúa": """
                 7 Vậy như Ðức Thánh Linh phán,
                 “Ngày nay nếu các ngươi nghe tiếng Ngài,
                 8 Thì chớ cứng lòng như trong khi nổi loạn,

@@ -1,4 +1,4 @@
-﻿
+
 class Tit: Book {
     
     override init() {
@@ -32,7 +32,7 @@ class Tit: Book {
                 6 Tương tự, con hãy khuyên các thanh niên phải đứng đắn.
                 7 Trong mọi sự, con phải tỏ ra là một người gương mẫu trong những việc tốt.  Trong sự giảng dạy, con hãy trung thực và nghiêm chỉnh, 8 lời lẽ phải lành mạnh, để không ai có thể bắt bẻ, hầu những kẻ chống đối phải hổ thẹn, không nói xấu chúng ta được điều gì.
                 9 Con hãy khuyên các công nhân phải thuận phục chủ của họ trong mọi sự, hãy làm vui lòng chủ, đừng cãi lại, 10 đừng trộm cắp, nhưng hãy tỏ ra là người tốt và đáng tin cậy hoàn toàn, để giáo lý của Ðức Chúa Trời, Ðấng Giải Cứu của chúng ta, được tôn quý trong mọi phương diện.
-                11 Vì ân sủng của Ðức Chúa Trời đã được bày tỏ để đem ơn cứu rỗi đến mọi người.  12 Ân sủng ấy dạy chúng ta phải từ bỏ nếp sống tội lỗi và những đam mê trần tục, để sống đứng đắn, chính trực, và tin kính đạo đức trong đời nầy, 13 trong khi chờ đợi hy vọng phước hạnh và sự xuất hiện vinh hiển của Ðức Chúa Trời vĩ đại và Ðấng Giải Cứu của chúng ta là Ðức Chúa Jesus Christ, 14 Ðấng đã phó chính Ngài vì chúng ta, để cứu chuộc chúng ta khỏi mọi tội lỗi ô nhơ và thanh tẩy chúng ta thành một dân thuộc riêng về Ngài, một dân nhiệt thành làm những điều tốt.
+                11 Vì ân sủng của Ðức Chúa Trời đã được bày tỏ để đem ơn cứu rỗi đến mọi người.  12 Ân sủng ấy dạy chúng ta phải từ bỏ nếp sống tội lỗi và những đam mê trần tục, để sống đứng đắn, chính trực, và tin kính đạo đức trong đời này, 13 trong khi chờ đợi hy vọng phước hạnh và sự xuất hiện vinh hiển của Ðức Chúa Trời vĩ đại và Ðấng Giải Cứu của chúng ta là Ðức Chúa Jesus Christ, 14 Ðấng đã phó chính Ngài vì chúng ta, để cứu chuộc chúng ta khỏi mọi tội lỗi ô nhơ và thanh tẩy chúng ta thành một dân thuộc riêng về Ngài, một dân nhiệt thành làm những điều tốt.
                 15 Ðó là những điều con phải nói, phải khuyên, và phải sửa dạy với tất cả uy quyền.  Ðừng để ai coi thường con.
 
                 """]

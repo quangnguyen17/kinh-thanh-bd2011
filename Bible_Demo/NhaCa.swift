@@ -1,4 +1,4 @@
-﻿
+
 class NhaCa: Book {
     
     override init() {
@@ -400,7 +400,7 @@ class NhaCa: Book {
                 Các thiếu nữ thấy nàng đều khen nàng được diễm phúc;
                 Các hoàng hậu và cung phi cũng phải khen ngợi nàng,
                 
-                10 “Cô nầy là ai mà khi xuất hiện thì rực rỡ như bình minh,
+                10 “Cô này là ai mà khi xuất hiện thì rực rỡ như bình minh,
                 Xinh đẹp tợ trăng rằm,
                 Lộng lẫy như mặt trời,
                 Và có sức thu hút mãnh liệt như một đạo quân cờ xí rợp trời?”

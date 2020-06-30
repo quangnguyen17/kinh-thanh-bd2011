@@ -1,4 +1,4 @@
-﻿
+
 class GiangSu: Book {
     
     override init() {
@@ -17,7 +17,7 @@ class GiangSu: Book {
                 
                 3 Một người làm lụng vất vả cả đời để rồi sẽ được gì dưới ánh mặt trời?
                 
-                4 Thế hệ nầy qua đi, thế hệ khác đến, nhưng trái đất vẫn còn mãi mãi.
+                4 Thế hệ này qua đi, thế hệ khác đến, nhưng trái đất vẫn còn mãi mãi.
                 5 Mặt trời mọc lên, mặt trời lặn xuống, vội vàng đi đến chỗ nó, để rồi mọc lên trở lại.
                 6 Gió thổi về hướng nam, rồi vòng lên hướng bắc;
                 Gió tiếp tục bay lòng vòng, đảo tới đảo lui, rồi lại vòng về luồng cũ.
@@ -30,7 +30,7 @@ class GiangSu: Book {
                 
                 9 Những gì đã có là những gì sẽ có; những gì đã được làm là những gì sẽ được làm.
                 Chẳng có gì mới mẻ dưới ánh mặt trời.
-                10 Có điều gì mà người ta nói, “Hãy xem, có cái nầy mới” chăng?
+                10 Có điều gì mà người ta nói, “Hãy xem, có cái này mới” chăng?
                 Nó đã có rồi, có tự thời xưa, trước khi chúng ta sinh ra.
                 
                 11 Những người sống tự ngàn xưa chẳng còn được ai nhớ đến.
@@ -93,7 +93,7 @@ class GiangSu: Book {
 
                 """],
             ["Sự Phán Xét trong Tương Lai thuộc về Ðức Chúa Trời": """
-                16 Ngoài ra tôi còn thấy điều nầy dưới ánh mặt trời: có sự gian tà ở nơi tòa án, có sự gian ác ở chốn pháp đình.  17 Tôi tự nhủ trong lòng: Ðức Chúa Trời sẽ phán xét cả người công chính lẫn kẻ gian ác, vì Ngài đã định thời điểm cho mọi điều và mọi sự.  18 Tôi tự nhủ trong lòng: về loài người, Ðức Chúa Trời thử nghiệm họ, để họ thấy rằng họ chẳng hơn gì loài thú.  19 Vì số phận của loài người và số phận của loài thú đều như nhau: loài nầy chết và loài kia cũng chết.  Cả hai đều thở chung một bầu khí quyển, và loài người chẳng hơn gì loài thú, vì tất cả đều vô nghĩa.  20 Tất cả đều về chung một chỗ; tất cả đều ra từ bụi đất, và tất cả sẽ trở về bụi đất.  21 Ai có thể biết chắc rằng rồi đây linh hồn của con người sẽ đi lên còn giác hồn của loài thú sẽ đi xuống dưới đất chăng?  22 Do đó tôi nhận thấy: không có gì tốt hơn cho con người là hưởng niềm vui trong công việc mình, vì đó là phần số của mình, vì ai sẽ đem cho người ấy thấy những gì sẽ xảy đến sau khi người ấy qua đời chăng?
+                16 Ngoài ra tôi còn thấy điều này dưới ánh mặt trời: có sự gian tà ở nơi tòa án, có sự gian ác ở chốn pháp đình.  17 Tôi tự nhủ trong lòng: Ðức Chúa Trời sẽ phán xét cả người công chính lẫn kẻ gian ác, vì Ngài đã định thời điểm cho mọi điều và mọi sự.  18 Tôi tự nhủ trong lòng: về loài người, Ðức Chúa Trời thử nghiệm họ, để họ thấy rằng họ chẳng hơn gì loài thú.  19 Vì số phận của loài người và số phận của loài thú đều như nhau: loài này chết và loài kia cũng chết.  Cả hai đều thở chung một bầu khí quyển, và loài người chẳng hơn gì loài thú, vì tất cả đều vô nghĩa.  20 Tất cả đều về chung một chỗ; tất cả đều ra từ bụi đất, và tất cả sẽ trở về bụi đất.  21 Ai có thể biết chắc rằng rồi đây linh hồn của con người sẽ đi lên còn giác hồn của loài thú sẽ đi xuống dưới đất chăng?  22 Do đó tôi nhận thấy: không có gì tốt hơn cho con người là hưởng niềm vui trong công việc mình, vì đó là phần số của mình, vì ai sẽ đem cho người ấy thấy những gì sẽ xảy đến sau khi người ấy qua đời chăng?
 
                 """]
             ]),
@@ -139,7 +139,7 @@ class GiangSu: Book {
                 8 Hãy gẫm xem, người khôn có lợi gì hơn kẻ dại chăng?  Người nghèo được lợi gì khi cố học để biết cách xử sự trước mặt những người sống chăng?
                 9 Tận hưởng những gì đang có trước mắt tốt hơn là mơ mộng những gì viển vông xa vời thực tế.  Ðiều đó cũng là vô nghĩa và là hoài công bắt gió.
                 10 Những gì hiện hữu đã được định trước từ lâu.  Con người ra sao đã được biết rõ tự ngàn xưa; người ta không thể cãi lại Ðấng mạnh hơn mình.
-                11 Quả thật càng lắm lời càng thêm vô nghĩa, vậy nói cho lắm sẽ được gì chăng?  12 Ai có thể biết trước phước hạnh gì sẽ xảy đến cho mỗi người trong cuộc sống ngắn ngủi, vô nghĩa, và qua nhanh như chiếc bóng nầy chăng?  Vì ai có thể nói cho một người biết trước chuyện gì sẽ xảy ra dưới ánh mặt trời sau khi người ấy qua đời chăng?
+                11 Quả thật càng lắm lời càng thêm vô nghĩa, vậy nói cho lắm sẽ được gì chăng?  12 Ai có thể biết trước phước hạnh gì sẽ xảy đến cho mỗi người trong cuộc sống ngắn ngủi, vô nghĩa, và qua nhanh như chiếc bóng này chăng?  Vì ai có thể nói cho một người biết trước chuyện gì sẽ xảy ra dưới ánh mặt trời sau khi người ấy qua đời chăng?
 
                 """]
             ]),
@@ -167,24 +167,24 @@ class GiangSu: Book {
                 11 Sự khôn ngoan có giá trị như gia tài để lại;
                 Nó thật ích lợi cho những ai thấy ánh mặt trời,
                 12 Vì sự khôn ngoan bảo vệ người ta như tiền bạc bảo vệ người có nó.
-                Tuy nhiên lợi thế của tri thức là thế nầy: sự khôn ngoan giữ mạng sống của người có nó.
+                Tuy nhiên lợi thế của tri thức là thế này: sự khôn ngoan giữ mạng sống của người có nó.
                 13 Hãy gẫm xem công việc của Ðức Chúa Trời;
                 Ai có thể làm thẳng những gì Ngài đã làm cong?
                 14 Trong ngày thịnh vượng, hãy vui hưởng,
                 Trong ngày hoạn nạn, khá gẫm suy.
-                Ðức Chúa Trời đã cho ngày nầy lẫn ngày kia xảy ra để con người không thể biết điều gì sẽ xảy đến sau khi từ giã cõi đời.
+                Ðức Chúa Trời đã cho ngày này lẫn ngày kia xảy ra để con người không thể biết điều gì sẽ xảy đến sau khi từ giã cõi đời.
 
                 """],
             ["Những Bí Ẩn về Cuộc Ðời": """
                 15 Trong cuộc sống vô nghĩa của tôi, tôi đã chứng kiến những điều khó hiểu:
-                Có người ngay lành sống ngay lành mà lại chết sớm, trong khi kẻ gian ác sống gian ác mà được sống lâu!  16 Ðừng sống ngay lành thái quá, và cũng đừng cư xử khôn ngoan thái quá.  Tại sao bạn muốn làm khổ mình?  17 Chớ gian ác quá, và cũng đừng dại dột.  Tại sao bạn muốn chết trước tuổi thọ của mình?  18 Tốt hơn cả là bạn hãy nắm chặt điều nầy, và cũng đừng buông ra điều kia, vì chỉ người nào kính sợ Ðức Chúa Trời mới làm được cả hai.
+                Có người ngay lành sống ngay lành mà lại chết sớm, trong khi kẻ gian ác sống gian ác mà được sống lâu!  16 Ðừng sống ngay lành thái quá, và cũng đừng cư xử khôn ngoan thái quá.  Tại sao bạn muốn làm khổ mình?  17 Chớ gian ác quá, và cũng đừng dại dột.  Tại sao bạn muốn chết trước tuổi thọ của mình?  18 Tốt hơn cả là bạn hãy nắm chặt điều này, và cũng đừng buông ra điều kia, vì chỉ người nào kính sợ Ðức Chúa Trời mới làm được cả hai.
                 19 Sự khôn ngoan ban sức mạnh cho người khôn hơn mười người có quyền thế trong thành.
                 20 Dĩ nhiên không có người ngay lành nào trên đất luôn làm điều thiện mà không hề phạm tội.
                 21 Ðừng quan tâm đến những lời người ta nói, kẻo bạn phải nghe những lời đầy tớ của bạn nguyền rủa bạn chăng.  22 Lòng bạn cũng tự biết rằng đôi khi chính bạn đã nguyền rủa người khác.
                 23 Tôi đã vận dụng sự khôn ngoan để suy xét tất cả những điều ấy.  Tôi tự nhủ, “Ta sẽ nhờ sự khôn ngoan hướng dẫn mình.”  Nhưng sự khôn ngoan đã cách xa tôi quá.  24 Sự khôn ngoan ra thể nào, không ai biết được, vì nó quá cao xa và quá sâu thẳm, ai có thể tìm được nó?  25 Tôi hướng tâm trí của tôi vào việc thu thập kiến thức và nghiên cứu để có sự khôn ngoan, hầu có thể biết tại sao mọi sự đã xảy ra như vậy, kể cả muốn biết về sự gian ác của kẻ dại và sự điên rồ của kẻ ngu.
                 26 Bây giờ tôi khám phá ra rằng có một điều đắng cay hơn cả cái chết, đó là đàn bà.  Trái tim nàng là các cạm bẫy, và vòng tay nàng là những xiềng xích vô hình.  Chỉ những ai đẹp lòng Ðức Chúa Trời mới có thể thoát khỏi tay nàng, còn kẻ nào có tội đều bị nàng bắt lấy.
-                27 Giảng Sư nói: Này, tôi đã khám phá ra điều nầy, sau khi tôi đã nghiên cứu sự việc từ mọi góc cạnh.  28 Ðây là điều lòng tôi vẫn tìm mà chưa tìm ra được: Trong một ngàn đàn ông may đâu tôi có thể tìm được một người công chính, nhưng trong tất cả đàn bà tôi chưa tìm được người nào.
-                29 Này, tôi đã khám phá ra một điều độc đáo nầy nữa: Ðức Chúa Trời đã dựng nên con người để sống ngay lành chánh trực, nhưng con người cứ toan tính nọ kia, khiến lòng họ sinh ra những ý nghĩ gian tà bất chính.
+                27 Giảng Sư nói: Này, tôi đã khám phá ra điều này, sau khi tôi đã nghiên cứu sự việc từ mọi góc cạnh.  28 Ðây là điều lòng tôi vẫn tìm mà chưa tìm ra được: Trong một ngàn đàn ông may đâu tôi có thể tìm được một người công chính, nhưng trong tất cả đàn bà tôi chưa tìm được người nào.
+                29 Này, tôi đã khám phá ra một điều độc đáo này nữa: Ðức Chúa Trời đã dựng nên con người để sống ngay lành chánh trực, nhưng con người cứ toan tính nọ kia, khiến lòng họ sinh ra những ý nghĩ gian tà bất chính.
 
                 """]
             ]),
@@ -194,8 +194,8 @@ class GiangSu: Book {
                 2 Tôi khuyên: Hãy vâng lời vua, vì bạn đã thề trước mặt Ðức Chúa Trời sẽ làm như vậy.  3 Ðừng hấp tấp rời khỏi mặt vua; chớ đứng lên binh vực cho sự dữ, vì vua có quyền làm điều gì lòng mình muốn.  4 Vì lời vua phán có thẩm quyền, và ai dám hỏi vua, “Ngài định làm gì vậy?”  5 Người nào vâng lệnh vua sẽ không sợ bị vua trị tội.  Lòng người khôn biết phân biệt thời thế và hình phạt của mỗi thời, để có thể ứng xử thích nghi.  6 Vì mỗi biến cố xảy ra đều có thời điểm riêng và hình phạt riêng, cho dù dân chúng phải chịu những áp lực đè nặng trên mình.  7 Vì không ai biết điều gì sẽ xảy ra; vậy ai có thể nói cho người khác biết việc gì sẽ xảy ra được?
                 8 Không ai có quyền trên sinh khí của mình, để có thể giữ sinh khí của mình lại hầu sống mãi.  Không ai có quyền trên ngày chết của mình.
                 Không ai được cho giải ngũ khi lâm trận thể nào, sự gian ác cũng không buông kẻ đã quen làm ác ra thể ấy.
-                9 Trong tất cả những gì tôi đã thấy xảy ra dưới ánh mặt trời và đã ghi nhớ trong lòng, tôi thấy có điều nầy: Lắm khi người có quyền thế lại là người gây đau khổ cho dân.
-                10 Tôi cũng thấy điều nầy nữa: Kẻ ác chết và được chôn cất tử tế.  Người ta khiêng xác nó từ trong thành thánh ra chôn, và chẳng bao lâu những người trong thành đều quên hết mọi việc ác nó làm.  Ðiều đó cũng là vô nghĩa.
+                9 Trong tất cả những gì tôi đã thấy xảy ra dưới ánh mặt trời và đã ghi nhớ trong lòng, tôi thấy có điều này: Lắm khi người có quyền thế lại là người gây đau khổ cho dân.
+                10 Tôi cũng thấy điều này nữa: Kẻ ác chết và được chôn cất tử tế.  Người ta khiêng xác nó từ trong thành thánh ra chôn, và chẳng bao lâu những người trong thành đều quên hết mọi việc ác nó làm.  Ðiều đó cũng là vô nghĩa.
                 11 Vì án phạt dành cho kẻ phạm tội ác không được thi hành nhanh chóng, nên lòng người cứ toan tính chuyện làm ác.
                 12 Có kẻ phạm tội cả trăm lần mà vẫn sống lâu, nhưng tôi biết chắc một điều: Ai kính sợ Ðức Chúa Trời sẽ được phước, vì người ấy biết lấy lòng kính sợ mà sống trước mặt Ngài.  13 Nhưng kẻ ác sẽ không được phước, và đời nó khó kéo dài, nhưng sẽ qua mau như chiếc bóng, vì nó không biết lấy lòng kính sợ mà sống trước mặt Ðức Chúa Trời.
                 14 Có một việc vô nghĩa mà tôi đã thấy xảy ra trên đất: Người ngay lành gặp chuyện không may xảy đến cho mình, mà đáng lý kẻ ác phải gặp chuyện ấy mới đúng, trong khi đó kẻ ác lại được may mắn, mà đáng lý điều may mắn ấy phải xảy đến cho người ngay lành mới đúng.  Tôi nói: điều đó cũng là vô nghĩa.
@@ -206,7 +206,7 @@ class GiangSu: Book {
             ]),
         Chapter(9, passages: [
             ["Hãy Tận Hưởng Cuộc Sống": """
-                1 Số là tôi đã để tâm suy gẫm về mọi điều nầy, nên tôi có thể đi đến kết luận rằng: Tất cả những gì người ngay lành và người khôn ngoan đã làm đều ở trong tay Ðức Chúa Trời.  Không ai biết mình sẽ được thương hay ghét.  Không ai biết trước chuyện gì sẽ xảy ra.  2 Cuối cùng mọi người đều cùng chung một số phận, người ngay lành cũng như kẻ gian ác, người tốt cũng như kẻ xấu, người trong sạch cũng như kẻ ô uế, người dâng các của lễ cũng như kẻ chẳng dâng gì.  Người tốt ra sao, kẻ có tội cũng như vậy.  Người đã thề ra sao, kẻ sợ mà không dám thề gì cũng như vậy.
+                1 Số là tôi đã để tâm suy gẫm về mọi điều này, nên tôi có thể đi đến kết luận rằng: Tất cả những gì người ngay lành và người khôn ngoan đã làm đều ở trong tay Ðức Chúa Trời.  Không ai biết mình sẽ được thương hay ghét.  Không ai biết trước chuyện gì sẽ xảy ra.  2 Cuối cùng mọi người đều cùng chung một số phận, người ngay lành cũng như kẻ gian ác, người tốt cũng như kẻ xấu, người trong sạch cũng như kẻ ô uế, người dâng các của lễ cũng như kẻ chẳng dâng gì.  Người tốt ra sao, kẻ có tội cũng như vậy.  Người đã thề ra sao, kẻ sợ mà không dám thề gì cũng như vậy.
                 3 Ðây là điều bất hạnh trong mọi sự đã xảy ra dưới ánh mặt trời: Cuối cùng mọi người đều cùng chung một số phận.  Vì thế lòng dạ của con người cứ đầy những gian ác xấu xa.  Ngày nào còn sống, tâm địa của họ vẫn còn ấp ủ những chuyện điên rồ, để rồi sau đó họ sẽ nhập bọn với những người đã chết.
                 4 Quả thật tất cả những ai hiện đang sống đều còn có hy vọng, vì con chó sống vẫn tốt hơn con sư tử chết.  5 Vì ít nữa người sống còn biết mình sẽ chết, nhưng kẻ chết rồi chẳng còn biết điều chi.  Họ đâu còn hưởng nhận được gì, thậm chí kỷ niệm về họ cũng đã rơi vào quên lãng.  6 Bao nhiêu yêu thương, thù ghét, và ganh tị của họ đều đã tan biến.  Họ sẽ không bao giờ có phần gì về những việc sẽ xảy ra dưới ánh mặt trời nữa.
                 7 Hãy đi, hãy ăn thức ăn của bạn cách vui vẻ, hãy uống rượu của bạn với tâm hồn khoan khoái, vì bây giờ Ðức Chúa Trời chấp nhận những việc bạn làm.  8 Hãy luôn mặc đẹp và đừng thiếu dầu thơm trên đầu.
@@ -227,7 +227,7 @@ class GiangSu: Book {
 
                 """],
             ["Khôn Ngoan Tốt Hơn Dại Dột": """
-                13 Tôi cũng đã thấy điều nầy liên quan đến sự khôn ngoan đã xảy ra dưới ánh mặt trời, và điều đó rất có ý nghĩa đối với tôi: 14 Có một thành nhỏ kia với dân số ít ỏi.  Một đại vương nọ kéo quân đến đánh và bao vây thành.  Vua ấy xây các công sự lớn để tấn công thành.  15 Bấy giờ người ta tìm được trong thành một người nghèo mà khôn.  Người ấy đã dùng sự khôn ngoan của mình để giải cứu thành; nhưng sau đó không ai nhớ đến người nghèo ấy cả.  16 Vì thế tôi nói: Sự khôn ngoan mạnh hơn vũ lực, nhưng sự khôn ngoan của người nghèo bị coi thường, và lời nói của người nghèo không được ai đếm xỉa.
+                13 Tôi cũng đã thấy điều này liên quan đến sự khôn ngoan đã xảy ra dưới ánh mặt trời, và điều đó rất có ý nghĩa đối với tôi: 14 Có một thành nhỏ kia với dân số ít ỏi.  Một đại vương nọ kéo quân đến đánh và bao vây thành.  Vua ấy xây các công sự lớn để tấn công thành.  15 Bấy giờ người ta tìm được trong thành một người nghèo mà khôn.  Người ấy đã dùng sự khôn ngoan của mình để giải cứu thành; nhưng sau đó không ai nhớ đến người nghèo ấy cả.  16 Vì thế tôi nói: Sự khôn ngoan mạnh hơn vũ lực, nhưng sự khôn ngoan của người nghèo bị coi thường, và lời nói của người nghèo không được ai đếm xỉa.
                 17 Lời nói của người khôn thốt ra cách nhỏ nhẹ được nghe rõ hơn tiếng la hét của kẻ cầm quyền đoán xét giữa những kẻ dại khờ.
                 18 Sự khôn ngoan có năng lực hơn các vũ khí chiến tranh, nhưng một kẻ nội gián có thể phá tan bao nhiêu kỳ mưu diệu kế.
 
@@ -315,7 +315,7 @@ class GiangSu: Book {
             ["Lời Kết": """
                 9 Giảng Sư không những là một người khôn ngoan, mà còn là một giáo sư dạy cho dân kiến thức.  Ông đã cân nhắc, suy tư, và sắp đặt tư tưởng thành nhiều câu châm ngôn.  10 Giảng Sư đã tìm những lời hay ý đẹp để diễn tả các sứ điệp của chân lý, rồi ghi chép lại một cách trung thực.
                 11 Những lời dạy của người khôn ngoan giống như các gậy nhọn thúc bò; những lời nói của bậc tri thức đã sưu tập thật vững như đinh đóng cột, được một người chăn ban cho.
-                12 Hỡi con, ngoài những lời nầy, con hãy coi chừng.  Việc xuất bản nhiều sách sẽ không bao giờ hết, cho nên học nhiều thứ lung tung sẽ chỉ thêm mệt xác mà thôi.
+                12 Hỡi con, ngoài những lời này, con hãy coi chừng.  Việc xuất bản nhiều sách sẽ không bao giờ hết, cho nên học nhiều thứ lung tung sẽ chỉ thêm mệt xác mà thôi.
                 13 Lời kết cho mọi điều chúng ta đã nghe nói ở trên: Hãy kính sợ Ðức Chúa Trời và vâng giữ các điều răn Ngài; đó là trọn phận sự của mỗi người, 14 vì Ðức Chúa Trời sẽ đem mọi sự ra để phán xét, luôn cả các việc bí mật, bất kể tốt hay xấu.
 
                 """]

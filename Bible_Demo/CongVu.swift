@@ -1,4 +1,4 @@
-﻿
+
 class CongVu: Book {
     
     override init() {
@@ -23,7 +23,7 @@ class CongVu: Book {
 
                 """],
             ["Các Môn Ðồ Cầu Nguyện": """
-                12 Bấy giờ những người ấy từ núi tên là Ô-liu trở về Giê-ru-sa-lem.  Núi ấy ở gần Giê-ru-sa-lem, cách thành khoảng một đoạn đường được phép đi trong ngày Sa-bát.  13 Khi đã vào thành, họ lên một phòng cao kia và ở tại đó.  Những người đó là Phi-rơ, Giăng, Gia-cơ, Anh-rê, Phi-líp, Thô-ma, Ba-thô-lô-mi, Ma-thi-ơ, Gia-cơ con của Anh-phê, Si-môn Xê-lốt, và Giu-đa con của Gia-cơ.  14 Tất cả những người ấy đồng lòng hiệp ý liên tục cầu nguyện với các bà, với Ma-ry mẹ của Ðức Chúa Jesus, và với các em trai Ngài.
+                12 Bấy giờ những người ấy từ núi tên là Ô-liu trở về Giê-ru-sa-lem.  Núi ấy ở gần Giê-ru-sa-lem, cách thành khoảng một đoạn đường được phép đi trong ngày Sa-bát.  13 Khi đã vào thành, họ lên một phòng cao kia, nơi họ tạm trú.  Những người đó là Phi-rơ, Giăng, Gia-cơ, Anh-rê, Phi-líp, Thô-ma, Ba-thô-lô-mi, Ma-thi-ơ, Gia-cơ con của Anh-phê, Si-môn Xê-lốt, và Giu-đa con của Gia-cơ.  14 Tất cả những người ấy đồng lòng hiệp ý liên tục cầu nguyện với các bà, với Ma-ry mẹ của Ðức Chúa Jesus, và với các em trai Ngài.
 
                 """],
             ["Ma-thia Ðược Chọn Làm Sứ Ðồ": """

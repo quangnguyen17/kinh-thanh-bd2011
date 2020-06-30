@@ -23,7 +23,7 @@ class SoPhoNi: Book {
                 Những kẻ gian ác sẽ ngã gục,
                 Ta sẽ diệt trừ loài người khỏi mặt đất,” CHÚA phán.
                 4 “Ta sẽ đưa tay ra chống lại Giu-đa, và nghịch lại mọi kẻ sống ở Giê-ru-sa-lem.
-                Ta sẽ diệt trừ khỏi chốn nầy những kẻ thờ lạy Ba-anh còn sót lại.
+                Ta sẽ diệt trừ khỏi chốn này những kẻ thờ lạy Ba-anh còn sót lại.
                 Ta sẽ diệt trừ các tư tế thờ lạy hình tượng, để tên tuổi chúng không còn nữa.
                 5 Ta sẽ diệt trừ những kẻ lên sân thượng sụp lạy và thờ phượng các thần linh trên không trung,
                 Và những kẻ sấp mình xuống nhân danh CHÚA mà thề, rồi lại nhân danh Minh-côm mà thề,

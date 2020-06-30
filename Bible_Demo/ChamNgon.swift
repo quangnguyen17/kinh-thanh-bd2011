@@ -1,4 +1,4 @@
-﻿
+
 class ChamNgon: Book {
     
     override init() {
@@ -70,7 +70,7 @@ class ChamNgon: Book {
                 Sao những kẻ ưa nhạo báng cứ đam mê nhạo báng,
                 Và những kẻ điên rồ cứ mãi ghét khôn ngoan?
                 23 Nếu các ngươi trở lại khi nghe Ta quở trách,
-                Nầy, Thần Ta sẽ tuôn đổ trên các ngươi;
+                Này, Thần Ta sẽ tuôn đổ trên các ngươi;
                 Ta sẽ làm cho các ngươi hiểu biết lời Ta.
                 24 Nhưng vì Ta mời gọi mà các ngươi từ chối;
                 Ta dang tay đón mời nhưng các ngươi vẫn lãnh đạm làm ngơ.
@@ -203,7 +203,7 @@ class ChamNgon: Book {
 
                 """],
             ["Sự An Ninh Thật": """
-                21 Con ơi, đừng để những điều nầy vuột khỏi tầm mắt con:
+                21 Con ơi, đừng để những điều này vuột khỏi tầm mắt con:
                 Hãy giữ lấy sự khôn ngoan và sự cẩn trọng.
                 22 Những điều ấy sẽ là sức sống của linh hồn con,
                 Và là những đồ trang sức nơi cổ con.
@@ -364,7 +364,7 @@ class ChamNgon: Book {
                 Nếu con trao tay cam kết để bảo đảm cho một người xa lạ,
                 2 Con đã bị ràng buộc bởi những lời miệng con đã hứa,
                 Con đã bị trói buộc bởi những lời miệng con đã nói ra.
-                3 Vậy con ơi, hãy làm điều nầy và giải thoát con ra,
+                3 Vậy con ơi, hãy làm điều này và giải thoát con ra,
                 Vì con đã sa vào tay của người lân cận con,
                 Hãy đi, hạ mình xuống, và năn nỉ người lân cận con.
                 4 Ðừng cho mắt con ngủ,
@@ -1321,7 +1321,7 @@ class ChamNgon: Book {
                 18 Hãy sửa trị con bạn khi còn tia hy vọng;
                 Nhưng lòng bạn đừng mong nó bị diệt vong.
                 19 Người giận dữ thái quá ắt chuốc lấy hình phạt;
-                Nếu bạn cứu người ấy lần nầy, hãy chuẩn bị để cứu lại lần sau.
+                Nếu bạn cứu người ấy lần này, hãy chuẩn bị để cứu lại lần sau.
                 20 Hãy lắng nghe lời khuyên bảo và hãy lãnh hội lời giáo huấn,
                 Ðể có được khôn ngoan hầu biết ứng biến trong tương lai.
                 
@@ -1406,7 +1406,7 @@ class ChamNgon: Book {
                 Những cây cân không đúng đều bất hảo trước mặt Ngài.
                 24 Mọi bước tiến của con người đều do CHÚA định;
                 Vậy làm sao người ta hiểu được đường lối mình?
-                25 Kẻ hấp tấp khấn hứa, “Con xin biệt riêng vật nầy ra thánh.”
+                25 Kẻ hấp tấp khấn hứa, “Con xin biệt riêng vật này ra thánh.”
                 Sau khi hứa nguyện rồi mới thấy là đã tự gài bẫy để bắt mình.
                 26 Vua khôn ngoan đoán phạt phường gian ác;
                 Áp dụng bánh xe luật hình nghiền nát chúng tiêu vong.
@@ -1922,7 +1922,7 @@ class ChamNgon: Book {
                 Ðể cha có thể đối đáp với những kẻ chỉ trích cha.
                 
                 12 Người khôn ngoan thấy hiểm nguy liền lẩn tránh,
-                Kẻ dại dột cứ bươn càn nên gánh vạ vào thân.
+                Nhưng kẻ dại khờ cứ bươn càn nên gánh vạ vào thân.
                 
                 13 Hãy giữ lấy áo choàng của kẻ đem cầm nó để bảo đảm cho người lạ,
                 Nhất là khi nó dùng để làm của thế chân cho người phụ nữ lăng loàn.

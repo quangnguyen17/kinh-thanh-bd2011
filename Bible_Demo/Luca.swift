@@ -22,22 +22,22 @@ class Luca: Book {
                 5 Trong thời Vua Hê-rốt xứ Giu-đê, có một tư tế tên là Xa-cha-ri, thuộc dòng tư tế A-bi-gia.  Vợ ông tên là Ê-li-sa-bét, thuộc dòng dõi A-rôn.  6 Cả hai vợ chồng là người công chính trước mặt Ðức Chúa Trời, vâng giữ các điều răn và mạng lịnh của Chúa không chỗ nào chê trách được.  7 Nhưng hai người không có con, vì Ê-li-sa-bét hiếm muộn, và hai người đã cao tuổi.
                 8 Một ngày kia Xa-cha-ri thi hành chức vụ tư tế trước mặt Ðức Chúa Trời theo phiên thứ của ông; 9 ông được trúng thăm theo thông lệ của các tư tế lúc bấy giờ để vào dâng hương trong đền thánh của Chúa.
                 10 Ðúng vào giờ dâng hương, trong khi hội chúng đang cầu nguyện bên ngoài, 11 một thiên sứ của Chúa hiện ra với ông và đứng bên phải của bàn thờ dâng hương.  12 Khi Xa-cha-ri thấy vị thiên sứ, ông hoảng sợ và nỗi kinh hoàng phủ lấy ông.  13 Nhưng vị thiên sứ nói với ông, “Hỡi Xa-cha-ri, đừng sợ, vì lời cầu nguyện của ngươi đã được nhậm.  Ê-li-sa-bét vợ ngươi sẽ sinh cho ngươi một con trai, và ngươi sẽ đặt tên con trai đó là Giăng.  14 Ðứa con ấy sẽ là niềm vui hớn hở cho ngươi.  Nhiều người sẽ hoan hỉ khi nó chào đời, 15 vì nó sẽ thành một vĩ nhân trước mặt Chúa.  Nó sẽ không được uống rượu hay thức uống làm cho say.  Nó sẽ được đầy dẫy Ðức Thánh Linh từ khi còn trong lòng mẹ.  16 Nó sẽ làm cho nhiều người I-sơ-ra-ên quay về với Chúa, Ðức Chúa Trời của họ.  17 Nó sẽ đi trước mặt Chúa với tinh thần và quyền năng của Ê-li.  Nó sẽ làm lòng cha ông quay về với con cháu, và những kẻ bội nghịch sẽ vâng theo sự khôn ngoan của người công chính, để chuẩn bị một dân sẵn sàng cho Chúa.”
-                18 Xa-cha-ri thưa với thiên sứ, “Làm sao tôi biết việc nầy sẽ xảy ra, vì tôi đã già, còn vợ tôi lại cao tuổi?”
-                19 Vị thiên sứ trả lời và nói với ông, “Ta là Gáp-ri-ên, đứng hầu trước mặt Ðức Chúa Trời, và ta được sai đến để nói với ngươi và báo cho ngươi tin mừng nầy.  20 Này, ngươi sẽ bị câm và không nói được cho đến ngày những điều ấy xảy ra, bởi vì ngươi không tin những lời ta, những lời sẽ xảy ra đúng kỳ đã định cho chúng.”
+                18 Xa-cha-ri thưa với thiên sứ, “Làm sao tôi biết việc này sẽ xảy ra, vì tôi đã già, còn vợ tôi lại cao tuổi?”
+                19 Vị thiên sứ trả lời và nói với ông, “Ta là Gáp-ri-ên, đứng hầu trước mặt Ðức Chúa Trời, và ta được sai đến để nói với ngươi và báo cho ngươi tin mừng này.  20 Này, ngươi sẽ bị câm và không nói được cho đến ngày những điều ấy xảy ra, bởi vì ngươi không tin những lời ta, những lời sẽ xảy ra đúng kỳ đã định cho chúng.”
                 21 Trong khi đó dân chúng bên ngoài trông đợi Xa-cha-ri; họ hoang mang lo lắng vì ông ở trong đền thánh quá lâu.  22 Khi thấy ông trở ra và không thể nói được với họ, họ nhận biết rằng ông đã thấy một khải tượng trong đền thánh.  Ông cứ ra dấu với họ và không thể nói được.  23 Khi thời kỳ phục vụ của ông mãn, ông trở về nhà.
                 24 Sau những ngày đó, bà Ê-li-sa-bét vợ ông thụ thai; bà sống ẩn dật trong năm tháng.  Bà nói, 25 “Ðây là điều Chúa đã làm cho tôi khi Ngài làm ơn cho tôi, Ngài đã cất khỏi tôi nỗi tủi hổ giữa người đời.”
 
                 """],
             ["Thiên Sứ Báo Tin Chúa Giáng Sinh": """
                 26 Vào tháng thứ sáu, Ðức Chúa Trời sai thiên sứ Gáp-ri-ên đến Thành Na-xa-rét, miền Ga-li-lê, 27 gặp một trinh nữ đã đính hôn với một thanh niên tên là Giô-sép, thuộc dòng Vua Ða-vít.  Trinh nữ ấy tên là Ma-ry.  28 Thiên sứ đến gặp nàng và nói, “Hỡi người được ơn, chúc mừng cô, Chúa ở cùng cô.”
-                29 Nghe như thế Ma-ry bối rối và tự hỏi lời chào ấy có nghĩa gì.  30 Thiên sứ nói với nàng, “Hỡi Ma-ry, đừng sợ, vì cô đã được ơn trước mặt Ðức Chúa Trời.  31 Nầy, cô sẽ có thai, sinh một con trai, và cô sẽ đặt tên con trai ấy là Jesus.  32 Con trai ấy sẽ thành một vĩ nhân và sẽ được gọi là Con của Ðấng Tối Cao.  Chúa, Ðức Chúa Trời, sẽ ban cho Ngài ngai của Ða-vít tổ phụ Ngài.  33 Ngài sẽ trị vì nhà Gia-cốp đời đời.  Vương quốc Ngài sẽ trường tồn bất tận.”
+                29 Nghe như thế Ma-ry bối rối và tự hỏi lời chào ấy có nghĩa gì.  30 Thiên sứ nói với nàng, “Hỡi Ma-ry, đừng sợ, vì cô đã được ơn trước mặt Ðức Chúa Trời.  31 Này, cô sẽ có thai, sinh một con trai, và cô sẽ đặt tên con trai ấy là Jesus.  32 Con trai ấy sẽ thành một vĩ nhân và sẽ được gọi là Con của Ðấng Tối Cao.  Chúa, Ðức Chúa Trời, sẽ ban cho Ngài ngai của Ða-vít tổ phụ Ngài.  33 Ngài sẽ trị vì nhà Gia-cốp đời đời.  Vương quốc Ngài sẽ trường tồn bất tận.”
                 34 Ma-ry thưa với thiên sứ, “Làm sao việc ấy có thể xảy ra được, vì tôi chưa hề biết một người nam nào?”
                 35 Thiên sứ trả lời và nói với nàng, “Ðức Thánh Linh sẽ ngự xuống trên cô, và quyền năng của Ðấng Tối Cao sẽ bao phủ cô.  Vì thế Con Thánh sinh ra sẽ được gọi là Con Ðức Chúa Trời.  36 Kìa Ê-li-sa-bét, bà con của cô, đang mang thai một trai trong tuổi già nua.  Bà ấy vốn có tiếng là hiếm muộn mà nay đã mang thai được sáu tháng rồi, 37 bởi vì không việc chi Ðức Chúa Trời chẳng làm được.”
                 38 Ma-ry thưa, “Tôi đây là tớ gái của Chúa, xin việc ấy xảy ra cho tôi như lời ngài truyền.”  Sau đó thiên sứ lìa khỏi Ma-ry.
 
                 """],
             ["Ma-ry Thăm Ê-li-sa-bét": """
-                39 Trong những ngày ấy Ma-ry đứng dậy và vội vàng đến một thành trong vùng đồi núi xứ Giu-đê, 40 vào nhà của Xa-cha-ri, và chào Ê-li-sa-bét.  41 Vừa khi nghe tiếng chào của Ma-ry, thai nhi trong bụng Ê-li-sa-bét nhảy lên, và Ê-li-sa-bét được đầy dẫy Ðức Thánh Linh.  42 Bà cất tiếng nói lớn, “Cô thật có phước giữa vòng phụ nữ!  Thai nhi trong dạ cô cũng có phước thay!  43 Do đâu mà tôi được vinh dự nầy, đó là được thân mẫu của Chúa đến thăm tôi?  44 Vì nầy, vừa khi tai tôi nghe tiếng cô chào, thai nhi trong bụng tôi đã nhảy lên mừng rỡ.  45 Phước thay cho người tin rằng Chúa sẽ làm ứng nghiệm những gì Ngài đã phán với mình.”
+                39 Trong những ngày ấy Ma-ry đứng dậy và vội vàng đến một thành trong vùng đồi núi xứ Giu-đê, 40 vào nhà của Xa-cha-ri, và chào Ê-li-sa-bét.  41 Vừa khi nghe tiếng chào của Ma-ry, thai nhi trong bụng Ê-li-sa-bét nhảy lên, và Ê-li-sa-bét được đầy dẫy Ðức Thánh Linh.  42 Bà cất tiếng nói lớn, “Cô thật có phước giữa vòng phụ nữ!  Thai nhi trong dạ cô cũng có phước thay!  43 Do đâu mà tôi được vinh dự này, đó là được thân mẫu của Chúa đến thăm tôi?  44 Vì này, vừa khi tai tôi nghe tiếng cô chào, thai nhi trong bụng tôi đã nhảy lên mừng rỡ.  45 Phước thay cho người tin rằng Chúa sẽ làm ứng nghiệm những gì Ngài đã phán với mình.”
 
                 """],
             ["Lời Ca Ngợi của Ma-ry": """
@@ -111,7 +111,7 @@ class Luca: Book {
 
                 """],
             ["Thiên Sứ Báo Tin cho Các Mục Ðồng": """
-                8 Bấy giờ trong miền đó có mấy người chăn chiên đang ở ngoài đồng, thức đêm canh giữ đàn chiên.  9 Thình lình một thiên sứ của Chúa hiện đến với họ; hào quang của Chúa chói lòa quanh họ; họ rất sợ hãi.  10 Thiên sứ phán, “Ðừng sợ, vì này, ta báo cho các ngươi một tin mừng, tin nầy sẽ là niềm vui lớn cho muôn dân: 11 Hôm nay trong Thành Ða-vít, một Ðấng Giải Cứu đã sinh ra cho các ngươi; Ngài là Ðấng Christ, là Chúa.  12 Ðây là dấu để các ngươi nhận ra Ngài: các ngươi sẽ thấy một Hài Nhi được bọc trong khăn, nằm trong máng cỏ.”
+                8 Bấy giờ trong miền đó có mấy người chăn chiên đang ở ngoài đồng, thức đêm canh giữ đàn chiên.  9 Thình lình một thiên sứ của Chúa hiện đến với họ; hào quang của Chúa chói lòa quanh họ; họ rất sợ hãi.  10 Thiên sứ phán, “Ðừng sợ, vì này, ta báo cho các ngươi một tin mừng, tin này sẽ là niềm vui lớn cho muôn dân: 11 Hôm nay trong Thành Ða-vít, một Ðấng Giải Cứu đã sinh ra cho các ngươi; Ngài là Ðấng Christ, là Chúa.  12 Ðây là dấu để các ngươi nhận ra Ngài: các ngươi sẽ thấy một Hài Nhi được bọc trong khăn, nằm trong máng cỏ.”
                 13 Thình lình muôn vàn thiên binh hiện ra, hiệp cùng vị thiên sứ đó trỗi tiếng ca ngợi Ðức Chúa Trời rằng,
                 14 “Vinh danh Thiên Chúa trên trời,
                 Bình an dưới thế cho người được ơn.”
@@ -135,9 +135,9 @@ class Luca: Book {
                 29 “Lạy Chúa, bây giờ xin cho tôi tớ Ngài qua đời bình an, theo như lời Ngài đã phán,
                 30 Bởi vì chính mắt con đã thấy ơn cứu rỗi của Ngài,
                 31 Mà Ngài đã chuẩn bị trước mặt muôn dân.
-                32 Con trẻ nầy là ánh sáng soi đường cho các dân ngoại,
+                32 Con trẻ này là ánh sáng soi đường cho các dân ngoại,
                 Và là vinh hiển của I-sơ-ra-ên dân Ngài.”
-                33 Cha mẹ của Ngài lấy làm lạ về những điều ông nói về Ngài.  34 Si-mê-ôn chúc phước cho họ và nói với Ma-ry mẹ Ngài, “Này, đứa trẻ nầy sẽ là cớ cho nhiều người trong I-sơ-ra-ên ngã nhào hay trỗi dậy và sẽ là cớ cho người ta chống đối, 35 để những tư tưởng thầm kín trong lòng họ được lộ ra.  Còn chính cô, cô sẽ đau đớn như bị một thanh gươm đâm thấu vào lòng.”
+                33 Cha mẹ của Ngài lấy làm lạ về những điều ông nói về Ngài.  34 Si-mê-ôn chúc phước cho họ và nói với Ma-ry mẹ Ngài, “Này, đứa trẻ này sẽ là cớ cho nhiều người trong I-sơ-ra-ên ngã nhào hay trỗi dậy và sẽ là cớ cho người ta chống đối, 35 để những tư tưởng thầm kín trong lòng họ được lộ ra.  Còn chính cô, cô sẽ đau đớn như bị một thanh gươm đâm thấu vào lòng.”
 
                 """],
             ["Nữ Tiên Tri An-na Ca Tụng Chúa": """
@@ -149,7 +149,7 @@ class Luca: Book {
 
                 """],
             ["Chúa tại Ðền Thờ lúc Niên Thiếu": """
-                41 Thuở ấy mỗi năm cha mẹ Ngài đều đi lên Giê-ru-sa-lem để dự Lễ Vượt Qua.  42 Khi Ngài được mười hai tuổi, họ đi lên Giê-ru-sa-lem để dự lễ như thường lệ.  43 Khi những ngày lễ xong họ trở về nhà, cậu thiếu niên Jesus vẫn còn ở lại Giê-ru-sa-lem mà cha mẹ Ngài không biết.  44 Họ tưởng Ngài đang đi trong đoàn lữ hành trên đường về.  Sau khi đi một ngày đường, họ bắt đầu tìm kiếm Ngài giữa các bà con và những người quen biết.  45 Khi tìm không thấy, họ quay trở lại Giê-ru-sa-lem để kiếm Ngài.  46 Sau ba ngày, họ tìm thấy Ngài lúc ấy đang ở trong đền thờ, ngồi giữa các giáo sư, lắng nghe họ giảng dạy, và đặt những câu hỏi.  47 Tất cả những ai nghe Ngài nói đều ngạc nhiên về sự thông minh và những lời đối đáp của Ngài.  48 Khi thấy Ngài, cha mẹ Ngài sửng sốt; mẹ Ngài nói với Ngài, “Con à, tại sao con làm cho cha mẹ phải vất vả thế nầy?  Này, cha con và mẹ đã tìm con và lo lắng cho con biết bao.”
+                41 Thuở ấy mỗi năm cha mẹ Ngài đều đi lên Giê-ru-sa-lem để dự Lễ Vượt Qua.  42 Khi Ngài được mười hai tuổi, họ đi lên Giê-ru-sa-lem để dự lễ như thường lệ.  43 Khi những ngày lễ xong họ trở về nhà, cậu thiếu niên Jesus vẫn còn ở lại Giê-ru-sa-lem mà cha mẹ Ngài không biết.  44 Họ tưởng Ngài đang đi trong đoàn lữ hành trên đường về.  Sau khi đi một ngày đường, họ bắt đầu tìm kiếm Ngài giữa các bà con và những người quen biết.  45 Khi tìm không thấy, họ quay trở lại Giê-ru-sa-lem để kiếm Ngài.  46 Sau ba ngày, họ tìm thấy Ngài lúc ấy đang ở trong đền thờ, ngồi giữa các giáo sư, lắng nghe họ giảng dạy, và đặt những câu hỏi.  47 Tất cả những ai nghe Ngài nói đều ngạc nhiên về sự thông minh và những lời đối đáp của Ngài.  48 Khi thấy Ngài, cha mẹ Ngài sửng sốt; mẹ Ngài nói với Ngài, “Con à, tại sao con làm cho cha mẹ phải vất vả thế này?  Này, cha con và mẹ đã tìm con và lo lắng cho con biết bao.”
                 49 Ngài đáp, “Thưa mẹ, sao cha mẹ tìm con?  Cha mẹ không biết con phải ở trong nhà của Cha con sao?”
                 50 Nhưng họ không hiểu những lời Ngài nói với họ.  51 Ngài đi xuống với họ, trở về Na-xa-rét, và vâng phục họ.  Mẹ Ngài ghi nhớ mọi điều ấy trong lòng.  52 Ðức Chúa Jesus khôn ngoan càng thêm, thân hình càng lớn, càng đẹp lòng Ðức Chúa Trời và người ta.
 
@@ -173,7 +173,7 @@ class Luca: Book {
                 Mọi đường cong quẹo phải sửa cho ngay;
                 Mọi lối gập ghềnh phải ban cho phẳng;
                 6 Bấy giờ mọi loài xác thịt sẽ thấy ơn cứu rỗi của Ðức Chúa Trời.’”
-                7 Vậy Giăng nói với đoàn dân kéo ra gặp ông để chịu báp-têm, “Hỡi dòng dõi của rắn lục kia, ai đã cảnh cáo các người để chạy trốn cơn thịnh nộ sắp đến?  8 Vậy khá kết quả xứng đáng với sự ăn năn.  Ðừng tự nhủ rằng, ‘Chúng tôi đã có Áp-ra-ham là tổ phụ rồi,’ vì tôi nói cho các người biết: Ðức Chúa Trời có thể dấy lên con cháu của Áp-ra-ham từ những viên đá nầy.  9 Này, cái rìu đã để kề gốc cây.  Hễ cây nào không sinh trái tốt sẽ bị đốn và quăng vào lửa.”
+                7 Vậy Giăng nói với đoàn dân kéo ra gặp ông để chịu báp-têm, “Hỡi dòng dõi của rắn lục kia, ai đã cảnh cáo các người để chạy trốn cơn thịnh nộ sắp đến?  8 Vậy khá kết quả xứng đáng với sự ăn năn.  Ðừng tự nhủ rằng, ‘Chúng tôi đã có Áp-ra-ham là tổ phụ rồi,’ vì tôi nói cho các người biết: Ðức Chúa Trời có thể dấy lên con cháu của Áp-ra-ham từ những viên đá này.  9 Này, cái rìu đã để kề gốc cây.  Hễ cây nào không sinh trái tốt sẽ bị đốn và quăng vào lửa.”
                 10 Dân chúng hỏi ông, “Thế thì chúng tôi phải làm gì?”
                 11 Ông đáp, “Ai có hai áo hãy chia bớt cho người không áo; tương tự, ai có thực phẩm, hãy chia sớt cho người không có.”
                 12 Ngay cả những người thu thuế cũng đến chịu báp-têm, họ hỏi ông, “Thưa thầy, chúng tôi phải làm chi?”
@@ -201,10 +201,10 @@ class Luca: Book {
             ["Chúa Chịu Sa-tan Cám Dỗ": """
                 (Mat 4:1-11; Mác 1:12-13)
                 
-                1 Ðức Chúa Jesus đầy dẫy Ðức Thánh Linh, từ Sông Giô-đanh trở về, và được Ðức Thánh Linh dẫn vào đồng hoang.  2 Ngài ở đó bốn mươi ngày và chịu Ác Quỷ cám dỗ.  Trong những ngày ấy, Ngài không ăn gì; khi thời gian ấy đã mãn, Ngài đói.  3 Ác Quỷ nói với Ngài, “Nếu ngươi là Con Ðức Chúa Trời, hãy ra lịnh cho viên đá nầy biến thành bánh đi.”
+                1 Ðức Chúa Jesus đầy dẫy Ðức Thánh Linh, từ Sông Giô-đanh trở về, và được Ðức Thánh Linh dẫn vào đồng hoang.  2 Ngài ở đó bốn mươi ngày và chịu Ác Quỷ cám dỗ.  Trong những ngày ấy, Ngài không ăn gì; khi thời gian ấy đã mãn, Ngài đói.  3 Ác Quỷ nói với Ngài, “Nếu ngươi là Con Ðức Chúa Trời, hãy ra lịnh cho viên đá này biến thành bánh đi.”
                 4 Ðức Chúa Jesus phán với nó, “Có lời chép rằng,
                 ‘Người ta sống không chỉ nhờ cơm bánh mà thôi.’”
-                5 Sau đó Ác Quỷ đưa Ngài lên một nơi cao và chỉ cho Ngài tất cả các vương quốc trên thế gian trong giây lát, 6 rồi nó nói với Ngài, “Ta sẽ ban tất cả quyền lực và vinh hiển của các vương quốc nầy cho ngươi, vì quyền ấy đã trao cho ta, và ta muốn ban cho ai tùy ý.  7 Vậy bây giờ, nếu ngươi quỳ xuống thờ lạy ta, tất cả sẽ thuộc về ngươi.”
+                5 Sau đó Ác Quỷ đưa Ngài lên một nơi cao và chỉ cho Ngài tất cả các vương quốc trên thế gian trong giây lát, 6 rồi nó nói với Ngài, “Ta sẽ ban tất cả quyền lực và vinh hiển của các vương quốc này cho ngươi, vì quyền ấy đã trao cho ta, và ta muốn ban cho ai tùy ý.  7 Vậy bây giờ, nếu ngươi quỳ xuống thờ lạy ta, tất cả sẽ thuộc về ngươi.”
                 8 Ðức Chúa Jesus trả lời và nói với nó, “Có lời chép rằng,
                 ‘Ngươi phải thờ phượng Chúa, Ðức Chúa Trời của ngươi và chỉ phụng sự một mình Ngài mà thôi.’”
                 9 Kế đó Ác Quỷ đưa Ngài đến Giê-ru-sa-lem, để Ngài đứng trên nóc đền thờ, rồi nói với Ngài, “Nếu ngươi là Con Ðức Chúa Trời, hãy gieo mình xuống đi, 10 vì có lời chép rằng,
@@ -241,7 +241,7 @@ class Luca: Book {
                 19 Hầu công bố năm hồng ân của Chúa.”
                 
                 20 Ngài cuốn cuộn sách lại, trao cho người giúp việc hội đường, rồi ngồi xuống.  Mọi mắt trong hội đường đều chăm chú nhìn Ngài.  21 Ngài bắt đầu nói với họ, “Hôm nay lời Kinh Thánh các ngươi vừa nghe đã được ứng nghiệm.”
-                22 Mọi người đều khen ngợi Ngài.  Họ lấy làm ngạc nhiên về những lời đầy ơn từ miệng Ngài nói ra, rồi họ bảo nhau, “Người nầy há chẳng phải là con trai của Giô-sép sao?”
+                22 Mọi người đều khen ngợi Ngài.  Họ lấy làm ngạc nhiên về những lời đầy ơn từ miệng Ngài nói ra, rồi họ bảo nhau, “Người này há chẳng phải là con trai của Giô-sép sao?”
                 23 Ngài nói với họ, “Chắc hẳn các ngươi muốn nói với Ta câu tục ngữ, ‘Y sĩ ơi, hãy tự chữa bịnh cho mình đi.’  Những gì chúng tôi đã nghe ông làm ở Ca-bê-na-um, cũng hãy làm ở đây, nơi quê hương của ông, đi.”
                 24 Ðoạn Ngài phán, “Quả thật, Ta nói với các ngươi, không tiên tri nào được chấp nhận ở quê hương mình.  25 Thật vậy, Ta nói với các ngươi, trong thời Ê-li, có nhiều bà góa trong I-sơ-ra-ên, khi trời hạn hán suốt ba năm sáu tháng, cả xứ bị nạn đói lớn hoành hành, 26 nhưng Ê-li không được sai đến với bà nào trong các bà góa ấy, ngoại trừ một bà góa ở Xa-rê-phát xứ Si-đôn.  27 Cũng có nhiều người phung ở I-sơ-ra-ên trong thời Tiên Tri Ê-li-sê, nhưng không ai được sạch, ngoại trừ Na-a-man người Sy-ri-a.”
                 28 Khi nghe như thế, ai nấy trong hội đường đều phẫn nộ.  29 Họ đứng dậy, đuổi Ngài ra khỏi thành, dẫn Ngài lên gành đá trên ngọn đồi, tức ngọn đồi nơi thành của họ được xây, và định xô Ngài xuống vực thẳm.  30 Nhưng Ngài đi ngang qua giữa họ mà bỏ đi.
@@ -252,7 +252,7 @@ class Luca: Book {
                 
                 31 Ngài đi xuống Ca-bê-na-um, một thành phố trong miền Ga-li-lê.  Cứ đến ngày Sa-bát, Ngài giảng dạy cho họ.  32 Họ rất ngạc nhiên về sự giảng dạy của Ngài, vì lời Ngài có uy quyền.
                 33 Lúc ấy trong hội đường có một người bị tà linh ô uế ám hại.  Người ấy la to, 34 “Lạy Ðức Chúa Jesus ở Na-xa-rét, chúng tôi nào có xúc phạm gì đến Ngài chăng?  Ngài đến để tiêu diệt chúng tôi sao?  Tôi biết Ngài là ai.  Ngài là Ðấng Thánh của Ðức Chúa Trời.”
-                35 Nhưng Ðức Chúa Jesus quở nó rằng, “Hãy im đi và ra khỏi người nầy.”  Quỷ liền vật người ấy ngã xuống giữa hội đường và xuất ra khỏi người ấy, không làm hại gì người ấy.  36 Mọi người đều kinh hãi, họ nói với nhau, “Ðạo gì vậy?  Ông ấy lấy quyền năng và uy lực ra lịnh cho các tà linh ô uế, và chúng phải xuất ra!”  37 Thế là tiếng đồn về Ngài lan truyền khắp nơi trong vùng.
+                35 Nhưng Ðức Chúa Jesus quở nó rằng, “Hãy im đi và ra khỏi người này.”  Quỷ liền vật người ấy ngã xuống giữa hội đường và xuất ra khỏi người ấy, không làm hại gì người ấy.  36 Mọi người đều kinh hãi, họ nói với nhau, “Ðạo gì vậy?  Ông ấy lấy quyền năng và uy lực ra lịnh cho các tà linh ô uế, và chúng phải xuất ra!”  37 Thế là tiếng đồn về Ngài lan truyền khắp nơi trong vùng.
 
                 """],
             ["Chúa Chữa Lành Nhiều Người Bịnh": """
@@ -287,8 +287,8 @@ class Luca: Book {
             ["Chúa Chữa Lành Người Bại": """
                 (Mat 9:1-8; Mác 2:1-12)
                 
-                17 Một ngày kia Ngài đang giảng dạy, có những người Pha-ri-si và các thầy dạy giáo luật ngồi gần đó, những vị ấy từ các làng trong miền Ga-li-lê, miền Giu-đê, và từ Thành Giê-ru-sa-lem đến.  Quyền năng của Chúa ở trong Ngài để Ngài chữa bịnh.  18 Nầy, người ta khiêng đến một người bị bại nằm trên cáng; họ tìm cách đem người ấy vào và đặt trước mặt Ngài.  19 Nhưng sau khi không tìm được cách nào vì đoàn dân quá đông, họ bèn lên mái nhà, gỡ tấm bửng ra, và dòng người bại nằm trên cáng xuống giữa đám đông, ngay trước mặt Ðức Chúa Jesus.  20 Thấy đức tin họ, Ngài phán, “Hỡi con, tội lỗi con đã được tha rồi.”
-                21 Bấy giờ những thầy dạy giáo luật và những người Pha-ri-si bắt đầu thắc mắc, “Người nầy là ai mà lộng ngôn như thế?  Ngoại trừ một mình Ðức Chúa Trời, ai có quyền tha tội?”
+                17 Một ngày kia Ngài đang giảng dạy, có những người Pha-ri-si và các thầy dạy giáo luật ngồi gần đó, những vị ấy từ các làng trong miền Ga-li-lê, miền Giu-đê, và từ Thành Giê-ru-sa-lem đến.  Quyền năng của Chúa ở trong Ngài để Ngài chữa bịnh.  18 Này, người ta khiêng đến một người bị bại nằm trên cáng; họ tìm cách đem người ấy vào và đặt trước mặt Ngài.  19 Nhưng sau khi không tìm được cách nào vì đoàn dân quá đông, họ bèn lên mái nhà, gỡ tấm bửng ra, và dòng người bại nằm trên cáng xuống giữa đám đông, ngay trước mặt Ðức Chúa Jesus.  20 Thấy đức tin họ, Ngài phán, “Hỡi con, tội lỗi con đã được tha rồi.”
+                21 Bấy giờ những thầy dạy giáo luật và những người Pha-ri-si bắt đầu thắc mắc, “Người này là ai mà lộng ngôn như thế?  Ngoại trừ một mình Ðức Chúa Trời, ai có quyền tha tội?”
                 22 Nhưng Ðức Chúa Jesus biết ý tưởng họ, Ngài trả lời và nói với họ, “Tại sao tâm trí các ngươi thắc mắc như vậy?  23 Ðiều nào dễ hơn, nói ‘Tội lỗi của ngươi đã được tha,’ hay nói ‘Hãy đứng dậy và bước đi’?  24 Nhưng để các ngươi biết Con Người có quyền tha tội ở thế gian” –Ngài phán với người bại– “Ta bảo ngươi, hãy đứng dậy, vác cáng của ngươi, và đi về nhà.”
                 25 Ngay lập tức người ấy đứng dậy trước mặt họ, vác chiếc cáng ông đã nằm, đi về nhà, và tôn vinh Ðức Chúa Trời.
                 26 Mọi người đều kinh ngạc.  Họ tôn vinh Ðức Chúa Trời và kinh hãi nói với nhau, “Hôm nay chúng ta đã thấy những việc thật lạ lùng.”
@@ -351,7 +351,7 @@ class Luca: Book {
                 “Phước cho các ngươi, những người nghèo khó, vì vương quốc Ðức Chúa Trời là của các ngươi.
                 21 Phước cho các ngươi, những người bây giờ đang đói, vì các ngươi sẽ được no nê.
                 Phước cho các ngươi, những người bây giờ đang khóc, vì các ngươi sẽ được vui cười.
-                22 Phước cho các ngươi, khi người ta ghét các ngươi, khai trừ các ngươi, sỉ vả và loại tên các ngươi như phường xấu xa tội lỗi vì cớ Con Người.  23 Trong ngày ấy hãy vui mừng, hãy nhảy lên mừng rỡ, vì nầy, phần thưởng của các ngươi trên trời sẽ lớn lắm, vì tổ phụ họ cũng đã đối xử với các đấng tiên tri như vậy.”
+                22 Phước cho các ngươi, khi người ta ghét các ngươi, khai trừ các ngươi, sỉ vả và loại tên các ngươi như phường xấu xa tội lỗi vì cớ Con Người.  23 Trong ngày ấy hãy vui mừng, hãy nhảy lên mừng rỡ, vì này, phần thưởng của các ngươi trên trời sẽ lớn lắm, vì tổ phụ họ cũng đã đối xử với các đấng tiên tri như vậy.”
 
                 """],
             ["Các Mối Họa": """
@@ -365,7 +365,7 @@ class Luca: Book {
                 (Mat 5:38-48; 7:12)
                 
                 27 “Nhưng Ta nói với các ngươi, những người đang lắng nghe: Hãy yêu thương kẻ thù mình.  Hãy làm những gì tốt đẹp cho những kẻ ghét các ngươi.  28 Hãy chúc phước cho những kẻ nguyền rủa các ngươi.  Hãy cầu nguyện cho những kẻ ngược đãi các ngươi.
-                29 Ai tát má bên nầy của các ngươi, hãy đưa luôn má bên kia cho họ tát.  Ai muốn cướp giựt áo ngoài của các ngươi, đừng cố giữ lại áo trong.  30 Ai hỏi xin, hãy cho.  Ai lấy vật gì của các ngươi, đừng đòi lại.  31 Hãy làm cho người ta những gì các ngươi muốn người ta làm cho mình.
+                29 Ai tát má bên này của các ngươi, hãy đưa luôn má bên kia cho họ tát.  Ai muốn cướp giựt áo ngoài của các ngươi, đừng cố giữ lại áo trong.  30 Ai hỏi xin, hãy cho.  Ai lấy vật gì của các ngươi, đừng đòi lại.  31 Hãy làm cho người ta những gì các ngươi muốn người ta làm cho mình.
                 32 Nếu các ngươi yêu thương những người yêu thương các ngươi thì có ơn nghĩa gì chăng?  Ngay cả những kẻ tội lỗi cũng yêu thương kẻ yêu thương họ vậy.
                 33 Nếu các ngươi đối xử tốt với những người đối xử tốt với các ngươi thì có ơn nghĩa gì chăng?  Ngay cả những kẻ tội lỗi cũng làm như vậy.
                 34 Nếu các ngươi cho vay mà mong đòi lại thì có ơn nghĩa gì chăng?  Ngay cả những kẻ tội lỗi cũng cho những kẻ tội lỗi vay mượn và đòi lại đầy đủ vậy.
@@ -398,13 +398,13 @@ class Luca: Book {
                 (Mat 8:5-13)
                 
                 1 Sau khi Ngài giảng dạy những lời ấy cho dân nghe, Ngài vào Thành Ca-bê-na-um.  2 Viên đại đội trưởng ở đó có một đầy tớ ông rất quý mến bị bệnh nặng gần chết.  3 Khi nghe tin Ðức Chúa Jesus có mặt trong thành, ông phái các trưởng lão Do-thái đi mời Ngài đến để cứu chữa cho đầy tớ của ông.
-                4 Khi các trưởng lão đến gặp Ðức Chúa Jesus, họ khẩn thiết thưa với Ngài, “Ông ấy rất xứng đáng để Thầy làm ơn nầy lắm, 5 vì ông ấy thương dân mình và đã xây hội đường cho chúng ta.”
-                6 Ðức Chúa Jesus đi với họ.  Khi Ngài còn cách nhà viên đại đội trưởng ấy không xa, ông phái các bạn ông ra đón Ngài và nói, “Lạy Chúa, tôi không dám phiền Ngài hơn nữa, vì tôi không xứng đáng để rước Ngài vào nhà tôi.  7 Vì nghĩ như vậy nên tôi thấy mình không xứng đáng đến gặp Ngài, nhưng chỉ mong được Ngài phán một lời thì đầy tớ của tôi sẽ được lành.  8 Vì chính tôi, tuy ở dưới quyền người khác, nhưng cũng có các binh sĩ ở dưới quyền tôi.  Tôi bảo người nầy, ‘Ði!’ thì người ấy đi; tôi bảo người kia, ‘Ðến!’ thì người ấy đến; tôi bảo đầy tớ của tôi ‘Hãy làm điều nầy,’ thì người ấy làm điều đó.”
+                4 Khi các trưởng lão đến gặp Ðức Chúa Jesus, họ khẩn thiết thưa với Ngài, “Ông ấy rất xứng đáng để Thầy làm ơn này lắm, 5 vì ông ấy thương dân mình và đã xây hội đường cho chúng ta.”
+                6 Ðức Chúa Jesus đi với họ.  Khi Ngài còn cách nhà viên đại đội trưởng ấy không xa, ông phái các bạn ông ra đón Ngài và nói, “Lạy Chúa, tôi không dám phiền Ngài hơn nữa, vì tôi không xứng đáng để rước Ngài vào nhà tôi.  7 Vì nghĩ như vậy nên tôi thấy mình không xứng đáng đến gặp Ngài, nhưng chỉ mong được Ngài phán một lời thì đầy tớ của tôi sẽ được lành.  8 Vì chính tôi, tuy ở dưới quyền người khác, nhưng cũng có các binh sĩ ở dưới quyền tôi.  Tôi bảo người này, ‘Ði!’ thì người ấy đi; tôi bảo người kia, ‘Ðến!’ thì người ấy đến; tôi bảo đầy tớ của tôi ‘Hãy làm điều này,’ thì người ấy làm điều đó.”
                 9 Khi Ðức Chúa Jesus nghe những lời ấy, Ngài khen ông ta.  Ngài quay lại và nói với đám đông đang theo Ngài, “Ta nói với các ngươi, ngay cả trong dân I-sơ-ra-ên, Ta cũng chưa thấy ai có đức tin lớn như vậy.”  10 Khi những người được phái đi gặp Ngài về đến nhà, họ thấy người đầy tớ đã được hoàn toàn lành mạnh.
 
                 """],
             ["Một Thanh Niên ở Na-in Sống Lại": """
-                11 Sau đó chẳng bao lâu Ngài vào một thành tên là Na-in.  Các môn đồ Ngài và một đoàn dân đông đi theo Ngài.  12 Khi Ngài đến cổng thành, này, người ta khiêng một người chết đem ra chôn.  Người chết ấy là con trai duy nhất của một người mẹ, và bà ấy là một góa phụ.  Một đoàn dân đông trong thành cùng đi với bà.  13 Khi Chúa thấy bà, Ngài động lòng thương xót; Ngài bảo bà, “Ðừng khóc.”  14 Ðoạn Ngài lại gần và đưa tay chạm vào chiếc cáng, những người khiêng liền dừng lại.  Ngài phán, “Hỡi chàng trai trẻ, Ta bảo ngươi: Hãy dậy!”  15 Người chết ngồi dậy và bắt đầu nói.  Ngài trao chàng trai trẻ ấy lại cho mẹ chàng.  16 Mọi người đều hoảng kinh và tôn vinh Ðức Chúa Trời rằng, “Một đại tiên tri đã xuất hiện giữa chúng ta!” và “Ðức Chúa Trời đã viếng thăm dân Ngài!”  17 Tin nầy về Ngài được đồn ra khắp miền Giu-đê và mọi miền phụ cận.
+                11 Sau đó chẳng bao lâu Ngài vào một thành tên là Na-in.  Các môn đồ Ngài và một đoàn dân đông đi theo Ngài.  12 Khi Ngài đến cổng thành, này, người ta khiêng một người chết đem ra chôn.  Người chết ấy là con trai duy nhất của một người mẹ, và bà ấy là một góa phụ.  Một đoàn dân đông trong thành cùng đi với bà.  13 Khi Chúa thấy bà, Ngài động lòng thương xót; Ngài bảo bà, “Ðừng khóc.”  14 Ðoạn Ngài lại gần và đưa tay chạm vào chiếc cáng, những người khiêng liền dừng lại.  Ngài phán, “Hỡi chàng trai trẻ, Ta bảo ngươi: Hãy dậy!”  15 Người chết ngồi dậy và bắt đầu nói.  Ngài trao chàng trai trẻ ấy lại cho mẹ chàng.  16 Mọi người đều hoảng kinh và tôn vinh Ðức Chúa Trời rằng, “Một đại tiên tri đã xuất hiện giữa chúng ta!” và “Ðức Chúa Trời đã viếng thăm dân Ngài!”  17 Tin này về Ngài được đồn ra khắp miền Giu-đê và mọi miền phụ cận.
 
                 """],
             ["Chúa Trả Lời Giăng Báp-tít": """
@@ -414,11 +414,11 @@ class Luca: Book {
                 20 Khi hai người ấy đến gặp Ngài, họ nói, “Giăng Báp-tít sai chúng tôi đến gặp Thầy để hỏi, ‘Thầy có phải là đấng chúng tôi đang trông đợi, hay chúng tôi phải chờ một đấng khác?’”
                 21 Ðang lúc ấy Ðức Chúa Jesus vừa mới chữa lành nhiều người đau ốm, bịnh tật, và bị quỷ ám, và Ngài cũng vừa chữa lành nhiều người mù khiến mắt họ thấy được.  22 Ngài trả lời và nói với họ, “Các ngươi hãy về nói lại với Giăng những gì các ngươi đã thấy và nghe.  Người mù được thấy, người què được đi, người phung được sạch, người điếc được nghe, người chết được sống lại, và người nghèo được nghe giảng tin mừng.  23 Phước cho người nào không bị vấp ngã vì cớ Ta.”
                 24 Khi các sứ giả của Giăng đã đi rồi, Ngài bắt đầu nói với đoàn dân về Giăng, “Các ngươi đi vào đồng hoang để xem gì?  Xem một cây sậy phất phơ trước gió chăng?  25 Vậy, các ngươi đi xem gì?  Xem một người mặc nhung gấm chăng?  Kìa, những kẻ mặc nhung gấm và sống xa hoa đều ở trong các cung điện.  26 Vậy các ngươi đi xem gì?  Xem một đấng tiên tri chăng?  Phải, Ta nói với các ngươi, có một người vĩ đại hơn cả đấng tiên tri nữa.  27 Ấy là về người đó mà có lời chép rằng,
-                ‘Nầy, Ta sai sứ giả Ta đi trước mặt Con,
+                ‘Này, Ta sai sứ giả Ta đi trước mặt Con,
                 Người ấy sẽ dọn đường cho Con trước mắt Con.’
                 28 Ta nói với các ngươi, trong vòng những người do phụ nữ sinh ra không ai vĩ đại hơn Giăng, nhưng kẻ nhỏ nhất trong vương quốc Ðức Chúa Trời còn vĩ đại hơn ông ấy.”
                 29 Thuở ấy mọi người kể cả những người thu thuế được nghe Giăng giảng đều nhìn nhận rằng ý chỉ của Ðức Chúa Trời là đúng nên đã nhờ Giăng làm báp-têm cho họ.  30 Nhưng những người Pha-ri-si và các thầy dạy giáo luật khước từ ý chỉ của Ðức Chúa Trời cho họ nên đã không nhờ Giăng làm báp-têm cho mình.
-                31 “Ta phải ví những người trong thế hệ nầy với ai?  Họ giống như ai?  32 Họ giống như đàn trẻ ngồi ngoài chợ gọi nhau rằng,
+                31 “Ta phải ví những người trong thế hệ này với ai?  Họ giống như ai?  32 Họ giống như đàn trẻ ngồi ngoài chợ gọi nhau rằng,
                 ‘Chúng tôi đã thổi sáo cho các bạn, mà các bạn không chịu nhảy múa.
                 Chúng tôi đã hát bài ai ca, mà các bạn không chịu khóc than.’
                 33 Vì Giăng Báp-tít đến, không ăn bánh và không uống rượu, thì các ngươi bảo, ‘Ông ấy đã bị quỷ ám.’  34 Còn Con Người đến, ăn và uống, thì các ngươi lại bảo, ‘Xem kìa, một người ăn uống, nhậu nhẹt, và kết bạn với bọn thu thuế và phường tội lỗi.’  35 Tuy nhiên sự khôn ngoan sẽ được biện minh bằng các con cái của nàng.”
@@ -428,15 +428,15 @@ class Luca: Book {
             Chúa Dùng Bữa tại Nhà Si-môn
             Người Phụ Nữ Tội Lỗi Ðược Tha Tội
             """: """
-                36 Một người trong nhóm người Pha-ri-si mời Ðức Chúa Jesus đến nhà dùng bữa.  Ngài vào nhà của người Pha-ri-si ấy và ngồi vào bàn.  37 Nầy, một phụ nữ trong thành có tiếng là người tội lỗi nghe tin Ngài đang dùng bữa tại nhà của người Pha-ri-si, bà đem đến một bình bạch ngọc đựng đầy dầu thơm.  38 Bà đứng phía sau chân Ngài mà khóc; nước mắt nhỏ xuống làm ướt chân Ngài.  Bà bắt đầu dùng tóc mình lau chân Ngài, rồi bà hôn chân Ngài và lấy dầu thơm xức lên.
-                39 Khi người Pha-ri-si đã mời Ngài thấy vậy, ông nghĩ thầm, “Nếu người nầy quả thật là đấng tiên tri thì chắc hẳn đã biết bà ấy, người đang đụng đến mình, là ai và thuộc hạng người nào rồi, vì bà ấy là một kẻ tội lỗi.”
+                36 Một người trong nhóm người Pha-ri-si mời Ðức Chúa Jesus đến nhà dùng bữa.  Ngài vào nhà của người Pha-ri-si ấy và ngồi vào bàn.  37 Này, một phụ nữ trong thành có tiếng là người tội lỗi nghe tin Ngài đang dùng bữa tại nhà của người Pha-ri-si, bà đem đến một bình bạch ngọc đựng đầy dầu thơm.  38 Bà đứng phía sau chân Ngài mà khóc; nước mắt nhỏ xuống làm ướt chân Ngài.  Bà bắt đầu dùng tóc mình lau chân Ngài, rồi bà hôn chân Ngài và lấy dầu thơm xức lên.
+                39 Khi người Pha-ri-si đã mời Ngài thấy vậy, ông nghĩ thầm, “Nếu người này quả thật là đấng tiên tri thì chắc hẳn đã biết bà ấy, người đang đụng đến mình, là ai và thuộc hạng người nào rồi, vì bà ấy là một kẻ tội lỗi.”
                 40 Ðức Chúa Jesus cất tiếng và nói với ông, “Si-môn, Ta có vài điều muốn nói với ngươi.”
                 Ông đáp, “Thưa Thầy, xin Thầy cứ nói.”
                 41 “Một chủ nợ kia có hai con nợ.  Một người nợ năm trăm đơ-na-ri, và một người nợ năm mươi đơ-na-ri.  42 Cả hai đều không có tiền để trả nợ, nên chủ nợ tha hết cho hai người.  Vậy ai trong hai người đó thương chủ nợ nhiều hơn?”
                 43 Si-môn trả lời và nói, “Tôi thiết tưởng, đó là người được tha số nợ nhiều hơn.”
-                Ngài nói với ông, “Ngươi nhận xét đúng lắm.”  44 Ðoạn Ngài quay về phía người phụ nữ và nói với Si-môn, “Ngươi có thấy bà nầy không?  Ta vào nhà ngươi, ngươi không cho Ta nước để rửa chân, nhưng bà ấy đã rửa chân Ta bằng nước mắt và lau chúng bằng tóc bà.  45 Ngươi không hôn chào Ta, nhưng từ khi Ta vào đây, bà ấy hôn chân Ta không ngớt.  46 Ngươi không xức dầu trên đầu Ta, nhưng bà ấy đã lấy dầu thơm xức trên chân Ta.  47 Vì cớ ấy, Ta nói với ngươi, tội lỗi của bà ấy tuy nhiều nhưng đã được tha hết, nên bà ấy thương nhiều; còn ai được tha ít thì thương ít.”
+                Ngài nói với ông, “Ngươi nhận xét đúng lắm.”  44 Ðoạn Ngài quay về phía người phụ nữ và nói với Si-môn, “Ngươi có thấy bà này không?  Ta vào nhà ngươi, ngươi không cho Ta nước để rửa chân, nhưng bà ấy đã rửa chân Ta bằng nước mắt và lau chúng bằng tóc bà.  45 Ngươi không hôn chào Ta, nhưng từ khi Ta vào đây, bà ấy hôn chân Ta không ngớt.  46 Ngươi không xức dầu trên đầu Ta, nhưng bà ấy đã lấy dầu thơm xức trên chân Ta.  47 Vì cớ ấy, Ta nói với ngươi, tội lỗi của bà ấy tuy nhiều nhưng đã được tha hết, nên bà ấy thương nhiều; còn ai được tha ít thì thương ít.”
                 48 Ðoạn Ngài nói với bà ấy, “Tội lỗi ngươi đã được tha rồi.”
-                49 Những người ngồi dùng bữa với Ngài bắt đầu nói với nhau, “Người nầy là ai mà có quyền tha tội?”
+                49 Những người ngồi dùng bữa với Ngài bắt đầu nói với nhau, “Người này là ai mà có quyền tha tội?”
                 50 Ngài nói với người phụ nữ, “Ðức tin của ngươi đã cứu ngươi.  Hãy đi bình an.”
 
                 """]
@@ -478,7 +478,7 @@ class Luca: Book {
                 (Mat 8:23-27; Mác 4:35-41)
                 
                 22 Một ngày kia, Ðức Chúa Jesus và các môn đồ Ngài xuống thuyền.  Ngài nói với họ, “Chúng ta hãy qua bên kia bờ hồ.”  Vậy họ nhổ neo và ra khơi.  23 Trong khi thuyền căng buồm vượt sóng thì Ngài ngủ thiếp; một trận cuồng phong thổi ập xuống hồ, khiến thuyền của họ bị nước tràn vào gần đầy; tình trạng rất nguy ngập.  24 Các môn đồ Ngài đến đánh thức Ngài dậy và nói, “Thầy ơi! Thầy ơi! Chúng ta sắp chết rồi!”  Ngài thức dậy, quở gió và sóng đang hung hãn.  Gió liền ngừng, và sóng liền lặng xuống.  25 Ngài nói với họ, “Ðức tin của các ngươi đâu rồi?”
-                Họ sợ hãi và kinh ngạc, nói với nhau, “Người nầy là ai, mà khi ra lệnh, ngay cả gió và nước cũng phải vâng lời?”
+                Họ sợ hãi và kinh ngạc, nói với nhau, “Người này là ai, mà khi ra lệnh, ngay cả gió và nước cũng phải vâng lời?”
 
                 """],
             ["Chúa Chữa Lành Người Bị Quỷ Ám": """
@@ -495,7 +495,7 @@ class Luca: Book {
             ["Chúa Đi Chữa Lành Con Gái Giai-ru": """
                 (Mat 9:18-19; Mác 5:21-24)
                 
-                40 Khi Ðức Chúa Jesus trở về, một đoàn dân đông ra nghinh đón Ngài, vì ai nấy đều trông ngóng Ngài.  41 Nầy, một người tên là Giai-ru, làm quản lý hội đường, đến sấp mình nơi chân Ðức Chúa Jesus, khẩn khoản xin Ngài đến nhà ông, 42 bởi vì con gái duy nhất của ông, chừng mười hai tuổi, đang hấp hối.  Khi Ngài đi, đám đông chen lấn nhau theo sát Ngài.
+                40 Khi Ðức Chúa Jesus trở về, một đoàn dân đông ra nghinh đón Ngài, vì ai nấy đều trông ngóng Ngài.  41 Này, một người tên là Giai-ru, làm quản lý hội đường, đến sấp mình nơi chân Ðức Chúa Jesus, khẩn khoản xin Ngài đến nhà ông, 42 bởi vì con gái duy nhất của ông, chừng mười hai tuổi, đang hấp hối.  Khi Ngài đi, đám đông chen lấn nhau theo sát Ngài.
 
                 """],
             ["Người Ðàn Bà Bị Băng Huyết Ðược Chữa Lành": """
@@ -530,7 +530,7 @@ class Luca: Book {
                 (Mat 14:1-12; Mác 6:14-29)
                 
                 7 Bấy giờ Vua Chư Hầu Hê-rốt được báo cáo tất cả những điều đã xảy ra.  Ông rất bối rối, vì có người bảo rằng đó là Giăng đã từ cõi chết sống lại, 8 nhưng một số người khác lại bảo đó là Tiên Tri Ê-li đã xuất hiện, và một số khác thì đồn rằng đó là một trong các vị tiên tri thời xưa đã sống lại.
-                9 Hê-rốt nói, “Giăng thì ta đã chặt đầu, nhưng người nầy là ai mà ta nghe những chuyện như thế?”  Rồi ông tìm cách gặp Ðức Chúa Jesus.
+                9 Hê-rốt nói, “Giăng thì ta đã chặt đầu, nhưng người này là ai mà ta nghe những chuyện như thế?”  Rồi ông tìm cách gặp Ðức Chúa Jesus.
 
                 """],
             ["Chúa Hóa Bánh cho Năm Ngàn Người Ăn": """
@@ -539,7 +539,7 @@ class Luca: Book {
                 10 Các sứ đồ trở về và tường trình cho Ngài mọi việc họ đã làm.  Ngài đem họ riêng ra với Ngài, lui về một thành tên Bết-sai-đa.  11 Nhưng đoàn dân đông biết điều đó, họ đi theo Ngài.  Ngài tiếp họ, giảng cho họ về vương quốc Ðức Chúa Trời, và chữa lành những người cần được chữa lành.
                 12 Bấy giờ ngày bắt đầu tàn, mười hai sứ đồ đến và nói với Ngài, “Xin Thầy cho đoàn dân đông giải tán để họ có thể vào các làng mạc và thôn xóm quanh đây tìm chỗ tạm trú và kiếm thức ăn, vì chỗ chúng ta ở đây là nơi hoang vắng.”
                 13 Nhưng Ngài nói với họ, “Chính các ngươi phải cho họ ăn.”
-                Họ đáp, “Chúng ta có không quá năm cái bánh và hai con cá.  Trừ phi chúng con phải đi mua thức ăn cho cả đoàn dân nầy.”
+                Họ đáp, “Chúng ta có không quá năm cái bánh và hai con cá.  Trừ phi chúng con phải đi mua thức ăn cho cả đoàn dân này.”
                 14 Bấy giờ có khoảng năm ngàn đàn ông tại đó.  Ngài nói với các môn đồ Ngài, “Hãy bảo họ ngồi xuống thành từng nhóm, mỗi nhóm khoảng năm mươi người.”  15 Họ làm như vậy, và mọi người ngồi xuống.  16 Ðoạn Ngài lấy năm cái bánh và hai con cá, ngước mắt lên trời, tạ ơn, bẻ ra, và trao cho các môn đồ để họ phát ra cho đoàn dân đông.  17 Mọi người đều ăn và được no nê.  Họ gom lại những mảnh bánh thừa và được mười hai giỏ.
 
                 """],
@@ -571,15 +571,15 @@ class Luca: Book {
             ["Chúa Biến Hóa Hình Dạng": """
                 (Mat 17:1-8; Mác 9:2-8)
                 
-                28 Khoảng tám ngày sau khi nói những lời đó Ngài dẫn Phi-rơ, Giăng, và Gia-cơ lên núi để cầu nguyện.  29 Ðang khi Ngài cầu nguyện, diện mạo Ngài bỗng đổi khác, và y phục của Ngài trở nên trắng toát rạng lòa.  30 Và nầy, có hai người hầu chuyện với Ngài, đó là Môi-se và Ê-li.  31 Hai vị đó hiện ra trong vinh hiển để hầu chuyện với Ngài về việc Ngài sẽ ra đi, là điều sắp được thực hiện tại Giê-ru-sa-lem.  32 Số là Phi-rơ và các đồng bạn của ông đều buồn ngủ quá đỗi nên đã ngủ thiếp đi; nhưng khi tỉnh dậy, họ thấy hào quang của Ngài và hai vị đứng với Ngài.  33 Khi hai vị ấy sắp sửa rời Ngài, Phi-rơ nói với Ðức Chúa Jesus, “Thưa Thầy, chúng ta ở đây tốt quá.  Ðể chúng con dựng ba cái lều: một cái cho Thầy, một cái cho Môi-se, và một cái cho Ê-li.”  Ông nói mà không biết mình nói gì.  34 Khi Phi-rơ còn nói những lời ấy, một đám mây kéo đến bao phủ mọi người.  Ba vị môn đồ kinh hoảng vì bị mây bao phủ.  35 Bấy giờ từ trong đám mây có tiếng phán, “Ðây là Con Ta, Người-Ðược-Chọn của Ta, hãy nghe lời Người.”  36 Khi tiếng nói ấy vừa dứt, họ chỉ còn thấy một mình Ðức Chúa Jesus.
+                28 Khoảng tám ngày sau khi nói những lời đó Ngài dẫn Phi-rơ, Giăng, và Gia-cơ lên núi để cầu nguyện.  29 Ðang khi Ngài cầu nguyện, diện mạo Ngài bỗng đổi khác, và y phục của Ngài trở nên trắng toát rạng lòa.  30 Và này, có hai người hầu chuyện với Ngài, đó là Môi-se và Ê-li.  31 Hai vị đó hiện ra trong vinh hiển để hầu chuyện với Ngài về việc Ngài sẽ ra đi, là điều sắp được thực hiện tại Giê-ru-sa-lem.  32 Số là Phi-rơ và các đồng bạn của ông đều buồn ngủ quá đỗi nên đã ngủ thiếp đi; nhưng khi tỉnh dậy, họ thấy hào quang của Ngài và hai vị đứng với Ngài.  33 Khi hai vị ấy sắp sửa rời Ngài, Phi-rơ nói với Ðức Chúa Jesus, “Thưa Thầy, chúng ta ở đây tốt quá.  Ðể chúng con dựng ba cái lều: một cái cho Thầy, một cái cho Môi-se, và một cái cho Ê-li.”  Ông nói mà không biết mình nói gì.  34 Khi Phi-rơ còn nói những lời ấy, một đám mây kéo đến bao phủ mọi người.  Ba vị môn đồ kinh hoảng vì bị mây bao phủ.  35 Bấy giờ từ trong đám mây có tiếng phán, “Ðây là Con Ta, Người-Ðược-Chọn của Ta, hãy nghe lời Người.”  36 Khi tiếng nói ấy vừa dứt, họ chỉ còn thấy một mình Ðức Chúa Jesus.
                 Các môn đồ giữ im chuyện đó, và trong những ngày ấy họ không thuật lại cho ai biết những gì họ đã thấy.
 
                 """],
             ["Chúa Chữa Lành Ðứa Trẻ Bị Quỷ Kinh Phong Ám Hại": """
                 (Mat 17:14-18; Mác 9:14-27)
                 
-                37 Hôm sau khi họ vừa xuống núi, một đoàn dân đông đến gặp Ngài.  38 Nầy, một người trong đám đông kêu lên, “Thưa Thầy, tôi van xin Thầy đoái xem con trai tôi; cháu là con một của tôi.  39 Nầy, mỗi lần quỷ nhập vào cháu, cháu đột nhiên gào thét; quỷ vật cháu lăn lộn, sùi bọt mép, khiến cháu bầm cả người, và ít khi chịu xuất ra.  40 Tôi đã khẩn cầu các môn đồ Thầy đuổi quỷ ấy ra, nhưng họ không đuổi được.”
-                41 Ðức Chúa Jesus trả lời và nói, “Hỡi thế hệ vô tín và băng hoại nầy.  Ta phải ở với các ngươi và chịu đựng các ngươi bao lâu nữa?  Hãy đem con ngươi lại đây.”
+                37 Hôm sau khi họ vừa xuống núi, một đoàn dân đông đến gặp Ngài.  38 Này, một người trong đám đông kêu lên, “Thưa Thầy, tôi van xin Thầy đoái xem con trai tôi; cháu là con một của tôi.  39 Này, mỗi lần quỷ nhập vào cháu, cháu đột nhiên gào thét; quỷ vật cháu lăn lộn, sùi bọt mép, khiến cháu bầm cả người, và ít khi chịu xuất ra.  40 Tôi đã khẩn cầu các môn đồ Thầy đuổi quỷ ấy ra, nhưng họ không đuổi được.”
+                41 Ðức Chúa Jesus trả lời và nói, “Hỡi thế hệ vô tín và băng hoại này.  Ta phải ở với các ngươi và chịu đựng các ngươi bao lâu nữa?  Hãy đem con ngươi lại đây.”
                 42 Ðang khi đứa trẻ tiến lại, quỷ vật nó xuống đất, khiến nó lăn lộn quằn quại.  Nhưng Ðức Chúa Jesus quở trừ uế linh, chữa lành đứa trẻ, và trao nó lại cho cha nó.  43 Mọi người đều kinh ngạc trước quyền năng lớn lao của Ðức Chúa Trời.
 
                 """],
@@ -595,7 +595,7 @@ class Luca: Book {
             ["Người Lớn Nhất trong Vương Quốc Ðức Chúa Trời": """
                 (Mat 18:1-5; Mác 9:33-37)
                 
-                46 Khi ấy, các môn đồ nổi lên cãi nhau về việc ai là người lớn nhất trong vòng họ.  47 Ðức Chúa Jesus biết rõ những ý nghĩ thầm kín trong lòng họ, nên Ngài đem một đứa trẻ để đứng bên cạnh Ngài, 48 rồi nói với họ, “Ai nhân danh Ta đón tiếp đứa trẻ nầy là đón tiếp Ta; ai đón tiếp Ta là đón tiếp Ðấng đã sai Ta, vì người nhỏ nhất trong tất cả các ngươi sẽ là người lớn nhất.”
+                46 Khi ấy, các môn đồ nổi lên cãi nhau về việc ai là người lớn nhất trong vòng họ.  47 Ðức Chúa Jesus biết rõ những ý nghĩ thầm kín trong lòng họ, nên Ngài đem một đứa trẻ để đứng bên cạnh Ngài, 48 rồi nói với họ, “Ai nhân danh Ta đón tiếp đứa trẻ này là đón tiếp Ta; ai đón tiếp Ta là đón tiếp Ðấng đã sai Ta, vì người nhỏ nhất trong tất cả các ngươi sẽ là người lớn nhất.”
 
                 """],
             ["Nhân Danh Chúa Ðuổi Quỷ": """
@@ -629,8 +629,8 @@ class Luca: Book {
             ]),
         Chapter(10, passages: [
             ["Chúa Sai Bảy Mươi Hai Môn Ðồ Ði Truyền Giáo": """
-                1 Sau việc đó, Chúa chỉ định thêm bảy mươi hai môn đồ và sai họ từng đôi một đi trước Ngài đến những thành và những nơi Ngài sẽ đến.  2 Ngài nói với họ, “Mùa gặt thật trúng, nhưng thợ gặt lại ít.  Vậy hãy xin Chủ mùa gặt sai các thợ gặt vào cánh đồng của Ngài.  3 Các ngươi hãy ra đi.  Nầy, Ta sai các ngươi ra đi như những chiên con giữa bầy muông sói.  4 Ðừng mang theo túi tiền, túi đi đường, giày dép, và cũng đừng chào hỏi ai dọc đường.  5 Hễ các ngươi vào nhà nào, trước hết hãy nói, ‘Bình an cho nhà nầy.’  6 Nếu trong nhà đó có ai xứng đáng hưởng phước bình an, phước bình an các ngươi sẽ đến với người ấy; nếu không, phước bình an đó sẽ trở về với các ngươi.  7 Hãy cứ ở tại nhà đó và ăn uống những gì người ta đãi, vì người làm công đáng được hưởng tiền lương mình.  Ðừng thay đổi từ nhà nầy sang nhà khác.  8 Khi các ngươi vào thành nào mà dân thành đó hoan nghinh các ngươi, hãy ăn những thức ăn họ đãi các ngươi, 9 hãy chữa lành những người bịnh ở đó, và nói với họ, ‘Vương quốc Ðức Chúa Trời đang đến gần quý vị.’
-                10 Nhưng khi các ngươi vào thành nào mà dân ở đó không hoan nghinh các ngươi, hãy ra các đường phố của họ và nói, 11 ‘Ngay cả bụi của thành các người dính nơi chân chúng tôi, chúng tôi cũng chùi phủi để trả lại các người.  Tuy nhiên các người hãy biết rõ điều nầy: Vương quốc Ðức Chúa Trời đang đến gần.’  12 Ta nói với các ngươi, trong ngày ấy, Thành Sô-đôm sẽ được xử khoan hồng hơn thành đó.
+                1 Sau việc đó, Chúa chỉ định thêm bảy mươi hai môn đồ và sai họ từng đôi một đi trước Ngài đến những thành và những nơi Ngài sẽ đến.  2 Ngài nói với họ, “Mùa gặt thật trúng, nhưng thợ gặt lại ít.  Vậy hãy xin Chủ mùa gặt sai các thợ gặt vào cánh đồng của Ngài.  3 Các ngươi hãy ra đi.  Này, Ta sai các ngươi ra đi như những chiên con giữa bầy muông sói.  4 Ðừng mang theo túi tiền, túi đi đường, giày dép, và cũng đừng chào hỏi ai dọc đường.  5 Hễ các ngươi vào nhà nào, trước hết hãy nói, ‘Bình an cho nhà này.’  6 Nếu trong nhà đó có ai xứng đáng hưởng phước bình an, phước bình an các ngươi sẽ đến với người ấy; nếu không, phước bình an đó sẽ trở về với các ngươi.  7 Hãy cứ ở tại nhà đó và ăn uống những gì người ta đãi, vì người làm công đáng được hưởng tiền lương mình.  Ðừng thay đổi từ nhà này sang nhà khác.  8 Khi các ngươi vào thành nào mà dân thành đó hoan nghinh các ngươi, hãy ăn những thức ăn họ đãi các ngươi, 9 hãy chữa lành những người bịnh ở đó, và nói với họ, ‘Vương quốc Ðức Chúa Trời đang đến gần quý vị.’
+                10 Nhưng khi các ngươi vào thành nào mà dân ở đó không hoan nghinh các ngươi, hãy ra các đường phố của họ và nói, 11 ‘Ngay cả bụi của thành các người dính nơi chân chúng tôi, chúng tôi cũng chùi phủi để trả lại các người.  Tuy nhiên các người hãy biết rõ điều này: Vương quốc Ðức Chúa Trời đang đến gần.’  12 Ta nói với các ngươi, trong ngày ấy, Thành Sô-đôm sẽ được xử khoan hồng hơn thành đó.
                 13 Khốn cho ngươi, hỡi Thành Cô-ra-xin!  Khốn cho ngươi, hỡi Thành Bết-sai-đa!  Vì nếu các phép lạ đã làm ra giữa các ngươi được thực hiện ở Thành Ty-rơ và Thành Si-đôn, họ đã mặc vải thô, ngồi giữa đống tro, và ăn năn từ lâu rồi.  14 Vì thế trong ngày phán xét, Thành Ty-rơ và Thành Si-đôn sẽ được xử khoan hồng hơn các ngươi.
                 15 Còn ngươi, hỡi Thành Ca-bê-na-um, ngươi tưởng mình được đưa lên đến tận trời sao?  Không đâu, ngươi sẽ bị hạ xuống tận âm phủ.
                 16 Ai nghe lời các ngươi là nghe lời Ta, còn ai khước từ các ngươi là khước từ Ta, và ai khước từ Ta là khước từ Ðấng đã sai Ta.”
@@ -638,13 +638,13 @@ class Luca: Book {
                 """],
             ["Các Môn Ðồ Trở Về Báo Cáo": """
                 17 Bảy mươi hai môn đồ trở về, vui mừng thưa với Ngài, “Lạy Chúa, nhờ danh Ngài các quỷ phải chịu khuất phục chúng con.”
-                18 Ngài nói với họ, “Ta đã thấy Sa-tan từ trời sa xuống như lằn chớp.  19 Nầy, Ta ban cho các ngươi quyền năng để giày đạp rắn độc, bò cạp, và mọi quyền lực của kẻ thù.  Không gì sẽ làm hại các ngươi.  20 Tuy nhiên đừng vui mừng về điều ấy, tức các tà linh chịu khuất phục các ngươi, nhưng hãy vui mừng vì tên các ngươi đã được ghi trên thiên đàng.”
+                18 Ngài nói với họ, “Ta đã thấy Sa-tan từ trời sa xuống như lằn chớp.  19 Này, Ta ban cho các ngươi quyền năng để giày đạp rắn độc, bò cạp, và mọi quyền lực của kẻ thù.  Không gì sẽ làm hại các ngươi.  20 Tuy nhiên đừng vui mừng về điều ấy, tức các tà linh chịu khuất phục các ngươi, nhưng hãy vui mừng vì tên các ngươi đã được ghi trên thiên đàng.”
 
                 """],
             ["Tin Mừng Tỏ Ra cho Trẻ Thơ": """
                 (Mat 11:25-26)
                 
-                21 Ngay giờ đó Ngài tràn đầy niềm vui trong Ðức Thánh Linh và nói, “Lạy Cha, Chúa Tể của trời và đất.  Con tôn ngợi Cha, vì Cha đã giấu những điều nầy với những người khôn ngoan và thông sáng nhưng tỏ ra cho những trẻ thơ.  Vâng, thưa Cha, vì đó là điều đẹp ý Cha.  22 Cha của Con đã trao mọi sự cho Con.  Không ai biết rõ Con ngoài Cha, cũng không ai biết rõ Cha ngoài Con và những kẻ Con chọn để giãi bày cho.”
+                21 Ngay giờ đó Ngài tràn đầy niềm vui trong Ðức Thánh Linh và nói, “Lạy Cha, Chúa Tể của trời và đất.  Con tôn ngợi Cha, vì Cha đã giấu những điều này với những người khôn ngoan và thông sáng nhưng tỏ ra cho những trẻ thơ.  Vâng, thưa Cha, vì đó là điều đẹp ý Cha.  22 Cha của Con đã trao mọi sự cho Con.  Không ai biết rõ Con ngoài Cha, cũng không ai biết rõ Cha ngoài Con và những kẻ Con chọn để giãi bày cho.”
                 23 Ðoạn Ngài quay qua các môn đồ và nói riêng với họ, “Phước cho mắt đã thấy những gì các ngươi thấy! 24 Vì Ta nói với các ngươi, nhiều vị tiên tri và vua chúa ước ao thấy những gì các ngươi thấy nhưng không được thấy, và ước ao nghe những gì các ngươi nghe nhưng không được nghe.”
 
                 """],
@@ -654,7 +654,7 @@ class Luca: Book {
                 27 Ông đáp, “Ngươi phải hết lòng, hết linh hồn, hết sức, và hết trí mà yêu kính Chúa là Ðức Chúa Trời ngươi, và ngươi phải yêu người lân cận như mình.”
                 28 Ngài nói với ông, “Ngươi đáp đúng lắm.  Hãy làm như thế thì ngươi sẽ sống.”
                 29 Nhưng muốn chứng tỏ mình là người đã giữ đúng theo luật pháp, ông hỏi Ðức Chúa Jesus, “Nhưng ai là người lân cận tôi?”
-                30 Ðức Chúa Jesus đáp, “Một người kia đi từ Giê-ru-sa-lem xuống Giê-ri-cô dọc đường bị lâm vào tay bọn cướp.  Chúng cướp giật hết, đánh đập trọng thương, rồi bỏ đi, để người ấy nửa sống nửa chết.  31 Một tư tế tình cờ đi xuống đường ấy; khi thấy nạn nhân, ông tránh qua bên kia đường và tiếp tục cuộc hành trình.  32 Tương tự, một người Lê-vi cũng đi qua chỗ ấy.  Ông lại gần, nhìn nạn nhân, rồi băng qua bên kia đường đi tiếp.  33 Nhưng có một người Sa-ma-ri kia cũng đi con đường đó, khi đến chỗ nạn nhân và thấy nạn nhân như thế, ông động lòng thương xót.  34 Ông lại gần nạn nhân, băng bó các vết thương, lấy dầu và rượu thoa bóp các vết bầm, đỡ nạn nhân lên con vật của mình, và đưa đến một lữ quán để săn sóc.  35 Hôm sau, ông lấy hai đơ-na-ri trao cho chủ quán và nói, ‘Xin ông săn sóc người nầy; nếu tốn kém thêm bao nhiêu, khi tôi trở lại, tôi sẽ trả cho ông.’  36 Theo ngươi, ai trong ba người đó là người lân cận của người bị sa vào tay bọn cướp?”
+                30 Ðức Chúa Jesus đáp, “Một người kia đi từ Giê-ru-sa-lem xuống Giê-ri-cô dọc đường bị lâm vào tay bọn cướp.  Chúng cướp giật hết, đánh đập trọng thương, rồi bỏ đi, để người ấy nửa sống nửa chết.  31 Một tư tế tình cờ đi xuống đường ấy; khi thấy nạn nhân, ông tránh qua bên kia đường và tiếp tục cuộc hành trình.  32 Tương tự, một người Lê-vi cũng đi qua chỗ ấy.  Ông lại gần, nhìn nạn nhân, rồi băng qua bên kia đường đi tiếp.  33 Nhưng có một người Sa-ma-ri kia cũng đi con đường đó, khi đến chỗ nạn nhân và thấy nạn nhân như thế, ông động lòng thương xót.  34 Ông lại gần nạn nhân, băng bó các vết thương, lấy dầu và rượu thoa bóp các vết bầm, đỡ nạn nhân lên con vật của mình, và đưa đến một lữ quán để săn sóc.  35 Hôm sau, ông lấy hai đơ-na-ri trao cho chủ quán và nói, ‘Xin ông săn sóc người này; nếu tốn kém thêm bao nhiêu, khi tôi trở lại, tôi sẽ trả cho ông.’  36 Theo ngươi, ai trong ba người đó là người lân cận của người bị sa vào tay bọn cướp?”
                 37 Ông đáp, “Ðó là người đã tỏ lòng thương xót với ông ta.”
                 Ðức Chúa Jesus bảo, “Hãy đi và làm y như vậy.”
 
@@ -711,7 +711,7 @@ class Luca: Book {
             ["Dấu Lạ về Giô-na": """
                 (Mat 12:38-42)
                 
-                29 Khi đám đông tụ lại đông nghẹt, Ngài bắt đầu nói, “Thế hệ nầy là một thế hệ gian tà.  Họ đòi xem một dấu lạ, nhưng họ sẽ không được ban cho dấu lạ nào, ngoại trừ dấu lạ của Giô-na.  30 Vì Giô-na đã thành một dấu lạ cho dân Ni-ni-ve thể nào, Con Người cũng sẽ thành một dấu lạ cho thế hệ nầy thể ấy.  31 Trong ngày phán xét, nữ hoàng phương nam sẽ đứng dậy với những người của thế hệ nầy và sẽ lên án họ, vì bà đã từ nơi tận cùng trái đất đến nghe lời khôn ngoan của Sa-lô-môn; và nầy, có một Ðấng vĩ đại hơn Sa-lô-môn đang ở đây.  32 Trong ngày phán xét, dân Ni-ni-ve sẽ đứng dậy với thế hệ nầy và lên án họ, vì dân ấy đã ăn năn khi nghe Giô-na giảng; và nầy, có một Ðấng vĩ đại hơn Giô-na đang ở đây.”
+                29 Khi đám đông tụ lại đông nghẹt, Ngài bắt đầu nói, “Thế hệ này là một thế hệ gian tà.  Họ đòi xem một dấu lạ, nhưng họ sẽ không được ban cho dấu lạ nào, ngoại trừ dấu lạ của Giô-na.  30 Vì Giô-na đã thành một dấu lạ cho dân Ni-ni-ve thể nào, Con Người cũng sẽ thành một dấu lạ cho thế hệ này thể ấy.  31 Trong ngày phán xét, nữ hoàng phương nam sẽ đứng dậy với những người của thế hệ này và sẽ lên án họ, vì bà đã từ nơi tận cùng trái đất đến nghe lời khôn ngoan của Sa-lô-môn; và này, có một Ðấng vĩ đại hơn Sa-lô-môn đang ở đây.  32 Trong ngày phán xét, dân Ni-ni-ve sẽ đứng dậy với thế hệ này và lên án họ, vì dân ấy đã ăn năn khi nghe Giô-na giảng; và này, có một Ðấng vĩ đại hơn Giô-na đang ở đây.”
 
                 """],
             ["Ánh Sáng của Thân Thể": """
@@ -723,11 +723,11 @@ class Luca: Book {
             ["Chúa Quở Trách Người Pha-ri-si và Các Thầy Dạy Giáo Luật": """
                 (Mat 23:1-36)
                 
-                37 Khi Ngài đã giảng xong, một người Pha-ri-si đến mời Ngài dùng bữa với ông.  Vậy Ngài vào trong nhà và ngồi vào bàn ăn.  38 Người Pha-ri-si thấy vậy thì lấy làm lạ vì Ngài không rửa tay trước khi ăn.  39 Nhưng Chúa nói với ông ấy, “Nầy, những người Pha-ri-si các ngươi chùi sạch bên ngoài chén dĩa, nhưng bên trong lại chứa đầy tham lam và gian ác.  40 Hỡi những kẻ dại, há chẳng phải Ðấng dựng nên bên ngoài cũng dựng nên bên trong hay sao?  41 Thà hãy rộng lòng bố thí những gì các ngươi có; nầy, mọi sự sẽ tinh sạch cho các ngươi.
+                37 Khi Ngài đã giảng xong, một người Pha-ri-si đến mời Ngài dùng bữa với ông.  Vậy Ngài vào trong nhà và ngồi vào bàn ăn.  38 Người Pha-ri-si thấy vậy thì lấy làm lạ vì Ngài không rửa tay trước khi ăn.  39 Nhưng Chúa nói với ông ấy, “Này, những người Pha-ri-si các ngươi chùi sạch bên ngoài chén dĩa, nhưng bên trong lại chứa đầy tham lam và gian ác.  40 Hỡi những kẻ dại, há chẳng phải Ðấng dựng nên bên ngoài cũng dựng nên bên trong hay sao?  41 Thà hãy rộng lòng bố thí những gì các ngươi có; này, mọi sự sẽ tinh sạch cho các ngươi.
                 42 Khốn cho các ngươi, những người Pha-ri-si, vì các ngươi dâng một phần mười bạc hà, húng thơm, và mọi thứ rau, nhưng lại bỏ qua công lý và tình thương của Ðức Chúa Trời.  Các ngươi phải làm những điều này, nhưng không được bỏ qua những điều kia.
                 43 Khốn cho các ngươi, những người Pha-ri-si, vì các ngươi thích ngồi ghế danh dự trong các hội đường và thích được chào hỏi kính cẩn giữa phố chợ.  44 Khốn cho các ngươi, vì các ngươi giống như những mộ hoang, bị người ta không biết nên giẫm lên.”
                 45 Bấy giờ một trong các luật sư cất tiếng nói với Ngài, “Thưa Thầy, Thầy nói như vậy là sỉ nhục chúng tôi.”
-                46 Nhưng Ngài đáp, “Khốn cho các ngươi, các luật sư nữa, vì các ngươi chất những gánh nặng khó mang trên người khác, còn chính các ngươi thì không đụng ngón tay vào những gánh nặng đó.  47 Khốn cho các ngươi, vì các ngươi xây lăng mộ cho các tiên tri, những người đã bị tổ tiên các ngươi giết.  48 Thế là các ngươi làm chứng và đồng lòng về việc làm của tổ tiên các ngươi, vì tổ tiên các ngươi đã giết các vị ấy, còn các ngươi thì xây lăng mộ cho họ.  49 Vì vậy sự khôn ngoan của Ðức Chúa Trời phán, ‘Ta sẽ sai các tiên tri và các sứ đồ đến với chúng, chúng sẽ giết người nầy và bắt bớ người kia,’ 50 để thế hệ nầy sẽ bị đòi nợ máu của tất cả các tiên tri đã đổ ra từ khi sáng thế, 51 từ máu của A-bên cho đến máu của Xa-cha-ri, người đã bị giết giữa bàn thờ và đền thờ.  Phải, Ta nói với các ngươi, thế hệ nầy sẽ bị đòi nợ máu ấy.
+                46 Nhưng Ngài đáp, “Khốn cho các ngươi, các luật sư nữa, vì các ngươi chất những gánh nặng khó mang trên người khác, còn chính các ngươi thì không đụng ngón tay vào những gánh nặng đó.  47 Khốn cho các ngươi, vì các ngươi xây lăng mộ cho các tiên tri, những người đã bị tổ tiên các ngươi giết.  48 Thế là các ngươi làm chứng và đồng lòng về việc làm của tổ tiên các ngươi, vì tổ tiên các ngươi đã giết các vị ấy, còn các ngươi thì xây lăng mộ cho họ.  49 Vì vậy sự khôn ngoan của Ðức Chúa Trời phán, ‘Ta sẽ sai các tiên tri và các sứ đồ đến với chúng, chúng sẽ giết người này và bắt bớ người kia,’ 50 để thế hệ này sẽ bị đòi nợ máu của tất cả các tiên tri đã đổ ra từ khi sáng thế, 51 từ máu của A-bên cho đến máu của Xa-cha-ri, người đã bị giết giữa bàn thờ và đền thờ.  Phải, Ta nói với các ngươi, thế hệ này sẽ bị đòi nợ máu ấy.
                 52 Khốn cho các ngươi, các luật sư, vì các ngươi cất đi chìa khóa của tri thức.  Chính các ngươi, các ngươi không chịu vào, nhưng ai muốn vào, các ngươi lại ngăn trở.”
                 53 Khi Ngài rời nơi đó ra đi, các thầy dạy giáo luật và những người Pha-ri-si bắt đầu làm dữ với Ngài; họ vặn hỏi Ngài nhiều điều 54 và rình xem Ngài nói lời nào sơ hở chăng.
 
@@ -757,7 +757,7 @@ class Luca: Book {
                 13 Khi ấy trong đám đông có người nói với Ngài, “Thưa Thầy, xin Thầy bảo anh tôi chia gia tài cho tôi.”
                 14 Ngài trả lời với người ấy, “Hỡi người kia, ai lập Ta làm thẩm phán hay làm người chia gia tài cho các ngươi?”
                 15 Ngài phán với họ, “Hãy cẩn thận và hãy giữ mình khỏi mọi thứ tham lam, vì sự sống con người không trị giá bằng có nhiều của cải.”
-                16 Ngài kể cho họ một ngụ ngôn rằng, “Ruộng của người phú hộ kia trúng mùa.  17 Người ấy tự nhủ, ‘Ta phải làm gì bây giờ, vì ta không còn chỗ để chứa các hoa lợi của ta nữa?’  18 Người ấy nói tiếp, ‘Ta sẽ làm thế nầy: Ta sẽ dỡ bỏ các vựa lẫm nầy và xây các vựa lẫm khác lớn hơn.  Ta sẽ chứa tất cả lúa gạo và những của cải ta vào các vựa lẫm đó, 19 rồi ta sẽ nói với linh hồn ta rằng: Linh hồn ơi, ngươi đã có nhiều của cải tích trữ cho mình nhiều năm rồi.  Hãy nghỉ ngơi, ăn, uống, và vui vẻ.’  20 Nhưng Ðức Chúa Trời phán với người ấy, ‘Hỡi kẻ dại, chính đêm nay linh hồn ngươi sẽ bị đòi lại, bấy giờ những của cải ngươi đã chuẩn bị sẽ thuộc về ai?’  21 Những ai chỉ lo tích trữ của cải cho mình mà không giàu có nơi Ðức Chúa Trời thì cũng như vậy.”
+                16 Ngài kể cho họ một ngụ ngôn rằng, “Ruộng của người phú hộ kia trúng mùa.  17 Người ấy tự nhủ, ‘Ta phải làm gì bây giờ, vì ta không còn chỗ để chứa các hoa lợi của ta nữa?’  18 Người ấy nói tiếp, ‘Ta sẽ làm thế này: Ta sẽ dỡ bỏ các vựa lẫm này và xây các vựa lẫm khác lớn hơn.  Ta sẽ chứa tất cả lúa gạo và những của cải ta vào các vựa lẫm đó, 19 rồi ta sẽ nói với linh hồn ta rằng: Linh hồn ơi, ngươi đã có nhiều của cải tích trữ cho mình nhiều năm rồi.  Hãy nghỉ ngơi, ăn, uống, và vui vẻ.’  20 Nhưng Ðức Chúa Trời phán với người ấy, ‘Hỡi kẻ dại, chính đêm nay linh hồn ngươi sẽ bị đòi lại, bấy giờ những của cải ngươi đã chuẩn bị sẽ thuộc về ai?’  21 Những ai chỉ lo tích trữ của cải cho mình mà không giàu có nơi Ðức Chúa Trời thì cũng như vậy.”
 
                 """],
             ["Tin Cậy vào Ơn Quan Phòng": """
@@ -771,7 +771,7 @@ class Luca: Book {
             ["Ðầy Tớ Trung Tín": """
                 35 “Lưng các ngươi hãy thắt sẵn và đèn các ngươi hãy thắp sáng lên.  36 Các ngươi hãy giống như những người đợi chủ đi dự tiệc cưới trở về; vừa khi chủ về đến nhà và gõ cửa thì mở ngay.  37 Phước cho những đầy tớ ấy, những người được chủ thấy đang thức đợi chủ về.  Quả thật, Ta nói với các ngươi, chủ sẽ thắt lưng, bảo họ ngồi xuống bàn ăn, rồi đến từng người mà phục vụ họ.  38 Nếu trong canh hai hay canh ba chủ về và thấy như vậy, thì phước cho những đầy tớ ấy thay.
                 39 Hãy biết rằng, nếu chủ nhà biết trước giờ nào kẻ trộm sẽ đến, chủ nhà sẽ không để cho kẻ trộm lẻn vào nhà.  40 Các ngươi cũng vậy, hãy sẵn sàng, vì Con Người sẽ đến trong giờ các ngươi không ngờ.”
-                41 Phi-rơ hỏi, “Lạy Chúa, Ngài kể ngụ ngôn nầy cho chúng con hay cho mọi người?”
+                41 Phi-rơ hỏi, “Lạy Chúa, Ngài kể ngụ ngôn này cho chúng con hay cho mọi người?”
                 42 Chúa đáp, “Ai là người quản gia trung tín và khôn ngoan được chủ lập lên để cai quản các đầy tớ mình và để cấp phát lương thực cho họ đúng kỳ?  43 Phước cho đầy tớ ấy khi chủ về và thấy làm như vậy.  44 Quả thật, Ta nói với các ngươi, chủ sẽ đặt người ấy cai quản tất cả tài sản mình.  45 Nhưng nếu đầy tớ ấy nghĩ trong lòng rằng, ‘Chủ ta sẽ về trễ,’ rồi đánh đập các tôi trai tớ gái, ăn uống, và nhậu nhẹt say sưa; 46 chủ của đầy tớ ấy sẽ về trong ngày nó không ngờ, trong giờ nó không biết, phạt nó bị đòn nát thây, và bắt nó chịu chung số phận với những kẻ bất trung.  47 Ðầy tớ nào biết điều chủ mình muốn mà không chuẩn bị sẵn sàng hoặc không làm theo ý chủ sẽ bị đòn nhiều.  48 Nhưng đầy tớ nào không biết ý chủ mà làm những chuyện đáng phạt sẽ bị đòn ít.  Vì ai được ban cho nhiều sẽ bị đòi phải trả lời nhiều, và ai được giao phó nhiều sẽ bị hỏi nhiều hơn.”
 
                 """],
@@ -784,7 +784,7 @@ class Luca: Book {
             ["Phải Nhận Biết Thời Triệu": """
                 (Mat 16:2-3; 5:25-26)
                 
-                54 Ngài lại nói với đám đông, “Khi các ngươi thấy mây giăng ở phương tây, các ngươi bảo ngay rằng ‘Mưa bão sắp đến,’ và nó xảy ra như vậy.  55 Khi các ngươi thấy gió nồm thổi đến, các ngươi nói, ‘Trời sẽ oi bức,’ và nó xảy ra như thế.  56 Hỡi những kẻ đạo đức giả!  Nhìn những hiện tượng của trời đất, các ngươi có thể giải đoán những gì sẽ xảy đến, tại sao khi nhìn thời đại nầy các ngươi lại không biết giải đoán?  57 Tại sao các ngươi không tự mình phán đoán, để xem điều gì là đúng?
+                54 Ngài lại nói với đám đông, “Khi các ngươi thấy mây giăng ở phương tây, các ngươi bảo ngay rằng ‘Mưa bão sắp đến,’ và nó xảy ra như vậy.  55 Khi các ngươi thấy gió nồm thổi đến, các ngươi nói, ‘Trời sẽ oi bức,’ và nó xảy ra như thế.  56 Hỡi những kẻ đạo đức giả!  Nhìn những hiện tượng của trời đất, các ngươi có thể giải đoán những gì sẽ xảy đến, tại sao khi nhìn thời đại này các ngươi lại không biết giải đoán?  57 Tại sao các ngươi không tự mình phán đoán, để xem điều gì là đúng?
                 58 Khi ngươi đi với kẻ kiện cáo ngươi đến trước quan tòa, dọc đường hãy cố gắng giải quyết cho xong việc tranh tụng với người ấy, kẻo người ấy lôi ngươi đến quan tòa, quan tòa trao ngươi cho cai ngục, và cai ngục bỏ ngươi vào tù.  59 Ta nói với ngươi, ngươi sẽ không ra khỏi tù cho đến khi trả xong đồng nợ cuối cùng.”
 
                 """]
@@ -795,13 +795,13 @@ class Luca: Book {
 
                 """],
             ["Cây Vả Không Ra Trái": """
-                6 Bấy giờ Ngài kể ngụ ngôn nầy: “Một người kia trồng một cây vả trong vườn nho mình.  Người ấy đến hái trái, nhưng chẳng thấy trái nào.  7 Vì thế ông nói với người làm vườn, ‘Anh coi, đã ba năm nay, tôi ra cây vả nầy tìm trái nhưng chẳng thấy trái nào.  Vậy hãy đốn nó đi.  Tại sao để nó choán đất?’  8 Nhưng người làm vườn nói, ‘Thưa chủ, xin chủ để yên nó thêm một năm nầy nữa.  Tôi sẽ đào xung quanh gốc nó và bón phân vào.  9 Có lẽ năm tới nó sẽ ra trái, còn không, xin chủ cứ cho đốn.’”
+                6 Bấy giờ Ngài kể ngụ ngôn này: “Một người kia trồng một cây vả trong vườn nho mình.  Người ấy đến hái trái, nhưng chẳng thấy trái nào.  7 Vì thế ông nói với người làm vườn, ‘Anh coi, đã ba năm nay, tôi ra cây vả này tìm trái nhưng chẳng thấy trái nào.  Vậy hãy đốn nó đi.  Tại sao để nó choán đất?’  8 Nhưng người làm vườn nói, ‘Thưa chủ, xin chủ để yên nó thêm một năm này nữa.  Tôi sẽ đào xung quanh gốc nó và bón phân vào.  9 Có lẽ năm tới nó sẽ ra trái, còn không, xin chủ cứ cho đốn.’”
 
                 """],
             ["Chúa Chữa Lành Người Ðàn Bà Bị Còng Lưng": """
-                10 Một ngày Sa-bát nọ Ngài giảng dạy trong một hội đường.  11 Nầy, tại đó có một bà bị quỷ hại phải tàn tật đã mười tám năm.  Bà cứ khòm lưng mãi chứ không thể đứng thẳng lên được.  12 Ðức Chúa Jesus thấy bà, Ngài gọi bà lại và nói, “Này bà, bà đã được giải thoát khỏi tật nguyền.”  13 Ngài đặt tay trên bà, lập tức bà đứng thẳng lên và bắt đầu tôn vinh Ðức Chúa Trời.
+                10 Một ngày Sa-bát nọ Ngài giảng dạy trong một hội đường.  11 Này, tại đó có một bà bị quỷ hại phải tàn tật đã mười tám năm.  Bà cứ khòm lưng mãi chứ không thể đứng thẳng lên được.  12 Ðức Chúa Jesus thấy bà, Ngài gọi bà lại và nói, “Này bà, bà đã được giải thoát khỏi tật nguyền.”  13 Ngài đặt tay trên bà, lập tức bà đứng thẳng lên và bắt đầu tôn vinh Ðức Chúa Trời.
                 14 Nhưng người quản lý hội đường nổi giận vì Ðức Chúa Jesus chữa bịnh trong ngày Sa-bát.  Ông nói với đám đông, “Có sáu ngày để làm việc.  Muốn được chữa bịnh, hãy đến vào những ngày đó; đừng đến trong ngày Sa-bát.”
-                15 Nhưng Chúa trả lời ông và nói, “Hỡi các ngươi, những kẻ đạo đức giả!  Có ai trong các ngươi trong ngày Sa-bát không mở dây cho bò hay lừa của mình rời máng cỏ để dắt nó đi uống nước chăng?  16 Vậy tại sao con gái của Áp-ra-ham nầy đã bị Sa-tan trói buộc mười tám năm nay lại không được mở trói để hưởng tự do trong ngày Sa-bát?”
+                15 Nhưng Chúa trả lời ông và nói, “Hỡi các ngươi, những kẻ đạo đức giả!  Có ai trong các ngươi trong ngày Sa-bát không mở dây cho bò hay lừa của mình rời máng cỏ để dắt nó đi uống nước chăng?  16 Vậy tại sao con gái của Áp-ra-ham này đã bị Sa-tan trói buộc mười tám năm nay lại không được mở trói để hưởng tự do trong ngày Sa-bát?”
                 17 Sau khi Ngài nói như vậy, những kẻ chống đối Ngài cảm thấy xấu hổ, còn mọi người trong đám đông đều vui mừng vì những việc vinh diệu Ngài làm.
 
                 """],
@@ -821,30 +821,30 @@ class Luca: Book {
                 (Mat 7:13-14, 21-23)
                 
                 22 Ngài đi khắp các thành và các làng vừa giảng dạy vừa tiến về Giê-ru-sa-lem.  23 Có người hỏi Ngài, “Lạy Chúa, có phải chỉ có một ít người được cứu không?”
-                Ngài đáp, 24 “Hãy gắng sức vào cửa hẹp, vì Ta nói với các ngươi, nhiều người sẽ tìm cách vào nhưng không vào được.  25 Một khi chủ nhà đã dậy và đóng cửa, nếu các ngươi còn đứng bên ngoài, gõ cửa, và nói, ‘Chủ ơi, xin mở cửa cho chúng tôi.’  Bấy giờ chủ sẽ nói với các ngươi, ‘Ta không biết các ngươi từ đâu đến.’  26 Khi ấy các ngươi sẽ nói, ‘Chúng tôi đã từng ăn và uống trước mặt ngài.  Ngài đã từng giảng dạy trong các đường phố của chúng tôi.’  27 Bấy giờ chủ sẽ nói, ‘Ta nói với các ngươi, Ta không biết các ngươi từ đâu đến.  Hãy rời khỏi ta, hỡi những kẻ làm việc gian tà.’  28 Bấy giờ sẽ có khóc lóc và nghiến răng khi các ngươi thấy Áp-ra-ham, I-sác, Gia-cốp, và các tiên tri được ở trong vương quốc Ðức Chúa Trời, còn các ngươi lại bị ném ra ngoài.  29 Khi ấy người ta từ phương đông, phương tây, phương bắc, và phương nam sẽ đến ngồi dự tiệc trong vương quốc Ðức Chúa Trời.  30 Nầy, có những kẻ cuối sẽ lên đầu và những kẻ đầu sẽ thành cuối.”
+                Ngài đáp, 24 “Hãy gắng sức vào cửa hẹp, vì Ta nói với các ngươi, nhiều người sẽ tìm cách vào nhưng không vào được.  25 Một khi chủ nhà đã dậy và đóng cửa, nếu các ngươi còn đứng bên ngoài, gõ cửa, và nói, ‘Chủ ơi, xin mở cửa cho chúng tôi.’  Bấy giờ chủ sẽ nói với các ngươi, ‘Ta không biết các ngươi từ đâu đến.’  26 Khi ấy các ngươi sẽ nói, ‘Chúng tôi đã từng ăn và uống trước mặt ngài.  Ngài đã từng giảng dạy trong các đường phố của chúng tôi.’  27 Bấy giờ chủ sẽ nói, ‘Ta nói với các ngươi, Ta không biết các ngươi từ đâu đến.  Hãy rời khỏi ta, hỡi những kẻ làm việc gian tà.’  28 Bấy giờ sẽ có khóc lóc và nghiến răng khi các ngươi thấy Áp-ra-ham, I-sác, Gia-cốp, và các tiên tri được ở trong vương quốc Ðức Chúa Trời, còn các ngươi lại bị ném ra ngoài.  29 Khi ấy người ta từ phương đông, phương tây, phương bắc, và phương nam sẽ đến ngồi dự tiệc trong vương quốc Ðức Chúa Trời.  30 Này, có những kẻ cuối sẽ lên đầu và những kẻ đầu sẽ thành cuối.”
 
                 """],
             ["Con Cáo Già Hê-rốt": """
-                31 Ngay lúc đó có mấy người Pha-ri-si đến nói với Ngài, “Thầy nên rời khỏi nơi nầy, vì Hê-rốt muốn giết Thầy đó.”
+                31 Ngay lúc đó có mấy người Pha-ri-si đến nói với Ngài, “Thầy nên rời khỏi nơi này, vì Hê-rốt muốn giết Thầy đó.”
                 32 Ngài nói với họ, “Hãy đi nói với con chồn cáo ấy, ‘Hôm nay và ngày mai Ta đuổi quỷ và chữa bịnh, ngày thứ ba Ta sẽ hoàn tất công việc của Ta.’  33 Nhưng hôm nay, ngày mai, và ngày mốt Ta phải tiếp tục cuộc hành trình, vì một tiên tri không thể chết bên ngoài Giê-ru-sa-lem.”
 
                 """],
             ["Chúa Quở Trách Giê-ru-sa-lem": """
                 (Mat 23:37-39)
                 
-                34 “Hỡi Giê-ru-sa-lem, Giê-ru-sa-lem, ngươi giết các tiên tri và ném đá những người được sai đến với ngươi!  Bao nhiêu lần Ta muốn tập họp con cái ngươi lại, như gà mẹ gọi con đến và ấp che dưới cánh, nhưng các ngươi không chịu.  35 Nầy, Ta phó mặc nhà các ngươi cho các ngươi.  Ta nói với các ngươi: Các ngươi sẽ không thấy Ta nữa cho đến khi các ngươi nói,
+                34 “Hỡi Giê-ru-sa-lem, Giê-ru-sa-lem, ngươi giết các tiên tri và ném đá những người được sai đến với ngươi!  Bao nhiêu lần Ta muốn tập họp con cái ngươi lại, như gà mẹ gọi con đến và ấp che dưới cánh, nhưng các ngươi không chịu.  35 Này, Ta phó mặc nhà các ngươi cho các ngươi.  Ta nói với các ngươi: Các ngươi sẽ không thấy Ta nữa cho đến khi các ngươi nói,
                 ‘Chúc tụng Ðấng nhân danh Chúa ngự đến!’”
 
                 """]
             ]),
         Chapter(14, passages: [
             ["Chúa Chữa Lành Người Bị Phù Thũng": """
-                1 Một ngày Sa-bát nọ Ngài đến nhà một người lãnh đạo những người Pha-ri-si để dùng bữa.  Họ chăm chú theo dõi Ngài.  2 Nầy, ngay trước mặt Ngài có một người bị phù thũng.  3 Ðức Chúa Jesus cất tiếng hỏi các luật sư và những người Pha-ri-si ở đó rằng, “Trong ngày Sa-bát có được phép chữa bịnh hay không?”  4 Nhưng họ đều làm thinh.  Ngài đỡ lấy người bịnh, chữa lành, rồi cho người ấy ra về.  5 Ðoạn Ngài nói với họ, “Trong vòng các ngươi, ai có con mình hay bò mình bị rớt xuống giếng trong ngày Sa-bát mà không kéo nó lên ngay chăng?”  6 Không ai có thể trả lời Ngài tiếng nào.
+                1 Một ngày Sa-bát nọ Ngài đến nhà một người lãnh đạo những người Pha-ri-si để dùng bữa.  Họ chăm chú theo dõi Ngài.  2 Này, ngay trước mặt Ngài có một người bị phù thũng.  3 Ðức Chúa Jesus cất tiếng hỏi các luật sư và những người Pha-ri-si ở đó rằng, “Trong ngày Sa-bát có được phép chữa bịnh hay không?”  4 Nhưng họ đều làm thinh.  Ngài đỡ lấy người bịnh, chữa lành, rồi cho người ấy ra về.  5 Ðoạn Ngài nói với họ, “Trong vòng các ngươi, ai có con mình hay bò mình bị rớt xuống giếng trong ngày Sa-bát mà không kéo nó lên ngay chăng?”  6 Không ai có thể trả lời Ngài tiếng nào.
 
                 """],
             ["Ðừng Tôn Mình Lên": """
-                7 Khi Ngài thấy những người được mời đến dự tiệc đều chọn những chỗ danh dự mà ngồi, Ngài kể cho họ ngụ ngôn nầy:
-                8 “Khi các ngươi được mời dự tiệc cưới, đừng tự động ngồi vào chỗ danh dự, kẻo có người nào tôn trọng hơn ngươi được chủ tiệc mời đến, 9 và chủ tiệc, người đã mời ngươi và người khách kia, sẽ đến nói với ngươi, ‘Xin bạn hãy nhường chỗ cho vị nầy,’ rồi ngươi phải xấu hổ mà đi xuống chỗ cuối chăng.  10 Nhưng khi các ngươi được mời dự tiệc, hãy chọn những chỗ cuối mà ngồi, rồi khi chủ tiệc đến, người ấy có thể nói với ngươi, ‘Bạn ơi, mời bạn lên ngồi trên nầy.’  Bấy giờ ngươi sẽ được tôn trọng trước mặt những người đang ngồi đồng bàn với mình.  11 Bởi vì ai tôn mình lên sẽ bị hạ xuống, còn ai hạ mình xuống sẽ được tôn lên.”
+                7 Khi Ngài thấy những người được mời đến dự tiệc đều chọn những chỗ danh dự mà ngồi, Ngài kể cho họ ngụ ngôn này:
+                8 “Khi các ngươi được mời dự tiệc cưới, đừng tự động ngồi vào chỗ danh dự, kẻo có người nào tôn trọng hơn ngươi được chủ tiệc mời đến, 9 và chủ tiệc, người đã mời ngươi và người khách kia, sẽ đến nói với ngươi, ‘Xin bạn hãy nhường chỗ cho vị này,’ rồi ngươi phải xấu hổ mà đi xuống chỗ cuối chăng.  10 Nhưng khi các ngươi được mời dự tiệc, hãy chọn những chỗ cuối mà ngồi, rồi khi chủ tiệc đến, người ấy có thể nói với ngươi, ‘Bạn ơi, mời bạn lên ngồi trên này.’  Bấy giờ ngươi sẽ được tôn trọng trước mặt những người đang ngồi đồng bàn với mình.  11 Bởi vì ai tôn mình lên sẽ bị hạ xuống, còn ai hạ mình xuống sẽ được tôn lên.”
 
                 """],
             ["Mời Ai Khi Ðãi Khách": """
@@ -863,7 +863,7 @@ class Luca: Book {
                 (Mat 10:37-38)
                 
                 25 Lúc ấy một đoàn đông đi theo Ngài, Ngài quay lại và nói với họ, 26 “Nếu ai đến với Ta mà không yêu Ta hơn cha, mẹ, vợ, con, anh em, chị em, và ngay cả mạng sống của chính mình thì không thể làm môn đồ Ta.  27 Nếu ai không vác thập tự giá mình mà theo Ta thì không thể làm môn đồ Ta.
-                28 Vì ai trong các ngươi muốn xây một cái tháp mà trước hết không ngồi xuống tính phí tổn, xem có đủ khả năng để hoàn tất công trình xây cất ấy chăng?  29 Nếu không, sau khi xây nền, rồi không thể hoàn tất, khiến ai nấy thấy vậy đều chê cười 30 rằng, ‘Người nầy đã khởi công xây cất nhưng không đủ sức để hoàn tất.’
+                28 Vì ai trong các ngươi muốn xây một cái tháp mà trước hết không ngồi xuống tính phí tổn, xem có đủ khả năng để hoàn tất công trình xây cất ấy chăng?  29 Nếu không, sau khi xây nền, rồi không thể hoàn tất, khiến ai nấy thấy vậy đều chê cười 30 rằng, ‘Người này đã khởi công xây cất nhưng không đủ sức để hoàn tất.’
                 31 Hoặc có vua nào kéo quân đi giao chiến với vua khác mà trước hết không ngồi xuống bàn tính, xem mười ngàn quân của mình có thể thắng nổi hai mươi ngàn quân của kẻ sẽ giao chiến với mình chăng?  32 Nếu liệu sức không thắng nổi thì khi vua kia vẫn còn ở xa, hãy sai sứ giả đến cầu hòa.
                 33 Cũng vậy, ai trong các ngươi không từ bỏ tất cả những gì mình có thì không thể làm môn đồ Ta.”
 
@@ -879,7 +879,7 @@ class Luca: Book {
             ["Con Chiên Lạc": """
                 (Mat 18:12-14)
                 
-                1 Khi ấy tất cả những người thu thuế và những kẻ tội lỗi đến gần Ngài để nghe Ngài giảng dạy.  2 Thấy vậy những người Pha-ri-si và các thầy dạy giáo luật lầm bầm rằng, “Người nầy tiếp những kẻ tội lỗi và ăn uống với chúng.”  3 Vì vậy Ngài kể cho họ ngụ ngôn nầy:
+                1 Khi ấy tất cả những người thu thuế và những kẻ tội lỗi đến gần Ngài để nghe Ngài giảng dạy.  2 Thấy vậy những người Pha-ri-si và các thầy dạy giáo luật lầm bầm rằng, “Người này tiếp những kẻ tội lỗi và ăn uống với chúng.”  3 Vì vậy Ngài kể cho họ ngụ ngôn này:
                 4 “Ai trong các ngươi có một trăm con chiên, nếu bị mất một con, mà không để chín mươi chín con kia trong đồng, và đi tìm con bị mất cho đến khi tìm được chăng?  5 Khi đã tìm được rồi, người ấy vui mừng vác nó lên vai mang về.  6 Khi về đến nhà, người ấy mời bạn bè và láng giềng đến và nói, ‘Xin chung vui với tôi, vì tôi đã tìm được con chiên bị mất.’
                 7 Cũng vậy, Ta nói với các ngươi, trên thiên đàng sẽ vui mừng về một người tội lỗi ăn năn hơn về chín mươi chín người ngay lành không cần ăn năn.”
 
@@ -890,7 +890,7 @@ class Luca: Book {
 
                 """],
             ["Ðứa Con Phóng Ðãng": """
-                11 Ngài lại nói, “Một người kia có hai con trai.  12 Người con thứ nói với cha, ‘Thưa cha, xin cha cho con phần gia tài sẽ thuộc về con.’  Người cha chia gia tài cho hai con.  13 Chẳng bao lâu sau đó, người con thứ tóm thâu tất cả những gì thuộc về mình và lên đường đi phương xa.  Ở đó anh tiêu xài phung phí tài sản của mình và sống rất phóng đãng.  14 Sau khi anh đã tiêu sạch mọi sự mình có, cả xứ gặp phải một nạn đói rất trầm trọng, và anh bắt đầu lâm vào cảnh túng thiếu.  15 Anh xin đi làm thuê cho một người bản xứ.  Người ấy sai anh ra đồng chăn heo.  16 Anh ao ước được lấy vỏ đậu của heo ăn để ăn cho no, nhưng người ta không cho.  17 Bấy giờ anh mới giác ngộ và nói, ‘Bao nhiêu người làm thuê ở nhà cha ta có cơm bánh ăn không hết, còn ta ở đây lại bị chết đói thể nầy.’  18 Ta sẽ đứng dậy, trở về với cha ta, và thưa với cha ta rằng, ‘Thưa cha, con đã phạm tội với Trời và với cha.  19 Con không xứng đáng được gọi là con của cha nữa.  Xin cha cho con được như một người làm thuê của cha.’
+                11 Ngài lại nói, “Một người kia có hai con trai.  12 Người con thứ nói với cha, ‘Thưa cha, xin cha cho con phần gia tài sẽ thuộc về con.’  Người cha chia gia tài cho hai con.  13 Chẳng bao lâu sau đó, người con thứ tóm thâu tất cả những gì thuộc về mình và lên đường đi phương xa.  Ở đó anh tiêu xài phung phí tài sản của mình và sống rất phóng đãng.  14 Sau khi anh đã tiêu sạch mọi sự mình có, cả xứ gặp phải một nạn đói rất trầm trọng, và anh bắt đầu lâm vào cảnh túng thiếu.  15 Anh xin đi làm thuê cho một người bản xứ.  Người ấy sai anh ra đồng chăn heo.  16 Anh ao ước được lấy vỏ đậu của heo ăn để ăn cho no, nhưng người ta không cho.  17 Bấy giờ anh mới giác ngộ và nói, ‘Bao nhiêu người làm thuê ở nhà cha ta có cơm bánh ăn không hết, còn ta ở đây lại bị chết đói thể này.’  18 Ta sẽ đứng dậy, trở về với cha ta, và thưa với cha ta rằng, ‘Thưa cha, con đã phạm tội với Trời và với cha.  19 Con không xứng đáng được gọi là con của cha nữa.  Xin cha cho con được như một người làm thuê của cha.’
                 20 Ðoạn anh đứng dậy và trở về với cha anh.  Trong khi anh còn ở đàng xa, người cha đã trông thấy và động lòng thương xót.  Ông chạy đến ôm lấy anh và hôn anh.  21 Người con nói với ông, ‘Thưa cha, con đã phạm tội với Trời và với cha.  Con không xứng đáng được gọi là con của cha nữa.’  22 Nhưng người cha bảo các đầy tớ của ông, ‘Hãy mau mau lấy áo choàng tốt nhất mặc cho cậu, hãy đeo nhẫn vào ngón tay cậu, hãy lấy giày mang vào chân cậu, 23 và hãy bắt một bò con mập làm thịt để chúng ta ăn mừng, 24 vì con của tôi đây tưởng đã chết mà bây giờ còn sống, tưởng đã mất mà bây giờ đã tìm lại được.’  Thế là họ bắt đầu ăn mừng.
                 25 Lúc ấy người con cả của ông đang ở ngoài đồng.  Khi anh về gần đến nhà và nghe có tiếng đàn ca nhảy múa, 26 anh gọi một đầy tớ đến và hỏi xem trong nhà có chuyện gì.  27 Người ấy đáp, ‘Em cậu vừa trở về.  Cha cậu đã bắt bò con mập làm thịt, vì thấy cậu ấy trở về bình an mạnh khỏe.’  28 Người con cả liền nổi giận và không chịu vào nhà; vì thế cha anh đi ra và khuyên anh.  29 Nhưng anh trả lời và nói với cha anh, ‘Cha xem đó, bao nhiêu năm nay con phục vụ cha, con không bao giờ làm trái lệnh cha, nhưng chưa bao giờ cha cho con một con dê con để con vui vẻ với bạn bè.  30 Nhưng khi thằng con ấy của cha, đứa đã phung phí gia tài của cha với phường đĩ điếm, trở về thì cha làm thịt bò con mập ăn mừng!’
                 31 Nhưng người cha nói với anh, ‘Con ơi, con luôn luôn ở với cha.  Tất cả những gì của cha là của con.  32 Nhưng bây giờ chúng ta nên làm tiệc ăn mừng và vui vẻ, vì em con đây đã chết mà bây giờ lại sống, đã mất mà bây giờ đã tìm lại được.’”
@@ -900,12 +900,12 @@ class Luca: Book {
         Chapter(16, passages: [
             ["Người Quản Gia Bất Chính": """
                 1 Bấy giờ Ngài cũng nói với các môn đồ, “Một người giàu kia có một quản gia, và quản gia ấy bị tố cáo là hoang phí tài sản của chủ.  2 Chủ gọi quản gia ấy đến và bảo, ‘Anh đã làm gì mà tôi nghe báo cáo như thế?  Hãy khai trình việc quản lý của anh cho tôi xem, vì anh sẽ không làm quản gia nữa.’  3 Quản gia ấy tự nhủ, ‘Ta sẽ làm gì bây giờ, vì chủ cách chức quản gia của ta?  Cuốc đất thì ta không đủ sức, còn ăn mày thì xấu hổ quá.  4 Thôi ta biết phải làm gì rồi, để khi bị mất chức quản gia, sẽ có người tiếp ta vào nhà họ.’
-                5 Quản gia ấy bèn gọi từng con nợ của chủ đến.  Anh hỏi người thứ nhất, ‘Ông nợ chủ tôi bao nhiêu?’  6 Người ấy đáp, ‘Một trăm thùng dầu.’  Anh bảo, ‘Hãy lấy giấy nợ của ông, ngồi xuống mau, và viết năm chục.’  7 Rồi anh hỏi người khác, ‘Ông nợ bao nhiêu?’  Người ấy đáp, ‘Một trăm thùng lúa.’  Anh bảo người ấy, ‘Hãy lấy giấy nợ của ông và viết tám chục.’  8 Chủ khen người quản gia bất lương ấy, vì anh ta đã hành động cách tinh ranh.  Thật vậy, khi xử sự với người đồng thời với mình, con cái của thế gian nầy hành động tinh ranh hơn con cái của ánh sáng.  9 Nên Ta nói cùng các ngươi, hãy dùng tiền của bất chính để kết thêm bạn bè, hầu khi tiền của ấy hết, họ sẽ tiếp các ngươi vào ở với họ mãi.”
+                5 Quản gia ấy bèn gọi từng con nợ của chủ đến.  Anh hỏi người thứ nhất, ‘Ông nợ chủ tôi bao nhiêu?’  6 Người ấy đáp, ‘Một trăm thùng dầu.’  Anh bảo, ‘Hãy lấy giấy nợ của ông, ngồi xuống mau, và viết năm chục.’  7 Rồi anh hỏi người khác, ‘Ông nợ bao nhiêu?’  Người ấy đáp, ‘Một trăm thùng lúa.’  Anh bảo người ấy, ‘Hãy lấy giấy nợ của ông và viết tám chục.’  8 Chủ khen người quản gia bất lương ấy, vì anh ta đã hành động cách tinh ranh.  Thật vậy, khi xử sự với người đồng thời với mình, con cái của thế gian này hành động tinh ranh hơn con cái của ánh sáng.  9 Nên Ta nói cùng các ngươi, hãy dùng tiền của bất chính để kết thêm bạn bè, hầu khi tiền của ấy hết, họ sẽ tiếp các ngươi vào ở với họ mãi.”
 
                 """],
             ["Quản Lý Trung Tín": """
                 10 “Ai trung tín trong việc nhỏ cũng sẽ trung tín trong việc lớn.  Ai bất chính trong việc nhỏ cũng sẽ bất chính trong việc lớn.  11 Vậy nếu các ngươi không trung tín đối với của cải phi nghĩa, ai dám trao cho các ngươi quản lý của cải chân chính?  12 Nếu các ngươi không trung tín đối với những gì của người khác, ai dám trao cho các ngươi những gì thuộc về các ngươi?
-                13 Không đầy tớ nào có thể làm tôi hai chủ, vì đầy tớ ấy sẽ ghét chủ nầy và thương chủ kia, hoặc trọng chủ nầy và khinh chủ kia.  Các ngươi không thể nào vừa làm tôi Ðức Chúa Trời và vừa làm tôi tiền của.”
+                13 Không đầy tớ nào có thể làm tôi hai chủ, vì đầy tớ ấy sẽ ghét chủ này và thương chủ kia, hoặc trọng chủ này và khinh chủ kia.  Các ngươi không thể nào vừa làm tôi Ðức Chúa Trời và vừa làm tôi tiền của.”
 
                 """],
             ["Chúa Quở Trách Người Pha-ri-si": """
@@ -922,9 +922,9 @@ class Luca: Book {
                 """],
             ["Người Giàu và La-xa-rơ": """
                 19 “Có một người giàu kia mặc toàn vải tía và vải gai mịn, hằng ngày ăn uống tiệc tùng rất xa xỉ.  20 Cũng có một người nghèo nọ tên là La-xa-rơ, nằm ngoài cổng nhà người giàu ấy, mình đầy ghẻ chốc, 21 và thèm ăn những thức ăn trên bàn người giàu ấy rơi xuống; cũng có mấy con chó đến liếm ghẻ trên mình ông.  22 Thời gian trôi qua, người nghèo qua đời, các thiên sứ đem ông để vào lòng Áp-ra-ham.  Người giàu cũng chết, và được đem chôn.
-                23 Ðang khi chịu đau khổ dưới âm phủ, người giàu ngước mắt lên, trông thấy Áp-ra-ham ở xa xa, và có La-xa-rơ ở trong lòng ông ấy, 24 ông kêu lên và nói, ‘Tổ Phụ Áp-ra-ham ôi, xin thương xót con, và sai La-xa-rơ nhúng đầu ngón tay vào nước và nhỏ vào cho mát lưỡi con, vì con bị đau khổ trong lửa nầy quá đỗi.’
+                23 Ðang khi chịu đau khổ dưới âm phủ, người giàu ngước mắt lên, trông thấy Áp-ra-ham ở xa xa, và có La-xa-rơ ở trong lòng ông ấy, 24 ông kêu lên và nói, ‘Tổ Phụ Áp-ra-ham ôi, xin thương xót con, và sai La-xa-rơ nhúng đầu ngón tay vào nước và nhỏ vào cho mát lưỡi con, vì con bị đau khổ trong lửa này quá đỗi.’
                 25 Nhưng Áp-ra-ham đáp, ‘Con ơi, hãy nhớ rằng lúc còn sinh tiền con đã hưởng biết bao điều sung sướng, còn La-xa-rơ phải chịu nhiều bất hạnh; nhưng bây giờ nó được an ủi ở đây, còn con phải chịu đau đớn.  26 Hơn nữa, giữa chúng tôi và các con có một vực sâu rất lớn ngăn cách, đến nỗi nếu ai muốn từ đây qua bên các con, hoặc nếu ai muốn từ bên đó qua bên chúng tôi, cũng không thể nào qua được.’
-                27 Người giàu nói, ‘Nếu vậy, tổ phụ ơi, xin sai La-xa-rơ về nhà cha con, 28 vì con còn năm anh em nữa, để ông ấy cảnh cáo họ, kẻo họ cũng bị sa vào chốn khổ hình nầy chăng.’
+                27 Người giàu nói, ‘Nếu vậy, tổ phụ ơi, xin sai La-xa-rơ về nhà cha con, 28 vì con còn năm anh em nữa, để ông ấy cảnh cáo họ, kẻo họ cũng bị sa vào chốn khổ hình này chăng.’
                 29 Áp-ra-ham đáp, ‘Họ đã có Môi-se và Các Tiên Tri rồi.  Hãy để họ nghe lời các vị ấy.’
                 30 Nhưng người giàu thưa, ‘Không đâu, Tổ Phụ Áp-ra-ham ơi, nhưng nếu có ai từ cõi chết trở về nói với họ, thì họ sẽ ăn năn.’
                 31 Áp-ra-ham đáp, ‘Nếu họ không nghe lời Môi-se và Các Tiên Tri, thì dù có ai từ cõi chết sống lại nói, họ cũng không chịu thuyết phục đâu.’”
@@ -935,7 +935,7 @@ class Luca: Book {
             ["Tội Gây Cớ Vấp Ngã": """
                 (Mat 18:6-7; Mác 9:42)
                 
-                1 Bấy giờ Ngài nói với các môn đồ Ngài, “Thật khó tránh khỏi sự vấp ngã sẽ đến, nhưng khốn thay cho kẻ gây cho người ta vấp ngã.  2 Thà nó bị buộc một cối đá vào cổ và bị quăng xuống biển còn hơn để nó gây cho một trong những đứa trẻ nầy vấp ngã.”
+                1 Bấy giờ Ngài nói với các môn đồ Ngài, “Thật khó tránh khỏi sự vấp ngã sẽ đến, nhưng khốn thay cho kẻ gây cho người ta vấp ngã.  2 Thà nó bị buộc một cối đá vào cổ và bị quăng xuống biển còn hơn để nó gây cho một trong những đứa trẻ này vấp ngã.”
 
                 """],
             ["Tha Thứ Nhau": """
@@ -946,7 +946,7 @@ class Luca: Book {
                 """],
             ["Sức Mạnh của Ðức Tin": """
                 5 Các sứ đồ thưa với Ngài, “Xin thêm đức tin cho chúng con.”
-                6 Chúa đáp, “Nếu các ngươi có đức tin bằng hạt cải, các ngươi có thể bảo cây dâu nầy, ‘Hãy nhổ gốc lên và trồng dưới biển,’ thì nó sẽ vâng lời các ngươi.”
+                6 Chúa đáp, “Nếu các ngươi có đức tin bằng hạt cải, các ngươi có thể bảo cây dâu này, ‘Hãy nhổ gốc lên và trồng dưới biển,’ thì nó sẽ vâng lời các ngươi.”
 
                 """],
             ["Tinh Thần Khiêm Tốn Phục Vụ": """
@@ -955,17 +955,17 @@ class Luca: Book {
                 """],
             ["Chúa Chữa Lành Mười Người Phung": """
                 11 Trên đường đến Giê-ru-sa-lem Ngài đi qua vùng giáp ranh giữa miền Sa-ma-ri và Ga-li-lê.  12 Khi Ngài vào một làng kia, mười người phung ra đón Ngài.  Họ đứng cách xa, 13 cất tiếng lớn kêu van, “Lạy Ðức Chúa Jesus, Thầy ôi, xin thương xót chúng tôi.”
-                14 Thấy vậy, Ngài bảo họ, “Hãy đi trình diện với các tư tế.”  Ðang khi đi đường, họ thấy phung hủi trên người biến sạch.  15 Một người trong họ, khi thấy mình được chữa lành, liền quay lại, lớn tiếng tôn vinh Ðức Chúa Trời.  16 Người ấy quỳ sấp mặt xuống nơi chân Ngài và cảm ơn Ngài, và người ấy là một người Sa-ma-ri.  17 Bấy giờ Ðức Chúa Jesus cất tiếng và nói, “Chẳng phải cả mười người đều được sạch phung sao?  Còn chín người kia ở đâu?  18 Tại sao không ai trở lại và tôn vinh Ðức Chúa Trời ngoại trừ người ngoại quốc nầy?”  19 Ðoạn Ngài nói với người ấy, “Hãy đứng dậy và đi.  Ðức tin của ngươi đã làm cho ngươi được chữa lành.”
+                14 Thấy vậy, Ngài bảo họ, “Hãy đi trình diện với các tư tế.”  Ðang khi đi đường, họ thấy phung hủi trên người biến sạch.  15 Một người trong họ, khi thấy mình được chữa lành, liền quay lại, lớn tiếng tôn vinh Ðức Chúa Trời.  16 Người ấy quỳ sấp mặt xuống nơi chân Ngài và cảm ơn Ngài, và người ấy là một người Sa-ma-ri.  17 Bấy giờ Ðức Chúa Jesus cất tiếng và nói, “Chẳng phải cả mười người đều được sạch phung sao?  Còn chín người kia ở đâu?  18 Tại sao không ai trở lại và tôn vinh Ðức Chúa Trời ngoại trừ người ngoại quốc này?”  19 Ðoạn Ngài nói với người ấy, “Hãy đứng dậy và đi.  Ðức tin của ngươi đã làm cho ngươi được chữa lành.”
 
                 """],
             ["Bản Thể của Nước Trời": """
-                20 Khi ấy những người Pha-ri-si hỏi Ngài khi nào vương quốc Ðức Chúa Trời sẽ đến, Ngài trả lời họ và nói, “Vương quốc Ðức Chúa Trời không đến bằng những gì có thể quan sát được.  21 Người ta không thể nói, ‘Nầy, nó ở đây,’ hoặc ‘Kìa, nó ở đó,’ vì nầy, vương quốc Ðức Chúa Trời ở trong các ngươi.”
+                20 Khi ấy những người Pha-ri-si hỏi Ngài khi nào vương quốc Ðức Chúa Trời sẽ đến, Ngài trả lời họ và nói, “Vương quốc Ðức Chúa Trời không đến bằng những gì có thể quan sát được.  21 Người ta không thể nói, ‘Này, nó ở đây,’ hoặc ‘Kìa, nó ở đó,’ vì này, vương quốc Ðức Chúa Trời ở trong các ngươi.”
 
                 """],
             ["Ngày Chúa Ðến": """
                 (Mat 24:23-28, 37-41)
                 
-                22 Ðoạn Ngài nói với các môn đồ, “Sẽ đến một thời các ngươi mong được thấy chỉ một ngày trong những ngày của Con Người, nhưng các ngươi sẽ không thấy.  23 Người ta sẽ nói với các ngươi, ‘Kìa, Ngài ở đó!’ hoặc ‘Nầy, Ngài ở đây!’  Các ngươi đừng đi và đừng bỏ công tìm kiếm.  24 Vì như chớp lòe sáng từ phương trời nầy vụt sáng đến phương trời kia thể nào, Con Người sẽ xuất hiện trong ngày của Người cũng thể ấy.  25 Nhưng trước hết, Người phải chịu nhiều đau khổ và bị thế hệ nầy khước từ.  26 Như trong thời Nô-ê thể nào, trong thời của Con Người cũng thể ấy: 27 người ta ăn, uống, cưới, gả cho đến khi Nô-ê vào tàu, rồi nước lụt ập đến và hủy diệt tất cả.  28 Giống như trong thời của Lót: người ta ăn, uống, mua, bán, trồng tỉa, và xây dựng 29 cho đến ngày Lót ra khỏi Sô-đôm, bấy giờ mưa lửa và diêm sinh từ trời sa xuống và hủy diệt tất cả.  30 Trong ngày Con Người được hiển lộ cũng sẽ như vậy.  31 Trong ngày ấy, ai đang ở trên sân thượng mà có của cải đang để trong nhà, đừng xuống lấy ra.  Tương tự, ai đang ở ngoài đồng, đừng trở về nhà.  32 Hãy nhớ đến vợ Lót.  33 Ai tìm cách giữ mạng sống mình sẽ mất nó, còn ai liều bỏ mạng sống mình sẽ giữ được nó.  34 Ta nói với các ngươi, trong đêm ấy, có hai người nằm chung một giường, một người được đem đi, một người bị bỏ lại.  35 Có hai người đàn bà xay chung một cối, một người được đem đi, một người bị bỏ lại.  [36 Có hai người đang ở ngoài đồng, một người được đem đi, một người bị bỏ lại.]”
+                22 Ðoạn Ngài nói với các môn đồ, “Sẽ đến một thời các ngươi mong được thấy chỉ một ngày trong những ngày của Con Người, nhưng các ngươi sẽ không thấy.  23 Người ta sẽ nói với các ngươi, ‘Kìa, Ngài ở đó!’ hoặc ‘Này, Ngài ở đây!’  Các ngươi đừng đi và đừng bỏ công tìm kiếm.  24 Vì như chớp lòe sáng từ phương trời này vụt sáng đến phương trời kia thể nào, Con Người sẽ xuất hiện trong ngày của Người cũng thể ấy.  25 Nhưng trước hết, Người phải chịu nhiều đau khổ và bị thế hệ này khước từ.  26 Như trong thời Nô-ê thể nào, trong thời của Con Người cũng thể ấy: 27 người ta ăn, uống, cưới, gả cho đến khi Nô-ê vào tàu, rồi nước lụt ập đến và hủy diệt tất cả.  28 Giống như trong thời của Lót: người ta ăn, uống, mua, bán, trồng tỉa, và xây dựng 29 cho đến ngày Lót ra khỏi Sô-đôm, bấy giờ mưa lửa và diêm sinh từ trời sa xuống và hủy diệt tất cả.  30 Trong ngày Con Người được hiển lộ cũng sẽ như vậy.  31 Trong ngày ấy, ai đang ở trên sân thượng mà có của cải đang để trong nhà, đừng xuống lấy ra.  Tương tự, ai đang ở ngoài đồng, đừng trở về nhà.  32 Hãy nhớ đến vợ Lót.  33 Ai tìm cách giữ mạng sống mình sẽ mất nó, còn ai liều bỏ mạng sống mình sẽ giữ được nó.  34 Ta nói với các ngươi, trong đêm ấy, có hai người nằm chung một giường, một người được đem đi, một người bị bỏ lại.  35 Có hai người đàn bà xay chung một cối, một người được đem đi, một người bị bỏ lại.  [36 Có hai người đang ở ngoài đồng, một người được đem đi, một người bị bỏ lại.]”
                 37 Họ hỏi Ngài và nói, “Lạy Chúa, tại đâu?”
                 Ngài trả lời họ, “Xác chết ở đâu, kên kên bâu lại đó.”
 
@@ -973,28 +973,28 @@ class Luca: Book {
             ]),
         Chapter(18, passages: [
             ["Góa Phụ và Quan Án Bất Công": """
-                1 Bấy giờ Ngài kể cho họ một ngụ ngôn để dạy họ phải cầu nguyện luôn và đừng nản chí.  2 Ngài nói, “Trong thành kia có một quan tòa không kính sợ Ðức Chúa Trời và cũng không vị nể người nào.  3 Trong thành đó cũng có một góa phụ.  Bà đó cứ đến kêu nài với quan tòa, ‘Xin ngài thực thi công lý cho tôi đối với kẻ nghịch tôi.’  4 Quan tòa ấy từ chối đã lâu, nhưng cuối cùng ông tự nhủ, ‘Dù ta không kính sợ Ðức Chúa Trời và không vị nể người nào, 5 nhưng vì bà góa nầy cứ đến quấy rầy ta, ta phải thực thi công lý cho bà ấy, kẻo bà ấy cứ đến mãi, làm mệt mỏi ta.’”
+                1 Bấy giờ Ngài kể cho họ một ngụ ngôn để dạy họ phải cầu nguyện luôn và đừng nản chí.  2 Ngài nói, “Trong thành kia có một quan tòa không kính sợ Ðức Chúa Trời và cũng không vị nể người nào.  3 Trong thành đó cũng có một góa phụ.  Bà đó cứ đến kêu nài với quan tòa, ‘Xin ngài thực thi công lý cho tôi đối với kẻ nghịch tôi.’  4 Quan tòa ấy từ chối đã lâu, nhưng cuối cùng ông tự nhủ, ‘Dù ta không kính sợ Ðức Chúa Trời và không vị nể người nào, 5 nhưng vì bà góa này cứ đến quấy rầy ta, ta phải thực thi công lý cho bà ấy, kẻo bà ấy cứ đến mãi, làm mệt mỏi ta.’”
                 6 Ðoạn Chúa nói tiếp, “Hãy nghe những lời quan tòa bất công ấy nói.  7 Vậy lẽ nào Ðức Chúa Trời không thực thi công lý cho những người được chọn, những người ngày đêm kêu cầu Ngài, mà chậm trễ cứu giúp họ sao?  8 Ta nói với các ngươi: Ngài sẽ vội vàng thực thi công lý cho họ.  Tuy nhiên khi Con Người đến, liệu Con Người sẽ thấy đức tin còn trên mặt đất chăng?”
 
                 """],
             ["Người Pha-ri-si và Người Thu Thuế": """
-                9 Ngài cũng kể ngụ ngôn nầy để dạy những người cậy mình, cho mình là công chính, mà khinh chê người khác.
-                10 “Hai người đi lên đền thờ để cầu nguyện; một người là người Pha-ri-si, còn người kia là người thu thuế.  11 Người Pha-ri-si đứng riêng ra và cầu nguyện thế nầy, ‘Lạy Ðức Chúa Trời, con tạ ơn Ngài, vì con không như những người khác, tham lam, bất chính, ngoại tình, hoặc như người thu thuế nầy.  12 Con kiêng ăn mỗi tuần hai lần, và con dâng một phần mười mọi lợi tức của con.’
+                9 Ngài cũng kể ngụ ngôn này để dạy những người cậy mình, cho mình là công chính, mà khinh chê người khác.
+                10 “Hai người đi lên đền thờ để cầu nguyện; một người là người Pha-ri-si, còn người kia là người thu thuế.  11 Người Pha-ri-si đứng riêng ra và cầu nguyện thế này, ‘Lạy Ðức Chúa Trời, con tạ ơn Ngài, vì con không như những người khác, tham lam, bất chính, ngoại tình, hoặc như người thu thuế này.  12 Con kiêng ăn mỗi tuần hai lần, và con dâng một phần mười mọi lợi tức của con.’
                 13 Còn người thu thuế đứng đằng xa, không dám ngước mắt lên trời, vừa đấm ngực vừa thưa rằng, ‘Lạy Ðức Chúa Trời, xin thương xót con, một kẻ tội lỗi.’
-                14 Ta nói với các ngươi, người thu thuế nầy, khi đi xuống để về nhà mình, đã được xưng công chính chứ không phải người kia, vì ai tôn mình lên sẽ bị hạ xuống, còn ai hạ mình xuống sẽ được tôn lên.”
+                14 Ta nói với các ngươi, người thu thuế này, khi đi xuống để về nhà mình, đã được xưng công chính chứ không phải người kia, vì ai tôn mình lên sẽ bị hạ xuống, còn ai hạ mình xuống sẽ được tôn lên.”
 
                 """],
             ["Chúa và Trẻ Thơ": """
                 (Mat 19:13-15; Mác 10:13-16)
                 
-                15 Bấy giờ người ta đem các trẻ thơ đến Ngài để Ngài đặt tay trên chúng, nhưng khi các môn đồ thấy vậy, họ quở trách những người ấy.  16 Nhưng Ðức Chúa Jesus gọi họ lại và nói, “Hãy để các trẻ thơ đến với Ta, đừng ngăn cấm chúng, vì vương quốc Ðức Chúa Trời thuộc về những người như các trẻ thơ nầy.  17 Quả thật, Ta nói với các ngươi, người nào không tiếp nhận vương quốc Ðức Chúa Trời như một trẻ thơ thì không cách nào vào đó được.”
+                15 Bấy giờ người ta đem các trẻ thơ đến Ngài để Ngài đặt tay trên chúng, nhưng khi các môn đồ thấy vậy, họ quở trách những người ấy.  16 Nhưng Ðức Chúa Jesus gọi họ lại và nói, “Hãy để các trẻ thơ đến với Ta, đừng ngăn cấm chúng, vì vương quốc Ðức Chúa Trời thuộc về những người như các trẻ thơ này.  17 Quả thật, Ta nói với các ngươi, người nào không tiếp nhận vương quốc Ðức Chúa Trời như một trẻ thơ thì không cách nào vào đó được.”
 
                 """],
             ["Một Vị Quan Giàu Có": """
                 (Mat 19:16-30; Mác 10:17-31)
                 
                 18 Một vị quan kia hỏi Ngài rằng, “Thưa Thầy thiện hảo, tôi phải làm gì để hưởng sự sống đời đời?”
-                19 Ðức Chúa Jesus nói với ông, “Tại sao ngươi gọi Ta là thiện hảo?  Chẳng có ai thiện hảo ngoại trừ một mình Ðức Chúa Trời.  20 Ngươi biết các điều răn nầy:
+                19 Ðức Chúa Jesus nói với ông, “Tại sao ngươi gọi Ta là thiện hảo?  Chẳng có ai thiện hảo ngoại trừ một mình Ðức Chúa Trời.  20 Ngươi biết các điều răn này:
                 ‘Ngươi chớ phạm tội ngoại tình.
                 Ngươi chớ sát nhân.
                 Ngươi chớ trộm cắp.
@@ -1006,7 +1006,7 @@ class Luca: Book {
                 26 Những người ở đó nghe thế bèn nói, “Nếu vậy thì ai có thể được cứu?”
                 27 Ngài đáp, “Những gì không thể làm được đối với loài người đều có thể làm được đối với Ðức Chúa Trời.”
                 28 Phi-rơ nói, “Thầy xem, chúng con đã bỏ tất cả để theo Thầy.”
-                29 Ngài đáp, “Quả thật, Ta nói với các ngươi, không ai rời nhà, xa vợ, lìa anh em hoặc cha mẹ hoặc con cái vì vương quốc Ðức Chúa Trời 30 mà sẽ không nhận lại bội phần hơn trong đời nầy và sự sống đời đời trong đời sau.”
+                29 Ngài đáp, “Quả thật, Ta nói với các ngươi, không ai rời nhà, xa vợ, lìa anh em hoặc cha mẹ hoặc con cái vì vương quốc Ðức Chúa Trời 30 mà sẽ không nhận lại bội phần hơn trong đời này và sự sống đời đời trong đời sau.”
 
                 """],
             ["""
@@ -1015,7 +1015,7 @@ class Luca: Book {
             """: """
                 (Mat 20:17-19; Mác 10:32-34)
                 
-                31 Sau đó Ngài đem mười hai sứ đồ riêng ra và nói với họ, “Nầy, chúng ta đi lên Giê-ru-sa-lem, và tất cả những gì các tiên tri đã viết về Con Người sẽ được ứng nghiệm.  32 Vì Con Người sẽ bị nộp cho dân ngoại, và sẽ bị nhạo báng, làm nhục, và phỉ nhổ.  33 Sau khi đánh đòn Người, chúng sẽ giết Người, nhưng ngày thứ ba Người sẽ sống lại.”  34 Tuy nhiên họ chẳng hiểu những điều ấy; ý nghĩa những lời ấy đã bị che khuất đối với họ, và họ không nhận biết được những điều Ngài nói.
+                31 Sau đó Ngài đem mười hai sứ đồ riêng ra và nói với họ, “này, chúng ta đi lên Giê-ru-sa-lem, và tất cả những gì các tiên tri đã viết về Con Người sẽ được ứng nghiệm.  32 Vì Con Người sẽ bị nộp cho dân ngoại, và sẽ bị nhạo báng, làm nhục, và phỉ nhổ.  33 Sau khi đánh đòn Người, chúng sẽ giết Người, nhưng ngày thứ ba Người sẽ sống lại.”  34 Tuy nhiên họ chẳng hiểu những điều ấy; ý nghĩa những lời ấy đã bị che khuất đối với họ, và họ không nhận biết được những điều Ngài nói.
 
                 """],
             ["Chúa Chữa Lành Người Mù": """
@@ -1031,17 +1031,17 @@ class Luca: Book {
             ]),
         Chapter(19, passages: [
             ["Chúa Vào Nhà Xa-chê": """
-                1 Ngài vào Thành Giê-ri-cô và đi xuyên qua thành.  2 Nầy, trong thành có một người tên là Xa-chê.  Ông làm trưởng ty thuế vụ và giàu có.  3 Ông muốn xem Ðức Chúa Jesus là ai, nhưng vì đám đông ông không thể thấy Ngài, bởi ông lùn.  4 Vì thế ông chạy về phía trước và leo lên một cây sung để có thể thấy Ngài, vì Ngài sẽ đi ngang qua đó.
+                1 Ngài vào Thành Giê-ri-cô và đi xuyên qua thành.  2 Này, trong thành có một người tên là Xa-chê.  Ông làm trưởng ty thuế vụ và giàu có.  3 Ông muốn xem Ðức Chúa Jesus là ai, nhưng vì đám đông ông không thể thấy Ngài, bởi ông lùn.  4 Vì thế ông chạy về phía trước và leo lên một cây sung để có thể thấy Ngài, vì Ngài sẽ đi ngang qua đó.
                 5 Khi Ðức Chúa Jesus đến chỗ đó, Ngài ngước nhìn lên và nói với ông, “Hỡi Xa-chê, hãy xuống mau, vì hôm nay Ta phải ở lại nhà ngươi.”
                 6 Xa-chê vội vàng leo xuống và vui mừng tiếp Ngài vào nhà ông.  7 Thấy vậy mọi người xầm xì với nhau, “Ngài vào làm khách trong nhà một kẻ tội lỗi.”
-                8 Bấy giờ Xa-chê đứng dậy và thưa với Chúa, “Lạy Chúa, nầy, con lấy phân nửa tài sản của con đem cho người nghèo, và nếu con gian dối đoạt lấy của ai bất cứ vật gì, con sẽ đền lại gấp tư.”
-                9 Ðức Chúa Jesus nói với ông, “Hôm nay ơn cứu rỗi đã đến nhà nầy, bởi người nầy cũng là con cháu của Áp-ra-ham.  10 Vì Con Người đã đến để tìm và cứu kẻ lạc mất.”
+                8 Bấy giờ Xa-chê đứng dậy và thưa với Chúa, “Lạy Chúa, này, con lấy phân nửa tài sản của con đem cho người nghèo, và nếu con gian dối đoạt lấy của ai bất cứ vật gì, con sẽ đền lại gấp tư.”
+                9 Ðức Chúa Jesus nói với ông, “Hôm nay ơn cứu rỗi đã đến nhà này, bởi người này cũng là con cháu của Áp-ra-ham.  10 Vì Con Người đã đến để tìm và cứu kẻ lạc mất.”
 
                 """],
             ["Mười Nén Bạc": """
                 (Mat 25:14-30)
                 
-                11 Ðang khi người ta lắng nghe những điều ấy, Ðức Chúa Jesus kể thêm một ngụ ngôn nữa vì Ngài đã đến gần Giê-ru-sa-lem, và người ta nghĩ rằng vương quốc Ðức Chúa Trời sắp thể hiện.  12 Ngài nói, “Một nhà quý tộc kia phải đi phương xa để nhận vương quyền rồi sẽ trở về.  13 Ông gọi mười đầy tớ của ông đến, giao cho họ mười nén bạc, và nói, ‘Hãy đem bạc nầy đi kinh doanh cho đến khi ta trở về.’  14 Nhưng dân trong xứ ghét ông; họ gởi một phái đoàn theo sau ông, tâu rằng, ‘Chúng tôi không muốn người nầy cai trị chúng tôi.’
+                11 Ðang khi người ta lắng nghe những điều ấy, Ðức Chúa Jesus kể thêm một ngụ ngôn nữa vì Ngài đã đến gần Giê-ru-sa-lem, và người ta nghĩ rằng vương quốc Ðức Chúa Trời sắp thể hiện.  12 Ngài nói, “Một nhà quý tộc kia phải đi phương xa để nhận vương quyền rồi sẽ trở về.  13 Ông gọi mười đầy tớ của ông đến, giao cho họ mười nén bạc, và nói, ‘Hãy đem bạc này đi kinh doanh cho đến khi ta trở về.’  14 Nhưng dân trong xứ ghét ông; họ gởi một phái đoàn theo sau ông, tâu rằng, ‘Chúng tôi không muốn người này cai trị chúng tôi.’
                 15 Sau khi đã nhận vương quyền trở về, ông truyền cho những đầy tớ ông đã giao bạc đến để xem họ kinh doanh sinh lợi thể nào.
                 16 Người thứ nhất bước đến và nói, ‘Thưa chủ, nén bạc của chủ đã sinh lợi được mười nén.’  17 Ông nói, ‘Tốt lắm, thật là đầy tớ giỏi.  Bởi vì ngươi đã trung tín trong việc rất nhỏ, hãy cai trị mười thành.’
                 18 Người thứ hai đến nói, ‘Thưa chủ, nén bạc của chủ đã sinh lợi được năm nén.’  19 Ông nói với người ấy, ‘Ngươi hãy cai trị năm thành.’
@@ -1060,7 +1060,7 @@ class Luca: Book {
                 (Mat 21:1-11; Mác 11:1-10; Gg 12:12-19)
                 
                 28 Sau khi Ngài đã nói những điều ấy, Ngài đi trước dẫn đầu họ lên Thành Giê-ru-sa-lem.  29 Khi Ngài đến gần Bết-pha-giê và Bê-tha-ni, tại một núi tên là Ô-liu, Ngài sai hai môn đồ Ngài ra đi 30 và dặn rằng, “Hãy vào làng trước mặt các ngươi.  Vừa khi vào làng, các ngươi sẽ thấy một con lừa tơ chưa được ai cỡi cột ở đó; hãy mở dây và dắt nó về đây.  31 Nếu ai hỏi các ngươi, ‘Tại sao các anh mở nó ra?’ các ngươi hãy đáp, ‘Chúa cần dùng nó.’”
-                32 Hai môn đồ ấy ra đi và gặp y như điều Ngài đã bảo họ.  33 Vừa khi họ mở dây cột con lừa, mấy người chủ con lừa hỏi họ, “Tại sao các anh mở dây cột con lừa nầy ra?”
+                32 Hai môn đồ ấy ra đi và gặp y như điều Ngài đã bảo họ.  33 Vừa khi họ mở dây cột con lừa, mấy người chủ con lừa hỏi họ, “Tại sao các anh mở dây cột con lừa này ra?”
                 34 Họ đáp, “Chúa cần dùng nó.”
                 35 Ðoạn họ dắt con lừa ấy đến Ðức Chúa Jesus.  Họ lấy áo choàng của họ trải trên lưng lừa, rồi đỡ Ðức Chúa Jesus cỡi lên.
                 36 Ngài đi đến đâu, người ta trải áo choàng của mình ra trên đường đến đó.  37 Khi Ngài đến gần và sắp sửa đi xuống Núi Ô-liu, cả đoàn đông môn đồ Ngài bắt đầu lớn tiếng ca ngợi Ðức Chúa Trời cách vui mừng về những việc quyền năng họ đã chứng kiến.  38 Họ tung hô rằng,
@@ -1089,18 +1089,18 @@ class Luca: Book {
             ["Chất Vấn về Thẩm Quyền của Chúa": """
                 (Mat 21:23-27; Mác 11:27-33)
                 
-                1 Một hôm đang khi Ngài giảng dạy cho dân trong đền thờ và rao giảng Tin Mừng, các trưởng tế, các thầy dạy giáo luật, và các trưởng lão đến gần Ngài 2 và nói với Ngài, “Hãy nói cho chúng tôi biết, ông lấy thẩm quyền nào làm những điều nầy?  Hay ai ban cho ông thẩm quyền ấy?”
+                1 Một hôm đang khi Ngài giảng dạy cho dân trong đền thờ và rao giảng Tin Mừng, các trưởng tế, các thầy dạy giáo luật, và các trưởng lão đến gần Ngài 2 và nói với Ngài, “Hãy nói cho chúng tôi biết, ông lấy thẩm quyền nào làm những điều này?  Hay ai ban cho ông thẩm quyền ấy?”
                 3 Ngài trả lời và nói với họ, “Ta cũng hỏi các ngươi một câu, các ngươi hãy trả lời Ta: 4 Phép báp-têm của Giăng đến từ trời hay đến từ người?”
                 5 Họ thảo luận với nhau và nói, “Nếu chúng ta nói ‘Từ trời,’ ông ta sẽ hỏi lại, ‘Thế tại sao các ngươi không tin ông ấy?’  6 Còn nếu chúng ta nói, ‘Từ người,’ thì toàn dân sẽ ném đá chúng ta, vì họ đều tin rằng Giăng là đấng tiên tri.”  7 Vì thế họ trả lời rằng họ không biết phép báp-têm ấy đến từ đâu.
-                8 Ðức Chúa Jesus nói với họ, “Ta cũng không nói cho các ngươi biết bởi thẩm quyền nào Ta làm những điều nầy.”
+                8 Ðức Chúa Jesus nói với họ, “Ta cũng không nói cho các ngươi biết bởi thẩm quyền nào Ta làm những điều này.”
 
                 """],
             ["Những Tá Ðiền Gian Ác": """
                 (Mat 21:33-46; Mác 12:1-12)
                 
-                9 Ngài bắt đầu kể cho dân ngụ ngôn nầy: “Một người kia trồng một vườn nho, thuê các tá điền canh tác, rồi đi phương xa một thời gian khá lâu.  10 Ðến mùa hái nho, ông sai một đầy tớ đến gặp các tá điền để thu hoa lợi của vườn nho.  Nhưng các tá điền đánh người đầy tớ ấy, rồi đuổi người ấy về tay không.  11 Ông sai một đầy tớ khác đến, nhưng chúng cũng đánh người ấy, làm nhục người ấy, và đuổi người ấy về tay không.  12 Ông lại sai một đầy tớ thứ ba đến, nhưng chúng cũng đánh đầy tớ ấy trọng thương, rồi quăng người ấy ra ngoài vườn.  13 Bấy giờ người chủ của vườn nho nói, ‘Ta sẽ làm gì đây?  Ta sẽ sai con trai yêu dấu của ta đến.  Có lẽ họ sẽ kiêng nể nó.’  14 Nhưng khi các tá điền thấy người con ấy, chúng nói với nhau, ‘Con thừa kế đây rồi.  Chúng ta hãy giết nó, để sản nghiệp của nó có thể thuộc về chúng ta.’  15 Thế là chúng đuổi cậu ấy ra ngoài vườn và giết cậu ấy.  Vậy chủ vườn nho sẽ làm gì đối với bọn ấy?  16 Ông sẽ đến và tiêu diệt bọn tá điền ấy, rồi trao vườn nho cho những người khác canh tác.”
+                9 Ngài bắt đầu kể cho dân ngụ ngôn này: “Một người kia trồng một vườn nho, thuê các tá điền canh tác, rồi đi phương xa một thời gian khá lâu.  10 Ðến mùa hái nho, ông sai một đầy tớ đến gặp các tá điền để thu hoa lợi của vườn nho.  Nhưng các tá điền đánh người đầy tớ ấy, rồi đuổi người ấy về tay không.  11 Ông sai một đầy tớ khác đến, nhưng chúng cũng đánh người ấy, làm nhục người ấy, và đuổi người ấy về tay không.  12 Ông lại sai một đầy tớ thứ ba đến, nhưng chúng cũng đánh đầy tớ ấy trọng thương, rồi quăng người ấy ra ngoài vườn.  13 Bấy giờ người chủ của vườn nho nói, ‘Ta sẽ làm gì đây?  Ta sẽ sai con trai yêu dấu của ta đến.  Có lẽ họ sẽ kiêng nể nó.’  14 Nhưng khi các tá điền thấy người con ấy, chúng nói với nhau, ‘Con thừa kế đây rồi.  Chúng ta hãy giết nó, để sản nghiệp của nó có thể thuộc về chúng ta.’  15 Thế là chúng đuổi cậu ấy ra ngoài vườn và giết cậu ấy.  Vậy chủ vườn nho sẽ làm gì đối với bọn ấy?  16 Ông sẽ đến và tiêu diệt bọn tá điền ấy, rồi trao vườn nho cho những người khác canh tác.”
                 Khi họ nghe như vậy, họ nói, “Không bao giờ có chuyện như thế.”
-                17 Nhưng Ngài nhìn họ và nói, “Vậy câu Kinh Thánh nầy,
+                17 Nhưng Ngài nhìn họ và nói, “Vậy câu Kinh Thánh này,
                 ‘Tảng đá bị những thợ xây nhà loại ra đã trở thành tảng đá góc nhà’
                 có ý nghĩa gì?  18 Ai ngã nhằm đá ấy sẽ bị nát tan, còn đá ấy rơi trúng ai, kẻ đó sẽ bị nát thành bụi.”
                 19 Ngay giờ đó các thầy dạy giáo luật và các trưởng tế muốn ra tay bắt Ngài, nhưng họ sợ dân, vì họ biết Ngài kể ngụ ngôn đó để ám chỉ họ.
@@ -1110,7 +1110,7 @@ class Luca: Book {
                 (Mat 22:15-22; Mác 12:13-17)
                 
                 20 Họ theo dõi Ngài và sai các mật thám giả làm người hiền lành đi theo Ngài, chờ nghe Ngài nói lỡ lời, để bắt nộp Ngài cho nhà cầm quyền và cho chính quyền của tổng trấn.  21 Họ hỏi Ngài rằng, “Thưa Thầy, chúng tôi biết Thầy nói và dạy cách thẳng thắn, không thiên vị ai, nhưng cứ theo chân lý dạy dỗ đường lối của Ðức Chúa Trời.  22 Chúng ta có nên nộp thuế cho Sê-sa hay không?”
-                23 Nhưng Ngài nhìn thấy rõ lòng xảo quyệt của họ nên nói với họ, 24 “Hãy cho Ta xem một đồng tiền.  Hình ảnh và danh hiệu nầy của ai?”
+                23 Nhưng Ngài nhìn thấy rõ lòng xảo quyệt của họ nên nói với họ, 24 “Hãy cho Ta xem một đồng tiền.  Hình ảnh và danh hiệu này của ai?”
                 Họ đáp, “Của Sê-sa.”
                 25 Ngài phán, “Hãy trả cho Sê-sa những gì của Sê-sa, và hãy trả cho Ðức Chúa Trời những gì của Ðức Chúa Trời.”
                 26 Trước mặt mọi người họ không thể bắt bẻ một lời nào của Ngài.  Họ sững sờ trước câu trả lời của Ngài và im miệng.
@@ -1120,7 +1120,7 @@ class Luca: Book {
                 (Mat 22:23-33; Mác 12:18-27)
                 
                 27 Bấy giờ có mấy người Sa-đu-sê, những người cho rằng không có sự sống lại, đến gặp Ngài và hỏi 28 rằng, “Thưa Thầy, Môi-se đã viết cho chúng ta rằng, nếu anh hay em trai của một người có vợ rồi qua đời mà không con nối dõi thì em trai hay anh của người đó phải lấy người vợ góa ấy để lưu truyền dòng giống cho anh hay em mình.  29 Bây giờ có bảy anh em.  Người thứ nhất lấy vợ rồi chết, không con; 30 người thứ hai, 31 rồi người thứ ba đều lấy người vợ góa ấy.  Cứ thế bảy anh em đều lấy người đàn bà ấy và đều chết, không con nối dõi.  32 Cuối cùng người đàn bà ấy cũng chết.  33 Vậy trong ngày sống lại, người đàn bà ấy sẽ là vợ ai?  Vì cả bảy anh em đều đã lấy bà làm vợ.”
-                34 Ðức Chúa Jesus trả lời họ, “Con cái ở đời nầy cưới vợ gả chồng, 35 nhưng những ai được coi là xứng đáng để hưởng phước của cõi đời đời và sống lại từ cõi chết thì khi ấy sẽ không cưới không gả nữa.  36 Vì họ không thể chết nữa, bởi họ sẽ giống như các thiên sứ và là con cái Ðức Chúa Trời, vì họ là con cái của sự sống lại.  37 Còn về sự sống lại của người chết, Môi-se cũng đã cho thấy điều ấy trong đoạn kinh văn về bụi gai cháy khi ông gọi Chúa là Ðức Chúa Trời của Áp-ra-ham, Ðức Chúa Trời của I-sác, và Ðức Chúa Trời của Gia-cốp.  38 Ðiều đó có nghĩa rằng Ðức Chúa Trời không phải là Ðức Chúa Trời của những kẻ chết, nhưng của những người sống, vì đối với Ngài, tất cả đều đang sống.”
+                34 Ðức Chúa Jesus trả lời họ, “Con cái ở đời này cưới vợ gả chồng, 35 nhưng những ai được coi là xứng đáng để hưởng phước của cõi đời đời và sống lại từ cõi chết thì khi ấy sẽ không cưới không gả nữa.  36 Vì họ không thể chết nữa, bởi họ sẽ giống như các thiên sứ và là con cái Ðức Chúa Trời, vì họ là con cái của sự sống lại.  37 Còn về sự sống lại của người chết, Môi-se cũng đã cho thấy điều ấy trong đoạn kinh văn về bụi gai cháy khi ông gọi Chúa là Ðức Chúa Trời của Áp-ra-ham, Ðức Chúa Trời của I-sác, và Ðức Chúa Trời của Gia-cốp.  38 Ðiều đó có nghĩa rằng Ðức Chúa Trời không phải là Ðức Chúa Trời của những kẻ chết, nhưng của những người sống, vì đối với Ngài, tất cả đều đang sống.”
                 39 Nghe vậy mấy thầy dạy giáo luật nói, “Thưa Thầy, Thầy giải đáp hay quá!”  40 Từ đó họ không dám chất vấn Ngài điều gì nữa.
 
                 """],
@@ -1145,7 +1145,7 @@ class Luca: Book {
             ["Bà Góa Dâng Hiến": """
                 (Mác 12:41-44)
                 
-                1 Ngài nhìn lên và thấy những người giàu bỏ tiền dâng hiến vào thùng tiền dâng.  2 Ngài cũng thấy một bà góa nghèo bỏ vào đó hai đồng xu.  3 Ngài nói, “Quả thật, Ta nói với các ngươi, bà góa nghèo nầy đã bỏ vào thùng tiền dâng nhiều hơn những người khác, 4 vì mọi người khác đã dâng bằng tiền dư của họ, còn bà nầy đã lấy tất cả số tiền bà cần để nuôi mình mà bỏ vào; đó là tất cả tiền bà có để nuôi mình.”
+                1 Ngài nhìn lên và thấy những người giàu bỏ tiền dâng hiến vào thùng tiền dâng.  2 Ngài cũng thấy một bà góa nghèo bỏ vào đó hai đồng xu.  3 Ngài nói, “Quả thật, Ta nói với các ngươi, bà góa nghèo này đã bỏ vào thùng tiền dâng nhiều hơn những người khác, 4 vì mọi người khác đã dâng bằng tiền dư của họ, còn bà này đã lấy tất cả số tiền bà cần để nuôi mình mà bỏ vào; đó là tất cả tiền bà có để nuôi mình.”
 
                 """],
             ["Chúa Báo Trước về Ðền Thờ Bị Hủy Phá": """
@@ -1159,13 +1159,13 @@ class Luca: Book {
                 
                 7 Họ hỏi Ngài rằng, “Thưa Thầy, khi nào việc ấy sẽ xảy ra?  Có điềm gì báo trước việc ấy sẽ xảy đến không?”
                 8 Ngài đáp, “Hãy coi chừng, đừng để ai gạt các ngươi, vì nhiều kẻ sẽ mạo danh Ta đến và nói rằng, ‘Ta là Ðấng Christ!’ và ‘Ngày tận thế đã gần!’  Chớ nghe theo chúng.  9 Khi các ngươi nghe tin tức về chiến tranh và loạn lạc, đừng sợ, vì những việc ấy phải xảy ra trước, nhưng ngày tận thế không đến liền đâu.”
-                10 Ðoạn Ngài nói với họ, “Dân nầy sẽ nổi lên nghịch với dân khác, nước nọ sẽ chống lại nước kia.  11 Sẽ có những trận động đất lớn, và nhiều nơi sẽ có nạn đói và ôn dịch; sẽ có những hiện tượng khủng khiếp và những điềm lớn lạ trên không trung.  12 Nhưng trước khi những điều ấy xảy đến, người ta sẽ bắt bớ và bách hại các ngươi.  Họ sẽ bắt nộp các ngươi cho các hội đường và bỏ các ngươi vào tù.  Các ngươi sẽ bị điệu đến trước mặt các vua chúa và các quan quyền vì danh Ta.  13 Ðó sẽ thành những cơ hội cho các ngươi làm chứng.  14 Vậy hãy định trí điều nầy: đừng nghĩ trước phải bào chữa cách nào, 15 vì chính Ta sẽ cho các ngươi những lời lẽ và sự khôn ngoan, khiến tất cả những kẻ chống nghịch các ngươi không thể chống trả hay phản bác.  16 Các ngươi sẽ bị cha mẹ, anh em, bà con, bạn bè bắt nộp, và người ta sẽ giết một số người trong các ngươi.  17 Các ngươi sẽ bị mọi người ghét vì danh Ta, 18 nhưng không một sợi tóc nào trên đầu các ngươi sẽ bị mất.  19 Nhờ kiên trì chịu đựng các ngươi sẽ được linh hồn mình.”
+                10 Ðoạn Ngài nói với họ, “Dân này sẽ nổi lên nghịch với dân khác, nước nọ sẽ chống lại nước kia.  11 Sẽ có những trận động đất lớn, và nhiều nơi sẽ có nạn đói và ôn dịch; sẽ có những hiện tượng khủng khiếp và những điềm lớn lạ trên không trung.  12 Nhưng trước khi những điều ấy xảy đến, người ta sẽ bắt bớ và bách hại các ngươi.  Họ sẽ bắt nộp các ngươi cho các hội đường và bỏ các ngươi vào tù.  Các ngươi sẽ bị điệu đến trước mặt các vua chúa và các quan quyền vì danh Ta.  13 Ðó sẽ thành những cơ hội cho các ngươi làm chứng.  14 Vậy hãy định trí điều này: đừng nghĩ trước phải bào chữa cách nào, 15 vì chính Ta sẽ cho các ngươi những lời lẽ và sự khôn ngoan, khiến tất cả những kẻ chống nghịch các ngươi không thể chống trả hay phản bác.  16 Các ngươi sẽ bị cha mẹ, anh em, bà con, bạn bè bắt nộp, và người ta sẽ giết một số người trong các ngươi.  17 Các ngươi sẽ bị mọi người ghét vì danh Ta, 18 nhưng không một sợi tóc nào trên đầu các ngươi sẽ bị mất.  19 Nhờ kiên trì chịu đựng các ngươi sẽ được linh hồn mình.”
 
                 """],
             ["Chúa Báo Trước về Giê-ru-sa-lem Bị Tàn Phá": """
                 (Mat 24:15-21; Mác 13:14-19)
                 
-                20 “Khi các ngươi thấy Giê-ru-sa-lem bị các đạo quân vây hãm, hãy biết rằng thời kỳ hoang tàn của nó đã gần.  21 Bấy giờ ai đang ở Giu-đê, hãy trốn lên núi; ai đang ở trong thành, hãy tìm cách thoát ra; ai đang ở ngoài đồng, đừng trở vào thành, 22 vì đó là những ngày báo trả, để tất cả những gì đã viết có thể được ứng nghiệm.  23 Khốn thay cho những phụ nữ mang thai và những người mẹ có con còn bú trong những ngày ấy, vì sẽ có cơn đại nạn giáng xuống trong xứ, và cơn thịnh nộ nghịch lại dân nầy.  24 Họ sẽ bị ngã chết bởi lưỡi gươm và bị bắt đem lưu đày giữa các nước.  Giê-ru-sa-lem sẽ bị giày đạp bởi các dân ngoại cho đến khi thời kỳ của dân ngoại được trọn.”
+                20 “Khi các ngươi thấy Giê-ru-sa-lem bị các đạo quân vây hãm, hãy biết rằng thời kỳ hoang tàn của nó đã gần.  21 Bấy giờ ai đang ở Giu-đê, hãy trốn lên núi; ai đang ở trong thành, hãy tìm cách thoát ra; ai đang ở ngoài đồng, đừng trở vào thành, 22 vì đó là những ngày báo trả, để tất cả những gì đã viết có thể được ứng nghiệm.  23 Khốn thay cho những phụ nữ mang thai và những người mẹ có con còn bú trong những ngày ấy, vì sẽ có cơn đại nạn giáng xuống trong xứ, và cơn thịnh nộ nghịch lại dân này.  24 Họ sẽ bị ngã chết bởi lưỡi gươm và bị bắt đem lưu đày giữa các nước.  Giê-ru-sa-lem sẽ bị giày đạp bởi các dân ngoại cho đến khi thời kỳ của dân ngoại được trọn.”
 
                 """],
             ["Chúa Sẽ Quang Lâm": """
@@ -1177,11 +1177,11 @@ class Luca: Book {
             ["Ngụ Ngôn về Cây Vả": """
                 (Mat 24:32-35; Mác 13:28-31)
                 
-                29 Ngài kể cho họ một ngụ ngôn: “Hãy xem cây vả và mọi cây cối.  30 Khi các ngươi thấy các nhánh cây đâm chồi nẩy lộc, các ngươi biết mùa hè đến gần.  31 Cũng vậy, khi các ngươi thấy những điều ấy xảy ra, các ngươi khá biết rằng vương quốc Ðức Chúa Trời đang đến gần.  32 Quả thật, Ta nói với các ngươi, thế hệ nầy sẽ không qua đi trước khi mọi điều ấy xảy đến.  33 Trời đất sẽ qua đi, nhưng những lời Ta nói sẽ không qua đâu.”
+                29 Ngài kể cho họ một ngụ ngôn: “Hãy xem cây vả và mọi cây cối.  30 Khi các ngươi thấy các nhánh cây đâm chồi nẩy lộc, các ngươi biết mùa hè đến gần.  31 Cũng vậy, khi các ngươi thấy những điều ấy xảy ra, các ngươi khá biết rằng vương quốc Ðức Chúa Trời đang đến gần.  32 Quả thật, Ta nói với các ngươi, thế hệ này sẽ không qua đi trước khi mọi điều ấy xảy đến.  33 Trời đất sẽ qua đi, nhưng những lời Ta nói sẽ không qua đâu.”
 
                 """],
             ["Phải Tỉnh Thức và Cầu Nguyện": """
-                34 “Hãy đề phòng, đừng để lòng các ngươi trĩu nặng với tiệc tùng, say sưa, và những lo lắng đời nầy đến nỗi ngày ấy bất thần chụp xuống trên các ngươi 35 như một bẫy lưới, vì ngày ấy sẽ ập đến trên mọi người sống ở mọi nơi khắp mặt đất.  36 Vậy các ngươi phải luôn tỉnh thức và cầu nguyện, để có đủ sức thoát khỏi mọi điều ấy khi chúng xảy đến, và được đứng vững trước mặt Con Người.”
+                34 “Hãy đề phòng, đừng để lòng các ngươi trĩu nặng với tiệc tùng, say sưa, và những lo lắng đời này đến nỗi ngày ấy bất thần chụp xuống trên các ngươi 35 như một bẫy lưới, vì ngày ấy sẽ ập đến trên mọi người sống ở mọi nơi khắp mặt đất.  36 Vậy các ngươi phải luôn tỉnh thức và cầu nguyện, để có đủ sức thoát khỏi mọi điều ấy khi chúng xảy đến, và được đứng vững trước mặt Con Người.”
                 37 Ban ngày Ngài giảng dạy trong đền thờ, tối lại Ngài đi ra và nghỉ đêm trên núi tên là Ô-liu.  38 Mỗi sáng sớm mọi người thức dậy, vào trong đền thờ, để nghe Ngài giảng dạy.
 
                 """]
@@ -1202,16 +1202,16 @@ class Luca: Book {
                 
                 7 Bấy giờ ngày Lễ Bánh Không Men đã đến, ấy là ngày người ta phải giết con chiên làm vật hiến tế trong Lễ Vượt Qua, 8 Ngài sai Phi-rơ và Giăng đi và dặn, “Hãy đi, chuẩn bị tiệc Lễ Vượt Qua cho chúng ta để chúng ta ăn.”
                 9 Họ hỏi Ngài, “Thưa Thầy, Thầy muốn chúng con dọn tiệc ấy ở đâu?”
-                10 Ngài đáp với họ, “Nầy, khi các ngươi vào thành, các ngươi sẽ gặp một người mang một vò nước, hãy đi theo người đó và vào nhà nào người đó vào.  11 Các ngươi hãy hỏi chủ nhà ấy rằng, ‘Thầy chúng tôi xin hỏi ông: “Phòng khách, nơi Ta sẽ dự tiệc Lễ Vượt Qua với các môn đồ Ta ở đâu?”’  12 Người ấy sẽ chỉ cho các ngươi một phòng lớn, trên lầu, có bàn ghế sẵn sàng; hãy chuẩn bị bữa tiệc tại đó.”
+                10 Ngài đáp với họ, “Này, khi các ngươi vào thành, các ngươi sẽ gặp một người mang một vò nước, hãy đi theo người đó và vào nhà nào người đó vào.  11 Các ngươi hãy hỏi chủ nhà ấy rằng, ‘Thầy chúng tôi xin hỏi ông: “Phòng khách, nơi Ta sẽ dự tiệc Lễ Vượt Qua với các môn đồ Ta ở đâu?”’  12 Người ấy sẽ chỉ cho các ngươi một phòng lớn, trên lầu, có bàn ghế sẵn sàng; hãy chuẩn bị bữa tiệc tại đó.”
                 13 Họ ra đi và gặp mọi sự y như Ngài đã bảo trước với họ; họ chuẩn bị bữa tiệc Lễ Vượt Qua tại đó.
 
                 """],
             ["Tiệc Thánh": """
                 (Mat 26:26-30; Mác 14:22-26; 1Cô 11:23-25)
                 
-                14 Khi đến giờ, Ngài ngồi vào bàn ăn, các môn đồ cùng ngồi với Ngài.  15 Ngài nói với họ, “Ta rất muốn ăn Lễ Vượt Qua nầy với các ngươi trước khi Ta chịu khổ hình, 16 vì Ta nói với các ngươi, Ta sẽ không ăn lễ nầy nữa cho đến khi nó được làm trọn trong vương quốc Ðức Chúa Trời.”
-                17 Ðoạn Ngài lấy chén, tạ ơn, rồi nói, “Hãy lấy chén nầy và chia cho nhau, 18 vì Ta nói với các ngươi, từ nay Ta sẽ không uống nước nho nữa cho đến khi vương quốc Ðức Chúa Trời đến.”
-                19 Kế đó Ngài lấy bánh, tạ ơn, bẻ ra, đưa cho họ, và nói, “Ðây là thân thể Ta vì các ngươi mà phó cho; hãy làm điều nầy để nhớ Ta.”  20 Tương tự, sau khi ăn, Ngài lấy chén và bảo, “Chén nầy là giao ước mới trong huyết Ta, vì các ngươi mà đổ ra.  21 Nầy, bàn tay kẻ phản Ta đang để trên bàn với Ta.  22 Con Người sẽ ra đi theo như đã định, nhưng khốn thay cho kẻ phản bội Con Người.”  23 Các môn đồ bắt đầu hỏi nhau, xem ai trong vòng họ toan làm điều đó.
+                14 Khi đến giờ, Ngài ngồi vào bàn ăn, các môn đồ cùng ngồi với Ngài.  15 Ngài nói với họ, “Ta rất muốn ăn Lễ Vượt Qua này với các ngươi trước khi Ta chịu khổ hình, 16 vì Ta nói với các ngươi, Ta sẽ không ăn lễ này nữa cho đến khi nó được làm trọn trong vương quốc Ðức Chúa Trời.”
+                17 Ðoạn Ngài lấy chén, tạ ơn, rồi nói, “Hãy lấy chén này và chia cho nhau, 18 vì Ta nói với các ngươi, từ nay Ta sẽ không uống nước nho nữa cho đến khi vương quốc Ðức Chúa Trời đến.”
+                19 Kế đó Ngài lấy bánh, tạ ơn, bẻ ra, đưa cho họ, và nói, “Ðây là thân thể Ta vì các ngươi mà phó cho; hãy làm điều này để nhớ Ta.”  20 Tương tự, sau khi ăn, Ngài lấy chén và bảo, “Chén này là giao ước mới trong huyết Ta, vì các ngươi mà đổ ra.  21 Này, bàn tay kẻ phản Ta đang để trên bàn với Ta.  22 Con Người sẽ ra đi theo như đã định, nhưng khốn thay cho kẻ phản bội Con Người.”  23 Các môn đồ bắt đầu hỏi nhau, xem ai trong vòng họ toan làm điều đó.
 
                 """],
             ["Các Môn Ðồ Tranh Nhau Làm Lớn": """
@@ -1230,17 +1230,17 @@ class Luca: Book {
             ["Mang Theo Túi, Bao, và Gươm": """
                 35 Ngài nói với họ, “Khi Ta sai các ngươi ra đi, không mang theo túi tiền, bao bị, hay giày dép, nhưng các ngươi có thiếu gì không?”
                 Họ đáp, “Thưa không thiếu gì.”
-                36 Ngài nói với họ, “Nhưng bây giờ ai có túi tiền, hãy lấy mang theo; ai có bao bị, cũng làm vậy; ai không có gươm, hãy bán áo choàng và mua một thanh gươm, 37 vì Ta nói với các ngươi, lời Kinh Thánh nầy về Ta phải được ứng nghiệm,
+                36 Ngài nói với họ, “Nhưng bây giờ ai có túi tiền, hãy lấy mang theo; ai có bao bị, cũng làm vậy; ai không có gươm, hãy bán áo choàng và mua một thanh gươm, 37 vì Ta nói với các ngươi, lời Kinh Thánh này về Ta phải được ứng nghiệm,
                 ‘Người đã bị liệt vào hàng kẻ phạm pháp.’
                 Thật vậy những gì đã viết về Ta phải được ứng nghiệm.”
-                38 Họ đáp, “Lạy Chúa, nầy, ở đây chúng con có hai thanh gươm.”
+                38 Họ đáp, “Lạy Chúa, này, ở đây chúng con có hai thanh gươm.”
                 Ngài nói, “Vậy cũng đủ rồi.”
 
                 """],
             ["Chúa Cầu Nguyện trên Núi Ô-liu": """
                 (Mat 26:36-46; Mác 14:32-42)
                 
-                39 Ngài đi ra, và theo thường lệ, Ngài đi đến Núi Ô-liu, và các môn đồ cũng đi theo Ngài.  40 Khi đến nơi, Ngài nói với họ, “Hãy cầu nguyện để các ngươi không bị sa vào chước cám dỗ.”  41 Rồi Ngài đi cách xa họ khoảng chừng ném một hòn đá; Ngài quỳ xuống và cầu nguyện rằng, 42 “Lạy Cha, nếu Cha muốn, xin Cha cất chén nầy khỏi Con.  Dầu vậy, không theo ý Con, mà xin ý Cha được nên.”
+                39 Ngài đi ra, và theo thường lệ, Ngài đi đến Núi Ô-liu, và các môn đồ cũng đi theo Ngài.  40 Khi đến nơi, Ngài nói với họ, “Hãy cầu nguyện để các ngươi không bị sa vào chước cám dỗ.”  41 Rồi Ngài đi cách xa họ khoảng chừng ném một hòn đá; Ngài quỳ xuống và cầu nguyện rằng, 42 “Lạy Cha, nếu Cha muốn, xin Cha cất chén này khỏi Con.  Dầu vậy, không theo ý Con, mà xin ý Cha được nên.”
                 [43 Bấy giờ một thiên sứ từ trời hiện ra với Ngài và thêm sức cho Ngài.  44 Trong cơn thống khổ Ngài cầu nguyện tha thiết, mồ hôi Ngài toát ra như những giọt máu nhỏ xuống đất.]
                 45 Khi cầu nguyện xong, Ngài đứng dậy, đến chỗ các môn đồ, và thấy họ đều ngủ vì sầu thảm.  46 Ngài nói với họ, “Sao các ngươi lại ngủ?  Hãy thức dậy và cầu nguyện để các ngươi khỏi sa vào chước cám dỗ.”
 
@@ -1256,11 +1256,11 @@ class Luca: Book {
             ["Phi-rơ Chối Chúa": """
                 (Mat 26:57-58, 69-75; Mác 14:53-54, 66-72; Gg 18:12-18, 25-27)
                 
-                54 Họ bắt Ngài, dẫn Ngài đi, và đưa Ngài đến nhà của vị thượng tế.  Còn Phi-rơ, ông đi theo cách một khoảng xa xa.  55 Họ nhóm một đống lửa ở giữa sân, rồi ngồi xuống sưởi ấm với nhau.  Phi-rơ cũng ngồi sưởi ấm với họ.  56 Một cô tớ gái thấy ông ngồi bên đống lửa, bèn nhìn chăm chăm vào ông, và nói, “Ông nầy cũng ở với ông ấy đây.”
+                54 Họ bắt Ngài, dẫn Ngài đi, và đưa Ngài đến nhà của vị thượng tế.  Còn Phi-rơ, ông đi theo cách một khoảng xa xa.  55 Họ nhóm một đống lửa ở giữa sân, rồi ngồi xuống sưởi ấm với nhau.  Phi-rơ cũng ngồi sưởi ấm với họ.  56 Một cô tớ gái thấy ông ngồi bên đống lửa, bèn nhìn chăm chăm vào ông, và nói, “Ông này cũng ở với ông ấy đây.”
                 57 Nhưng Phi-rơ chối phăng và nói, “Này bà, tôi không biết ông ấy.”
                 58 Một lát sau, một người khác thấy ông bèn nói, “Ông cũng là một người trong nhóm ông ấy.”
                 Nhưng Phi-rơ nói, “Này ông, không phải tôi đâu nhé.”
-                59 Khoảng một giờ sau, một người khác lại quả quyết, “Ông nầy đúng là người của ông ấy rồi, vì ông ta cũng là người Ga-li-lê.”
+                59 Khoảng một giờ sau, một người khác lại quả quyết, “Ông này đúng là người của ông ấy rồi, vì ông ta cũng là người Ga-li-lê.”
                 60 Nhưng Phi-rơ đáp, “Này ông, tôi không biết ông nói gì.”
                 Khi Phi-rơ còn đang nói, ngay lúc đó một con gà cất tiếng gáy.  61 Chúa quay lại nhìn Phi-rơ.  Phi-rơ nhớ lại lời Chúa đã nói với ông, “Hôm nay, trước khi gà gáy, ngươi sẽ chối không biết Ta ba lần.”  62 Ông đi ra và khóc lóc đắng cay.
 
@@ -1286,10 +1286,10 @@ class Luca: Book {
             ["Phi-lát Xử Án Chúa": """
                 (Mat 27:1-2, 11-14; Mác 15:1-5; Gg 18:28-38)
                 
-                1 Bấy giờ cả hội đồng đứng dậy và giải Ðức Chúa Jesus đến Phi-lát.  2 Họ bắt đầu tố cáo Ngài rằng, “Chúng tôi đã thấy người nầy sách động quần chúng trong nước chúng tôi, cấm chúng tôi nộp thuế cho Sê-sa, và tự xưng là Ðấng Christ, tức là vua.”
+                1 Bấy giờ cả hội đồng đứng dậy và giải Ðức Chúa Jesus đến Phi-lát.  2 Họ bắt đầu tố cáo Ngài rằng, “Chúng tôi đã thấy người này sách động quần chúng trong nước chúng tôi, cấm chúng tôi nộp thuế cho Sê-sa, và tự xưng là Ðấng Christ, tức là vua.”
                 3 Phi-lát hỏi Ngài, “Có phải ngươi là vua dân Do-thái không?”
                 Ngài đáp, “Chính ngươi đã nói thế.”
-                4 Phi-lát nói với các trưởng tế và đám đông, “Ta xét thấy người nầy không có tội gì cả.”
+                4 Phi-lát nói với các trưởng tế và đám đông, “Ta xét thấy người này không có tội gì cả.”
                 5 Nhưng họ cứ khăng khăng nói rằng, “Hắn đã xúi giục dân bằng cách đi giảng dạy khắp xứ Giu-đê, bắt đầu từ Ga-li-lê cho tới đây.”
                 6 Khi Phi-lát nghe như thế, ông hỏi phải chăng bị cáo là người Ga-li-lê.  7 Khi ông biết Ngài thuộc quyền tài phán của Hê-rốt, ông sai giải Ngài đến Hê-rốt, vì lúc đó ông ấy đang có mặt tại Giê-ru-sa-lem.
 
@@ -1302,22 +1302,22 @@ class Luca: Book {
             ["Phi-lát Kết Án Chúa": """
                 (Mat 27:15-26; Mác 15:6-15; Gg 18:39-19:16)
                 
-                13 Phi-lát triệu tập các trưởng tế, các quan chức, và dân lại, 14 rồi nói với họ, “Các ngươi giải người nầy đến ta, vì cho rằng đương sự đã sách động quần chúng, và nầy, trước mặt các ngươi, ta đã hỏi cung đương sự và thấy người nầy không phạm tội như các ngươi đã tố cáo.  15 Cả Hê-rốt cũng thấy vậy, vì ông ấy đã giải trả đương sự lại chúng ta.  Nầy, đương sự chẳng làm điều chi đáng chết.  16 Vậy ta sẽ cho đánh phạt đương sự, rồi thả ra.”  [17 Số là vào mỗi kỳ lễ lớn, Phi-lát thường có lệ phóng thích cho họ một tù nhân.]
+                13 Phi-lát triệu tập các trưởng tế, các quan chức, và dân lại, 14 rồi nói với họ, “Các ngươi giải người này đến ta, vì cho rằng đương sự đã sách động quần chúng, và này, trước mặt các ngươi, ta đã hỏi cung đương sự và thấy người này không phạm tội như các ngươi đã tố cáo.  15 Cả Hê-rốt cũng thấy vậy, vì ông ấy đã giải trả đương sự lại chúng ta.  Này, đương sự chẳng làm điều chi đáng chết.  16 Vậy ta sẽ cho đánh phạt đương sự, rồi thả ra.”  [17 Số là vào mỗi kỳ lễ lớn, Phi-lát thường có lệ phóng thích cho họ một tù nhân.]
                 18 Nhưng họ đồng thanh la lớn, “Hãy giết hắn đi!  Hãy thả Ba-ra-ba cho chúng tôi!”  19 Ba-ra-ba là kẻ đã bị tù vì tội dấy loạn trong thành và can tội sát nhân.
                 20 Nhưng Phi-lát muốn thả Ðức Chúa Jesus nên nói với họ một lần nữa.  21 Nhưng họ càng gào to, “Hãy đóng đinh hắn trên cây thập tự! Hãy đóng đinh hắn trên cây thập tự!”
-                22 Ông hỏi họ lần thứ ba, “Tại sao?  Người nầy đã làm điều ác gì?  Ta không thấy người nầy có tội gì đáng chết.  Vậy ta sẽ cho đánh phạt đương sự, rồi thả ra.”
+                22 Ông hỏi họ lần thứ ba, “Tại sao?  Người này đã làm điều ác gì?  Ta không thấy người này có tội gì đáng chết.  Vậy ta sẽ cho đánh phạt đương sự, rồi thả ra.”
                 23 Nhưng họ cứ gào to hơn nữa, nhất định đòi phải đóng đinh Ngài cho được, và tiếng gào thét của họ đã thắng.  24 Vậy Phi-lát ra phán quyết thuận theo lời yêu cầu của họ.  25 Ông cho thả người họ yêu cầu, một kẻ đã bị tù vì tội dấy loạn và sát nhân, còn Ðức Chúa Jesus, ông trao nộp Ngài theo ý họ muốn.
 
                 """],
             ["Chúa Chịu Ðóng Ðinh": """
                 (Mat 27:32-44; Mác 15:21-32; Gg 19:17-27)
                 
-                26 Ðang khi họ dẫn Ngài đi ra, họ túm lấy một người tên là Si-môn quê ở Sy-ren, ông ấy vừa từ dưới quê lên.  Họ đặt cây thập tự trên vai ông, bắt ông vác nó đi theo Ðức Chúa Jesus.  27 Một đoàn dân rất đông đi theo Ngài, trong đó có những bà đấm ngực và khóc thương Ngài.  28 Nhưng Ðức Chúa Jesus quay lại các bà ấy và nói, “Hỡi những phụ nữ Giê-ru-sa-lem, đừng khóc cho Ta, nhưng hãy khóc cho chính các ngươi và cho con cháu các ngươi.  29 Vì nầy, những ngày đến người ta sẽ nói, ‘Phước cho những phụ nữ không con, cho những dạ chẳng mang thai, và cho những vú không cho con bú.’  30 Khi ấy người ta sẽ nói với núi rằng, ‘Hãy đổ xuống trên chúng tôi,’ và nói với đồi rằng, ‘Hãy phủ lấp chúng tôi.’  31 Vì khi cây vẫn còn xanh mà người ta đã đối xử như vậy, thì khi cây khô rồi người ta sẽ đối xử ra sao?”
+                26 Ðang khi họ dẫn Ngài đi ra, họ túm lấy một người tên là Si-môn quê ở Sy-ren, ông ấy vừa từ dưới quê lên.  Họ đặt cây thập tự trên vai ông, bắt ông vác nó đi theo Ðức Chúa Jesus.  27 Một đoàn dân rất đông đi theo Ngài, trong đó có những bà đấm ngực và khóc thương Ngài.  28 Nhưng Ðức Chúa Jesus quay lại các bà ấy và nói, “Hỡi những phụ nữ Giê-ru-sa-lem, đừng khóc cho Ta, nhưng hãy khóc cho chính các ngươi và cho con cháu các ngươi.  29 Vì này, những ngày đến người ta sẽ nói, ‘Phước cho những phụ nữ không con, cho những dạ chẳng mang thai, và cho những vú không cho con bú.’  30 Khi ấy người ta sẽ nói với núi rằng, ‘Hãy đổ xuống trên chúng tôi,’ và nói với đồi rằng, ‘Hãy phủ lấp chúng tôi.’  31 Vì khi cây vẫn còn xanh mà người ta đã đối xử như vậy, thì khi cây khô rồi người ta sẽ đối xử ra sao?”
                 32 Có hai người khác, hai tên tội phạm, cũng bị dẫn đi hành quyết với Ngài.  33 Khi đến một chỗ gọi là Ðồi Sọ, họ đóng đinh Ngài và hai tên tội phạm tại đó, một tên bên phải Ngài và một tên bên trái Ngài.  34 Bấy giờ Ðức Chúa Jesus nói, “Lạy Cha, xin tha cho họ, vì họ không biết họ làm điều gì.”  Họ bốc thăm để chia nhau y phục Ngài.
                 35 Dân chúng đứng nhìn, trong khi những người lãnh đạo buông lời chế nhạo Ngài rằng, “Hắn đã cứu những người khác, hãy để hắn cứu lấy hắn, nếu hắn thật là Ðấng Christ, Ðấng Ðức Chúa Trời đã chọn!”  36 Bọn lính cũng nhạo báng Ngài; chúng lại gần, đưa giấm cho Ngài, 37 và nói, “Nếu ông là vua dân Do-thái, hãy cứu lấy ông đi!”  38 Phía trên đầu Ngài có một tấm bảng ghi,
-                “Người Nầy Là Vua Dân Do-thái.”
+                “Người Này Là Vua Dân Do-thái.”
                 39 Một trong hai tội phạm bị treo ở đó cũng buông lời xúc phạm đến Ngài rằng, “Ông không phải là Ðấng Christ sao?  Hãy cứu lấy ông và cứu chúng tôi với.”
-                40 Nhưng tên kia quở trách nó, bảo rằng, “Mày đang chịu cùng một hình phạt mà còn không kính sợ Ðức Chúa Trời sao?  41 Chúng ta bị hình phạt như thế nầy là đáng lắm, xứng với những việc chúng ta làm, nhưng người nầy đâu có làm gì sai phạm.”  42 Rồi hắn nói, “Lạy Ðức Chúa Jesus, xin Ngài nhớ đến con khi Ngài vào vương quốc của Ngài.”
+                40 Nhưng tên kia quở trách nó, bảo rằng, “Mày đang chịu cùng một hình phạt mà còn không kính sợ Ðức Chúa Trời sao?  41 Chúng ta bị hình phạt như thế này là đáng lắm, xứng với những việc chúng ta làm, nhưng người này đâu có làm gì sai phạm.”  42 Rồi hắn nói, “Lạy Ðức Chúa Jesus, xin Ngài nhớ đến con khi Ngài vào vương quốc của Ngài.”
                 43 Ngài đáp, “Quả thật, Ta nói với ngươi, hôm nay ngươi sẽ ở với Ta trong cõi phước hạnh.”
 
                 """],
@@ -1325,7 +1325,7 @@ class Luca: Book {
                 (Mat 27:45-56; Mác 15:33-41; Gg 19:28-30)
                 
                 44 Lúc ấy vào khoảng mười hai giờ trưa, khắp xứ đều tối tăm cho đến ba giờ chiều.  45 Mặt trời bị nhật thực, và bức màn trong đền thờ bị xé ở giữa ra làm hai.  46 Sau khi Ðức Chúa Jesus kêu lên một tiếng lớn, Ngài nói, “Cha ơi, Con xin trao linh hồn Con trong tay Cha.”  Nói như thế xong Ngài trút hơi thở cuối cùng.
-                47 Viên đại đội trưởng thấy sự việc xảy ra như thế, ông cất tiếng tôn vinh Ðức Chúa Trời và nói rằng, “Người nầy đúng là một người ngay lành.”  48 Mọi người tụ lại để xem cảnh ấy, khi thấy sự việc xảy ra, bèn đấm ngực mà trở về.  49 Những người quen thân Ngài và các bà theo Ngài từ Ga-li-lê đứng đàng xa theo dõi mọi diễn biến.
+                47 Viên đại đội trưởng thấy sự việc xảy ra như thế, ông cất tiếng tôn vinh Ðức Chúa Trời và nói rằng, “Người này đúng là một người ngay lành.”  48 Mọi người tụ lại để xem cảnh ấy, khi thấy sự việc xảy ra, bèn đấm ngực mà trở về.  49 Những người quen thân Ngài và các bà theo Ngài từ Ga-li-lê đứng đàng xa theo dõi mọi diễn biến.
 
                 """],
             ["Sự An Táng Chúa": """
@@ -1339,7 +1339,7 @@ class Luca: Book {
             ["Chúa Sống Lại": """
                 (Mat 28:1-10; Mác 16:1-8; Gg 20:1-10)
                 
-                1 Ngày thứ nhất trong tuần, lúc trời còn mờ sáng, các bà ấy đến thăm mộ, đem theo hương liệu họ đã chuẩn bị.  2 Ðến nơi họ thấy tảng đá đã được lăn ra khỏi cửa mộ.  3 Họ vào trong mộ nhưng không thấy thi thể của Ðức Chúa Jesus đâu cả.  4 Trong khi họ còn hoang mang về việc ấy, nầy, hai người đàn ông với y phục sáng lòa đột nhiên xuất hiện đứng bên họ.  5 Họ hoảng sợ và sấp mặt xuống đất, nhưng hai người đó nói với họ, “Tại sao các ngươi tìm người sống trong vòng kẻ chết?  6 Ngài không có ở đây, nhưng Ngài đã sống lại rồi.  Hãy nhớ lại những gì Ngài đã nói với các ngươi khi Ngài còn ở Ga-li-lê 7 rằng, ‘Con Người phải bị phản nộp vào tay những kẻ tội lỗi, chịu đóng đinh, rồi ngày thứ ba sẽ sống lại.’”
+                1 Ngày thứ nhất trong tuần, lúc trời còn mờ sáng, các bà ấy đến thăm mộ, đem theo hương liệu họ đã chuẩn bị.  2 Ðến nơi họ thấy tảng đá đã được lăn ra khỏi cửa mộ.  3 Họ vào trong mộ nhưng không thấy thi thể của Ðức Chúa Jesus đâu cả.  4 Trong khi họ còn hoang mang về việc ấy, này, hai người đàn ông với y phục sáng lòa đột nhiên xuất hiện đứng bên họ.  5 Họ hoảng sợ và sấp mặt xuống đất, nhưng hai người đó nói với họ, “Tại sao các ngươi tìm người sống trong vòng kẻ chết?  6 Ngài không có ở đây, nhưng Ngài đã sống lại rồi.  Hãy nhớ lại những gì Ngài đã nói với các ngươi khi Ngài còn ở Ga-li-lê 7 rằng, ‘Con Người phải bị phản nộp vào tay những kẻ tội lỗi, chịu đóng đinh, rồi ngày thứ ba sẽ sống lại.’”
                 8 Họ nhớ lại những lời Ngài.  9 Họ rời ngôi mộ trở về và thuật lại mọi điều đó cho mười một sứ đồ và mọi người khác.  10 Các bà đó là Ma-ry Mạc-đa-len, Giô-an-na, Ma-ry mẹ của Gia-cơ, và các bà khác cùng đi với họ; họ thuật lại cho các sứ đồ về những việc ấy.  11 Nhưng các sứ đồ cho những lời ấy là chuyện viễn vông, và họ không tin các bà ấy.  12 Tuy nhiên Phi-rơ đứng dậy và chạy đến mộ.  Ông cúi xuống nhìn vào trong và chỉ thấy có vải liệm nằm không ở đó.  Ông ra về và phân vân, không biết chuyện gì đã xảy ra.
 
                 """],
@@ -1360,7 +1360,7 @@ class Luca: Book {
                 (Mat 28:16-20; Mác 16:14-18; Gg 20:19-23;  Công 1:6-8)
                 
                 36 Ðang khi họ còn nói về việc ấy, chính Ngài hiện ra đứng giữa họ, và nói, “Bình an cho các ngươi.”  37 Họ đều hoảng hồn, kinh hãi, và tưởng rằng đang thấy ma.  38 Nhưng Ngài nói với họ, “Tại sao các ngươi sợ, và tại sao lòng các ngươi nảy ra nỗi nghi ngờ?  39 Hãy xem hai tay Ta và hai chân Ta; chính là Ta đây.  Hãy rờ Ta và xem, vì ma đâu có thịt và xương như các ngươi thấy Ta có.”  40 Sau khi nói như thế, Ngài đưa tay và chân cho họ xem.  41 Họ quá đỗi vui mừng, nhưng vẫn còn thấy khó tin và lấy làm lạ.  Ngài bảo họ, “Các ngươi có gì ăn không?”  42 Họ đưa cho Ngài một miếng cá nướng.  43 Ngài cầm lấy và ăn trước mặt họ.
-                44 Sau đó Ngài nói với họ, “Ðây là những lời Ta đã nói với các ngươi khi Ta còn ở với các ngươi: Tất cả những gì đã viết về Ta trong Luật Pháp của Môi-se, Các Tiên Tri, và Các Thánh Thi phải được ứng nghiệm.”  45 Ðoạn Ngài mở trí họ để họ thông hiểu Kinh Thánh.  46 Ngài nói với họ, “Như đã chép, Ðấng Christ phải chịu đau khổ, đến ngày thứ ba sẽ từ cõi chết sống lại, 47 và sự ăn năn để được tha tội phải được nhân danh Người rao giảng cho muôn dân, bắt đầu từ Giê-ru-sa-lem.  48 Các ngươi là những nhân chứng cho những điều đó.  49 Nầy, Ta sẽ phái đến các ngươi những gì Cha Ta đã hứa; nhưng các ngươi phải ở trong thành cho đến khi mặc lấy quyền năng từ trên cao.”
+                44 Sau đó Ngài nói với họ, “Ðây là những lời Ta đã nói với các ngươi khi Ta còn ở với các ngươi: Tất cả những gì đã viết về Ta trong Luật Pháp của Môi-se, Các Tiên Tri, và Các Thánh Thi phải được ứng nghiệm.”  45 Ðoạn Ngài mở trí họ để họ thông hiểu Kinh Thánh.  46 Ngài nói với họ, “Như đã chép, Ðấng Christ phải chịu đau khổ, đến ngày thứ ba sẽ từ cõi chết sống lại, 47 và sự ăn năn để được tha tội phải được nhân danh Người rao giảng cho muôn dân, bắt đầu từ Giê-ru-sa-lem.  48 Các ngươi là những nhân chứng cho những điều đó.  49 Này, Ta sẽ phái đến các ngươi những gì Cha Ta đã hứa; nhưng các ngươi phải ở trong thành cho đến khi mặc lấy quyền năng từ trên cao.”
 
                 """],
             ["Chúa Thăng Thiên": """

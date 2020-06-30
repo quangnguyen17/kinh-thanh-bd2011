@@ -1,4 +1,4 @@
-﻿
+
 class Galati: Book {
     
     override init() {
@@ -11,7 +11,7 @@ class Galati: Book {
     var allChapters: [Chapter] = [
         Chapter(1, passages: [
             ["Lời Mở Ðầu": """
-                1 Phao-lô, một sứ đồ, không do loài người sai phái và không qua tổ chức nào của loài người, nhưng qua Ðức Chúa Jesus Christ và Ðức Chúa Trời là Cha, Ðấng đã làm cho Ngài sống lại từ cõi chết, 2 cùng tất cả anh chị em đang ở với tôi, kính gởi các hội thánh ở vùng Ga-la-ti.  3 Nguyện xin ân sủng và bình an đến cùng anh chị em từ Ðức Chúa Trời, Cha chúng ta, và từ Ðức Chúa Jesus Christ, Chúa chúng ta, 4 Ðấng đã phó chính Ngài vì tội chúng ta, để Ngài có thể cứu chúng ta khỏi đời gian ác nầy, theo ý muốn của Ðức Chúa Trời, Cha chúng ta.  5 Nguyện vinh hiển thuộc về Ngài đời đời vô cùng.  A-men.
+                1 Phao-lô, một sứ đồ, không do loài người sai phái và không qua tổ chức nào của loài người, nhưng qua Ðức Chúa Jesus Christ và Ðức Chúa Trời là Cha, Ðấng đã làm cho Ngài sống lại từ cõi chết, 2 cùng tất cả anh chị em đang ở với tôi, kính gởi các hội thánh ở vùng Ga-la-ti.  3 Nguyện xin ân sủng và bình an đến cùng anh chị em từ Ðức Chúa Trời, Cha chúng ta, và từ Ðức Chúa Jesus Christ, Chúa chúng ta, 4 Ðấng đã phó chính Ngài vì tội chúng ta, để Ngài có thể cứu chúng ta khỏi đời gian ác này, theo ý muốn của Ðức Chúa Trời, Cha chúng ta.  5 Nguyện vinh hiển thuộc về Ngài đời đời vô cùng.  A-men.
 
                 """],
             ["Chỉ Có Một Tin Mừng": """
@@ -40,7 +40,7 @@ class Galati: Book {
                 """],
             ["Người Do-thái và Các Dân Ngoại Ðược Cứu Nhờ Ðức Tin": """
                 15 Chúng tôi khi sinh ra là người Do-thái, chứ không là những người tội lỗi trong các dân ngoại.  16 Tuy nhiên chúng tôi biết rằng một người được xưng công chính không nhờ làm theo các việc của Luật Pháp nhưng nhờ đức tin nơi Ðức Chúa Jesus Christ; vì thế chúng tôi đã tin Ðức Chúa Jesus Christ để chúng tôi được xưng công chính, nhờ đức tin nơi Ðấng Christ, chứ không nhờ làm theo các việc của Luật Pháp; vì không người nào sẽ được xưng công chính nhờ làm theo các việc của Luật Pháp.  17 Nhưng nếu chúng tôi đang tìm cầu được xưng công chính trong Ðấng Christ, mà chính chúng tôi bị xem là những kẻ có tội vì không làm theo Luật Pháp, hóa ra Ðấng Christ là Ðấng phục vụ tội lỗi sao?  Chẳng hề như vậy.  18 Vì nếu tôi xây dựng lại những gì tôi đã phá hủy, tôi chứng tỏ rằng mình là kẻ phạm luật.
-                19 Vì qua Luật Pháp tôi đã chết đối với Luật Pháp, để tôi có thể sống cho Ðức Chúa Trời.  20 Tôi đã bị đóng đinh vào thập tự giá với Ðấng Christ; không phải là tôi sống nữa, nhưng Ðấng Christ sống trong tôi; và bây giờ tôi sống trong thân xác nầy là sống trong đức tin vào Con Ðức Chúa Trời, Ðấng đã yêu tôi và phó chính mình Ngài vì tôi.  21 Tôi không muốn làm cho ân sủng của Ðức Chúa Trời bị vô hiệu hóa, vì nếu có thể nhờ Luật Pháp được xưng công chính, thì Ðấng Christ chịu chết thật vô ích quá.
+                19 Vì qua Luật Pháp tôi đã chết đối với Luật Pháp, để tôi có thể sống cho Ðức Chúa Trời.  20 Tôi đã bị đóng đinh vào thập tự giá với Ðấng Christ; không phải là tôi sống nữa, nhưng Ðấng Christ sống trong tôi; và bây giờ tôi sống trong thân xác này là sống trong đức tin vào Con Ðức Chúa Trời, Ðấng đã yêu tôi và phó chính mình Ngài vì tôi.  21 Tôi không muốn làm cho ân sủng của Ðức Chúa Trời bị vô hiệu hóa, vì nếu có thể nhờ Luật Pháp được xưng công chính, thì Ðấng Christ chịu chết thật vô ích quá.
 
                 """]
             ]),
@@ -55,7 +55,7 @@ class Galati: Book {
                 11 Thật là rõ ràng rằng không ai nhờ Luật Pháp mà được xưng công chính trước mặt Ðức Chúa Trời, vì
                 “Người công chính sẽ sống bởi đức tin.”
                 12 Luật Pháp không đặt nền tảng trên đức tin, ngược lại,
-                “Ai làm theo những điều nầy sẽ nhờ đó mà sống.”
+                “Ai làm theo những điều này sẽ nhờ đó mà sống.”
                 13 Ðấng Christ đã cứu chuộc chúng ta ra khỏi sự nguyền rủa của Luật Pháp bằng cách trở thành người gánh chịu sự nguyền rủa đó thay cho chúng ta, như có chép rằng,
                 “Ðáng nguyền rủa thay cho kẻ bị treo trên cây gỗ.”
                 14 Nhờ thế các phước hạnh dành cho Áp-ra-ham có thể đến với muôn dân trong Ðức Chúa Jesus Christ, để bởi đức tin chúng ta có thể nhận được Ðức Thánh Linh như đã hứa.
@@ -63,11 +63,11 @@ class Galati: Book {
                 """],
             ["Luật Pháp và Lời hứa": """
                 15 Thưa anh chị em, tôi nói theo cách của loài người rằng, dù là giao ước giữa người với người, một khi giao ước đã được ký kết xong, không ai được quyền tự ý loại bỏ hay thêm bớt điều gì.  16 Về các lời hứa đã hứa với Áp-ra-ham và với dòng dõi ông thì không nói “cho các con cháu ngươi” như cho nhiều người, nhưng nói “cho con ngươi” như chỉ cho một người, và người đó chính là Ðấng Christ.
-                17 Ðiều tôi muốn nói là thế nầy: Luật Pháp bốn trăm ba mươi năm sau mới đến không có quyền hủy bỏ giao ước đã được Ðức Chúa Trời phê chuẩn từ trước, mà làm cho lời hứa bị vô hiệu hóa.  18 Vì nếu sự thừa hưởng cơ nghiệp căn cứ vào Luật Pháp thì không còn căn cứ vào lời hứa; nhưng Ðức Chúa Trời đã ban cơ nghiệp cho Áp-ra-ham dựa trên lời hứa kia mà.
+                17 Ðiều tôi muốn nói là thế này: Luật Pháp bốn trăm ba mươi năm sau mới đến không có quyền hủy bỏ giao ước đã được Ðức Chúa Trời phê chuẩn từ trước, mà làm cho lời hứa bị vô hiệu hóa.  18 Vì nếu sự thừa hưởng cơ nghiệp căn cứ vào Luật Pháp thì không còn căn cứ vào lời hứa; nhưng Ðức Chúa Trời đã ban cơ nghiệp cho Áp-ra-ham dựa trên lời hứa kia mà.
 
                 """],
             ["Mục Ðích của Luật Pháp": """
-                19 Vậy thì Luật Pháp để làm gì?  Luật Pháp được thêm vào sau nầy để người ta hiểu thế nào là phạm tội.  Luật Pháp tồn tại cho đến khi Con của lời hứa đến, đó là Người mà lời hứa đã hứa.  Luật Pháp đã được các thiên sứ truyền xuống cho dân qua trung gian của một người.  20 Vả, người trung gian hàm ý không chỉ có một bên, nhưng Ðức Chúa Trời là Ðấng chỉ có một.
+                19 Vậy thì Luật Pháp để làm gì?  Luật Pháp được thêm vào sau này để người ta hiểu thế nào là phạm tội.  Luật Pháp tồn tại cho đến khi Con của lời hứa đến, đó là Người mà lời hứa đã hứa.  Luật Pháp đã được các thiên sứ truyền xuống cho dân qua trung gian của một người.  20 Vả, người trung gian hàm ý không chỉ có một bên, nhưng Ðức Chúa Trời là Ðấng chỉ có một.
                 21 Như thế Luật Pháp nghịch lại với lời hứa của Ðức Chúa Trời chăng?  Chẳng hề như vậy!  Vì nếu Luật Pháp được ban cho có thể mang đến sự sống, thì sự công chính phải đến từ Luật Pháp.  22 Nhưng Kinh Thánh đã nhốt mọi người dưới quyền lực của tội lỗi, để những gì đã hứa qua đức tin nơi Ðức Chúa Jesus Christ có thể ban cho những người có lòng tin.
                 23 Nhưng trước khi đức tin đến, chúng ta đều bị nhốt và bị canh giữ dưới quyền lực của tội lỗi, chờ đến khi đức tin xuất hiện.  24 Vì thế Luật Pháp đã trở thành người giám hộ của chúng ta cho đến khi Ðấng Christ đến, để khi ấy nhờ đức tin chúng ta có thể được xưng công chính.  25 Khi đức tin đến rồi, chúng ta không còn ở dưới quyền của người giám hộ nữa.
                 26 Vì bởi đức tin trong Ðức Chúa Jesus Christ, tất cả anh chị em là con cái của Ðức Chúa Trời.  27 Vì hễ ai đã được báp-têm vào trong Ðấng Christ đều được mặc lấy Ðấng Christ.  28 Không còn phân biệt chủng tộc Do-thái hay Hy-lạp, không còn phân biệt giai cấp nô lệ hay tự do, không còn phân biệt phái tính nam hay nữ, vì tất cả anh chị em đều là một trong Ðức Chúa Jesus Christ.  29 Và nếu anh chị em thuộc về Ðấng Christ, anh chị em là dòng dõi của Áp-ra-ham, những người thừa kế theo lời hứa.
@@ -84,7 +84,7 @@ class Galati: Book {
                 12 Thưa anh chị em, tôi xin anh chị em hãy trở nên giống như tôi, vì tôi cũng đã trở nên giống như anh chị em.
                 Anh chị em đã không đối xử tệ với tôi, 13 dù khi tôi đến giảng Tin Mừng cho anh chị em lần đầu, như anh chị em đã biết, thân thể tôi lúc đó bị đau yếu.  14 Mặc dù thân thể tôi là một thử thách cho anh chị em, nhưng anh chị em đã không khinh chê tôi hoặc chán ghét tôi; ngược lại, anh chị em đã tiếp rước tôi như một thiên sứ của Ðức Chúa Trời, như chính Ðức Chúa Jesus Christ vậy.  15 Phước hạnh đó của anh chị em bây giờ đâu rồi?  Tôi có thể làm chứng với anh chị em rằng lúc đó, nếu có thể được, anh chị em đã móc mắt mình để cho tôi nữa.  16 Phải chăng bây giờ tôi đã trở thành kẻ thù của anh chị em, vì tôi đã nói với anh chị em sự thật?
                 17 Những người đó nhiệt tình với anh chị em, nhưng không với ý tốt.  Họ chỉ muốn cô lập anh chị em với chúng tôi, để anh chị em chỉ nhiệt tình với họ thôi.  18 Nếu lúc nào họ cũng nhiệt tình làm điều tốt cho anh chị em thì như thế mới tốt, chứ không phải đợi khi tôi có mặt với anh chị em thì họ mới làm.
-                19 Hỡi các con thơ của tôi!  Tôi lại phải chịu đau đớn trong cơn lâm bồn cho đến khi Ðấng Christ được thành hình trong các con!  20 Ôi ước gì tôi có mặt với các con lúc nầy, và có thể thay đổi cách nói của tôi, bởi tôi thật bối rối vì các con.
+                19 Hỡi các con thơ của tôi!  Tôi lại phải chịu đau đớn trong cơn lâm bồn cho đến khi Ðấng Christ được thành hình trong các con!  20 Ôi ước gì tôi có mặt với các con lúc này, và có thể thay đổi cách nói của tôi, bởi tôi thật bối rối vì các con.
 
                 """],
             ["Gương của Ha-ga và Sa-ra": """
@@ -108,7 +108,7 @@ class Galati: Book {
 
                 """],
             ["Ðức Thánh Linh và Xác Thịt": """
-                13 Thưa anh chị em, anh chị em đã được kêu gọi để hưởng tự do, xin anh chị em đừng lợi dụng sự tự do đó để sống theo xác thịt, nhưng hãy lấy tình thương mà phục vụ như thể làm nô lệ lẫn nhau, 14 vì toàn bộ Luật Pháp được tóm lại trong một câu nầy,
+                13 Thưa anh chị em, anh chị em đã được kêu gọi để hưởng tự do, xin anh chị em đừng lợi dụng sự tự do đó để sống theo xác thịt, nhưng hãy lấy tình thương mà phục vụ như thể làm nô lệ lẫn nhau, 14 vì toàn bộ Luật Pháp được tóm lại trong một câu này,
                 “Ngươi hãy yêu người lân cận như mình”
                 15 Nhưng nếu anh chị em cứ cắn xé và ăn nuốt lẫn nhau, hãy coi chừng, kẻo anh chị em sẽ tiêu diệt nhau.
                 16 Vậy tôi nói, anh chị em hãy sống theo Ðức Thánh Linh, đừng bao giờ chiều theo những dục vọng của xác thịt.  17 Vì những dục vọng của xác thịt nghịch với Ðức Thánh Linh, và Ðức Thánh Linh nghịch với xác thịt.  Hai bên nghịch nhau như thế, nên anh chị em không làm được những điều mình muốn.  18 Nhưng nếu anh chị em được Ðức Thánh Linh dẫn dắt thì anh chị em không ở dưới Luật Pháp.  19 Những việc của xác thịt thật là rõ ràng: gian dâm, ô uế, trụy lạc, 20 thờ thần tượng, phù phép, thù hận, gây gổ, ghen ghét, giận dữ, ích kỷ, chia rẽ, phe đảng, 21 ganh tị, say sưa, nhậu nhẹt, và những điều tương tự.  Tôi xin cảnh cáo anh chị em, như tôi đã nói trước đây, hễ ai làm những việc như thế sẽ không được thừa hưởng vương quốc Ðức Chúa Trời.
@@ -129,7 +129,7 @@ class Galati: Book {
                 11 Xin anh chị em xem đây, chính tay tôi viết cho anh chị em, nên khổ chữ lớn dường nào!
                 12 Những người muốn được người ta tôn trọng về phương diện xác thịt cứ ép anh em phải được cắt bì chỉ vì họ muốn tránh bị bắt bớ khi chỉ cậy vào thập tự giá của Ðấng Christ mà thôi.  13 Vì ngay cả những người đã được cắt bì, chính họ cũng không tuân giữ Luật Pháp, nhưng họ vẫn muốn anh em phải được cắt bì, để họ có thể tự hào về phương diện xác thịt của anh em.
                 14 Về phần tôi, nguyện tôi sẽ không tự hào về điều gì, ngoại trừ thập tự giá của Ðức Chúa Jesus Christ, Chúa chúng ta; bởi thập tự giá đó mà đối với tôi thế gian đã bị đóng đinh, và tôi cũng đã bị đóng đinh đối với thế gian.  15 Vì được cắt bì hay không được cắt bì chẳng quan trọng, điều quan trọng là trở thành một tạo vật mới.
-                16 Nguyện xin sự bình an và ơn thương xót ở trên những ai giữ theo quy luật nầy, và ở trên dân I-sơ-ra-ên của Ðức Chúa Trời nữa.
+                16 Nguyện xin sự bình an và ơn thương xót ở trên những ai giữ theo quy luật này, và ở trên dân I-sơ-ra-ên của Ðức Chúa Trời nữa.
                 17 Ước gì từ nay trở đi không ai gây phiền phức cho tôi nữa, vì tôi đang mang trên thân thể mình những dấu khổ hình của Ðức Chúa Jesus.
                 18 Thưa anh chị em, nguyện xin ân sủng của Ðức Chúa Jesus Christ, Chúa chúng ta, ở cùng tâm linh anh chị em.  A-men.
 

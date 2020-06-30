@@ -82,8 +82,8 @@ class MiChe: Book {
                 Chúng thèm muốn nhà cửa người ta và kiếm cớ tịch thu;
                 Chúng đàn áp chủ nhà, rồi cướp lấy nhà,
                 Chúng đàn áp người khác, rồi tịch thu tài sản họ.”
-                3 Vì vậy CHÚA phán thế nầy,
-                “Này, Ta sẽ lập ra một kế hoạch để giáng họa xuống gia tộc nầy,
+                3 Vì vậy CHÚA phán thế này,
+                “Này, Ta sẽ lập ra một kế hoạch để giáng họa xuống gia tộc này,
                 Ðể cổ các ngươi không thể cục cựa,
                 Ðể chân các ngươi không thể bước đi cách hống hách kiêu căng,
                 Vì đó sẽ là một thời tai họa cho các ngươi.
@@ -116,7 +116,7 @@ class MiChe: Book {
                 
                 11 Nếu có kẻ đi khắp nơi thốt ra những lời dối trá rỗng tuếch,
                 Bảo rằng, ‘Cứ cho tôi rượu ngon và rượu mạnh để tôi uống, tôi sẽ giảng điều có lợi cho các người.’
-                Một kẻ như thế có thể nào là một giảng sư chân chính cho dân nầy chăng?”
+                Một kẻ như thế có thể nào là một giảng sư chân chính cho dân này chăng?”
 
                 """],
             ["Lời Hứa cho Dân I-sơ-ra-ên Còn Sót Lại": """
@@ -148,7 +148,7 @@ class MiChe: Book {
                 4 Ðến khi hữu sự họ lại kêu cầu CHÚA, nhưng Ngài không đáp lời;
                 Khi đó Ngài ẩn mặt Ngài khỏi họ, bởi vì những việc ác họ làm.
                 
-                5 CHÚA phán thế nầy về các tiên tri đã gây cho dân tôi lầm lạc,
+                5 CHÚA phán thế này về các tiên tri đã gây cho dân tôi lầm lạc,
                 “Khi răng chúng cắn được cái gì, chúng hô lên, ‘Bình an.’
                 Nhưng khi không ai bỏ gì vào miệng chúng, chúng bèn kiếm cớ gây sự với người ta.”
                 
@@ -181,7 +181,7 @@ class MiChe: Book {
             ]),
         Chapter(4, passages: [
             ["CHÚA Trị Vì tại Si-ôn": """
-                1 Trong những ngày cuối cùng sẽ xảy ra điều nầy:
+                1 Trong những ngày cuối cùng sẽ xảy ra điều này:
                 Núi của nhà CHÚA sẽ được lập làm núi chủ các núi non;
                 Nó sẽ được tán dương hơn các núi đồi;
                 Muôn dân sẽ đổ về nơi ấy.
@@ -196,7 +196,7 @@ class MiChe: Book {
                 Ngài sẽ phán xét các nước hùng cường ở phương xa,
                 Họ sẽ đập gươm đao đúc thành lưỡi cày,
                 Cán giáo mác rèn thành lưỡi liềm,
-                Nước nầy sẽ không đưa gươm lên nghịch lại nước khác,
+                Nước này sẽ không đưa gươm lên nghịch lại nước khác,
                 Người ta sẽ không còn tập luyện cho chiến tranh.
                 4 Nhưng ai nấy sẽ ngồi hưởng thái bình dưới cây nho mình và dưới cây vả mình,
                 Không ai sẽ làm cho ai lo sợ nữa,
@@ -428,7 +428,7 @@ class MiChe: Book {
                 12 Trong ngày ấy thiên hạ sẽ đến với ngươi,
                 Từ A-sy-ri đến các thành ở Ai-cập,
                 Từ Ai-cập đến Sông Cả,
-                Từ đại dương nầy đến đại dương kia,
+                Từ đại dương này đến đại dương kia,
                 Từ rặng núi nọ đến rặng núi kia.
                 13 Ðất sẽ bị bỏ hoang vì tội của dân cư ở đó,
                 Ðó là hậu quả của những việc chúng làm.

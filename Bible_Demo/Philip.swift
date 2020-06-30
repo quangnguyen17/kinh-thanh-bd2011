@@ -1,4 +1,4 @@
-﻿
+
 class Philip: Book {
     
     override init() {
@@ -15,14 +15,14 @@ class Philip: Book {
 
                 """],
             ["Cảm Tạ và Cầu Nguyện": """
-                3 Mỗi khi nhớ đến anh chị em, tôi cảm tạ Ðức Chúa Trời của tôi.  4 Mỗi khi cầu nguyện cho tất cả anh chị em, tôi luôn luôn cầu nguyện với lòng vui mừng, 5 vì anh chị em đã dự phần với tôi trong nỗ lực truyền bá Tin Mừng từ ngày đầu tiên cho đến bây giờ.  6 Tôi có niềm tin quả quyết nầy, đó là Ðấng đã bắt đầu làm những việc tốt đẹp trong anh chị em sẽ tiếp tục công việc của Ngài cho đến khi hoàn tất trong ngày của Ðức Chúa Jesus Christ.  7 Tôi nghĩ về tất cả anh chị em như vậy cũng đúng thôi, bởi vì anh chị em luôn ở trong lòng tôi.  Dù khi tôi mang xiềng xích hay khi tôi biện hộ và chứng thực chân lý của Tin Mừng, tất cả anh chị em đều dự phần vào ân sủng với tôi.  8 Vì Ðức Chúa Trời có thể làm chứng cho tôi rằng tôi thương nhớ anh chị em bằng tình yêu của Ðức Chúa Jesus Christ biết bao.
+                3 Mỗi khi nhớ đến anh chị em, tôi cảm tạ Ðức Chúa Trời của tôi.  4 Mỗi khi cầu nguyện cho tất cả anh chị em, tôi luôn luôn cầu nguyện với lòng vui mừng, 5 vì anh chị em đã dự phần với tôi trong nỗ lực truyền bá Tin Mừng từ ngày đầu tiên cho đến bây giờ.  6 Tôi có niềm tin quả quyết này, đó là Ðấng đã bắt đầu làm những việc tốt đẹp trong anh chị em sẽ tiếp tục công việc của Ngài cho đến khi hoàn tất trong ngày của Ðức Chúa Jesus Christ.  7 Tôi nghĩ về tất cả anh chị em như vậy cũng đúng thôi, bởi vì anh chị em luôn ở trong lòng tôi.  Dù khi tôi mang xiềng xích hay khi tôi biện hộ và chứng thực chân lý của Tin Mừng, tất cả anh chị em đều dự phần vào ân sủng với tôi.  8 Vì Ðức Chúa Trời có thể làm chứng cho tôi rằng tôi thương nhớ anh chị em bằng tình yêu của Ðức Chúa Jesus Christ biết bao.
                 9 Ðiều tôi cầu nguyện là tình yêu của anh chị em mỗi ngày một gia tăng, để anh chị em có kiến thức sâu sắc và nhận xét chính xác, 10 giúp anh chị em có thể xác định điều nào là tốt nhất, hầu trong ngày của Ðấng Christ anh chị em được trong sạch và vẹn toàn, 11 đầy những trái của đức công chính đến từ Ðức Chúa Jesus Christ, đem vinh hiển và ca ngợi về Ðức Chúa Trời.
 
                 """],
             ["Ðạo Chúa Phát Triển giữa Nghịch Cảnh": """
                 12 Thưa anh chị em, tôi muốn anh chị em biết rằng những gì xảy ra cho tôi đã giúp cho Tin Mừng thêm phát triển, 13 đến nỗi cả quân đoàn bảo vệ hoàng cung và mọi người khác đều biết rằng tôi vì Ðấng Christ mà mang xiềng xích, 14 và khi biết tôi bị xiềng xích, nhiều anh chị em tin Chúa càng mạnh mẽ hơn và càng dạn dĩ rao giảng lời Đức Chúa Trời hơn, chẳng sợ hãi gì.
                 15 Thật ra một số người rao giảng Ðấng Christ vì ganh tị và cạnh tranh, nhưng một số khác rao giảng vì ý tốt.  16 Những người rao giảng vì ý tốt làm thế vì tình yêu, biết rằng tôi được bổ nhiệm để binh vực Tin Mừng; 17 còn những người rao giảng Ðấng Christ vì tham vọng cá nhân thay vì động cơ trong sạch, thiết tưởng chỉ tạo thêm khổ cho tôi trong khi mang xiềng xích thôi.  18 Nhưng rồi sao?  Ðàng nào cũng được, dù giả vờ hay thành thật, Ðấng Christ vẫn được rao giảng; và như thế là tôi vui rồi, phải, và tôi sẽ tiếp tục vui, 19 vì tôi biết rằng nhờ lời cầu nguyện của anh chị em và nhờ sự giúp đỡ của Ðức Thánh Linh của Ðức Chúa Jesus Christ, tôi sẽ sớm được giải thoát.
-                20 Tôi thiết tha mong đợi và hy vọng rằng tôi sẽ không bị hổ thẹn vì bất cứ lý do gì, nhưng bây giờ hay lúc nào cũng thế, tôi nói cách dạn dĩ, để dù sống hay chết, Ðấng Christ vẫn được tôn cao trong thân xác tôi.  21 Vì đối với tôi, sống là Ðấng Christ, và chết là lợi.  22 Nhưng nếu tôi được tiếp tục sống trong thân xác, có nghĩa là tôi sẽ làm việc sao cho có kết quả, tôi thật không biết phải chọn điều nào.  23 Tôi đang bị giằng co giữa hai điều: một đàng, tôi muốn được ra đi để ở với Ðấng Christ, đó là điều tốt hơn cho tôi; 24 một đàng khác, tôi được tiếp tục ở lại trong thân xác nầy, đó là điều cần hơn cho anh chị em.  25 Vì có niềm tin quả quyết về điều thứ hai nầy, tôi biết rằng tôi sẽ còn ở lại và sẽ tiếp tục sống với tất cả anh chị em để giúp anh chị em tăng trưởng và vui vẻ trong đức tin.  26 Như thế, khi tôi trở lại thăm anh chị em, thì vì cớ tôi, anh chị em có thể hãnh diện nhiều hơn trong Ðức Chúa Jesus Christ.
+                20 Tôi thiết tha mong đợi và hy vọng rằng tôi sẽ không bị hổ thẹn vì bất cứ lý do gì, nhưng bây giờ hay lúc nào cũng thế, tôi nói cách dạn dĩ, để dù sống hay chết, Ðấng Christ vẫn được tôn cao trong thân xác tôi.  21 Vì đối với tôi, sống là Ðấng Christ, và chết là lợi.  22 Nhưng nếu tôi được tiếp tục sống trong thân xác, có nghĩa là tôi sẽ làm việc sao cho có kết quả, tôi thật không biết phải chọn điều nào.  23 Tôi đang bị giằng co giữa hai điều: một đàng, tôi muốn được ra đi để ở với Ðấng Christ, đó là điều tốt hơn cho tôi; 24 một đàng khác, tôi được tiếp tục ở lại trong thân xác này, đó là điều cần hơn cho anh chị em.  25 Vì có niềm tin quả quyết về điều thứ hai này, tôi biết rằng tôi sẽ còn ở lại và sẽ tiếp tục sống với tất cả anh chị em để giúp anh chị em tăng trưởng và vui vẻ trong đức tin.  26 Như thế, khi tôi trở lại thăm anh chị em, thì vì cớ tôi, anh chị em có thể hãnh diện nhiều hơn trong Ðức Chúa Jesus Christ.
 
                 """],
             ["Chiến Ðấu cho Ðức Tin": """
@@ -52,8 +52,8 @@ class Philip: Book {
 
                 """],
             ["Rạng Rỡ Như Vì Sao": """
-                12 Vậy thưa anh chị em yêu dấu, như anh chị em vẫn luôn vâng lời tôi, không phải chỉ khi tôi có mặt, nhưng càng vâng lời hơn, nhất là lúc nầy, khi tôi vắng mặt, hãy thực hiện ơn cứu rỗi của mình với lòng sợ sệt và run rẩy, 13 vì Ðức Chúa Trời là Ðấng đang hành động trong anh chị em, anh chị em có thể vừa muốn vừa làm theo ý tốt Ngài.
-                14 Hãy làm mọi việc không với thái độ lằm bằm và cãi vã, 15 để anh chị em được trọn vẹn và tinh ròng, xứng đáng làm con cái Ðức Chúa Trời, không chút hoen ố giữa thế hệ lươn lẹo và đồi trụy nầy; giữa thế hệ đó anh chị em tỏa sáng như những vì sao trong không gian, 16 nắm chặt lời sự sống, để tôi có thể hãnh diện trong ngày của Ðấng Christ rằng tôi đã không chạy vô ích và không làm việc vất vả luống công.
+                12 Vậy thưa anh chị em yêu dấu, như anh chị em vẫn luôn vâng lời tôi, không phải chỉ khi tôi có mặt, nhưng càng vâng lời hơn, nhất là lúc này, khi tôi vắng mặt, hãy thực hiện ơn cứu rỗi của mình với lòng sợ sệt và run rẩy, 13 vì Ðức Chúa Trời là Ðấng đang hành động trong anh chị em, anh chị em có thể vừa muốn vừa làm theo ý tốt Ngài.
+                14 Hãy làm mọi việc không với thái độ lằm bằm và cãi vã, 15 để anh chị em được trọn vẹn và tinh ròng, xứng đáng làm con cái Ðức Chúa Trời, không chút hoen ố giữa thế hệ lươn lẹo và đồi trụy này; giữa thế hệ đó anh chị em tỏa sáng như những vì sao trong không gian, 16 nắm chặt lời sự sống, để tôi có thể hãnh diện trong ngày của Ðấng Christ rằng tôi đã không chạy vô ích và không làm việc vất vả luống công.
                 17 Ví dù tôi phải đổ mạng sống mình ra như một của lễ quán để rưới trên con vật hiến tế và sự phục vụ phát xuất từ đức tin của anh chị em, tôi cũng vui lòng, và chung vui với tất cả anh chị em.  18 Xin anh chị em cũng vậy, hãy vui mừng và chung vui với tôi.
 
                 """],
@@ -66,7 +66,7 @@ class Philip: Book {
         Chapter(3, passages: [
             ["Cẩn Thận về Các Giáo Sư Giả": """
                 1 Cuối cùng thưa anh chị em của tôi, hãy vui mừng trong Chúa.
-                Tôi không ngại viết lại những điều nầy cho anh chị em, nhưng đây là vấn đề an toàn cho anh chị em.  2 Hãy coi chừng bọn chó, hãy coi chừng những kẻ làm công gian tà, hãy coi chừng những kẻ được cắt bì giả, 3 vì chúng ta là những người được cắt bì thật, những người thờ phượng trong Ðức Thánh Linh của Ðức Chúa Trời, tìm vinh hiển trong Ðức Chúa Jesus Christ, và không đặt lòng tin cậy vào xác thịt, 4 mặc dù chính tôi, tôi có đủ điều kiện để có thể cậy vào xác thịt.
+                Tôi không ngại viết lại những điều này cho anh chị em, nhưng đây là vấn đề an toàn cho anh chị em.  2 Hãy coi chừng bọn chó, hãy coi chừng những kẻ làm công gian tà, hãy coi chừng những kẻ được cắt bì giả, 3 vì chúng ta là những người được cắt bì thật, những người thờ phượng trong Ðức Thánh Linh của Ðức Chúa Trời, tìm vinh hiển trong Ðức Chúa Jesus Christ, và không đặt lòng tin cậy vào xác thịt, 4 mặc dù chính tôi, tôi có đủ điều kiện để có thể cậy vào xác thịt.
 
                 """],
             ["Khuyên Ðừng Cậy vào Xác Thịt": """

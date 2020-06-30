@@ -1,4 +1,4 @@
-﻿
+
 class IPhiro: Book {
     
     override init() {
@@ -37,7 +37,7 @@ class IPhiro: Book {
             ["Ðá Sống": """
                 1 Vậy hãy loại bỏ khỏi anh chị em mọi điều hiểm ác, mọi thứ lọc lừa, đạo đức giả, ganh tị, và mọi lời vu khống.  2 Như những trẻ sơ sinh, hãy khao khát sữa tinh khiết của Lời Chúa, để nhờ đó anh chị em được trưởng thành trong ơn cứu rỗi, 3 nếu anh chị em đã nếm biết Chúa tuyệt vời như thế nào.
                 4 Hãy đến gần Ngài là vầng đá sống, bị người ta loại ra, nhưng được Ðức Chúa Trời chọn và cho là quý báu.  5 Anh chị em cũng vậy, hãy như những tảng đá sống được xây dựng trên nhau thành một đền thờ thiêng liêng, để thi hành chức vụ tư tế thánh, hầu dâng các lễ vật thuộc linh được chấp nhận lên Ðức Chúa Trời qua Ðức Chúa Jesus Christ, 6 vì Kinh Thánh đã chép,
-                “Nầy ta đặt tại Si-ôn một tảng đá,
+                “Này ta đặt tại Si-ôn một tảng đá,
                 Một tảng đá góc được chọn và quý báu;
                 Hễ ai tin Ngài sẽ không bị hổ thẹn.”
                 7 Vậy đối với anh chị em, những người có lòng tin, thì Ngài thật quý báu, nhưng đối với những người không tin thì

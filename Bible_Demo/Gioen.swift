@@ -14,9 +14,9 @@ class Gioen: Book {
                 1 Lời của CHÚA phán với Giô-ên con trai Pê-thu-ên:
                 """],
             ["Tai Họa Ðến trên Ðất Nước": """
-                2 Hỡi các trưởng lão, hãy lắng nghe những điều nầy,
+                2 Hỡi các trưởng lão, hãy lắng nghe những điều này,
                 Hỡi tất cả dân cư trong xứ, hãy lắng tai nghe.
-                Có bao giờ việc như thế nầy đã xảy ra trong thời của các ngươi,
+                Có bao giờ việc như thế này đã xảy ra trong thời của các ngươi,
                 Hoặc trong thời của tổ tiên các ngươi chăng?
                 3 Hãy kể lại cho con cái các ngươi để chúng biết,
                 Hầu con cái các ngươi sẽ kể lại cho con cái của chúng,
@@ -137,7 +137,7 @@ class Gioen: Book {
 
                 """],
             ["Lời Kêu Gọi Ăn Năn": """
-                12 CHÚA phán, “Mặc dù đã đến lúc nầy, các ngươi vẫn còn cơ hội;
+                12 CHÚA phán, “Mặc dù đã đến lúc này, các ngươi vẫn còn cơ hội;
                 Hãy hết lòng trở lại với Ta,
                 Hãy kiêng ăn, khóc lóc, và thở than.”
                 
@@ -170,7 +170,7 @@ class Gioen: Book {
                 18 Bấy giờ CHÚA sẽ nổi ghen vì đất Ngài,
                 Ngài dủ lòng thương xót đối với dân Ngài.
                 19 Ðể trả lời cho dân Ngài, CHÚA phán,
-                “Nầy, Ta đang gởi đến các ngươi lúa gạo, rượu mới, và dầu;
+                “Này, Ta đang gởi đến các ngươi lúa gạo, rượu mới, và dầu;
                 Các ngươi sẽ được no thỏa;
                 Ta sẽ không để các ngươi làm cớ cười chê cho các dân ngoại nữa.
                 20 Ta sẽ khiến đoàn quân phương bắc đi xa khỏi các ngươi;
@@ -228,7 +228,7 @@ class Gioen: Book {
             ]),
         Chapter(3, passages: [
             ["Các Dân Bị Phán Xét": """
-                1 “Nầy, trong những ngày đó và vào lúc ấy,
+                1 “Này, trong những ngày đó và vào lúc ấy,
                 Ta sẽ phục hồi số phận của Giu-đa và Giê-ru-sa-lem.
                 2 Ta sẽ nhóm họp mọi dân và đem chúng đến Thung Lũng Phán Xét,
                 Ta sẽ phán xét chúng tại đó về tội đối với dân Ta và cơ nghiệp Ta,
@@ -246,7 +246,7 @@ class Gioen: Book {
                 Các ngươi đã lấy những bửu vật quý báu của Ta đem vào các đền thờ của các ngươi.
                 6 Các ngươi đã bán dân Giu-đa và dân Giê-ru-sa-lem cho dân Hy-lạp,
                 Các ngươi đã đem dân Ta đi xa khỏi biên giới của chúng.
-                7 Nầy, Ta sẽ làm cho chúng trỗi dậy từ những nơi các ngươi đã bán chúng;
+                7 Này, Ta sẽ làm cho chúng trỗi dậy từ những nơi các ngươi đã bán chúng;
                 Ta sẽ báo trả trên đầu các ngươi những việc các ngươi đã làm;
                 8 Ta sẽ bán các con trai và các con gái các ngươi vào tay dân Giu-đa,
                 Rồi chúng sẽ bán lại những đứa đó cho dân Sa-biên, một dân ở rất xa,”
@@ -254,7 +254,7 @@ class Gioen: Book {
 
                 """],
             ["Cuộc Ðoán Xét tại Thung Lũng Phán Xét": """
-                9 “Hãy rao báo điều nầy giữa các dân:
+                9 “Hãy rao báo điều này giữa các dân:
                 Hãy cử hành lễ xuất quân;
                 Hãy động viên tinh thần binh sĩ;
                 Hãy đem toàn quân đến gần,

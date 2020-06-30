@@ -1,4 +1,4 @@
-﻿
+
 class KhaiHuyen: Book {
     
     override init() {
@@ -12,7 +12,7 @@ class KhaiHuyen: Book {
         Chapter(1, passages: [
             ["Lời Tựa": """
                 1 Mặc khải của Ðức Chúa Jesus Christ, mà Ðức Chúa Trời đã ban cho Ngài, để tỏ ra cho các đầy tớ Ngài biết những điều sắp xảy đến.  Ngài đã sai thiên sứ Ngài đến tỏ cho Giăng đầy tớ Ngài biết điều đó.  2 Giăng đã làm chứng về lời Ðức Chúa Trời và về lời chứng của Ðức Chúa Jesus Christ, tức những gì ông đã thấy.
-                3 Phước cho người đọc và những người nghe những lời tiên tri nầy, và vâng giữ những điều đã chép trong đó, vì thì giờ đã gần rồi.
+                3 Phước cho người đọc và những người nghe những lời tiên tri này, và vâng giữ những điều đã chép trong đó, vì thì giờ đã gần rồi.
 
                 """],
             ["Lời Chào Bảy Hội Thánh": """
@@ -29,7 +29,7 @@ class KhaiHuyen: Book {
                 9 Tôi, Giăng, anh em và bạn cùng chia sẻ hoạn nạn, cùng hưởng vương quốc, và cùng kiên trì chịu khổ với anh chị em trong Ðức Chúa Jesus, đang ở trên một đảo tên là Pát-mô, vì cớ Ðạo của Ðức Chúa Trời và vì lời chứng về Ðức Chúa Jesus.
                 10 Vào ngày của Chúa, tôi được ở trong Ðức Thánh Linh, và tôi nghe đằng sau tôi một tiếng lớn như tiếng kèn, 11 bảo rằng, “Hãy viết những gì ngươi thấy vào một cuốn sách, rồi gởi cho bảy hội thánh tại Ê-phê-sô, Si-miệc-na, Pẹc-ga-mum, Thy-a-ti-ra, Sạt-đe, Phi-la-đen-phia, và Lao-đi-xê.”
                 12 Tôi quay lại để xem tiếng của ai đã nói với tôi; vừa quay lại, tôi thấy bảy cây đèn bằng vàng, 13 ở giữa các cây đèn ấy có ai trông giống như Con Người, mình mặc áo choàng dài tới chân, ngang ngực có thắt đai bằng vàng.  14 Ðầu và tóc Ngài trắng như lông chiên trắng, như tuyết, mắt Ngài như ngọn lửa hừng, 15 chân Ngài như đồng đánh bóng đã được luyện trong lò lửa, tiếng Ngài như tiếng của nhiều dòng nước.  16 Ngài cầm bảy ngôi sao trong tay phải; từ miệng Ngài thoát ra một thanh gươm hai lưỡi sắc bén, và mặt Ngài như mặt trời lúc đang nắng chói.
-                17 Khi thấy Ngài, tôi ngã quỵ nơi chân Ngài như người chết.  Bấy giờ Ngài đặt tay phải Ngài trên tôi và nói, “Ðừng sợ.  Ta là Ðấng Ðầu Tiên và Ðấng Cuối Cùng.  18 Ta là Ðấng Sống.  Ta đã chết, kìa, nay Ta sống đời đời vô cùng.  Ta cầm trong tay chìa khóa của Tử Thần và Âm Phủ.  19 Vậy hãy ghi lại những gì ngươi đã thấy, những gì đang xảy ra, và những gì sẽ xảy ra sau nầy.  20 Ðây là huyền nhiệm của bảy ngôi sao ngươi thấy trong tay phải Ta và của bảy cây đèn bằng vàng: bảy ngôi sao là bảy thiên sứ của bảy hội thánh, còn bảy cây đèn là bảy hội thánh.”
+                17 Khi thấy Ngài, tôi ngã quỵ nơi chân Ngài như người chết.  Bấy giờ Ngài đặt tay phải Ngài trên tôi và nói, “Ðừng sợ.  Ta là Ðấng Ðầu Tiên và Ðấng Cuối Cùng.  18 Ta là Ðấng Sống.  Ta đã chết, kìa, nay Ta sống đời đời vô cùng.  Ta cầm trong tay chìa khóa của Tử Thần và Âm Phủ.  19 Vậy hãy ghi lại những gì ngươi đã thấy, những gì đang xảy ra, và những gì sẽ xảy ra sau này.  20 Ðây là huyền nhiệm của bảy ngôi sao ngươi thấy trong tay phải Ta và của bảy cây đèn bằng vàng: bảy ngôi sao là bảy thiên sứ của bảy hội thánh, còn bảy cây đèn là bảy hội thánh.”
 
                 """]
             ]),
@@ -40,29 +40,29 @@ class KhaiHuyen: Book {
             Sứ Ðiệp cho Hội Thánh Ê-phê-sô
             """: """
                 1 “Hãy viết cho thiên sứ của Hội Thánh Ê-phê-sô:
-                Ðấng cầm trong tay phải bảy ngôi sao, Ðấng đi giữa bảy cây đèn bằng vàng, phán thế nầy:
-                2 ‘Ta biết các công việc của ngươi, sự khó nhọc của ngươi, và sự chịu đựng của ngươi.  Ta biết ngươi không thể dung túng những kẻ gian tà; ngươi đã thử những kẻ tự xưng là sứ đồ, mà kỳ thật không phải là sứ đồ, và ngươi đã nhận ra chúng là những kẻ lừa dối.  3 Ngươi đã kiên trì chịu đựng và chịu khổ vì danh Ta, và không nản lòng thối chí.  4 Nhưng Ta có điều nầy trách ngươi, ấy là ngươi đã bỏ tình yêu ban đầu.  5 Vậy hãy nhớ lại, xem ngươi đã sa ngã từ đâu, hãy ăn năn, và làm lại những việc ngươi đã làm lúc ban đầu.  Nếu không, Ta sẽ đến với ngươi và cất cây đèn của ngươi khỏi chỗ của nó, trừ phi ngươi ăn năn.  6 Nhưng ngươi có được điều nầy, đó là ngươi ghét những việc của những kẻ theo Ni-cô-la, là những kẻ Ta cũng ghét.’
+                Ðấng cầm trong tay phải bảy ngôi sao, Ðấng đi giữa bảy cây đèn bằng vàng, phán thế này:
+                2 ‘Ta biết các công việc của ngươi, sự khó nhọc của ngươi, và sự chịu đựng của ngươi.  Ta biết ngươi không thể dung túng những kẻ gian tà; ngươi đã thử những kẻ tự xưng là sứ đồ, mà kỳ thật không phải là sứ đồ, và ngươi đã nhận ra chúng là những kẻ lừa dối.  3 Ngươi đã kiên trì chịu đựng và chịu khổ vì danh Ta, và không nản lòng thối chí.  4 Nhưng Ta có điều này trách ngươi, ấy là ngươi đã bỏ tình yêu ban đầu.  5 Vậy hãy nhớ lại, xem ngươi đã sa ngã từ đâu, hãy ăn năn, và làm lại những việc ngươi đã làm lúc ban đầu.  Nếu không, Ta sẽ đến với ngươi và cất cây đèn của ngươi khỏi chỗ của nó, trừ phi ngươi ăn năn.  6 Nhưng ngươi có được điều này, đó là ngươi ghét những việc của những kẻ theo Ni-cô-la, là những kẻ Ta cũng ghét.’
                 7 Ai có tai hãy nghe những gì Ðức Thánh Linh phán với các hội thánh.  Người nào thắng, Ta sẽ cho ăn trái của cây sự sống trong vườn vĩnh phước của Ðức Chúa Trời.”
 
                 """],
             ["Sứ Ðiệp cho Hội Thánh Si-miệc-na": """
                 8 “Hãy viết cho thiên sứ của Hội Thánh Si-miệc-na:
-                Ðấng Ðầu Tiên và Ðấng Cuối Cùng, Ðấng đã chết và đã sống lại, phán thế nầy:
+                Ðấng Ðầu Tiên và Ðấng Cuối Cùng, Ðấng đã chết và đã sống lại, phán thế này:
                 9 ‘Ta biết cơn hoạn nạn và cảnh nghèo khó của ngươi, mặc dù ngươi giàu có.  Ta cũng biết lời vu khống của những kẻ tự xưng là người Do-thái, mà kỳ thật không phải, nhưng chúng là những kẻ thuộc về hội đường của Sa-tan.  10 Ðừng sợ mọi gian khổ các ngươi sắp chịu.  Kìa, Ác Quỷ sắp quăng một vài người trong các ngươi vào tù để thử các ngươi, và các ngươi sẽ chịu hoạn nạn trong mười ngày.  Hãy trung tín cho đến chết, rồi Ta sẽ ban cho ngươi mão miện đắc thắng của sự sống.’
                 11 Ai có tai hãy nghe những gì Ðức Thánh Linh phán với các hội thánh.  Người nào thắng sẽ không bị sự chết thứ hai làm hại.”
 
                 """],
             ["Sứ Ðiệp cho Hội Thánh Pẹc-ga-mum": """
                 12 “Hãy viết cho thiên sứ của Hội Thánh Pẹc-ga-mum:
-                Ðấng có thanh gươm hai lưỡi sắc bén phán thế nầy:
+                Ðấng có thanh gươm hai lưỡi sắc bén phán thế này:
                 13 ‘Ta biết nơi các ngươi ở, nơi Sa-tan đặt ngai của nó.  Thế nhưng các ngươi vẫn giữ vững danh Ta và không chối bỏ đức tin nơi Ta, ngay cả trong ngày An-ti-pa, nhân chứng trung thành của Ta bị giết giữa vòng các ngươi, nơi Sa-tan ở.  14 Nhưng có vài điều Ta trách ngươi, ấy là một số người ở đó còn giữ sự dạy dỗ của Ba-la-am, kẻ đã bày cho Ba-lác đặt cớ vấp ngã trước mặt các con cái I-sơ-ra-ên, dụ dỗ họ ăn của cúng thần tượng và phạm tội gian dâm.  15 Tương tự, ngươi cũng có những người giữ theo sự dạy dỗ của những kẻ theo Ni-cô-la.  16 Vậy hãy ăn năn; nếu không, Ta sẽ đến với ngươi nhanh chóng và sẽ dùng thanh gươm nơi miệng Ta giao chiến với chúng.’
                 17 Ai có tai hãy nghe những gì Ðức Thánh Linh phán với các hội thánh.  Người nào thắng Ta sẽ cho người ấy ma-na được giấu kín, và Ta sẽ cho người ấy một viên sỏi trắng, trên viên sỏi đó có ghi một tên mới, mà ngoài người nhận ra, không ai biết.”
 
                 """],
             ["Sứ Ðiệp cho Hội Thánh Thy-a-ti-ra": """
                 18 “Hãy viết cho thiên sứ của Hội Thánh Thy-a-ti-ra:
-                Con Ðức Chúa Trời, Ðấng có mắt như ngọn lửa và chân như đồng đánh bóng, phán thế nầy:
-                19 ‘Ta biết các công việc của ngươi, tình yêu, đức tin, sự phục vụ, và lòng kiên trì chịu đựng của ngươi, và cũng biết những việc sau nầy của ngươi lớn lao hơn những việc lúc ban đầu.  20 Nhưng điều Ta trách ngươi là ngươi dung túng Giê-xê-bên, người đàn bà tự xưng là nữ tiên tri.  Nó dạy dỗ và lừa gạt các tôi tớ Ta phạm tội gian dâm và ăn của cúng các thần tượng.  21 Ta đã cho nó thì giờ để ăn năn, nhưng nó không muốn ăn năn từ bỏ tội gian dâm của nó.  22 Nầy Ta sẽ quăng nó lên giường bịnh và khiến những kẻ ngoại tình với nó gặp hoạn nạn lớn, trừ phi chúng ăn năn những tội lỗi với nó.  23 Ta sẽ giết chết các con cái nó, và tất cả các hội thánh sẽ biết rằng Ta là Ðấng dò xét tâm trí và lòng dạ loài người.  Ta sẽ thưởng phạt mỗi người trong các ngươi tùy theo những việc các ngươi làm.  24 Nhưng ta nói với ngươi, đối với những người còn lại của các ngươi tại Thy-a-ti-ra, những người không nghe theo sự dạy dỗ của người đàn bà ấy, những người không biết những thâm hiểm của Sa-tan, như  người ta nói, thì Ta sẽ không đặt trên các ngươi gánh nặng nào khác.  25 Tuy nhiên hãy giữ vững những gì các ngươi có cho đến khi Ta đến.  26 Người nào thắng và trung tín giữ những công việc của Ta cho đến cuối cùng, Ta sẽ cho người ấy quyền cai trị các dân; 27 người ấy sẽ chăn dắt họ bằng cây gậy sắt và đập tan họ như đập vỡ những đồ gốm, 28 như Ta đã nhận quyền ấy từ Cha Ta.  Ta cũng sẽ ban cho người ấy sao mai.’
+                Con Ðức Chúa Trời, Ðấng có mắt như ngọn lửa và chân như đồng đánh bóng, phán thế này:
+                19 ‘Ta biết các công việc của ngươi, tình yêu, đức tin, sự phục vụ, và lòng kiên trì chịu đựng của ngươi, và cũng biết những việc sau này của ngươi lớn lao hơn những việc lúc ban đầu.  20 Nhưng điều Ta trách ngươi là ngươi dung túng Giê-xê-bên, người đàn bà tự xưng là nữ tiên tri.  Nó dạy dỗ và lừa gạt các tôi tớ Ta phạm tội gian dâm và ăn của cúng các thần tượng.  21 Ta đã cho nó thì giờ để ăn năn, nhưng nó không muốn ăn năn từ bỏ tội gian dâm của nó.  22 Này Ta sẽ quăng nó lên giường bịnh và khiến những kẻ ngoại tình với nó gặp hoạn nạn lớn, trừ phi chúng ăn năn những tội lỗi với nó.  23 Ta sẽ giết chết các con cái nó, và tất cả các hội thánh sẽ biết rằng Ta là Ðấng dò xét tâm trí và lòng dạ loài người.  Ta sẽ thưởng phạt mỗi người trong các ngươi tùy theo những việc các ngươi làm.  24 Nhưng ta nói với ngươi, đối với những người còn lại của các ngươi tại Thy-a-ti-ra, những người không nghe theo sự dạy dỗ của người đàn bà ấy, những người không biết những thâm hiểm của Sa-tan, như  người ta nói, thì Ta sẽ không đặt trên các ngươi gánh nặng nào khác.  25 Tuy nhiên hãy giữ vững những gì các ngươi có cho đến khi Ta đến.  26 Người nào thắng và trung tín giữ những công việc của Ta cho đến cuối cùng, Ta sẽ cho người ấy quyền cai trị các dân; 27 người ấy sẽ chăn dắt họ bằng cây gậy sắt và đập tan họ như đập vỡ những đồ gốm, 28 như Ta đã nhận quyền ấy từ Cha Ta.  Ta cũng sẽ ban cho người ấy sao mai.’
                 29 Ai có tai hãy nghe những gì Ðức Thánh Linh phán với các hội thánh.”
 
                 """]
@@ -70,23 +70,23 @@ class KhaiHuyen: Book {
         Chapter(3, passages: [
             ["Sứ Ðiệp cho Hội Thánh Sạt-đe": """
                 1 “Hãy viết cho thiên sứ của Hội Thánh Sạt-đe:
-                Ðấng có bảy vị Thần của Ðức Chúa Trời và có bảy ngôi sao phán thế nầy:
+                Ðấng có bảy vị Thần của Ðức Chúa Trời và có bảy ngôi sao phán thế này:
                 ‘Ta biết các công việc của ngươi.  Ngươi có tiếng là sống mà là chết.  2 Hãy tỉnh thức và hãy củng cố những gì sắp chết còn sót lại, vì Ta chưa thấy các công việc của ngươi được hoàn hảo trước mặt Ðức Chúa Trời của Ta.  3 Vậy hãy nhớ lại những gì ngươi đã tiếp nhận và nghe, hãy giữ lấy và ăn năn.  Vì nếu ngươi không tỉnh thức, Ta sẽ đến như kẻ trộm, và ngươi sẽ không biết giờ nào Ta đến với ngươi.  4 Dầu vậy ở Sạt-đe ngươi có vài người không làm bẩn y phục mình.  Họ sẽ mặc y phục trắng và đi với Ta, vì họ thật xứng đáng.  5 Người nào thắng sẽ được mặc y phục trắng như thế.  Ta sẽ không xóa tên người ấy khỏi sách sự sống.  Ta sẽ xưng tên người ấy trước mặt Cha Ta và trước mặt các thiên sứ của Ngài.’
                 6 Ai có tai hãy nghe những gì Ðức Thánh Linh phán với các hội thánh.”
 
                 """],
             ["Sứ Ðiệp cho Hội Thánh Phi-la-đen-phia": """
                 7 “Hãy viết cho thiên sứ của Hội Thánh Phi-la-đen-phia:
-                Ðấng Thánh, Ðấng Chân Thật, Ðấng có chìa khóa của Ða-vít, Ðấng mở thì không ai đóng được, và Ðấng đóng thì không ai mở được, phán thế nầy:
-                8 ‘Ta biết các công việc của ngươi.  Nầy, Ta đã để trước mặt ngươi một cửa đang mở, và không ai có thể đóng, vì ngươi có ít sức lực, nhưng vẫn giữ Ðạo Ta, và không chối bỏ danh Ta.  9 Nầy, Ta ban cho ngươi những kẻ thuộc hội đường của Sa-tan, tức những kẻ xưng mình là người Do-thái mà kỳ thật không phải, vì chúng nói dối.  Nầy, Ta sẽ làm cho chúng đến và phủ phục nơi chân ngươi, để chúng biết rằng Ta yêu ngươi.  10 Bởi vì ngươi đã vâng giữ lời Ta mà kiên trì chịu đựng, Ta cũng sẽ gìn giữ ngươi khỏi giờ thử thách, là giờ sắp đến trên toàn thế giới, để thử thách dân cư trên đất.  11 Ta sẽ đến mau chóng; hãy giữ chặt những gì ngươi có, để không ai lấy đi mão miện đắc thắng của ngươi.
+                Ðấng Thánh, Ðấng Chân Thật, Ðấng có chìa khóa của Ða-vít, Ðấng mở thì không ai đóng được, và Ðấng đóng thì không ai mở được, phán thế này:
+                8 ‘Ta biết các công việc của ngươi.  Này, Ta đã để trước mặt ngươi một cửa đang mở, và không ai có thể đóng, vì ngươi có ít sức lực, nhưng vẫn giữ Ðạo Ta, và không chối bỏ danh Ta.  9 Này, Ta ban cho ngươi những kẻ thuộc hội đường của Sa-tan, tức những kẻ xưng mình là người Do-thái mà kỳ thật không phải, vì chúng nói dối.  Này, Ta sẽ làm cho chúng đến và phủ phục nơi chân ngươi, để chúng biết rằng Ta yêu ngươi.  10 Bởi vì ngươi đã vâng giữ lời Ta mà kiên trì chịu đựng, Ta cũng sẽ gìn giữ ngươi khỏi giờ thử thách, là giờ sắp đến trên toàn thế giới, để thử thách dân cư trên đất.  11 Ta sẽ đến mau chóng; hãy giữ chặt những gì ngươi có, để không ai lấy đi mão miện đắc thắng của ngươi.
                 12 Người nào thắng, Ta sẽ làm cho người ấy thành trụ cột trong đền thờ Ðức Chúa Trời của Ta, và người ấy sẽ không ra khỏi nơi đó nữa.  Ta sẽ ghi trên người ấy danh Ðức Chúa Trời của Ta và tên thành Ðức Chúa Trời của Ta, tức Thành Giê-ru-sa-lem mới, từ trời xuống, tức từ Ðức Chúa Trời của Ta và Ta cũng sẽ ghi trên người ấy danh mới của Ta.’
                 13 Ai có tai hãy nghe những gì Ðức Thánh Linh phán với các hội thánh.”
 
                 """],
             ["Sứ Ðiệp cho Hội Thánh Lao-đi-xê": """
                 14 “Hãy viết cho thiên sứ của Hội Thánh Lao-đi-xê:
-                Ðấng A-men, Nhân Chứng trung tín và chân thật, Uyên Nguyên của mọi loài thọ tạo của Ðức Chúa Trời, phán thế nầy:
-                15 ‘Ta biết những công việc của ngươi.  Ngươi không lạnh mà cũng không nóng.  Thà ngươi lạnh hẳn hoặc nóng hẳn đi.  16 Nhưng vì ngươi hâm hẩm, không nóng cũng không lạnh, nên Ta sẽ nhổ ngươi ra khỏi miệng Ta.  17 Bởi vì ngươi nói, “Ta giàu có rồi, ta có nhiều của cải, và ta chẳng cần gì nữa.”  Nhưng ngươi không biết rằng ngươi đang cùng khốn, đáng thương, nghèo khó, đui mù, và lõa lồ.  18 Ta khuyên ngươi hãy mua vàng đã thử lửa của Ta, để ngươi được giàu có; hãy mua y phục trắng mặc vào, để ngươi không xấu hổ vì bị phơi bày sự lõa lồ; hãy mua thuốc xức mắt thoa vào mắt ngươi, để ngươi có thể thấy.  19 Hễ ai Ta thương mến, Ta răn bảo và sửa dạy.  Vậy hãy sốt sắng và ăn năn.  20 Nầy, Ta đứng ngoài cửa mà gõ; nếu ai nghe tiếng Ta mà mở cửa ra, Ta sẽ vào cùng người ấy và ăn tối với người ấy, và người ấy ăn tối với Ta.
+                Ðấng A-men, Nhân Chứng trung tín và chân thật, Uyên Nguyên của mọi loài thọ tạo của Ðức Chúa Trời, phán thế này:
+                15 ‘Ta biết những công việc của ngươi.  Ngươi không lạnh mà cũng không nóng.  Thà ngươi lạnh hẳn hoặc nóng hẳn đi.  16 Nhưng vì ngươi hâm hẩm, không nóng cũng không lạnh, nên Ta sẽ nhổ ngươi ra khỏi miệng Ta.  17 Bởi vì ngươi nói, “Ta giàu có rồi, ta có nhiều của cải, và ta chẳng cần gì nữa.”  Nhưng ngươi không biết rằng ngươi đang cùng khốn, đáng thương, nghèo khó, đui mù, và lõa lồ.  18 Ta khuyên ngươi hãy mua vàng đã thử lửa của Ta, để ngươi được giàu có; hãy mua y phục trắng mặc vào, để ngươi không xấu hổ vì bị phơi bày sự lõa lồ; hãy mua thuốc xức mắt thoa vào mắt ngươi, để ngươi có thể thấy.  19 Hễ ai Ta thương mến, Ta răn bảo và sửa dạy.  Vậy hãy sốt sắng và ăn năn.  20 Này, Ta đứng ngoài cửa mà gõ; nếu ai nghe tiếng Ta mà mở cửa ra, Ta sẽ vào cùng người ấy và ăn tối với người ấy, và người ấy ăn tối với Ta.
                 21 Người nào thắng, Ta sẽ cho người ấy ngồi với Ta trên ngai của Ta, như Ta đã thắng và ngồi với Cha Ta trên ngai của Ngài.’
                 22 Ai có tai hãy nghe những gì Ðức Thánh Linh phán với các hội thánh.”
 
@@ -165,7 +165,7 @@ class KhaiHuyen: Book {
                 “A-men!
                 Nguyện sự chúc tụng, vinh hiển, khôn ngoan, tạ ơn, tôn kính, quyền năng, và sức mạnh thuộc về Ðức Chúa Trời chúng ta đời đời vô cùng.
                 A-men!”
-                13 Bấy giờ một vị trong các vị trưởng lão hỏi tôi, “Ngươi có biết những người mặc áo choàng trắng nầy là ai, và họ từ đâu đến không?”
+                13 Bấy giờ một vị trong các vị trưởng lão hỏi tôi, “Ngươi có biết những người mặc áo choàng trắng này là ai, và họ từ đâu đến không?”
                 14 Tôi trả lời với vị đó, “Thưa ngài, ngài biết.”
                 Vị đó nói với tôi, “Ðây là những người đã ra từ cơn đại nạn; họ đã giặt sạch y phục của họ và tẩy trắng chúng trong huyết của Chiên Con.  15 Do đó,
                 Họ được ở trước ngai của Ðức Chúa Trời;
@@ -206,7 +206,7 @@ class KhaiHuyen: Book {
                 """],
             ["Tiếng Kèn Thứ Sáu": """
                 13 Vị thiên sứ thứ sáu thổi kèn, tôi nghe có tiếng từ bốn sừng của bàn thờ bằng vàng trước mặt Ðức Chúa Trời 14 bảo vị thiên sứ thứ sáu đang có cây kèn rằng, “Hãy thả bốn thiên sứ đang bị trói ở sông lớn Ơ-phơ-rát ra.”  15 Vậy bốn thiên sứ ấy, vốn được chuẩn bị sẵn cho giờ, ngày, tháng, và năm, được thả ra để tiêu diệt một phần ba nhân loại.  16 Số của các kỵ binh là hai trăm triệu; tôi đã nghe được quân số đó của họ.
-                17 Các chiến mã và các kỵ binh tôi thấy trong khải tượng trông giống như thế nầy: Họ mặc áo giáp đỏ như lửa, xanh như nước biển, và vàng như lưu huỳnh; đầu các chiến mã giống như đầu sư tử, và miệng chúng phun ra lửa, khói, và lưu huỳnh.  18 Một phần ba nhân loại bị tiêu diệt bằng ba tai họa đó, tức bằng lửa, khói, và lưu huỳnh phun ra từ miệng chúng.  19 Sức mạnh của các chiến mã ấy ở trong miệng và đuôi chúng, vì đuôi chúng giống như rắn độc có đầu; và chúng dùng miệng và đuôi chúng để giết hại.
+                17 Các chiến mã và các kỵ binh tôi thấy trong khải tượng trông giống như thế này: Họ mặc áo giáp đỏ như lửa, xanh như nước biển, và vàng như lưu huỳnh; đầu các chiến mã giống như đầu sư tử, và miệng chúng phun ra lửa, khói, và lưu huỳnh.  18 Một phần ba nhân loại bị tiêu diệt bằng ba tai họa đó, tức bằng lửa, khói, và lưu huỳnh phun ra từ miệng chúng.  19 Sức mạnh của các chiến mã ấy ở trong miệng và đuôi chúng, vì đuôi chúng giống như rắn độc có đầu; và chúng dùng miệng và đuôi chúng để giết hại.
                 20 Tuy nhiên nhân loại còn lại, tức những người không bị giết bởi các tai họa ấy, vẫn không chịu ăn năn những việc tay họ làm.  Họ vẫn không từ bỏ sự thờ lạy các quỷ và các thần tượng làm bằng vàng, bạc, đồng, đá, và gỗ là những thứ không thể thấy, nghe, và đi.  21 Họ vẫn không ăn năn từ bỏ các tội sát nhân, tà thuật, gian dâm, và trộm cắp của họ.
 
                 """]
@@ -301,7 +301,7 @@ class KhaiHuyen: Book {
                 8 Kế đó một vị thiên sứ khác, vị thiên sứ thứ nhì, đến tiếp theo, và nói, “Ðã sụp đổ rồi!  Ba-by-lôn lớn đã sụp đổ rồi!  Nó là kẻ đã cho tất cả các nước uống rượu gian dâm cuồng loạn của nó.”
                 9 Kế đến một vị thiên sứ khác, vị thiên sứ thứ ba, theo sau hai vị kia, hô to, “Ai thờ phượng Con Thú và hình tượng nó, nhận lấy dấu của nó trên trán hay trên tay mình, 10 kẻ ấy phải uống rượu thịnh nộ của Ðức Chúa Trời, được rót vào chén thịnh nộ của Ngài với nguyên nồng độ.  Kẻ ấy sẽ bị lửa và lưu huỳnh hành hạ trước mặt các vị thiên sứ thánh và trước mặt Chiên Con.  11 Khói khổ hình của chúng sẽ bay lên đời đời vô cùng.  Những kẻ thờ phượng Con Thú và hình tượng nó, và bất cứ ai nhận lấy dấu của danh nó sẽ không được nghỉ ngơi cả ngày lẫn đêm.”
                 12 Ở đây chỉ về sự kiên trì chịu đựng của các thánh đồ, những người vâng giữ các điều răn của Ðức Chúa Trời và giữ vững đức tin nơi Ðức Chúa Jesus.
-                13 Tôi lại nghe một tiếng từ trời phán, “Hãy viết điều nầy: ‘Từ nay phước cho những người chết là chết trong Chúa.’”  Phải, Ðức Thánh Linh phán, “Họ được nghỉ ngơi khỏi công lao khó nhọc của họ, vì những công việc của họ đi theo họ.”
+                13 Tôi lại nghe một tiếng từ trời phán, “Hãy viết điều này: ‘Từ nay phước cho những người chết là chết trong Chúa.’”  Phải, Ðức Thánh Linh phán, “Họ được nghỉ ngơi khỏi công lao khó nhọc của họ, vì những công việc của họ đi theo họ.”
 
                 """],
             ["Mùa Gặt Cuối Cùng": """
@@ -346,7 +346,7 @@ class KhaiHuyen: Book {
                 10 Vị thiên sứ thứ năm đổ bát của mình trên ngai của Con Thú; cả vương quốc của nó trở nên tối tăm; người ta cắn lưỡi mình vì quá đau đớn, 11 và họ nguyền rủa Ðức Chúa Trời trên trời vì những đau đớn và những ung độc họ bị, nhưng họ vẫn không ăn năn hối cải về các việc họ làm.
                 12 Vị thiên sứ thứ sáu đổ bát của mình trên sông lớn Ơ-phơ-rát; nước sông ấy cạn khô để mở đường cho các vua từ phương đông đến.
                 13 Bấy giờ tôi thấy từ miệng Con Rồng, từ miệng Con Thú, và từ miệng tiên tri giả, xuất ra ba tà linh ô uế giống như ba con ếch.  14 Vì chúng là tà linh của các quỷ nên có thể làm các phép lạ.  Chúng đến với các vua trên toàn thế giới để kết hiệp họ lại với nhau, hầu đánh trận trong ngày lớn của Ðức Chúa Trời Toàn Năng.
-                15 “Nầy, Ta đến như kẻ trộm.  Phước cho kẻ thức canh trông đợi và gìn giữ y phục mình, để không bước đi lõa lồ và không bị người ta thấy sự xấu hổ của mình.”
+                15 “Này, Ta đến như kẻ trộm.  Phước cho kẻ thức canh trông đợi và gìn giữ y phục mình, để không bước đi lõa lồ và không bị người ta thấy sự xấu hổ của mình.”
                 16 Ba tà linh ấy quy tụ họ về một nơi mà tiếng Hê-bơ-rơ gọi là Hạc-ma-ghê-đôn.
                 17 Vị thiên sứ thứ bảy đổ bát của mình trên không trung, bấy giờ một tiếng lớn từ trên ngai trong đền thờ phán rằng, “Xong rồi!”  18 Tức thì sét chớp, âm vang, sấm nổ, và một trận động đất khủng khiếp xảy ra.  Trận động đất ấy mạnh và lớn đến nỗi từ khi có nhân loại trên mặt đất chưa bao giờ có trận động đất nào lớn như vậy.  19 Thành vĩ đại bị tách ra ba phần và các thành phố của các nước sụp đổ.  Thành Ba-by-lôn vĩ đại bị nhớ lại trước mặt Ðức Chúa Trời.  Ngài cho nó uống bát rượu sủi bọt thịnh nộ phừng phừng của Ngài.  20 Mọi hải đảo đều trốn mất, và chẳng thấy núi non nào nữa.  21 Tiếp theo là một trận mưa đá dữ dội, với những khối đá nặng khoảng ba mươi ký từ trời rơi trên loài người.  Người ta nguyền rủa Ðức Chúa Trời vì tai họa mưa đá ấy, bởi tai họa đó quá khủng khiếp.
 
@@ -359,8 +359,8 @@ class KhaiHuyen: Book {
                 “Ba-by-lôn vĩ đại,
                 Mẹ của các điếm đĩ và của những gớm ghiếc trên đất.”
                 6 Tôi thấy người đàn bà đó uống máu các thánh đồ và máu các nhân chứng của Ðức Chúa Jesus.  Khi tôi thấy bà ấy, tôi lấy làm kinh ngạc vô cùng!
-                7 Bấy giờ vị thiên sứ nói với tôi, “Tại sao ngươi kinh ngạc như thế?  Ta sẽ nói cho ngươi biết sự bí mật về người đàn bà nầy và Con Thú có bảy đầu và mười sừng chở người đàn bà ấy.  8 Con Thú mà ngươi thấy đã có, bây giờ không còn; nó sắp từ vực thẳm đi lên, để đi vào sự hủy diệt.  Những người sống trên đất, nhưng không có tên ghi trong sách sự sống từ khi đặt nền vũ trụ, sẽ lấy làm kinh ngạc khi thấy Con Thú đã có, bây giờ không còn, và sẽ tái xuất hiện.
-                9 Ðiều nầy đòi hỏi một tâm trí khôn ngoan.  Bảy đầu là bảy ngọn núi mà người đàn bà đang ngồi trên.  10 Ðó cũng là bảy vua; năm vua đã sụp đổ, một vua còn trị vì, vua kia thì chưa đến.  Khi vua ấy đến, vua ấy chỉ được tồn tại một thời gian ngắn.  11 Con Thú vốn đã có mà bây giờ không còn là vua thứ tám; nó vốn là một trong bảy vua, và nó đi vào sự hủy diệt.  12 Còn mười sừng ngươi thấy là mười vua chưa nắm vương quyền, nhưng họ sẽ nhận quyền làm vua trong một giờ với Con Thú.  13 Các vua ấy có đồng một mục đích là trao hết quyền lực và quyền hành của họ cho Con Thú.
+                7 Bấy giờ vị thiên sứ nói với tôi, “Tại sao ngươi kinh ngạc như thế?  Ta sẽ nói cho ngươi biết sự bí mật về người đàn bà này và Con Thú có bảy đầu và mười sừng chở người đàn bà ấy.  8 Con Thú mà ngươi thấy đã có, bây giờ không còn; nó sắp từ vực thẳm đi lên, để đi vào sự hủy diệt.  Những người sống trên đất, nhưng không có tên ghi trong sách sự sống từ khi đặt nền vũ trụ, sẽ lấy làm kinh ngạc khi thấy Con Thú đã có, bây giờ không còn, và sẽ tái xuất hiện.
+                9 Ðiều này đòi hỏi một tâm trí khôn ngoan.  Bảy đầu là bảy ngọn núi mà người đàn bà đang ngồi trên.  10 Ðó cũng là bảy vua; năm vua đã sụp đổ, một vua còn trị vì, vua kia thì chưa đến.  Khi vua ấy đến, vua ấy chỉ được tồn tại một thời gian ngắn.  11 Con Thú vốn đã có mà bây giờ không còn là vua thứ tám; nó vốn là một trong bảy vua, và nó đi vào sự hủy diệt.  12 Còn mười sừng ngươi thấy là mười vua chưa nắm vương quyền, nhưng họ sẽ nhận quyền làm vua trong một giờ với Con Thú.  13 Các vua ấy có đồng một mục đích là trao hết quyền lực và quyền hành của họ cho Con Thú.
                 14 Họ sẽ đánh nhau với Chiên Con, nhưng Chiên Con sẽ đánh bại họ, vì Ngài là Chúa của các chúa và Vua của các vua, và những người theo Ngài là những người được kêu gọi, được lựa chọn, và trung thành.”
                 15 Vị thiên sứ ấy lại nói với tôi, “Những dòng nước ngươi thấy nơi con điếm đang ngồi đó là những dân tộc, những tổ chức đông người, những quốc gia, và những ngôn ngữ.  16 Còn mười sừng ngươi thấy, và Con Thú, chúng sẽ ghét con điếm.  Chúng sẽ làm cho nó bị ruồng bỏ và lõa lồ, rồi chúng sẽ ăn thịt nó và đốt nó trong lửa.  17 Vì Ðức Chúa Trời đã đặt trong lòng chúng sứ mạng phải hoàn tất quyết định của Ngài, bằng cách đồng lòng trao vương quyền của chúng cho Con Thú cho đến khi những lời Ðức Chúa Trời được ứng nghiệm.  18 Người đàn bà ngươi thấy là thành vĩ đại, nắm quyền thống trị các vua trên đất.”
 
@@ -409,7 +409,7 @@ class KhaiHuyen: Book {
                 Thành đã trang sức bằng vàng, bửu ngọc, và trân châu,
                 17 Thế mà chỉ trong một giờ, tất cả những giàu sang phú quý đó đã trở thành hoang phế!”
                 Tất cả các thuyền trưởng, tất cả các hành khách đi tàu, các thủy thủ, và những người sống nhờ ngành hàng hải đều đứng nhìn từ đằng xa, 18 khóc than khi thấy khói thiêu đốt nó bốc lên, và nói,
-                “Có thành nào vĩ đại như thành nầy chăng?”
+                “Có thành nào vĩ đại như thành này chăng?”
                 19 Họ thảy bụi trên đầu, kêu la, khóc lóc, và than van rằng:
                 “Khốn thay!  Khốn thay! Thành vĩ đại,
                 Thành đã làm cho mọi người có tàu đi biển trở nên giàu có nhờ sự phồn vinh của nó,
@@ -458,7 +458,7 @@ class KhaiHuyen: Book {
                 Vì hôn lễ của Chiên Con đã đến,
                 Và cô dâu của Ngài đã chuẩn bị cho nàng sẵn sàng.”
                 8 Cô dâu ấy đã được ban cho bộ y phục bằng vải gai mịn, tinh bạch, và rạng ngời để mặc; vì vải gai mịn tượng trưng cho những việc công chính của các thánh đồ.
-                9 Bấy giờ vị thiên sứ bảo tôi, “Hãy chép điều nầy, ‘Phước cho những người được mời đến dự tiệc cưới của Chiên Con.’”  Vị thiên sứ ấy lại bảo tôi, “Ðây là những lời chân thật của Ðức Chúa Trời.”
+                9 Bấy giờ vị thiên sứ bảo tôi, “Hãy chép điều này, ‘Phước cho những người được mời đến dự tiệc cưới của Chiên Con.’”  Vị thiên sứ ấy lại bảo tôi, “Ðây là những lời chân thật của Ðức Chúa Trời.”
                 10 Tôi liền sấp mình xuống trước mặt vị thiên sứ ấy để thờ lạy, nhưng vị thiên sứ ấy bảo tôi, “Chớ làm vậy, vì ta cũng chỉ là một đồng bạn làm đầy tớ với ngươi và với anh chị em ngươi, những người giữ vững lời chứng của Ðức Chúa Jesus; hãy thờ phượng Ðức Chúa Trời; vì lời chứng của Ðức Chúa Jesus là linh khí của lời tiên tri.”
 
                 """],
@@ -496,9 +496,9 @@ class KhaiHuyen: Book {
                 Than van hay khóc lóc hay đau đớn sẽ không còn nữa,
                 Vì những sự thứ nhất đã qua rồi.”
                 5 Bấy giờ Ðấng ngồi trên ngai phán,
-                “Nầy, Ta làm mới lại muôn vật.”
+                “Này, Ta làm mới lại muôn vật.”
                 Ngài lại phán,
-                “Hãy ghi lại những điều nầy,
+                “Hãy ghi lại những điều này,
                 Vì những lời ấy đáng tin và chân thật.”
                 
                 6 Ngài phán với tôi, “Xong rồi! Ta là An-pha và Ô-mê-ga, Ðầu Tiên và Cuối Cùng.  Kẻ nào khát, Ta sẽ ban cho nước từ nguồn nước sự sống miễn phí.  7 Kẻ nào thắng sẽ hưởng những điều ấy.  Ta sẽ làm Ðức Chúa Trời của người ấy, và người ấy sẽ làm con Ta.  8 Nhưng những kẻ hèn nhát, những kẻ không tin, những kẻ đáng ghê tởm, những kẻ sát nhân, những kẻ gian dâm, những kẻ làm tà thuật, những kẻ thờ thần tượng, và tất cả những kẻ nói dối, phần của chúng sẽ ở trong hồ lửa và lưu huỳnh cháy phừng phừng, đó là sự chết thứ hai.”
@@ -521,21 +521,21 @@ class KhaiHuyen: Book {
                 """],
             ["Ðức Chúa Jesus Tái Lâm": """
                 6 Vị thiên sứ ấy nói với tôi, “Ðây là những lời đáng tin cậy và chân thật.  Chúa, Ðức Chúa Trời của linh các vị tiên tri, đã sai thiên sứ Ngài chỉ cho các đầy tớ Ngài những điều sắp xảy ra.”
-                7 “Nầy, Ta đến mau chóng.  Phước cho người vâng giữ những lời tiên tri trong sách nầy.”
-                8 Tôi, Giăng, người đã nghe và thấy những điều nầy.  Khi tôi đã nghe và thấy những điều ấy, tôi sấp mình xuống nơi chân vị thiên sứ đã chỉ cho tôi những điều ấy để thờ lạy.  9 Nhưng vị thiên sứ đó bảo tôi, “Kìa, đừng làm thế.  Ta chỉ là đồng bạn cùng làm đầy tớ với ngươi, với anh chị em ngươi, tức các vị tiên tri, và với những người vâng giữ những lời trong sách nầy.  Hãy thờ phượng Ðức Chúa Trời.”
-                10 Vị thiên sứ ấy lại bảo tôi, “Ðừng niêm phong những lời tiên tri trong sách nầy, vì thời điểm đã gần.  11 Ai gian ác cứ để họ gian ác, ai ô uế cứ để họ ô uế, ai công chính cứ để họ làm điều công chính, và ai thánh thiện cứ để họ thánh thiện.”
-                12 “Nầy, Ta đến mau chóng, đem phần thưởng theo với Ta, để thưởng cho mỗi người tùy việc họ làm.  13 Ta là An-pha và Ô-mê-ga, Ðầu Tiên và Cuối Cùng, Khởi Nguyên và Tận Chung.”
+                7 “Này, Ta đến mau chóng.  Phước cho người vâng giữ những lời tiên tri trong sách này.”
+                8 Tôi, Giăng, người đã nghe và thấy những điều này.  Khi tôi đã nghe và thấy những điều ấy, tôi sấp mình xuống nơi chân vị thiên sứ đã chỉ cho tôi những điều ấy để thờ lạy.  9 Nhưng vị thiên sứ đó bảo tôi, “Kìa, đừng làm thế.  Ta chỉ là đồng bạn cùng làm đầy tớ với ngươi, với anh chị em ngươi, tức các vị tiên tri, và với những người vâng giữ những lời trong sách này.  Hãy thờ phượng Ðức Chúa Trời.”
+                10 Vị thiên sứ ấy lại bảo tôi, “Ðừng niêm phong những lời tiên tri trong sách này, vì thời điểm đã gần.  11 Ai gian ác cứ để họ gian ác, ai ô uế cứ để họ ô uế, ai công chính cứ để họ làm điều công chính, và ai thánh thiện cứ để họ thánh thiện.”
+                12 “Này, Ta đến mau chóng, đem phần thưởng theo với Ta, để thưởng cho mỗi người tùy việc họ làm.  13 Ta là An-pha và Ô-mê-ga, Ðầu Tiên và Cuối Cùng, Khởi Nguyên và Tận Chung.”
                 14 Phước cho người nào giặt sạch áo choàng của mình, để có thể có quyền hưởng trái của cây sự sống và có thể đi qua các cổng để vào thành.  15 Nhưng bọn chó, những kẻ làm tà thuật, những kẻ gian dâm, những kẻ sát nhân, những kẻ thờ thần tượng, và những kẻ yêu mến và thực hành sự giả dối, đều phải ở bên ngoài.
 
                 """],
             ["Lời Cuối": """
-                16 “Ta, Jesus, đã sai thiên sứ của Ta làm chứng cho các ngươi những điều nầy trong các hội thánh.  Ta là Cội Rễ và Hậu Duệ của Ða-vít và là Sao Mai sáng láng.”
+                16 “Ta, Jesus, đã sai thiên sứ của Ta làm chứng cho các ngươi những điều này trong các hội thánh.  Ta là Cội Rễ và Hậu Duệ của Ða-vít và là Sao Mai sáng láng.”
                 17 Ðức Thánh Linh và Cô Dâu nói, “Hãy đến!”
                 Hãy để người nghe nói, “Hãy đến!”
                 Hãy để người khát đến.
                 Hãy để người nào muốn, được nhận nước sự sống miễn phí.
-                18 Tôi cảnh cáo những người nghe những lời tiên tri trong sách nầy:  Nếu ai thêm vào sách nầy điều gì, Ðức Chúa Trời sẽ thêm cho người ấy những tai họa chép trong sách nầy.  19 Nếu ai bỏ bớt lời nào trong sách tiên tri nầy, Ðức Chúa Trời sẽ cất phần của người đó khỏi cây sự sống và khỏi thành thánh đã chép trong sách nầy.
-                20 Ðấng làm chứng về những điều nầy phán, “Phải, Ta đến mau chóng.”
+                18 Tôi cảnh cáo những người nghe những lời tiên tri trong sách này:  Nếu ai thêm vào sách này điều gì, Ðức Chúa Trời sẽ thêm cho người ấy những tai họa chép trong sách này.  19 Nếu ai bỏ bớt lời nào trong sách tiên tri này, Ðức Chúa Trời sẽ cất phần của người đó khỏi cây sự sống và khỏi thành thánh đã chép trong sách này.
+                20 Ðấng làm chứng về những điều này phán, “Phải, Ta đến mau chóng.”
                 A-men.
                 Lạy Chúa, Ðức Chúa Jesus, kính mời Ngài đến.
                 21 Nguyện xin ân sủng của Chúa, Ðức Chúa Jesus Christ, ở với mọi người.

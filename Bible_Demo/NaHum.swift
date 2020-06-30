@@ -53,7 +53,7 @@ class NaHum: Book {
 
                 """],
             ["Tin Mừng cho Giu-đa": """
-                12 CHÚA phán thế nầy,
+                12 CHÚA phán thế này,
                 “Dù chúng hùng cường và đông đúc,
                 Chúng sẽ bị tiêu diệt và biến mất.
                 Dù Ta đã phạt ngươi phải đau đớn,
@@ -61,7 +61,7 @@ class NaHum: Book {
                 13 Bây giờ Ta sẽ bẻ gãy gông cùm khỏi cổ ngươi,
                 Ta sẽ bứt đứt xiềng xích trói buộc ngươi.”
                 
-                14 CHÚA đã truyền lịnh về ngươi thế nầy,
+                14 CHÚA đã truyền lịnh về ngươi thế này,
                 “Ngươi sẽ không còn con cháu nối dõi để mang danh ngươi nữa;
                 Ta sẽ tận diệt dòng dõi ngươi ngay tại đền thờ ngươi thờ lạy các thần tượng,
                 Tức các thần tượng ngươi đã chạm hình và đúc tượng để thờ;

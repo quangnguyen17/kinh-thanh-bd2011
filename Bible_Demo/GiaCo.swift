@@ -1,4 +1,4 @@
-﻿
+
 class Giaco: Book {
     
     override init() {
@@ -33,7 +33,7 @@ class Giaco: Book {
 
                 """],
             ["Lắng Nghe và Làm Theo Lời Chúa": """
-                19 Thưa anh chị em yêu dấu, anh chị em phải biết điều nầy: mỗi người phải mau nghe, chậm nói, chậm giận; 20 vì cơn giận của người ta không đem lại công lý của Ðức Chúa Trời.  21 Vậy hãy loại khỏi anh chị em mọi ô uế và xấu xa gian ác dẫy đầy, với lòng khiêm nhường hãy tiếp nhận Lời được cấy trong anh chị em, đó là Lời có thể cứu linh hồn anh chị em.
+                19 Thưa anh chị em yêu dấu, anh chị em phải biết điều này: mỗi người phải mau nghe, chậm nói, chậm giận; 20 vì cơn giận của người ta không đem lại công lý của Ðức Chúa Trời.  21 Vậy hãy loại khỏi anh chị em mọi ô uế và xấu xa gian ác dẫy đầy, với lòng khiêm nhường hãy tiếp nhận Lời được cấy trong anh chị em, đó là Lời có thể cứu linh hồn anh chị em.
                 22 Hãy là những người làm theo Lời, chứ không là những người chỉ nghe suông mà lừa dối chính mình.  23 Thật vậy ai chỉ nghe Lời mà không làm theo thì giống như một người nhìn mặt mình trong gương; 24 người ấy nhìn xong, rồi đi, và lập tức quên mặt mình ra thể nào.  25 Nhưng ai khảo sát kỹ trong luật toàn hảo, tức luật của tự do, và cứ vâng giữ nó, chứ không phải là người nghe rồi quên, nhưng là người làm theo những điều luật đó dạy bảo, người ấy sẽ được phước trong công việc mình.
                 26 Nếu ai cho mình là người có đạo mà không cầm giữ lưỡi mình, nhưng lừa dối lòng mình, thì sự theo đạo của người đó là vô ích.  27 Sự theo đạo trong sạch và không nhơ nhuốc trước mặt Ðức Chúa Trời, Cha chúng ta, là thăm viếng các cô nhi và các quả phụ trong cơn khốn khó của họ và giữ mình khỏi bị ô nhiễm bởi thế gian.
 
@@ -41,7 +41,7 @@ class Giaco: Book {
             ]),
         Chapter(2, passages: [
             ["Kính Trọng Người Nghèo": """
-                1 Thưa anh chị em của tôi, những người tin thờ Ðức Chúa Jesus Christ, Chúa vinh hiển chúng ta, xin anh chị em đừng thiên vị ai.  2 Giả dụ có một người đeo nhẫn vàng, ăn mặc sang trọng, bước vào nơi nhóm họp của anh chị em, và cũng có một người nghèo, áo quần rách rưới, bước vào, 3 nếu anh chị em quan tâm đặc biệt đến người ăn mặc sang trọng và nói, “Xin mời ngồi ở chỗ tốt nầy,” và nói với người nghèo, “Hãy đứng đằng kia,” hay “Hãy ngồi xuống chỗ bệ chân tôi,” 4 như thế chẳng phải anh chị em đã kỳ thị và lấy ý xấu xét đoán người khác sao?
+                1 Thưa anh chị em của tôi, những người tin thờ Ðức Chúa Jesus Christ, Chúa vinh hiển chúng ta, xin anh chị em đừng thiên vị ai.  2 Giả dụ có một người đeo nhẫn vàng, ăn mặc sang trọng, bước vào nơi nhóm họp của anh chị em, và cũng có một người nghèo, áo quần rách rưới, bước vào, 3 nếu anh chị em quan tâm đặc biệt đến người ăn mặc sang trọng và nói, “Xin mời ngồi ở chỗ tốt này,” và nói với người nghèo, “Hãy đứng đằng kia,” hay “Hãy ngồi xuống chỗ bệ chân tôi,” 4 như thế chẳng phải anh chị em đã kỳ thị và lấy ý xấu xét đoán người khác sao?
                 5 Thưa anh chị em yêu dấu của tôi, xin hãy nghe đây: Chẳng phải Ðức Chúa Trời đã chọn những người nghèo trong thế gian để trở thành những người giàu trong đức tin và thành những người thừa hưởng vương quốc mà Ngài đã hứa cho những ai yêu kính Ngài sao?  6 Thế mà anh chị em lại khinh dể người nghèo!  Chẳng phải những người giàu áp bức anh chị em và đưa anh chị em ra tòa sao?  7 Chẳng phải họ đã xúc phạm đến danh tốt đẹp mà anh chị em đã được gọi sao?
                 8 Anh chị em làm tốt, nếu anh chị em thực hành vương luật theo như Kinh Thánh đã dạy,
                 “Ngươi hãy yêu người lân cận như mình.”
@@ -57,7 +57,7 @@ class Giaco: Book {
                 14 Thưa anh chị em của tôi, nếu một người nói mình có đức tin nhưng không có hành động, thì đức tin ấy có ích gì chăng?  Ðức tin ấy có thể cứu người đó chăng?  15 Nếu anh em hay chị em nào thiếu cơm ăn và áo mặc hằng ngày, 16 mà ai trong anh chị em bảo người ấy, “Hãy đi bình an, hãy mặc ấm, và hãy ăn uống đầy đủ,” nhưng không cho người ấy những thứ thân xác người ấy đang cần, thì những lời nói đó có ích gì chăng?  17 Ðức tin cũng vậy, nếu nó không có các hành động thì chỉ là đức tin chết.
                 18 Nhưng nếu ai nói, “Bạn có đức tin, còn tôi có hành động.”  Hãy chỉ cho tôi đức tin không có hành động của bạn, rồi tôi sẽ chỉ cho bạn đức tin của tôi bằng các hành động của tôi.  19 Bạn tin rằng chỉ có một Ðức Chúa Trời; bạn tin đúng.  Ngay cả các quỷ cũng tin và run sợ.
                 20 Hỡi người khờ dại, bạn muốn biết đức tin không có hành động là vô ích chăng?
-                21 Chẳng phải Áp-ra-ham tổ phụ chúng ta được xưng công chính nhờ hành động khi ông dâng I-sác con trai ông trên bàn thờ sao?  22 Bạn thấy đó, đức tin phối hợp với hành động, và hành động làm cho đức tin được trọn vẹn.  23 Và lời Kinh Thánh nầy đã được ứng nghiệm,
+                21 Chẳng phải Áp-ra-ham tổ phụ chúng ta được xưng công chính nhờ hành động khi ông dâng I-sác con trai ông trên bàn thờ sao?  22 Bạn thấy đó, đức tin phối hợp với hành động, và hành động làm cho đức tin được trọn vẹn.  23 Và lời Kinh Thánh này đã được ứng nghiệm,
                 “Áp-ra-ham tin Ðức Chúa Trời, nên ông được kể là công chính,”
                 và ông được gọi là bạn của Ðức Chúa Trời.
                 24 Bạn thấy đó, một người được kể là công chính nhờ hành động, chứ không phải chỉ nhờ đức tin mà thôi.

@@ -107,7 +107,7 @@ class SangThe: Book {
                 “Vì ngươi đã nghe lời vợ mà ăn trái cây Ta đã truyền,
                 ‘Ngươi không được ăn,’
                 Nên đất sẽ vì ngươi bị nguyền rủa;
-                Suốt đời ngươi, ngươi phải làm lụng vất vả mới có ăn.
+                Suốt đời ngươi, ngươi phải làm lụng vất vả mới có mà ăn.
                 18 Gai góc và bụi gai sẽ mọc lên cho ngươi;
                 Ngươi sẽ ăn hoa màu của ruộng đồng.
                 19 Ngươi phải đổ mồi hôi trán mới có cơm bánh  để ăn,

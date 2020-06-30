@@ -1,4 +1,4 @@
-﻿
+
 class ITimothe: Book {
     
     override init() {
@@ -25,7 +25,7 @@ class ITimothe: Book {
 
                 """],
             ["Khuyên Chiến Ðấu Dũng Cảm": """
-                18 Hỡi Ti-mô-thê, con ta, ta truyền cho con điều nầy theo lời tiên tri đã nói trước về con, để nhờ đó con có thể chiến đấu anh dũng, 19 giữ vững đức tin và một lương tâm thanh sạch.  Một số người đã bỏ điều ấy nên đức tin của họ đã bị đắm chìm.  20 Trong số đó có Hy-mê-nê và A-léc-xan-đơ, những người ta đã phó cho Sa-tan để họ có thể được dạy cho bài học chớ phạm thượng.
+                18 Hỡi Ti-mô-thê, con ta, ta truyền cho con điều này theo lời tiên tri đã nói trước về con, để nhờ đó con có thể chiến đấu anh dũng, 19 giữ vững đức tin và một lương tâm thanh sạch.  Một số người đã bỏ điều ấy nên đức tin của họ đã bị đắm chìm.  20 Trong số đó có Hy-mê-nê và A-léc-xan-đơ, những người ta đã phó cho Sa-tan để họ có thể được dạy cho bài học chớ phạm thượng.
 
                 """]
             ]),
@@ -50,7 +50,7 @@ class ITimothe: Book {
 
                 """],
             ["Huyền Nhiệm của Sự Tin Kính": """
-                14 Ta viết cho con những điều nầy với hy vọng sẽ sớm đến với con.  15 Nhưng nếu ta phải đến trễ thì nhờ thư nầy con sẽ biết cách xử sự thế nào trong nhà Ðức Chúa Trời, tức Hội Thánh của Ðức Chúa Trời hằng sống, là cột trụ và nền tảng của chân lý.  16 Mọi người đều công nhận rằng huyền nhiệm của sự tin kính thật là uyên thâm, đó là Ðấng
+                14 Ta viết cho con những điều này với hy vọng sẽ sớm đến với con.  15 Nhưng nếu ta phải đến trễ thì nhờ thư này con sẽ biết cách xử sự thế nào trong nhà Ðức Chúa Trời, tức Hội Thánh của Ðức Chúa Trời hằng sống, là cột trụ và nền tảng của chân lý.  16 Mọi người đều công nhận rằng huyền nhiệm của sự tin kính thật là uyên thâm, đó là Ðấng
                 Ðược bày tỏ trong xác thịt đã
                 Ðược Ðức Thánh Linh xác chứng,
                 Ðược các thiên sứ chiêm ngưỡng,
@@ -78,7 +78,7 @@ class ITimothe: Book {
                 """],
             ["Chăm Sóc và Kính Trọng Các Góa Phụ Cao Tuổi": """
                 3 Hãy kính trọng các góa phụ, những người thật sự góa bụa.  4 Nếu một góa phụ có con hoặc cháu, các con cháu đó trước hết phải học cách bày tỏ lòng hiếu thảo và đền đáp công ơn các đấng sinh thành, vì đó là điều đẹp lòng Ðức Chúa Trời.  5 Người thật sự góa bụa và sống đơn chiếc thì đặt lòng trông cậy của mình vào Ðức Chúa Trời, ngày đêm liên tục nài xin và cầu nguyện.  6 Còn góa phụ nào cứ mải mê chạy theo các vui thú trần tục thì sống cũng như đã chết rồi.  7 Con hãy truyền dạy những điều ấy, để họ không bị chê trách.  8 Ai không cấp dưỡng cho người thân, đặc biệt là người trong gia đình mình, ấy là người chối bỏ đức tin, và còn tệ hơn người không tin nữa.
-                9 Ðể được ghi vào danh sách các góa phụ, người góa bụa đó không được dưới sáu mươi tuổi, chỉ có một đời chồng, 10 được xác chứng là đã làm những việc tốt, như nuôi dạy con cái, hiếu khách, rửa chân các thánh đồ, cứu giúp những người hoạn nạn, dấn thân vào mọi việc lành.  11 Nhưng đừng ghi tên vào danh sách các góa phụ còn trẻ, vì khi bị dục tình thôi thúc, họ có thể lìa xa Ðấng Christ và muốn tái giá.  12 Như vậy họ sẽ chuốc lấy sự phán xét, vì vi phạm lời thệ nguyện ban đầu.  13 Ðồng thời họ lại dễ học thói ăn không ngồi rồi, la cà từ nhà nầy sang nhà khác; không những ăn không ngồi rồi, lại còn ngồi lê đôi mách, xen vào chuyện người khác, và nói những điều không nên nói.
+                9 Ðể được ghi vào danh sách các góa phụ, người góa bụa đó không được dưới sáu mươi tuổi, chỉ có một đời chồng, 10 được xác chứng là đã làm những việc tốt, như nuôi dạy con cái, hiếu khách, rửa chân các thánh đồ, cứu giúp những người hoạn nạn, dấn thân vào mọi việc lành.  11 Nhưng đừng ghi tên vào danh sách các góa phụ còn trẻ, vì khi bị dục tình thôi thúc, họ có thể lìa xa Ðấng Christ và muốn tái giá.  12 Như vậy họ sẽ chuốc lấy sự phán xét, vì vi phạm lời thệ nguyện ban đầu.  13 Ðồng thời họ lại dễ học thói ăn không ngồi rồi, la cà từ nhà này sang nhà khác; không những ăn không ngồi rồi, lại còn ngồi lê đôi mách, xen vào chuyện người khác, và nói những điều không nên nói.
                 14 Vì thế ta khuyên các góa phụ trẻ tuổi nên tái giá, sinh con cái, quản trị gia đình mình, không cho kẻ thù có cơ hội để nói xấu, 15 vì đã có vài người tẻ tách để đi theo Sa-tan rồi.
                 16 Nếu nữ tín hữu nào có người thân trong gia đình là góa phụ, nữ tín hữu đó hãy giúp đỡ góa phụ ấy, để khỏi làm gánh nặng cho hội thánh, hầu hội thánh có thể giúp những người thật sự góa bụa.
 
@@ -112,11 +112,11 @@ class ITimothe: Book {
             ["Lời Khuyên Riêng Ti-mô-thê": """
                 11 Nhưng con là người của Ðức Chúa Trời, hãy tránh xa những điều ấy, và hãy tìm kiếm công chính, tin kính, đức tin, tình yêu, kiên trì, và khiêm tốn.  12 Hãy chiến đấu anh dũng vì đức tin, giữ chặt lấy sự sống đời đời là sự sống mà con đã được gọi đến và tuyên xưng những lời tuyên xưng cao quý trước mặt nhiều nhân chứng.
                 13 Trước mặt Ðức Chúa Trời, Ðấng ban sự sống cho mọi loài, và trước mặt Ðức Chúa Jesus Christ, Ðấng đã xác chứng những lời tuyên xưng cao quý trước mặt Pôn-tơ Phi-lát, ta truyền cho con:
-                14 Hãy vâng giữ mạng lịnh nầy một cách trọn vẹn, không chỗ trách được, cho đến khi Ðức Chúa Jesus Christ, Chúa chúng ta, hiện ra.  15 Ðó là điều Ðấng Chủ Tể phước hạnh và duy nhất, Vua của các vua, Chúa của các chúa, sẽ bày tỏ vào đúng thời điểm của Ngài; 16 duy chỉ Ngài là Ðấng Trường Sinh Bất Tử, ngự giữa ánh sáng không thể đến gần, Ðấng chưa hề có ai thấy hoặc có thể thấy.  Nguyện sự tôn kính và quyền năng thuộc về Ngài đời đời.  A-men.
+                14 Hãy vâng giữ mạng lịnh này một cách trọn vẹn, không chỗ trách được, cho đến khi Ðức Chúa Jesus Christ, Chúa chúng ta, hiện ra.  15 Ðó là điều Ðấng Chủ Tể phước hạnh và duy nhất, Vua của các vua, Chúa của các chúa, sẽ bày tỏ vào đúng thời điểm của Ngài; 16 duy chỉ Ngài là Ðấng Trường Sinh Bất Tử, ngự giữa ánh sáng không thể đến gần, Ðấng chưa hề có ai thấy hoặc có thể thấy.  Nguyện sự tôn kính và quyền năng thuộc về Ngài đời đời.  A-men.
 
                 """],
             ["Lời Khuyên Những Người Giàu": """
-                17 Còn đối với những người giàu có trong đời nầy, con hãy bảo họ đừng kiêu ngạo, đừng đặt hy vọng vào tính phù vân của tiền của, nhưng hãy đặt hy vọng vào Ðức Chúa Trời, Ðấng ban cho chúng ta mọi sự một cách rời rộng để chúng ta hưởng.  18 Con hãy khuyên họ làm việc thiện; họ phải tỏ ra là những người giàu có đối với những việc thiện, phải rộng rãi ban cho và sẵn sàng chia sẻ.  19 Làm như thế, họ tích trữ cho họ một nền tảng tốt đẹp cho tương lai, để họ có thể giữ chặt lấy sự sống thật.
+                17 Còn đối với những người giàu có trong đời này, con hãy bảo họ đừng kiêu ngạo, đừng đặt hy vọng vào tính phù vân của tiền của, nhưng hãy đặt hy vọng vào Ðức Chúa Trời, Ðấng ban cho chúng ta mọi sự một cách rời rộng để chúng ta hưởng.  18 Con hãy khuyên họ làm việc thiện; họ phải tỏ ra là những người giàu có đối với những việc thiện, phải rộng rãi ban cho và sẵn sàng chia sẻ.  19 Làm như thế, họ tích trữ cho họ một nền tảng tốt đẹp cho tương lai, để họ có thể giữ chặt lấy sự sống thật.
 
                 """],
             ["Lời Dặn Dò Cuối Thư": """

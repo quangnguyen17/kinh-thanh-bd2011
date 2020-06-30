@@ -428,7 +428,7 @@ class Amot: Book {
                 
                 Bấy giờ CHÚA phán,
                 
-                “này, Ta sẽ treo một dây dọi để làm chuẩn ở giữa dân I-sơ-ra-ên của Ta;
+                “Này, Ta sẽ treo một dây dọi để làm chuẩn ở giữa dân I-sơ-ra-ên của Ta;
                 Ta sẽ không bỏ qua cho chúng nữa.
                 9 Các nơi cao để thờ tự của I-sác sẽ trở nên tiêu điều vắng vẻ;
                 Các nơi thánh của I-sơ-ra-ên sẽ bị bỏ cho hoang vu;

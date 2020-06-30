@@ -2876,16 +2876,16 @@ class Esai: Book {
             ["Ðầy Tớ CHÚA": """
                 1 Ðây là đầy tớ Ta, người Ta nâng đỡ,
                 Người Ta tuyển chọn, và linh hồn Ta hài lòng;
-                Ta đã đặt Thần Ta trong người ấy;
-                Người ấy sẽ đem công lý đến muôn dân.
-                2 Người ấy sẽ không la hét hay lớn tiếng;
-                Ở ngoài đường không ai nghe tiếng người ấy.
-                3 Người ấy sẽ không bẻ gãy cây sậy giập nát;
-                Người ấy sẽ không dập tắt tim đèn gần tàn.
-                Người ấy sẽ thực thi công lý cách trung tín.
-                4 Người ấy sẽ không thối chí và ngã lòng,
-                Cho đến khi thiết lập nền công lý trên thế giới;
-                Các dân ở hải ngoại đều trông mong luật pháp của người ấy.
+                Ta đã đặt Thần Ta trong người;
+                Người sẽ đem công lý đến muôn dân.
+                2 Người sẽ không la lối hay lớn tiếng;
+                Ở ngoài đường không ai nghe tiếng người.
+                3 Người sẽ không bẻ gãy cây sậy giập nát;
+                Người sẽ không dập tắt tim đèn gần tàn.
+                Người sẽ thực thi công lý cách trung tín.
+                4 Người sẽ không thối chí và ngã lòng,
+                Cho đến khi người thiết lập xong nền công lý trên thế giới;
+                Các dân ở hải ngoại đều trông mong luật pháp của người.
                   
                 5 CHÚA Ðức Chúa Trời, Ðấng dựng nên các tầng trời và căng chúng ra,
                 Ðấng trải rộng mặt đất và khiến mọi thảo mộc từ dưới đất mọc lên,

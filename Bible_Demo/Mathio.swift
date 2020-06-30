@@ -1,4 +1,4 @@
-﻿
+
 class Mathio: Book {
     
     override init() {
@@ -1062,7 +1062,7 @@ class Mathio: Book {
 
                 """],
             ["Gốc Tích của Ðấng Christ": """
-                (Mác 12:35-37; Lu 41:41-46)
+                (Mác 12:35-37; Lu 20:41-46)
                 
                 41 Khi những người Pha-ri-si đang họp lại với nhau, Ðức Chúa Jesus hỏi họ, 42 “Các ngươi nghĩ thế nào về Ðấng Christ?  Ngài là Con của ai?”
                 Họ trả lời Ngài, “Con của Ða-vít.”

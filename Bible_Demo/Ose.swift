@@ -15,7 +15,7 @@ class Ose: Book {
 
                 """],
             ["Gia Ðình của Ô-sê Tiêu Biểu Cho Sự Bất Trung của I-sơ-ra-ên": """
-                2 Khi CHÚA bắt đầu phán với Ô-sê, CHÚA bảo ông, “Hãy đi và cưới một phụ nữ có tính ngoại tình làm vợ, và ngươi sẽ có các con do nàng lén lút ăn nằm với các đàn ông khác sinh ra, vì đất nước nầy đã phạm tội ngoại tình nghiêm trọng khi chúng lìa bỏ CHÚA mà thờ các thần khác.”
+                2 Khi CHÚA bắt đầu phán với Ô-sê, CHÚA bảo ông, “Hãy đi và cưới một phụ nữ có tính ngoại tình làm vợ, và ngươi sẽ có các con do nàng lén lút ăn nằm với các đàn ông khác sinh ra, vì đất nước này đã phạm tội ngoại tình nghiêm trọng khi chúng lìa bỏ CHÚA mà thờ các thần khác.”
                 3 Vậy ông cưới Gô-me con gái của Ðíp-la-im làm vợ.  Sau đó bà có thai và sinh cho ông một con trai.  4 CHÚA phán với ông, “Hãy đặt tên nó là Giê-rê-ên, vì chẳng bao lâu nữa Ta sẽ báo trả gia đình Giê-hu vì máu nó đã làm đổ ra tại Giê-rê-ên, và Ta sẽ chấm dứt vương quốc của nhà I-sơ-ra-ên.  5 Rồi đây trong ngày ấy, Ta sẽ bẻ gãy cây cung của I-sơ-ra-ên trong Thung Lũng Giê-rê-ên.”
                 6 Sau đó bà có thai nữa và sinh một con gái.  CHÚA phán với ông, “Hãy đặt tên nó là Lô Ru-ha-ma, vì Ta sẽ không thương xót nhà I-sơ-ra-ên nữa và không tha thứ chúng nữa.  7 Nhưng Ta sẽ thương xót nhà Giu-đa.  Chúng sẽ được CHÚA, Ðức Chúa Trời của chúng, giải cứu; nhưng chúng sẽ không được cứu nhờ cung tên, gươm giáo, chiến trận, chiến mã, hay kỵ binh.”
                 8 Sau khi Lô Ru-ha-ma dứt sữa, bà có thai nữa và sinh cho ông một con trai.  9 CHÚA phán, “Hãy đặt tên cho nó là Lô Am-mi, vì các ngươi không phải là dân Ta nữa, và Ta không còn là Ðức Chúa Trời của các ngươi.”
@@ -110,7 +110,7 @@ class Ose: Book {
             ["Tình Trạng Ðạo Ðức Suy Ðồi": """
                 1 Hỡi dân I-sơ-ra-ên, hãy nghe lời của CHÚA, vì CHÚA có vấn đề với dân trong xứ:
                 
-                Trong xứ nầy người ta không trung thành, không thương người, và không biết Ðức Chúa Trời.
+                Trong xứ này người ta không trung thành, không thương người, và không biết Ðức Chúa Trời.
                 2 Chưởi thề, gạt gẫm, sát nhân, trộm cắp, và ngoại tình đầy dẫy khắp nơi;
                 Máu đổ tiếp theo máu đổ.
                 3 Vì thế đất phải than khóc,
@@ -574,7 +574,7 @@ class Ose: Book {
                 7 Một thương gia, trong tay nó cầm cây cân không thật;
                 Nó thích bóc lột người khác.
                 8 Ép-ra-im nói, “Này, ta đã trở nên giàu có rồi.
-                Bởi sức lực của ta, ta đã tạo nên cơ nghiệp nầy.
+                Bởi sức lực của ta, ta đã tạo nên cơ nghiệp này.
                 Bây giờ không ai có thể bảo rằng ta có tội được,
                 Cho dù những việc ta làm là tội lỗi đi chăng.”
                 9 Tuy nhiên ngươi hãy nhớ rằng, Ta là CHÚA, Ðức Chúa Trời của ngươi.
@@ -609,7 +609,7 @@ class Ose: Book {
                 Chúng đã đúc cho chúng các tượng bằng bạc để thờ;
                 Ðó là các hình tượng do chúng tưởng tượng tạo ra;
                 Tất cả các hình tượng đó đều là sản phẩm của những tay thợ khéo.
-                Chúng bảo, ‘Hãy dâng của tế lễ cho các thần nầy.’
+                Chúng bảo, ‘Hãy dâng của tế lễ cho các thần này.’
                 Dân chúng nghe theo và sấp mình hôn các tượng bò con đó.
                 3 Vì thế chúng sẽ giống như sương mù sáng sớm,
                 Như sương mai biến mất khi nắng lên,
@@ -693,7 +693,7 @@ class Ose: Book {
                 Ta như một cây bách mãi mãi xanh tươi;
                 Nhờ Ta ngươi mới có thể đơm hoa kết quả.”
                 
-                9 Những ai khôn ngoan sẽ thông hiểu các điều nầy;
+                9 Những ai khôn ngoan sẽ thông hiểu các điều này;
                 Những ai thông sáng sẽ hiểu biết chúng.
                 Các đường lối của CHÚA luôn luôn đúng;
                 Những người ngay thẳng sẽ bước đi trong chúng;

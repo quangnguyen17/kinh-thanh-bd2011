@@ -13,12 +13,12 @@ class ApDia: Book {
             ["Ê-đôm Bị Ðoán Phạt": """
                 1 Khải tượng của Áp-đia:
                 
-                CHÚA Hằng Hữu phán thế nầy về Ê-đôm:
+                CHÚA Hằng Hữu phán thế này về Ê-đôm:
                 
                 “Chúng ta đã nghe một sứ điệp từ CHÚA,
                 Một sứ giả được sai đến các nước, hô hào,
                 ‘Hãy đứng dậy! Chúng ta hãy đứng dậy và ra trận đánh nó.’”
-                2 “Nầy, Ta sẽ làm cho ngươi trở thành một nước nhược tiểu giữa các quốc gia.
+                2 “Này, Ta sẽ làm cho ngươi trở thành một nước nhược tiểu giữa các quốc gia.
                 Ngươi sẽ bị khinh khi hết mực.
                 3 Lòng kiêu ngạo của ngươi đã lừa gạt ngươi,
                 Hỡi kẻ ở trên những gành đá cao kia,
