@@ -71,9 +71,9 @@ class BookmarksController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let label = PaddedLabel()
-        label.backgroundColor = UIColor(white: 0.95, alpha: 1)
         label.text = "Đánh Dấu Gần Đây"
         label.font = UIFont.preferredFont(forTextStyle: .headline)
+        label.backgroundColor = .secondarySystemBackground
         return label
     }
     
@@ -83,7 +83,7 @@ class BookmarksController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let directory = bookmarksFetchedResultsController.object(at: indexPath).directory
-        let cell = Component.initTableViewCell(reuseIdentifier: "cell", title: directory, subtitle: "", image: #imageLiteral(resourceName: "new-bookmark-icon"))
+        let cell = Component.tableViewCell(reuseIdentifier: "cell", title: directory, subtitle: "", image: #imageLiteral(resourceName: "new-bookmark-icon"))
         
         if let date = bookmarksFetchedResultsController.object(at: indexPath).creationDate {
             cell.detailTextLabel?.text = date.timeAgoDisplay()
@@ -114,9 +114,9 @@ class BookmarksController: UITableViewController {
     override func tableView(_ tableView: UITableView, viewForFooterInSection section: Int) -> UIView? {
         let label = UILabel()
         label.text = "Không Có Đánh Dấu"
-        label.textColor = .darkGray
+        label.textColor = .secondaryLabel
         label.textAlignment = .center
-        label.font = UIFont.preferredFont(forTextStyle: .subheadline)
+        label.font = .preferredFont(forTextStyle: .subheadline)
         return label
     }
     

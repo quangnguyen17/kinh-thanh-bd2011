@@ -30,15 +30,6 @@ extension UIColor {
     static let defaultBarTintColor = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1.0)
 }
 
-
-extension UINavigationController {
-    
-    open override var preferredStatusBarStyle: UIStatusBarStyle {
-        return .lightContent
-    }
-    
-}
-
 extension UIButton {
     
     func styleButton(backgroundColor: UIColor, tintColor: UIColor) {
@@ -75,8 +66,9 @@ extension Character {
 extension UIViewController {
     
     func showChapterController(with chapter: Chapter?, navigationItemTitle: String?) {
-        let chapterController = Component.initChapterController(with: chapter, and: navigationItemTitle)
-        navigationController?.pushViewController(chapterController, animated: true)
+        let chapterController = Component.chapterController(with: chapter, and: navigationItemTitle)
+        present(UINavigationController(rootViewController: chapterController), animated: true, completion: nil)
+//        navigationController?.pushViewController(chapterController, animated: true)
     }
     
     func showAutoDismissAlert(title: String, message: String? = nil) {
@@ -103,12 +95,23 @@ extension String {
         return self.range(of: find, options: .caseInsensitive) != nil
     }
     
-    func cleaned() -> String {
-        return self.components(separatedBy: CharacterSet(charactersIn: "~")).last ?? ""
+    func removedNumsAndJSON() -> String {
+        let removedJSON = replacingOccurrences(of: ".JSON", with: "", options: .regularExpression)
+        return String(removedJSON.components(separatedBy: CharacterSet.decimalDigits).joined().dropFirst(2))
     }
     
-    func getIndexNumber() -> Int {
-        return Int(components(separatedBy: CharacterSet(charactersIn: ". ")).first!)!
+//        func cleaned() -> String {
+//            let numsRemoved = jsonRemoved.components(separatedBy: CharacterSet.decimalDigits).joined()
+//            return String(numsRemoved.dropFirst(2))
+//            return jsonRemoved
+//        }
+    
+    func cleaned() -> String {
+        return String(components(separatedBy: CharacterSet.decimalDigits).joined().dropFirst(2))
+    }
+    
+    func getBookNumber() -> Int {
+        return Int(components(separatedBy: CharacterSet(charactersIn: ". ")).first ?? "") ?? 0
     }
     
 }

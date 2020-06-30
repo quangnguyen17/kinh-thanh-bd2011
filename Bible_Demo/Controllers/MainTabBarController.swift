@@ -1,103 +1,90 @@
 
 import UIKit
 import FirebaseStorage
+import SwiftyJSON
 
 class MainTabBarController: UITabBarController {
     
     private let searchController = SearchController()
     private let bibleController = BibleController()
-    private let tabBarItems = [("Kinh Thánh", #imageLiteral(resourceName: "bible")), ("Đánh Dấu", #imageLiteral(resourceName: "bookmark-tabbaricon")), ("Tìm Kiếm", #imageLiteral(resourceName: "search")), ("Thông Tin", #imageLiteral(resourceName: "info"))].map{ UITabBarItem(title: $0.0, image: $0.1, tag: 0) }
     private let bookmarksController = BookmarksController()
+    private let alertController = UIAlertController(title: "Đang Tải...", message: nil, preferredStyle: .alert)
     
-    lazy var alertController = UIAlertController(title: "Đang Tải Xuống & Làm Mới", message: "...", preferredStyle: .alert)
-    
-    var fetchedBible = [[Book]]() {
+    var bible: [[Book]] = [[], []] {
         didSet {
-            bibleController.oldTestament = fetchedBible[0]
-            bibleController.newTestament = fetchedBible[1]
-            
-            DispatchQueue.main.async {
-                self.bibleController.tableView.reloadData()
-                self.bookmarksController.fetchedBible = self.fetchedBible
-                self.searchController.fetchedBible = self.fetchedBible
+            if bible.reduce(0, { $0 + $1.count }) == 66 {
+                bible = bible.map{ tst in tst.sorted(by: { $0.number < $1.number }) }
+                bibleController.oldTestament = bible[0]
+                bibleController.newTestament = bible[1]
+                getVerses()
+                
+                DispatchQueue.main.async {
+                    self.bibleController.tableView.reloadData()
+                    self.bookmarksController.fetchedBible = self.bible
+                    self.searchController.fetchedBible = self.bible
+                    self.alertController.dismiss(animated: true, completion: nil)
+                }
             }
-            
-            fetchVerses()
-            alertController.dismiss(animated: true, completion: nil)
         }
     }
     
-    fileprivate func fetchVerses() {
-        var collectedBibleVerses: [[NSMutableAttributedString]] = [[], []]
+    private func getVerses() {
+        var verses: [[NSMutableAttributedString]] = [[], []]
         
         DispatchQueue.global(qos: .background).async {
-            for testament in self.fetchedBible.enumerated() {
-                testament.element.forEach({ (book) in
+            self.bible.enumerated().forEach { (offset, testament) in
+                testament.forEach({ (book) in
                     book.chapters.forEach({ (chapter) in
                         chapter.verses().forEach({ (verse) in
-                            let attributedString = NSMutableAttributedString(string: chapter.directory, attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .headline)])
-                            attributedString.append(NSAttributedString(string: "\n\(verse)", attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .body)]))
-                            collectedBibleVerses[testament.offset].append(attributedString)
+                            let attributedStr = NSMutableAttributedString(string: chapter.directory, attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .headline)])
+                            attributedStr.append(NSAttributedString(string: "\n\(verse)", attributes: [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .body)]))
+                            verses[offset].append(attributedStr)
                         })
                     })
                 })
             }
             
             DispatchQueue.main.async {
-                self.searchController.bibleVerses = collectedBibleVerses
+                self.searchController.bibleVerses = verses
             }
         }
     }
     
-    @objc private func uploadToDatabase() {
-        var count: Int = 0
-        DataSource.shared.bible.enumerated().forEach { (testamentOffset, testament) in
+    @objc private func uploadToDB() {
+        DataSource.shared.bible.enumerated().forEach { (offset, testament) in
             testament.enumerated().forEach { (offset, book) in
-                let jsonData = book.toJSON().data(using: .utf8)
-                let testamentStr = testamentOffset == 0 ? "old-testament" : "new-testament"
-                Storage.storage().reference().child(testamentStr).child("\(offset+1). \(book.title).JSON").putData(jsonData!, metadata: nil) { (metadata, err) in
-                    if let error = err {                        fatalError(error.localizedDescription)
-                    }
-                    
-                    count += 1
-                    if count == 66 {
-                        print("Finished Uploading Bible To Databse")
+                Network.shared.storageRef.child(offset == 0 ? "old-testament" : "new-testament").child("\(offset+1). \(book.title).JSON").putData(book.toData()!, metadata: nil) { (metadata, err) in
+                    if let error = err {
+                        fatalError(error.localizedDescription)
                     }
                 }
             }
         }
     }
     
-    func fetchBible(completion: @escaping ([Book], [Book]) -> ()) {
-        var oldTestament = [Book]()
-        var newTestament = [Book]()
-        
+    func clear() {
+        bible = [[], []]
+        bibleController.oldTestament = []
+        bibleController.newTestament = []
+    }
+    
+    func fetch() {
         ["old-testament", "new-testament"].enumerated().forEach { (offset, child) in
-            Storage.storage().reference().child(child).listAll { (listResult, err) in
+            Network.shared.storageRef.child(child).listAll { (res, err) in
                 if let error = err {
                     fatalError(error.localizedDescription)
                 }
                 
-                listResult.items.forEach({ (ref) in
+                res.items.forEach({ (ref) in
                     ref.downloadURL(completion: { (url, downloadErr) in
                         if let downloadError = downloadErr {
                             fatalError(downloadError.localizedDescription)
                         }
                         
-                        let book = Book()
-                        book.title = ref.name
-                        
-                        DataSource.shared.fetchChapters(downloadUrl: url!, completion: { (chapters) in
+                        DataSource.shared.fetchChapters(url!, completion: { (chapters) in
+                            let book = Book(ref.name.removedNumsAndJSON(), testament: child, number: ref.name.getBookNumber())
                             book.chapters = chapters
-                            
-                            book.testament = child
-                            offset == 0 ? oldTestament.append(book) : newTestament.append(book)
-                            
-                            if newTestament.count == 27 && oldTestament.count == 39 {
-                                oldTestament.sort(by: { $0.title.getIndexNumber() < $1.title.getIndexNumber() })
-                                newTestament.sort(by: { $0.title.getIndexNumber() < $1.title.getIndexNumber() })
-                                completion(oldTestament, newTestament)
-                            }
+                            self.bible[offset].append(book)
                         })
                     })
                 })
@@ -105,36 +92,39 @@ class MainTabBarController: UITabBarController {
         }
     }
     
-    func handleUpdates() {
-        present(alertController, animated: true, completion: nil)
-        
-        fetchBible { (oldTestament, newTestament) in
-            self.fetchedBible = [oldTestament, newTestament]
+    func update() {
+        DispatchQueue.main.async {
+            self.present(self.alertController, animated: true, completion: nil)
         }
+        
+        clear()
+        fetch()
     }
     
-    fileprivate func setupViewControllers() {
-        let navControllers = [bibleController, bookmarksController, searchController, MoreController()].map{ UINavigationController(rootViewController: $0) }
-        tabBarItems.forEach{ $0.imageInsets = UIEdgeInsets(top: -1, left: 0, bottom: 1, right: 0) }
-        navControllers.forEach{ $0.tabBarItem = tabBarItems[navControllers.firstIndex(of: $0)!] }
-        viewControllers = navControllers
+    private func setup() {
+        update()
+        tabBar.tintColor = .darkRed
+        
+        let items = [("Kinh Thánh", #imageLiteral(resourceName: "bible")), ("Đánh Dấu", #imageLiteral(resourceName: "bookmark-tabbaricon")), ("Tìm Kiếm", #imageLiteral(resourceName: "search")), ("Thông Tin", #imageLiteral(resourceName: "info"))].map({ (txt, img) -> UITabBarItem in
+            let item = UITabBarItem(title: txt, image: img, tag: 0)
+            item.imageInsets = UIEdgeInsets(top: -1, left: 0, bottom: 1, right: 0)
+            return item
+        })
+        
+        viewControllers = [bibleController, bookmarksController, searchController, MoreController()].enumerated().map({ (idx, controller) -> UIViewController in
+            let navController = UINavigationController(rootViewController: controller)
+            navController.tabBarItem = items[idx]
+            return navController
+        })
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        uploadToDatabase()
-
-//        tabBar.tintColor = .darkRed
+        // MARK: - Development
+        // uploadToDB()
         
-//        setupViewControllers()
-
-//        DispatchQueue.main.async {
-//            self.present(self.alertController, animated: true, completion: nil)
-//        }
-//
-//        fetchBible { (oldTestament, newTestament) in
-//            self.fetchedBible = [oldTestament, newTestament]
-//        }
+        // MARK: - Production
+        setup()
     }
     
 }

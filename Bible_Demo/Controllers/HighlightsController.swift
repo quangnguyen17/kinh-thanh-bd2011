@@ -25,29 +25,15 @@ class HighlightsController: UITableViewController {
     lazy var highlightsFetchedResutlsController: NSFetchedResultsController<Highlight> = {
         let request: NSFetchRequest<Highlight> = Highlight.fetchRequest()
         request.sortDescriptors = [NSSortDescriptor(key: "creationDate", ascending: false)]
-        
-        let context = CoreDataManager.shared.persistentContainer.viewContext
-        let controller = NSFetchedResultsController(fetchRequest: request, managedObjectContext: context, sectionNameKeyPath: nil, cacheName: nil)
-        
+        let controller = NSFetchedResultsController(fetchRequest: request, managedObjectContext: CoreDataManager.shared.getContext(), sectionNameKeyPath: nil, cacheName: nil)
         controller.delegate = self
         return controller
     }()
     
-    fileprivate func setupTableView() {
-        var safeAreaInsets: UIEdgeInsets?
-        if #available(iOS 11.0, *) { safeAreaInsets = view.safeAreaInsets }
-        tableView.contentInset = safeAreaInsets ?? .zero
-    }
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        setupTableView()
-    }
-    
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let label = PaddedLabel()
-        label.backgroundColor = UIColor(white: 0.95, alpha: 1)
-        label.textColor = .black
+        label.backgroundColor = .secondarySystemBackground
+        label.textColor = .label
         label.text = "Đánh Dấu Gần Đây"
         label.font = UIFont.preferredFont(forTextStyle: .headline)
         return label
@@ -73,9 +59,7 @@ class HighlightsController: UITableViewController {
         }
         
         let highlightedText = NSString(string: unknownChapter?.plainText() ?? "").substring(with: NSRange(location: Int(highlight.location), length: Int(highlight.length)))
-    
-        let cell = Component.initTableViewCell(reuseIdentifier: "cell", title: highlight.directory ?? "", subtitle: highlightedText, image: #imageLiteral(resourceName: "square"))
-        
+        let cell = Component.tableViewCell(reuseIdentifier: "cell", title: highlight.directory ?? "", subtitle: highlightedText, image: #imageLiteral(resourceName: "square"))
         cell.detailTextLabel?.numberOfLines = 0
         cell.accessoryType = .disclosureIndicator
         cell.imageView?.tintColor = highlight.color == 0 ? .green : .yellow
@@ -88,8 +72,11 @@ class HighlightsController: UITableViewController {
         
         fetchedBible.forEach { (testament) in
             testament.forEach({ (book) in
-                let chapters = book.chapters.filter{ $0.directory == directory }
-                chapters.forEach{ unknownChapter = $0 }
+                book.chapters.forEach { (ch) in
+                    if ch.directory == directory {
+                        unknownChapter = ch
+                    }
+                }
             })
         }
         
@@ -99,7 +86,7 @@ class HighlightsController: UITableViewController {
     override func tableView(_ tableView: UITableView, viewForFooterInSection section: Int) -> UIView? {
         let label = UILabel()
         label.text = "Không Có Đánh Dấu"
-        label.textColor = .darkGray
+        label.textColor = .secondaryLabel
         label.textAlignment = .center
         label.font = UIFont.preferredFont(forTextStyle: .subheadline)
         return label

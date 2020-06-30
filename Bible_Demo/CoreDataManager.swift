@@ -15,12 +15,15 @@ struct CoreDataManager {
         return container
     }()
     
+    func getContext() -> NSManagedObjectContext {
+        return persistentContainer.viewContext
+    }
+    
     func fetchBookmarks() -> [Bookmark] {
-        let context = persistentContainer.viewContext
         let request: NSFetchRequest<Bookmark> = Bookmark.fetchRequest()
         
         do {
-            let bookmarks = try context.fetch(request)
+            let bookmarks = try getContext().fetch(request)
             return bookmarks
         } catch {
             fatalError(error.localizedDescription)
@@ -28,19 +31,18 @@ struct CoreDataManager {
     }
     
     func fetchHighlights() -> [Highlight] {
-        let context = persistentContainer.viewContext
         let request: NSFetchRequest<Highlight> = Highlight.fetchRequest()
         
         do {
-            let highlights = try context.fetch(request)
+            let highlights = try getContext().fetch(request)
             return highlights
         } catch {
             fatalError(error.localizedDescription)
         }
     }
-
+    
     func delete(_ bookmark: Bookmark, completion: (Error?) -> ()) {
-        let context = persistentContainer.viewContext
+        let context = getContext()
         context.delete(bookmark)
         
         do {
@@ -52,7 +54,7 @@ struct CoreDataManager {
     }
     
     func delete(_ highlight: Highlight, completion: (Error?) -> ()) {
-        let context = persistentContainer.viewContext
+        let context = getContext()
         context.delete(highlight)
         
         do {
@@ -62,11 +64,11 @@ struct CoreDataManager {
             completion(error)
         }
     }
-
+    
     
     // MARK: - create
     func createHighlight(_ directory: String, range: NSRange, color: Int, completion: (Highlight?, Error?) -> ()) {
-        let context = persistentContainer.viewContext
+        let context = getContext()
         let highlight = Highlight(context: context)
         highlight.directory = directory
         highlight.location = Int16(range.location)
@@ -83,7 +85,7 @@ struct CoreDataManager {
     }
     
     func createBookmark(_ directory: String, completion: (Bookmark?, Error?) -> ()) {
-        let context = persistentContainer.viewContext
+        let context = getContext()
         let bookmark = Bookmark(context: context)
         bookmark.directory = directory
         bookmark.creationDate = Date()
