@@ -288,7 +288,7 @@ class Giang: Book {
 
                 """],
             ["Môn Ðồ Thật": """
-                31 Bấy giờ Ðức Chúa Jesus nói với những người Do-thái đã tin Ngài, “Nếu các ngươi tiếp tục vâng giữ lời Ta, các ngươi là môn đồ thật của Ta.  32 Các ngươi sẽ biết sự thật, và sự thật sẽ giải thoát các ngươi được tự do.”
+                31 Bấy giờ Ðức Chúa Jesus nói với những người Do-thái đã tin Ngài, “Nếu các ngươi tiếp tục vâng giữ lời Ta, các ngươi là môn đồ thật của Ta.  32 Các ngươi sẽ biết chân lý, và chân lý sẽ giải thoát các ngươi được tự do.”
                 33 Họ đáp lời Ngài, “Chúng tôi là dòng dõi của Áp-ra-ham và chưa hề làm nô lệ ai.  Làm thế nào Thầy bảo ‘Các ngươi sẽ được tự do’?”
                 34 Ðức Chúa Jesus trả lời họ, “Quả thật, quả thật, Ta nói với các ngươi, ai phạm tội là nô lệ của tội lỗi.  35 Nô lệ không ở mãi trong gia đình, nhưng con cái ở mãi trong gia đình.  36 Vậy nếu Con giải thoát các ngươi để được tự do, các ngươi sẽ thật sự được tự do.  37 Ta biết các ngươi là dòng dõi của Áp-ra-ham, nhưng các ngươi đã tìm cách giết Ta, vì lời Ta không có chỗ trong các ngươi.  38 Ta nói những gì Ta đã thấy nơi Cha Ta, còn các ngươi làm những gì các ngươi đã nghe nơi cha mình.”
 

@@ -51,9 +51,13 @@ class MainTabBarController: UITabBarController {
     }
     
     @objc private func uploadToDB() {
-        DataSource.shared.bible.enumerated().forEach { (offset, testament) in
+        DataSource.shared.bible.enumerated().forEach { (testamentOffset, testament) in
             testament.enumerated().forEach { (offset, book) in
-                Network.shared.storageRef.child(offset == 0 ? "old-testament" : "new-testament").child("\(offset+1). \(book.title).JSON").putData(book.toData()!, metadata: nil) { (metadata, err) in
+                let data = book.toData()
+                let folder = testamentOffset == 0 ? "old-testament" : "new-testament"
+                let fileName = "\(offset+1). \(book.title).JSON"
+                Network.shared.storageRef.child(folder).child(fileName).putData(data!, metadata: nil) { (metadata, err) in
+                    print(book.title)
                     if let error = err {
                         fatalError(error.localizedDescription)
                     }
@@ -121,10 +125,10 @@ class MainTabBarController: UITabBarController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // MARK: - Development
-        // uploadToDB()
+         uploadToDB()
         
         // MARK: - Production
-        setup()
+//        setup()
     }
     
 }

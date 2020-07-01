@@ -534,7 +534,7 @@ class IISuky: Book {
                 """],
             ["Sự Giàu Sang của Ê-xê-chia": """
                 27 Ê-xê-chia rất giàu có và được tôn trọng.  Ông xây cất các nhà kho để chứa bạc, vàng, bảo ngọc, thuốc thơm, thuẫn khiên, và mọi thứ quý giá.  28 Ông xây các vựa lẫm để chứa lúa gạo, rượu mới, và dầu ô-liu.  Ông cất các chuồng cho các đàn bò, và các ràn cho các đàn chiên.  29 Ngoài ra ông xây cho ông nhiều thành, và mua cho ông nhiều đàn chiên và đàn bò, vì CHÚA ban cho ông nhiều của cải.  30 Chính Ê-xê-chia này là người đã ngăn chặn thượng nguồn của Suối Ghi-hôn và dẫn nước chảy ngầm xuống phía tây của Thành Ða-vít.  Ê-xê-chia được thành công trong mọi việc tay ông làm.
-                31 Tuy nhiên khi các sứ giả do những kẻ cầm quyền ở Ba-by-lôn phái đến để tìm hiểu về những việc lạ lùng đã xảy xa trong xứ, Ðức Chúa Trời đã tạm lìa khỏi ông, để xem trong thâm tâm ông, lòng ông thật sự tin kính Ngài như thể nào.
+                31 Tuy nhiên khi các sứ giả do những kẻ cầm quyền ở Ba-by-lôn phái đến để tìm hiểu về những việc lạ lùng đã xảy ra trong xứ, Ðức Chúa Trời đã tạm lìa khỏi ông, để xem trong thâm tâm ông, lòng ông thật sự tin kính Ngài như thể nào.
 
                 """],
             ["Kết Thúc Triều Ðại Ê-xê-chia": """

@@ -101,7 +101,7 @@ class Galati: Book {
             ]),
         Chapter(5, passages: [
             ["Bảo Vệ Tự Do Thuộc Linh": """
-                1 Ðấng Christ đã giải thoát chúng ta để chúng ta được tự do.  Vậy hãy đứng vững, và đừng đặt mình dưới ách nô lệ nữa.
+                1 Ðấng Christ đã giải thoát chúng ta để được tự do.  Vậy hãy đứng vững, và đừng đặt mình dưới ách nô lệ nữa.
                 2 Xin anh chị em hãy chú ý. Tôi, Phao-lô, nói với anh chị em rằng nếu anh em phải được cắt bì thì Ðấng Christ chẳng ích lợi gì cho anh chị em cả.  3 Tôi xin xác chứng lại với mọi người đã được cắt bì rằng người nào chịu cắt bì thì bị buộc phải tuân giữ toàn bộ Luật Pháp.  4 Anh chị em nào muốn được xưng công chính bởi Luật Pháp thì đã đoạn tuyệt với Ðấng Christ, anh chị em đã đánh mất ân sủng.  5 Vì nhờ Ðức Thánh Linh và bằng đức tin, chúng ta nôn nóng chờ đợi hy vọng của sự công chính.  6 Vì trong Ðức Chúa Jesus Christ, được cắt bì hay không được cắt bì chẳng có giá trị gì, nhưng điều có giá trị là đức tin được tỏ ra qua hành động yêu thương.
                 7 Anh chị em đang chạy ngon trớn, thế mà ai đã ngăn trở anh chị em trong nỗ lực vâng theo chân lý vậy?  8 Sự xúi giục đó dĩ nhiên không đến từ Ðấng kêu gọi anh chị em.  9 Một ít men làm dậy cả đống bột.  10 Trong Chúa, tôi tin tưởng ở anh chị em rằng anh chị em không có ý gì khác, nhưng kẻ gây rối cho anh chị em sẽ phải mang lấy án phạt, bất kể kẻ ấy là ai.
                 11 Thưa anh chị em, về phần tôi, nếu tôi giảng rằng sau khi tin Chúa người tin cần phải được cắt bì nữa thì tại sao tôi còn bị bắt bớ?  Nếu vậy thì chướng ngại của thập tự giá đã được dẹp bỏ rồi.  12 Tôi ước gì những kẻ cứ gây rối cho anh chị em hãy tự cắt cho chính mình đi!

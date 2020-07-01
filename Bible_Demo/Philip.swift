@@ -26,7 +26,7 @@ class Philip: Book {
 
                 """],
             ["Chiến Ðấu cho Ðức Tin": """
-                27 Tôi chỉ mong anh chị em sống xứng đáng với Tin Mừng của Ðấng Christ, để hoặc đến thăm anh chị em, hoặc vắng mặt, tôi có thể nghe tin về anh chị em rằng anh chị em đang đứng vững, cùng một tinh thần, cùng một chí hướng, chiến đấu bên nhau cho đức tin của Tin Mừng, 28 và không sợ những kẻ chống đối anh chị em bất cứ điều gì.  Chống đối anh chị em là bằng chứng rằng họ sẽ bị hủy diệt, còn anh chị em sẽ được cứu, và đó cũng là điều đến từ Ðức Chúa Trời, 29 vì Ðức Chúa Trời không những đã ban cho anh chị em đặc ân tin Ðấng Christ, nhưng cũng chịu khổ vì Ngài nữa, 30 tức tham dự cùng một cuộc chiến mà anh chị em đã thấy tôi đương đầu trước kia, và nay vẫn còn nghe tôi đang tiếp tục.
+                27 Tôi chỉ mong anh chị em sống xứng đáng với Tin Mừng của Ðấng Christ, để hoặc đến thăm anh chị em, hoặc vắng mặt, tôi có thể nghe tin về anh chị em rằng anh chị em đang đứng vững, cùng một tinh thần, cùng một chí hướng, chiến đấu bên nhau cho đức tin của Tin Mừng, 28 và không sợ những kẻ chống đối anh chị em bất cứ điều gì. Đây là biểu hiện của sự hủy diệt sẽ đến với họ, còn anh chị em sẽ được cứu, và đó cũng là điều đến từ Ðức Chúa Trời, 29 vì Ðức Chúa Trời không những đã ban cho anh chị em đặc ân tin Ðấng Christ, nhưng cũng chịu khổ vì Ngài nữa, 30 tức tham dự cùng một cuộc chiến mà anh chị em đã thấy tôi đương đầu trước kia, và nay vẫn còn nghe tôi đang tiếp tục.
 
                 """]
             ]),
