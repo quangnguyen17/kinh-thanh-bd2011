@@ -232,10 +232,10 @@ class Luca: Book {
                 (Mat 13:53-58; Mác 6:1-6)
                 
                 16 Ngài trở về Na-xa-rét, nơi Ngài được trưởng dưỡng.  Theo thường lệ ngày Sa-bát Ngài đến hội đường và đứng dậy để đọc Kinh Thánh.  17 Người ta trao cho Ngài cuộn sách của Tiên Tri Ê-sai.  Ngài mở cuộn sách ra và tìm thấy đoạn kinh văn, chỗ ấy chép:
-                18 “Thần của Chúa ngự trên tôi,
-                Vì Ngài đã xức dầu cho tôi
+                18 “Thần của Chúa ngự trên Ta,
+                Vì Ngài đã xức dầu cho Ta
                 Ðể rao báo tin mừng cho người nghèo;
-                Ngài đã sai tôi
+                Ngài đã sai Ta
                 Ðể công bố lệnh phóng thích cho những người bị tù đày và phục hồi thị lực cho những người mù,
                 Ðể giải thoát những người bị áp bức ra đi tự do,
                 19 Hầu công bố năm hồng ân của Chúa.”

@@ -934,10 +934,10 @@ class ChamNgon: Book {
                 8 Cái khôn của người thận trọng là biết toan tính đường lối mình;
                 Cái dại của kẻ điên dại là mánh khóe dối gian.
                 9 Những kẻ điên dại chê cười của lễ chuộc tội;
-                Nhưng người ngay lành tin rằng nhờ nó được đoái thương.
+                Nhưng người ngay lành tin rằng nhờ nó mà được đoái thương.
                 
-                10 Chỉ tâm hồn mới biết rõ nỗi đắng cay của nó;
-                Và không người xa lạ chia sẻ niềm vui của nó.
+                10 Nỗi đắng cay chỉ có lòng mình biết;
+                Và niềm vui nào chia sẻ hết được với người dưng.
                 11 Nhà kẻ gian ác trước sau gì cũng bị hủy hoại,
                 Trại người ngay lành cứ vững chãi lâu dài.
                 

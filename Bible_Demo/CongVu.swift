@@ -620,7 +620,7 @@ class CongVu: Book {
 
                 """],
             ["A-pô-lô tại Ê-phê-sô": """
-                24 Khi ấy có một người Do-thái tên là A-pô-lô, quê ở A-léc-xan-ria, vừa đến Ê-phê-sô.  Ông là người có khẩu tài và có kiến thức Kinh Thánh vững vàng.  25 Ông đã được dạy về Ðạo Chúa; với lòng nhiệt thành ông đã giảng và dạy cách chính xác về Ðức Chúa Jesus, mặc dù ông chỉ biết phép báp-têm của Giăng.  26 Ông vào hội đường và bắt đầu giảng cách dạn dĩ, nhưng sau khi Pơ-rít-xi-la và A-qui-la nghe ông giảng, ông bà mời A-pô-lô về nhà và cắt nghĩa cho ông chính xác hơn về Ðạo Ðức Chúa Trời. 27 Khi biết ông có ý muốn qua A-chai, anh chị em tín hữu khuyến khích ông và viết thư giới thiệu ông cho các môn đồ bên đó, dặn họ hoan nghinh ông.  Khi đến nơi ông cậy ơn Chúa giúp ích các tín hữu rất nhiều, 28 vì ông đã công khai bác bẻ những người Do-thái cách mạnh mẽ và dùng Kinh Thánh chỉ cho họ thấy rằng Ðức Chúa Jesus chính là Ðấng Christ.
+                24 Khi ấy có một người Do-thái tên là A-pô-lô, quê ở A-léc-xan-ria, vừa đến Ê-phê-sô.  Ông là người có khẩu tài và có kiến thức Kinh Thánh vững vàng.  25 Ông đã được dạy về Ðạo Chúa; với lòng nhiệt thành ông đã giảng và dạy cách chính xác về Ðức Chúa Jesus, mặc dù ông chỉ biết phép báp-têm của Giăng.  26 Ông vào hội đường và bắt đầu giảng cách dạn dĩ, nhưng sau khi Pơ-rít-xi-la và A-qui-la nghe ông giảng, ông bà mời A-pô-lô về nhà và cắt nghĩa cho ông chính xác hơn về Ðạo Ðức Chúa Trời. 27 Khi biết ông có ý muốn qua A-chai, anh chị em tín hữu khuyến khích ông và viết thư giới thiệu ông cho các môn đồ bên đó, dặn họ hoan nghinh ông.  Khi đến nơi ông cậy ơn Chúa giúp ích các tín hữu rất nhiều, 28 vì ông đã công khai bài bác những người Do-thái cách mạnh mẽ và dùng Kinh Thánh chỉ cho họ thấy rằng Ðức Chúa Jesus chính là Ðấng Christ.
 
                 """]
             ]),
@@ -706,7 +706,7 @@ class CongVu: Book {
                 37 Khi Phao-lô sắp sửa được đưa vào trong đồn, ông nói với quan tư lịnh, “Ông cho phép tôi nói vài lời với ông được không?”
                 Quan tư lịnh đáp, “Ông biết nói tiếng Hy-lạp sao?  38 Vậy ông không phải là tên Ai-cập đã lãnh đạo cuộc nổi dậy mới đây và đã kéo bốn ngàn tay sát thủ vào đồng hoang sao?”
                 39 Phao-lô đáp, “Tôi là người Do-thái, công dân của Tạt-sơ, một thành không kém quan trọng trong vùng Si-li-si-a.  Xin ông cho phép tôi nói ít lời với đám đông.”
-                40 Khi được phép, Phao-lô đứng trên bậc thềm, đưa tay làm dấu cho dân chúng yên lặng.  Khi mọi người đã yên lặng, Phao-lô nói với họ trong tiếng Hê-rơ-rơ rằng:
+                40 Khi được phép, Phao-lô đứng trên bậc thềm, đưa tay làm dấu cho dân chúng yên lặng.  Khi mọi người đã yên lặng, Phao-lô nói với họ trong tiếng Hê-bơ-rơ rằng:
 
                 """]
             ]),

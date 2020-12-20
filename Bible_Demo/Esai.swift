@@ -4020,8 +4020,8 @@ class Esai: Book {
                 Như chiên con bị đưa đi làm thịt,
                 Như con chiên im lặng trước thợ hớt lông,
                 Người chẳng hề mở miệng.
-                8 Sau khi đã bị xét xử cách bức hiếp và bất công,
-                Người bị đem đi hành quyết.
+                8 Sau khi bị xét xử cách bức hiếp và bất công,
+                Người đã bị đem đi hành quyết.
                 Nhưng trong thế hệ của Người nào có ai lên tiếng cho Người rằng,
                 Người đã bị dứt bỏ khỏi đất người sống,
                 Và bị đánh đập vì sự vi phạm của dân tôi chăng?

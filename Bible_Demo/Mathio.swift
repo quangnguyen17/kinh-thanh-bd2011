@@ -667,7 +667,7 @@ class Mathio: Book {
                 (Mác 6:14-29; Lu 9:7-9)
                 
                 1 Lúc ấy Vua Chư Hầu Hê-rốt được báo cáo về Ðức Chúa Jesus.  2 Ông nói với bầy tôi của ông, “Người này là Giăng Báp-tít; ông ấy đã từ cõi chết sống lại, nên mới có thể làm những việc quyền năng như thế.”
-                3 Số là Hê-rốt đã cho bắt Giăng, trói lại, và giam vào ngục vì vụ Hê-rô-đia vợ của Phi-líp em trai ông.  4 Vì Giăng đã nói với ông, “Ngài lấy bà ấy là trái với đạo lý.”  5 Dù Hê-rốt muốn giết Giăng, nhưng ông sợ dân, vì họ xem Giăng là một đấng tiên tri.  6 Nhân dịp sinh nhật của Hê-rốt, con gái của Hê-rô-đia nhảy múa trước mặt các quan khách, khiến cho Hê-rốt mê mẩn 7 đến độ ông thốt lên lời thề sẽ ban cho cô ấy bất cứ điều gì cô ấy xin.  8 Nghe lời mẹ xúi, cô ấy nói, “Xin bệ hạ cho tiện nữ cái đầu của Giăng Báp-tít để trên mâm.”
+                3 Số là Hê-rốt đã cho bắt Giăng, trói lại, và giam vào ngục vì vụ Hê-rô-đia vợ của Phi-líp anh ông.  4 Vì Giăng đã nói với ông, “Ngài lấy bà ấy là trái với đạo lý.”  5 Dù Hê-rốt muốn giết Giăng, nhưng ông sợ dân, vì họ xem Giăng là một đấng tiên tri.  6 Nhân dịp sinh nhật của Hê-rốt, con gái của Hê-rô-đia nhảy múa trước mặt các quan khách, khiến cho Hê-rốt mê mẩn 7 đến độ ông thốt lên lời thề sẽ ban cho cô ấy bất cứ điều gì cô ấy xin.  8 Nghe lời mẹ xúi, cô ấy nói, “Xin bệ hạ cho tiện nữ cái đầu của Giăng Báp-tít để trên mâm.”
                 9 Nhà vua lộ vẻ ân hận, nhưng vì đã lỡ thề trước mặt các quan khách, nên ông đành ra lịnh chuẩn ban.  10 Ông sai người vào ngục chém đầu Giăng.  11 Ðầu Giăng được để trên một cái mâm, mang đến cho cô gái; cô ấy bưng đến cho mẹ cô.  12 Các môn đồ của Giăng đến lấy thi hài của ông đem về an táng, rồi đi báo tin cho Ðức Chúa Jesus.
 
                 """],

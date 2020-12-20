@@ -101,7 +101,7 @@ class ITimothe: Book {
 
                 """],
             ["Quở Trách Những Kẻ Dạy Sai Lời Chúa": """
-                3 Nếu kẻ nào dạy những tín lý khác, không phù hợp với những lời dạy chân chính của Ðức Chúa Jesus Christ, Chúa chúng ta, và những sự dạy dỗ phù hợp với sự tin kính, 4 đó là kẻ tự kiêu, chẳng hiểu biết, nhưng có tật hay bắt bẻ, và thích cãi lẽ về chữ nghĩa, rồi từ đó sinh ra sự ganh ghét, cãi vã, phỉ báng, và nghi ngờ sự dữ cho người khác.  5 Những kẻ ấy thường hay xung đột với người khác, vì tâm trí đã bị băng hoại, mất hết khả năng nhận thức chân lý; họ nghĩ rằng sự tin kính chỉ là nguồn lợi.  Con hãy lánh xa những người như thế.
+                3 Nếu kẻ nào dạy những tín lý khác, không phù hợp với những lời dạy chân chính của Ðức Chúa Jesus Christ, Chúa chúng ta, và những sự dạy dỗ không hợp với sự tin kính, 4 đó là kẻ tự kiêu, chẳng hiểu biết, nhưng có tật hay bắt bẻ, và thích cãi lẽ về chữ nghĩa, rồi từ đó sinh ra sự ganh ghét, cãi vã, phỉ báng, và nghi ngờ sự dữ cho người khác.  5 Những kẻ ấy thường hay xung đột với người khác, vì tâm trí đã bị băng hoại, mất hết khả năng nhận thức chân lý; họ nghĩ rằng sự tin kính chỉ là nguồn lợi.  Con hãy lánh xa những người như thế.
 
                 """],
             ["Khuyên Ðừng Tham Tiền": """

@@ -1,4 +1,4 @@
-﻿
+
 class Exote: Book {
     
     override init() {
@@ -11,7 +11,7 @@ class Exote: Book {
     var allChapters: [Chapter] = [
         Chapter(1, passages: [
             ["Vua A-ha-suê-ru Ðãi Tiệc": """
-                1 Việc này đã xảy trong thời của A-ha-suê-ru; A-ha-suê-ru này là người cai trị một trăm hai mươi bảy tỉnh, từ Ấn-độ đến Ê-thi-ô-pi.  2 Thuở ấy Vua A-ha-suê-ru đã ngồi vững trên ngai của ông tại kinh thành Su-sa.  3 Năm thứ ba của triều đại ông, ông mở một đại tiệc thết đãi tất cả quần thần và bầy tôi của ông.  Các tướng lãnh chỉ huy quân đội Ba-tư và Mê-đi, các nhà quyền quý, và các tỉnh trưởng ở các tỉnh đều về hiện diện đông đủ.  4 Nhân cơ hội ấy ông biểu dương sự giàu sang phú quý của vương quốc ông và sự huy hoàng uy nghi rực rỡ của ông nhiều ngày – một trăm tám mươi ngày cả thảy.
+                1 Việc này đã xảy ra trong thời của A-ha-suê-ru; A-ha-suê-ru này là người cai trị một trăm hai mươi bảy tỉnh, từ Ấn-độ đến Ê-thi-ô-pi.  2 Thuở ấy Vua A-ha-suê-ru đã ngồi vững trên ngai của ông tại kinh thành Su-sa.  3 Năm thứ ba của triều đại ông, ông mở một đại tiệc thết đãi tất cả quần thần và bầy tôi của ông.  Các tướng lãnh chỉ huy quân đội Ba-tư và Mê-đi, các nhà quyền quý, và các tỉnh trưởng ở các tỉnh đều về hiện diện đông đủ.  4 Nhân cơ hội ấy ông biểu dương sự giàu sang phú quý của vương quốc ông và sự huy hoàng uy nghi rực rỡ của ông nhiều ngày – một trăm tám mươi ngày cả thảy.
                 5 Khi những ngày ấy qua rồi, vua lại bày một tiệc khác bảy ngày nữa, trong vườn ngự uyển của hoàng cung, để thết đãi mọi người ở kinh thành Su-sa, cả lớn lẫn nhỏ.  6 Trong vườn ngự uyển người ta treo những bức màn bằng vải trắng và vải xanh dương.  Người ta dùng các dây vải màu tím để máng các màn ấy vào các vòng bằng bạc và cột chúng vào những trụ đá cẩm thạch.  Trong vườn ngự uyển có các băng ghế bằng vàng và bằng bạc, đặt trên những nền đá quý được lát rất mỹ thuật, nào là đá màu đỏ trắng, đá cẩm thạch, đá lam lục, và đá có vân đen.  7 Người ta dùng các ly uống rượu bằng vàng có kiểu rất độc đáo và mỹ thuật để đãi khách.  Các thực khách đều được tiếp rượu dồi dào, xứng hợp với cung cách đãi khách giàu sang phú quý của bậc đế vương.  8 Người ta mang rượu ra hàng hũ để đãi khách.  Ai muốn uống bao nhiêu tùy ý, vì vua đã truyền cho các quan chức phục vụ ở hoàng cung phải chiều ý mọi người.  9 Ngoài ra Hoàng Hậu Vả-thi cũng mở một tiệc riêng để thết đãi các mệnh phụ phu nhân trong cung điện của Vua A-ha-suê-ru.
 
                 """],

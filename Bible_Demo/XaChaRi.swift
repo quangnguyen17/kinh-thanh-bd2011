@@ -103,7 +103,7 @@ class XaChaRi: Book {
             ]),
         Chapter(7, passages: [
             ["Quở Trách Sự Kiêng Ăn Sai Mục Ðích": """
-                1 Năm thứ tư của triều đại Vua Ða-ri-út, lời của CHÚA đến với Xa-cha-ri vào ngày mồng bốn, tháng chín, tức tháng Kích-lê.  2 Lúc ấy dân ở Bê-tên phái Sa-rê-xê, Rê-ghem Mê-léc, và phái đoàn của họ đến tìm cầu ân huệ của CHÚA.  3 Họ hỏi các các vị tư tế của nhà CHÚA các đạo quân và các vị tiên tri rằng, “Tôi có nên tiếp tục than khóc và kiêng cữ vào tháng năm, như tôi đã làm nhiều năm nay không?”
+                1 Năm thứ tư của triều đại Vua Ða-ri-út, lời của CHÚA đến với Xa-cha-ri vào ngày mồng bốn, tháng chín, tức tháng Kích-lê.  2 Lúc ấy dân ở Bê-tên phái Sa-rê-xê, Rê-ghem Mê-léc, và phái đoàn của họ đến tìm cầu ân huệ của CHÚA.  3 Họ hỏi các vị tư tế của nhà CHÚA các đạo quân và các vị tiên tri rằng, “Tôi có nên tiếp tục than khóc và kiêng cữ vào tháng năm, như tôi đã làm nhiều năm nay không?”
                 4 Bấy giờ lời của CHÚA các đạo quân đến với tôi, 5 “Hãy nói với toàn dân trong xứ và với các tư tế rằng: Khi các ngươi kiêng ăn và than khóc vào tháng năm và tháng bảy, suốt bảy mươi năm qua, có phải vì Ta, vì chính Ta, mà các ngươi kiêng ăn chăng?  6 Khi các ngươi ăn và uống, chẳng phải các ngươi ăn và uống cho các ngươi sao?  7 Chẳng phải đó là sứ điệp CHÚA đã rao báo qua các tiên tri của Ngài ngày trước, khi Giê-ru-sa-lem và các thành chung quanh còn nhiều dân cư và phồn thịnh, và khi Miền Nam và vùng đồng bằng còn nhiều người ở hay sao?”
 
                 """],

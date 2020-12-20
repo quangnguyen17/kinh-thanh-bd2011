@@ -798,7 +798,7 @@ class Giop: Book {
                 33 Nó sẽ như cây nho bị tuốt đi những trái xanh chưa chín;
                 Như cây ô-liu bị làm rụng hết hoa.
                 34 Thật vậy bọn vô tín vô luân sẽ không có người nối dõi;
-                Lửa sẽ thiệu rụi nhà cửa của phường ăn hối lộ.
+                Lửa sẽ thiêu rụi nhà cửa của phường ăn hối lộ.
                 35 Chúng đã mang thai gian ác, nên sinh ra đau khổ;
                 Lòng dạ chúng lúc nào cũng chực để dối gian.
 
@@ -1714,7 +1714,7 @@ class Giop: Book {
                 Tôi suy nghĩ trong khi quý vị tìm lời lẽ để đối đáp với nhau.
                 12 Tôi chăm chú nghe khi quý vị trao đổi ý kiến với nhau;
                 Tôi thấy không lập luận nào của quý vị thắng hơn ông Gióp;
-                Không ai trong quý vị bác bẻ được ông ấy điểm nào.
+                Không ai trong quý vị bác bỏ được điểm nào của ông ấy.
                 13 Hy vọng quý vị sẽ không nói, “Chúng tôi đã tìm ra lẽ khôn ngoan này:
                 Chỉ Ðức Chúa Trời mới bắt phục được ông ấy, chứ người ta có lẽ phải chịu thua.”
                 14 Nhưng nếu như ông ấy tranh luận với tôi,
@@ -2085,7 +2085,7 @@ class Giop: Book {
                 7 Khi nào các sao mai cùng nhau ca hát?
                 Khi nào tất cả các con của Ðức Chúa Trời cùng trỗi tiếng vui mừng?
                 8 Ai đóng các cửa đại dương để giữ nước lại,
-                Khi nước cuộn cuộn từ trong lòng biển trào ra,
+                Khi nước cuồn cuộn từ trong lòng biển trào ra,
                 9 Khi Ta lấy mây trời làm y phục cho nó,
                 Và lấy tối tăm mù mịt làm khăn quấn quanh nó,
                 10 Khi Ta định giới hạn cho nó,
@@ -2309,7 +2309,7 @@ class Giop: Book {
                 Hai hàm răng nó thật là kinh khủng.
                 15 Lớp vảy của nó là cái khiên che lưng nó;
                 Chúng gắn chặt với nhau như được niêm lại kỹ càng.
-                16 Chiếc vảy này gồi đầu trên chiếc vảy khác;
+                16 Chiếc vảy này gối đầu trên chiếc vảy khác;
                 Chúng khít khao đến nỗi gió không thể lọt vào.
                 17 Chúng kết lại với nhau,
                 Chúng gắn chặt với nhau và không thể bị tách rời.

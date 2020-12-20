@@ -1,4 +1,4 @@
-﻿
+
 class IIIGiang: Book {
     
     override init() {
@@ -11,7 +11,7 @@ class IIIGiang: Book {
     var allChapters: [Chapter] = [
         Chapter(1, passages: [
             ["Lời Mở Ðầu": """
-                1 Trưởng lão kính gởi anh Gai-út quý mến, là người tôi thương mến trong chân lý.
+                1 Trưởng lão kính gởi anh Gai-út quý mến, người tôi thương mến trong chân lý.
                 2 Anh thương mến, tôi cầu nguyện cho anh được thịnh vượng trong mọi sự, được mạnh khỏe trong thân xác cũng như được mạnh mẽ trong tâm hồn.
 
                 """],

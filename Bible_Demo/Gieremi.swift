@@ -2608,7 +2608,7 @@ class Gieremi: Book {
                 Thì từ nơi đó Ta cũng sẽ đem ngươi xuống,” CHÚA phán.
                 
                 17 “Ê-đôm sẽ thành một đối tượng để kinh hoàng.
-                Ai đi qua đó sẽ kinh hãi và xầm xì chê bai, vì mọi tại họa nó đã chuốc lấy.
+                Ai đi qua đó sẽ kinh hãi và xầm xì chê bai, vì mọi tai họa nó đã chuốc lấy.
                 18 Giống như Sô-đôm, Gô-mô-ra, và những miền lân cận của chúng đã bị lật đổ thế nào,”
                 CHÚA phán, “Thì cũng vậy, không ai sẽ sống trong xứ ấy nữa, không người nào sẽ định cư ở đó nữa.
                 19 Này, như con sư tử ra khỏi bụi rậm ở bờ sông Giô-đanh đuổi theo con mồi trong đồng cỏ quanh năm tươi tốt,
