@@ -1704,8 +1704,8 @@ class ChamNgon: Book {
                   
                 15 Hỡi kẻ gian ác, chớ nằm đó rình nhà người ngay lành;
                 Ðừng xâm phạm nơi ở của người công chính.
-                16 Vì dù họ ngã đến bảy lần, họ cũng đứng dậy được;
-                Nhưng kẻ gian ác sẽ đổ nhào trong thì tai họa.
+                16 Vì người công chính dù ngã bảy lần cũng đều đứng dậy;
+                Nhưng kẻ gian ác sẽ đổ nhào vì tai họa.
                   
                 17 Ðừng vui mừng khi kẻ thù con ngã quỵ;
                 Lòng con chớ hân hoan khi nó thất thế sa cơ.

@@ -764,7 +764,7 @@ class Giop: Book {
                   
                 17 Hãy nghe tôi nói, và tôi sẽ chỉ cho anh biết;
                 Tôi sẽ nói cho anh hay những gì tôi đã thấy tận mắt mình.
-                18 Những gì các nhà hiền triết đã nghe tổ tiên của họ kể lại;
+                18 Những gì các nhà hiền triết đã nghe tổ tiên họ kể lại;
                 Các vị ấy đã nói ra, không giấu giếm điều gì.
                 19 Họ là những người đầu tiên được ban cho đất đai làm xứ sở,
                 Lúc ấy chưa có người ngoại bang nào đi ngang qua giữa họ.
@@ -793,7 +793,7 @@ class Giop: Book {
                 Hơi thở của miệng Ngài sẽ đem đi những gì nó có.
                 31 Phải chi nó đừng tin cậy vào của cải phù vân mà tự dối mình;
                 Sự rỗng không sẽ là hậu quả của nó.
-                32 Chưa đến lúc mà cuộc đời của nó đã bị đổi thay gãy đổ;
+                32 Chưa đến lúc mà cuộc đời nó đã bị đổi thay gãy đổ;
                 Các cành của nó không còn tốt đẹp xanh tươi.
                 33 Nó sẽ như cây nho bị tuốt đi những trái xanh chưa chín;
                 Như cây ô-liu bị làm rụng hết hoa.
@@ -969,7 +969,7 @@ class Giop: Book {
                 12 Các đạo quân của Ngài đã ào ạt xông tới;
                 Họ đắp các công sự để bao vây tôi;
                 Họ hạ trại dàn quân quanh lều tôi để áp đảo.
-                13 Ngài đã làm cho bà con dòng họ của tôi xa lánh tôi;
+                13 Ngài đã làm cho bà con dòng họ tôi xa lánh tôi;
                 Những người quen biết tôi đều trở thành những người xa lạ.
                 14 Bà con thân thích của tôi đều lìa xa tôi;
                 Bạn bè thân thiết của tôi đều quên tôi.
@@ -977,7 +977,7 @@ class Giop: Book {
                 Trước mắt chúng tôi bị xem như một người ngoại quốc.
                 16 Tôi gọi đầy tớ của tôi, nó không thèm trả lời một tiếng;
                 Tôi năn nỉ nó thế nào, nó vẫn cứ làm ngơ.
-                17 Hơi thở của tôi hôi hám đối với vợ tôi;
+                17 Hơi thở tôi hôi hám đối với vợ tôi;
                 Con cái của mẹ tôi bực bội khi tôi ngỏ lời xin giúp đỡ.
                 18 Thậm chí trẻ con cũng khinh bỉ tôi;
                 Khi tôi đứng dậy nói, chúng nhao nhao phản đối.
@@ -989,7 +989,7 @@ class Giop: Book {
                 Vì tay Ðức Chúa Trời đã đụng đến tôi.
                 22 Tại sao các bạn còn bách hại tôi như Ðức Chúa Trời đã làm?
                 Các bạn đã cấu xé thân tôi như vậy vẫn chưa đủ sao?
-                23 Ôi, ước gì những lời của tôi sẽ được ghi chép lại;
+                23 Ôi, ước gì những lời tôi sẽ được ghi chép lại;
                 Ôi, ước chi có người sẽ ghi chúng vào một cuộn sách nào đó.
                 24 Ước gì có ai chép chúng bằng bút sắt rồi dùng chì trám lại;
                 Hoặc có ai khắc chúng vào bảng đá để lưu lại muôn đời.
@@ -1189,7 +1189,7 @@ class Giop: Book {
                 Người lương thiện cười nhạo chúng rằng,
                 20 “Bọn chống nghịch chúng ta đã bị tiêu diệt cả rồi;
                 Những gì còn lại của chúng đều đã bị lửa hừng thiêu rụi.”
-                21 Bây giờ xin anh hãy chấp nhận thánh ý của Ngài và sống bình an;
+                21 Bây giờ xin anh hãy chấp nhận thánh ý Ngài và sống bình an;
                 Sau đó phước hạnh sẽ đến lại với anh.
                 22 Xin anh hãy nhận lấy luật pháp của miệng Ngài;
                 Hãy chất chứa lời Ngài trong lòng anh.
@@ -1301,10 +1301,10 @@ class Giop: Book {
                 Kẻ gian ác sẽ bị bẻ gãy như cây non gặp cơn bão tố.
                 21 Nó ăn nuốt người đàn bà hiếm muộn không con;
                 Nó chẳng tử tế với người góa phụ.
-                22 Ngài gia hạn cho bọn có quyền bằng quyền năng của Ngài;
+                22 Ngài gia hạn cho bọn có quyền bằng quyền năng Ngài;
                 Chúng trỗi lên, nhưng đời chúng chẳng có gì chắc chắn.
                 23 Ngài cho chúng được an ổn, và chúng ỷ lại vào đó;
-                Nhưng mắt Ngài luôn theo dõi các đường lối của chúng.
+                Nhưng mắt Ngài luôn theo dõi các đường lối chúng.
                 24 Chúng được dấy lên chẳng bao lâu, rồi không còn nữa;
                 Chúng bị tàn rụi và bị dứt đi như bao kẻ khác;
                 Chúng bị cắt đứt như những đầu gié lúa.
@@ -1352,8 +1352,8 @@ class Giop: Book {
                 Ngài đã định chu kỳ cho ngày và đêm.
                 11 Các trụ của trời cao phải rung rinh chuyển động,
                 Chúng hoảng kinh trước lời quở trách của Ngài.
-                12 Ngài dùng quyền năng của Ngài khiến biển sâu lặng sóng;
-                Ngài dùng tri thức của Ngài đánh tan tành thủy quái dữ dằn.
+                12 Ngài dùng quyền năng Ngài khiến biển sâu lặng sóng;
+                Ngài dùng tri thức Ngài đánh tan tành thủy quái dữ dằn.
                 13 Bởi Thần Ngài, thiên đàng thành nơi toàn bích;
                 Chính tay Ngài đâm thủng con rắn đang lướt lẹ trốn đi.
                 14 Này, những việc bên lề của đường lối Ngài mà đã là như thế,
@@ -1566,8 +1566,8 @@ class Giop: Book {
                 14 Chúng ập đến như quân thù xông qua một lỗ thủng lớn nơi tường thành;
                 Trong lúc tôi bị hoạn nạn, chúng tràn vào tấn công ào ạt.
                 15 Các cơn kinh hãi ập xuống tôi;
-                Danh dự của tôi bị chúng đùa đi như gió;
-                Tài sản của tôi bị tan biến như mây gặp phải cuồng phong.
+                Danh dự tôi bị chúng đùa đi như gió;
+                Tài sản tôi bị tan biến như mây gặp phải cuồng phong.
                 16 Bây giờ sức sống trong tôi tan đi cách mau chóng;
                 Những ngày khốn khổ cứ bám chặt lấy tôi.
                 17 Ban đêm xương tôi nhức nhối như bị đâm vào cơ thể;
@@ -1582,7 +1582,7 @@ class Giop: Book {
                 21 Ngài đối với con quá tàn nhẫn;
                 Ngài dùng cánh tay quyền năng của Ngài bách hại con.
                 22 Ngài nhấc bổng con lên và tung con theo luồng gió;
-                Ngài làm cho tài sản của con tan biến như bị bão tố thổi đi.
+                Ngài làm cho tài sản con tan biến như bị bão tố thổi đi.
                 23 Vì con biết Ngài sẽ đem con vào cõi chết;
                 Ði đến nơi đã định cho mọi kẻ sống trên đời.
                 24 Tuy nhiên há chẳng phải trong lúc bị nguy khốn người ta mới đưa tay ra xin cứu giúp?
@@ -1597,7 +1597,7 @@ class Giop: Book {
                 Con đứng giữa đại hội và kêu cầu sự giúp đỡ.
                 29 Con trở thành anh em của chó rừng,
                 Thành bạn bè của đà điểu.
-                30 Da của con đổi ra màu đen và trốc ra từng mảnh;
+                30 Da con đổi ra màu đen và trốc ra từng mảnh;
                 Xương cốt con cứ nóng sốt liên hồi.
                 31 Tiếng hạc cầm của con đã thành khúc nhạc buồn ảo não;
                 Tiếng sáo của con đã trỗi lên âm điệu bi thương.
@@ -1612,7 +1612,7 @@ class Giop: Book {
                 Ðấng Toàn Năng ở trên cao ban gì làm cơ nghiệp cho người ta?
                 3 Há chẳng phải là hủy diệt dành cho phường gian ác,
                 Và thảm họa dành cho kẻ làm điều tội ác hay sao?
-                4 Há chẳng phải Ngài thấy rõ các đường lối của tôi,
+                4 Há chẳng phải Ngài thấy rõ các đường lối tôi,
                 Và Ngài đếm mọi bước của tôi sao?
                 5 Nếu tôi đã bước đi trong sự gian dối,
                 Hoặc nếu chân tôi đã vội vã bước đi trong sự lọc lừa;
@@ -1980,7 +1980,7 @@ class Giop: Book {
                 Khi người ta bị cô lập trong nơi ở của mình.
                 21 Hãy coi chừng, đừng ngã theo sự gian ác;
                 Vì chọn làm thế ắt phải chuốc lấy khốn khổ về sau.
-                22 Này, Ðức Chúa Trời được tôn cao qua quyền năng của Ngài;
+                22 Này, Ðức Chúa Trời được tôn cao qua quyền năng Ngài;
                 Có ai dạy bảo như Ngài chăng?
                 23 Ai dám chỉ bảo Ngài đường lối nào Ngài phải chọn chăng?
                 Hay ai dám nói rằng, “Ngài đã làm sai” chăng?
@@ -2014,15 +2014,15 @@ class Giop: Book {
         Chapter(37, passages: [
             ["Ê-li-hu Cao Rao Sự Uy Nghi của Ðức Chúa Trời": """
                 1 Phải, nghĩ đến đó tim tôi run lên cầm cập;
-                Nó đập liên hồi như muốn nhảy ra khỏi lồng ngực của tôi.
-                2 Hãy nghe kỹ tiếng của Ngài gầm thét;
-                Âm thanh vang rền thoát ra từ miệng của Ngài.
-                3 Tiếng của Ngài làm rúng động khắp bầu trời;
+                Nó đập liên hồi như muốn nhảy ra khỏi lồng ngực tôi.
+                2 Hãy nghe kỹ tiếng Ngài gầm thét;
+                Âm thanh vang rền thoát ra từ miệng Ngài.
+                3 Tiếng Ngài làm rúng động khắp bầu trời;
                 Chớp nhoáng của Ngài lóe ra đến tận cùng trái đất.
                 4 Tiếp theo chớp là sấm nổ long trời lở đất;
                 Tiếng sấm uy nghi của Ngài vang dội khắp gầm trời;
                 Ngài không kiềm hãm tia sét khi tiếng Ngài phát ra.
-                5 Tiếng của Ðức Chúa Trời rất diệu kỳ qua tiếng sấm vang rền;
+                5 Tiếng Ðức Chúa Trời rất diệu kỳ qua tiếng sấm vang rền;
                 Ngài làm các việc lớn lao chúng ta không thể nào hiểu thấu.
                 6 Ngài phán với tuyết, “Hãy rơi nhẹ xuống đất,”
                 Ngài nói với mưa rào, “Hãy sa xuống lất phất,”
@@ -2033,7 +2033,7 @@ class Giop: Book {
                 Chúng phải ở trong hang chờ đến lúc tạnh mưa.
                 9 Từ phương nam bão ùn ùn thổi đến;
                 Gió từ phương bắc thổi về mang hơi lạnh thấu xương.
-                10 Hơi thở của Ðức Chúa Trời biến nước thành nước đá;
+                10 Hơi thở Ðức Chúa Trời biến nước thành nước đá;
                 Cả mặt biển mênh mông đóng thành băng đá dễ dàng.
                 11 Ngài chứa nước trong các đám mây đen kịt;
                 Ngài giăng mây khắp trời và khiến chớp từ trong đó lóe ra.
@@ -2319,11 +2319,11 @@ class Giop: Book {
                 Các đốm lửa trong mồm nó cứ liên tục bắn ra.
                 20 Khói từ các lỗ mũi nó bay ra nghi ngút;
                 Như khói bay lên khi đun nước bằng các sậy lau.
-                21 Hơi thở của nó khiến các than đen phực cháy;
+                21 Hơi thở nó khiến các than đen phực cháy;
                 Những ngọn lửa hừng từ miệng nó phun ra.
                 22 Trong cổ nó chứa ngầm sức mạnh;
                 Trước mặt nó muôn vật quýnh quáng vì kinh hoàng.
-                23 Các thớ thịt của nó dính chặt với nhau,
+                23 Các thớ thịt nó dính chặt với nhau,
                 Chúng rắn chắc, không thể nào tách rời ra được.
                 24 Tim nó cứng như đá,
                 Cứng như thớt dưới của cối xay.
@@ -2355,7 +2355,7 @@ class Giop: Book {
                 1 Bấy giờ Gióp đáp lời và thưa với CHÚA:
                 2 Con biết Ngài có thể làm mọi sự;
                 Không điều chi có thể cản trở ý định Ngài.
-                3 Ngài hỏi, “Kẻ không hiểu biết này là ai mà dám làm che khuất ý định của Ta?”
+                3 Ngài hỏi, “Kẻ không hiểu biết này là ai mà dám làm che khuất ý định Ta?”
                 Thật vậy con đã thốt ra những lời khi con chưa hiểu thấu;
                 Có nhiều việc diệu kỳ quá đối với con mà con chẳng biết gì.
                 4 Ngài phán, “Hãy nghe cho rõ, vì Ta sẽ nói;
@@ -2372,7 +2372,7 @@ class Giop: Book {
 
                 """],
             ["CHÚA Thưởng cho Gióp Gấp Ðôi": """
-                10 Sau khi Gióp đã cầu nguyện cho các bạn ông, CHÚA tái lập vận mạng của ông.  CHÚA ban cho Gióp gấp đôi những gì ông đã có trước kia.  11 Sau đó tất cả anh em của ông, tất cả chị em của ông, và tất cả những người ông quen biết trước kia đến thăm ông và ăn uống với ông tại nhà ông.  Họ chia buồn và an ủi ông về những hoạn nạn CHÚA đã cho phép xảy đến với ông.  Mỗi người tặng ông một số tiền và một chiếc nhẫn vàng.  12 CHÚA ban phước cho Gióp trong những năm cuối của đời ông nhiều hơn lúc ông còn trai trẻ.  Ông có mười bốn ngàn chiên, sáu ngàn lạc đà, một ngàn đôi bò cày, và một ngàn lừa cái.  13 Ông cũng có bảy con trai và ba con gái.  14 Ông đặt tên cho con gái thứ nhất là Giê-mi-ma, tên con gái thứ hai là Kê-xi-a, và tên con gái thứ ba là Kê-ren Háp-púc.  15 Trong khắp xứ thời đó không có thiếu nữ nào xinh đẹp như ba cô gái của Gióp.  Cha các cô ấy chia gia tài cho họ giữa các anh em của họ.  16 Sau việc đó Gióp sống đến một trăm bốn mươi tuổi, nhìn thấy các con, các cháu, và các chắt chít cho đến thế hệ thứ tư.  17 Sau đó Gióp qua đời, cao niên trường thọ, hưởng trọn phước hạnh của cuộc sống.
+                10 Sau khi Gióp đã cầu nguyện cho các bạn ông, CHÚA tái lập vận mạng của ông.  CHÚA ban cho Gióp gấp đôi những gì ông đã có trước kia.  11 Sau đó tất cả anh em ông, tất cả chị em ông, và tất cả những người ông quen biết trước kia đến thăm ông và ăn uống với ông tại nhà ông.  Họ chia buồn và an ủi ông về những hoạn nạn CHÚA đã cho phép xảy đến với ông.  Mỗi người tặng ông một số tiền và một chiếc nhẫn vàng.  12 CHÚA ban phước cho Gióp trong những năm cuối của đời ông nhiều hơn lúc ông còn trai trẻ.  Ông có mười bốn ngàn chiên, sáu ngàn lạc đà, một ngàn đôi bò cày, và một ngàn lừa cái.  13 Ông cũng có bảy con trai và ba con gái.  14 Ông đặt tên cho con gái thứ nhất là Giê-mi-ma, tên con gái thứ hai là Kê-xi-a, và tên con gái thứ ba là Kê-ren Háp-púc.  15 Trong khắp xứ thời đó không có thiếu nữ nào xinh đẹp như ba cô gái của Gióp.  Cha các cô ấy chia gia tài cho họ giữa các anh em của họ.  16 Sau việc đó Gióp sống đến một trăm bốn mươi tuổi, nhìn thấy các con, các cháu, và các chắt chít cho đến thế hệ thứ tư.  17 Sau đó Gióp qua đời, cao niên trường thọ, hưởng trọn phước hạnh của cuộc sống.
 
                 """]
             ])

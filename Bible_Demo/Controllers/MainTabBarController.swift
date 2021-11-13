@@ -125,10 +125,10 @@ class MainTabBarController: UITabBarController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // MARK: - Development
-         uploadToDB()
+//         uploadToDB()
         
         // MARK: - Production
-//        setup()
+        setup()
     }
     
 }

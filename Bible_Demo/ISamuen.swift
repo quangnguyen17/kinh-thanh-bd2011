@@ -17,7 +17,7 @@ class ISamuen: Book {
                 """],
             ["An-ne Cầu Nguyện": """
                 9 Sau khi gia đình ăn uống xong tại Si-lô, An-ne đứng dậy cầu nguyện.  Lúc ấy Tư Tế Hê-li đang ngồi trên ghế bên cửa đền thờ của CHÚA.  10 Với tâm hồn cực kỳ sầu khổ, bà vừa cầu nguyện vừa khóc lóc đắng cay trước mặt CHÚA.  11 Bà khấn nguyện, “Lạy CHÚA của các đạo quân, ước chi Ngài nhìn thấy nỗi khổ của con, tớ gái của Ngài.  Xin nhớ đến con, và đừng quên tớ gái của Ngài, mà cho tớ gái của Ngài một con trai.  Con nguyện dâng nó lên CHÚA, để nó phục vụ Ngài suốt đời nó.  Dao cạo sẽ không đụng đến tóc nó.”
-                12 Ðang khi bà cứ lâm râm cầu nguyện trước mặt CHÚA, Hê-li để ý miệng bà.  13 An-ne cứ lầm thầm cầu nguyện, chỉ có môi bà mấp máy, mà không nghe thành tiếng, vì thế Hê-li tưởng bà say rượu.  14 Hê-li bảo bà, “Bà còn say rượu cho đến bao lâu nữa?  Thôi hãy về, lo dã rượu đi.”
+                12 Ðang khi bà cứ lâm râm cầu nguyện trước mặt CHÚA, Hê-li để ý miệng bà.  13 An-ne cứ lầm thầm cầu nguyện trong lòng, chỉ có môi bà mấp máy, mà không nghe thành tiếng, vì thế Hê-li tưởng bà say rượu.  14 Hê-li bảo bà, “Bà còn say rượu cho đến bao lâu nữa?  Thôi hãy về, lo dã rượu đi.”
                 15 Nhưng An-ne đáp, “Thưa ngài, không phải vậy đâu.  Tôi là người đàn bà có tâm sự rất sầu khổ.  Không phải tôi bị say vì uống rượu hoặc bia đâu, nhưng tôi đã dốc đổ lòng mình ra trước mặt CHÚA.  16 Xin ngài đừng hiểu lầm tớ gái của ngài là một phụ nữ không đàng hoàng.  Vì quá sầu khổ và phiền muộn nên tôi mới cầu nguyện lâu như vậy.”
                 17 Nghe thế Hê-li nói, “Hãy đi bình an.  Ðức Chúa Trời của I-sơ-ra-ên sẽ ban cho bà điều bà cầu xin Ngài.”
                 18 Bà đáp, “Nguyện tớ gái của ngài được ơn trước mặt ngài.”  Rồi người đàn bà ra về, ăn uống, và nét mặt bà không còn buồn rầu nữa.
@@ -33,7 +33,7 @@ class ISamuen: Book {
             ["Bài Ca Tụng CHÚA của An-ne": """
                 1 Bấy giờ bà An-ne dâng lời cầu nguyện và nói:
                 
-                “Tâm hồn con rất vui mừng trong CHÚA;
+                “Lòng con rất vui mừng trong CHÚA;
                 CHÚA đã làm cho đầu con ngước lên.
                 Miệng con có thể cười lại đối thủ của con được rồi,
                 Bởi con rất đỗi vui mừng trong ơn cứu rỗi của Ngài.
